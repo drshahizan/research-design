@@ -10,11 +10,6 @@
 ## Course Synopsis
 This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. Students will be given the mechanisms on how to transform and digest the literature reviews that leads to the proposed title. The theoretical and practical aspects of implementing draft project proposal will be the milestone of this course. Ordered, Critical and Reasoning Exposition of knowledge through students efforts.
 
-## Course Learning Outcomes
-1. Understand the technology for managing, processing and manipulating large amount of data.
-2. Design big data platform demonstrating the implementation of big data applications.
-3. Discuss current technology that support for sustainability of the big data platform ecosystem.
-
 ## 🔥 Important things
 1. [How to Become a Data Engineer in 2024](./materials/roadmap.md)
 2. [Essential Preparations for a Successful Start in MCSD1043 Class](./materials/essentials.md)
