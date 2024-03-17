@@ -8,7 +8,7 @@
 # Research Design and Analysis in Data Science (MCSD1043)
 
 ## Course Synopsis
-This course provides a basic fundamental of big data architecture and management.  Students will learn the big data processes and the current big data technologies that are available. Further, students will be exposed to the big data platform ecosystem for big data manipulation. The big data management will be explored for the best practice in managing and manipulating large amount of data. At the end of the course, students should be able to understand the architecture and management of big data and also can develop simple application of big data handling using particular platform in assignment.
+This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. Students will be given the mechanisms on how to transform and digest the literature reviews that leads to the proposed title. The theoretical and practical aspects of implementing draft project proposal will be the milestone of this course. Ordered, Critical and Reasoning Exposition of knowledge through students efforts.
 
 ## Course Learning Outcomes
 1. Understand the technology for managing, processing and manipulating large amount of data.
