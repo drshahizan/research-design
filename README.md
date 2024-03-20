@@ -19,7 +19,7 @@ This course will cover the fundamental steps and implementation on developing th
 6. [Exercise](./exercise)
 
 ## Github Repository
-1. 1. [Learn Github](https://github.com/drshahizan/learn-github)
+1. [Learn Github](https://github.com/drshahizan/learn-github)
 
 
 ## Notes
