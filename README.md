@@ -17,7 +17,11 @@ This course will cover the fundamental steps and implementation on developing th
 4. [Course Information](./images/L1_BigDataManagement.pdf)
 5. [Assignment](./assignment)
 6. [Exercise](./exercise)
-   
+
+## Github Repository
+1. 1. [How to Become a Data Engineer in 2024](./materials/roadmap.md)
+
+
 ## Notes
 
 ### 1. Data
