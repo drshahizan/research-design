@@ -19,7 +19,7 @@ This course will cover the fundamental steps and implementation on developing th
 6. [Exercise](./exercise)
 
 ## Github Repository
-1. 1. [How to Become a Data Engineer in 2024](./materials/roadmap.md)
+1. 1. [Learn Github](https://github.com/drshahizan/learn-github)
 
 
 ## Notes
