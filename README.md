@@ -16,7 +16,7 @@ This course will cover the fundamental steps and implementation on developing th
 3. [Assignment](./assignment)
 4. [Exercise](./exercise)
 
-## Github Repository
+## Github Repository: Data Science
 1. [Learn Github](https://github.com/drshahizan/learn-github)
 2. [Big Data Management](https://github.com/drshahizan/BDM)
 3. [High Performance Data Processing](https://github.com/drshahizan/HPDP)
@@ -27,6 +27,12 @@ This course will cover the fundamental steps and implementation on developing th
 8. [Big data processing](https://github.com/drshahizan/Python-big-data)
 9. [Django](https://github.com/drshahizan/learn-django)
 
+## Github Repository: Literature Review
+- 🆕 [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
+  - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
+  - [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
+  - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
+  - [AI tools](https://drshahizan.gitbook.io/ai-tools/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
