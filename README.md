@@ -23,6 +23,11 @@ This course will cover the fundamental steps and implementation on developing th
 2. [Big Data Management](https://github.com/drshahizan/BDM)
 3. [High Performance Data Processing](https://github.com/drshahizan/HPDP)
 4. [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
+5. [Python for beginners](https://github.com/drshahizan/python-tutorial)
+6. [Web Scraping](https://github.com/drshahizan/python-web)
+7. [Exploratory Data Analysis (EDA)](https://github.com/drshahizan/Python_EDA)
+8. [Big data processing](https://github.com/drshahizan/Python-big-data)
+9. [Django](https://github.com/drshahizan/learn-django)
 
 
 ## Notes
