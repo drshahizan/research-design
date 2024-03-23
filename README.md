@@ -20,6 +20,9 @@ This course will cover the fundamental steps and implementation on developing th
 
 ## Github Repository
 1. [Learn Github](https://github.com/drshahizan/learn-github)
+2. [Big Data Management](https://github.com/drshahizan/BDM)
+3. [High Performance Data Processing](https://github.com/drshahizan/HPDP)
+4. [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
 
 
 ## Notes
