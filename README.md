@@ -11,12 +11,10 @@
 This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. Students will be given the mechanisms on how to transform and digest the literature reviews that leads to the proposed title. The theoretical and practical aspects of implementing draft project proposal will be the milestone of this course. Ordered, Critical and Reasoning Exposition of knowledge through students efforts.
 
 ## 🔥 Important things
-1. [How to Become a Data Engineer in 2024](./materials/roadmap.md)
-2. [Essential Preparations for a Successful Start in MCSD1043 Class](./materials/essentials.md)
-3. [Student Information](student.md)
-4. [Course Information](./images/L1_BigDataManagement.pdf)
-5. [Assignment](./assignment)
-6. [Exercise](./exercise)
+1. [Student Information](student.md)
+2. [Course Information](./images/L1_BigDataManagement.pdf)
+3. [Assignment](./assignment)
+4. [Exercise](./exercise)
 
 ## Github Repository
 1. [Learn Github](https://github.com/drshahizan/learn-github)
