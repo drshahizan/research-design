@@ -1,9 +1,10 @@
-<a href="https://github.com/drshahizan/MCSD1043/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/MCSD1043" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/MCSD1043/network/members"><img src="https://img.shields.io/github/forks/drshahizan/MCSD1043" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/MCSD1043/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/MCSD1043" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/MCSD1043"><img src="https://img.shields.io/github/issues/drshahizan/MCSD1043" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/MCSD1043/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/MCSD1043?color=2b9348"></a>
+<a href="https://github.com/drshahizan/research-design/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/research-design" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/network/members"><img src="https://img.shields.io/github/forks/drshahizan/research-design" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-design" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/research-design"><img src="https://img.shields.io/github/issues/drshahizan/research-design" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
 
 # Research Design and Analysis in Data Science (MCSD1043)
 
