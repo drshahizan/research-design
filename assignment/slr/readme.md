@@ -52,7 +52,7 @@ This guide outlines the steps for conducting a Systematic Literature Review (SLR
 
 3. **Quality Assessment (Optional):**  Consider performing a quality assessment of the included studies using established frameworks. This step is optional but can strengthen the credibility of your SLR. For quantitative studies, frameworks like the STROBE statement can be used. For qualitative studies, consider the COREQ checklist.
 
-**Writing the SLR Article (Markdown Formatting)**
+**Writing the SLR Article**
 
 **Structure:** Follow the standard structure for research articles, utilizing markdown formatting for clear and concise presentation. Here's a breakdown of the sections:
 
