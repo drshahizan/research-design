@@ -13,8 +13,8 @@ Hi, I'm Grace, currently pursuing a Master degree in Data Science @ UTM. I'm the
 - Programming languages: MySQL, Python (Learning)
 - Web frameworks: N/A
 - Blockchain platforms: N/A
-- Cloud services: Threecloud
-- Other tools: Rabbit (Tableau like software), Capcut, AutoCAD, Solidwork
+- Cloud services: Threecloud (A kind of cloud that is owned by the company itself)
+- Other tools: Rabbit (Tableau like software), Capcut, AutoCAD, Solidworks
 
 ## Related Work Experience 💼
 
