@@ -8,6 +8,7 @@
 
 # Assignment
 1. [Conducting a Systematic Literature Review (SLR) in Data Science & Computer Science for Scopus Publication](slr)
+2. [Research proposal writing](proposal)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
