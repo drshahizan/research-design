@@ -12,7 +12,7 @@
 This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. Students will be given the mechanisms on how to transform and digest the literature reviews that leads to the proposed title. The theoretical and practical aspects of implementing draft project proposal will be the milestone of this course. Ordered, Critical and Reasoning Exposition of knowledge through students efforts.
 
 ## 🔥 Important things
-1. [Student Information](profile.md)
+1. [Student Information](profile)
 2. [Course Information](./images/L1_BigDataManagement.pdf)
 3. [Assignment](./assignment)
 4. [Exercise](./exercise)
