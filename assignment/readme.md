@@ -7,11 +7,11 @@
 
 
 # Assignment
-## [Conducting a Systematic Literature Review (SLR) in Data Science & Computer Science for Scopus Publication](slr)
+## 1. [Conducting a Systematic Literature Review (SLR) in Data Science & Computer Science for Scopus Publication](slr)
 
 Conducting a Systematic Literature Review (SLR) in Data Science and Computer Science for Scopus publication involves a meticulous process of collecting, evaluating, and synthesizing existing research. It starts with defining clear research questions, followed by a comprehensive search of databases to gather relevant studies. The inclusion and exclusion criteria are rigorously applied to ensure the review’s focus. The selected literature is then critically appraised for quality and relevance. Finally, the findings are synthesized to highlight trends, gaps, and opportunities for future research, ensuring the SLR’s contribution to the academic community is robust and valuable
 
-## [Research proposal writing](proposal)
+## 2. [Research proposal writing](proposal)
 
 Research proposal writing is a systematic and structured way of presenting a research idea or question, where the writer outlines the intended study's background, objectives, methods, and potential impact. It begins with an introduction that sets the context and significance of the research, followed by a literature review that situates the work within existing scholarship and identifies gaps. The methodology section details the proposed approach for data collection and analysis, ensuring scientific rigor and validity. The proposal concludes with a summary of the research's anticipated contributions to knowledge and practice in the field, often suggesting further areas for investigation.
 
