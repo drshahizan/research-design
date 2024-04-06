@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/drshahizan/research-design/assets/165741197/b259dae2-31d8-4642-91ea-66e8e84cfe53" width="300" /></div>
 
-<h1 align="center"> Grace Ling Kian Hwai 👨‍💻</h1>
+<h1 align="center"> Grace Ling Kian Hwai (Grace) 👨‍💻</h1>
 
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
