@@ -6,7 +6,7 @@
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/profile/QiYuanGitGit/profile_gif.gif?raw=true" width="600" /></div>
 
-Hi, I'm YAP QI YUAN, a master student in Data Science (UTM). I am passionate in studying knowledges about Data Science. I do have some experiences in Semiconductor Manufacturing Field. In my work, I have to monitor and do some data analysis for wafer manufacturing process. In my free time, I would like to learning for CS, jogging, and work for part time.
+Hi, I'm YAP QI YUAN, a master's student in Data Science (UTM). I am passionate about studying and learning about data science. I have some experience in the semiconductor manufacturing field. In my work, I have to monitor and do some data analysis for the wafer manufacturing process. In my free time, I would like to learn CS, jog, and work part-time.
 
 ## Skills 🛠️
 
@@ -29,7 +29,7 @@ Coming soon...
 ## Work Experience 💼
 
 - I have worked for several companies over the last couple of years, starting in Q4 2021.
-- The companies that I worked before [Moveon Technologies](https://moveon.bz/), [Siltronic Singapore](https://www.siltronic.com/en/), and [UMC Singapore](https://www.umc.com/en/home/Index). Currently, I am further study at UTM for Master in Data Science, please refer to my [Linkedin](https://www.linkedin.com/in/yap-qi-yuan-35a7351a3/) for more details.
+- The companies that I worked before [Moveon Technologies](https://moveon.bz/), [Siltronic Singapore](https://www.siltronic.com/en/), and [UMC Singapore](https://www.umc.com/en/home/Index). Currently, I am further studying at UTM for a Master's in Data Science; please refer to my [Linkedin](https://www.linkedin.com/in/yap-qi-yuan-35a7351a3/) for more details.
 
 ## Education and Training 🎓
 
