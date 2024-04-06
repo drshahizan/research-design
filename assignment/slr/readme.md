@@ -20,7 +20,7 @@ This guide outlines the steps for conducting a Systematic Literature Review (SLR
 
 **Documenting the Selection Process: PRISMA Flow Diagram**
 
-*Create a PRISMA flow diagram* (consider using a tool like [https://app.diagrams.net/](https://app.diagrams.net/)) to visually represent the selection process throughout the SLR. This diagram is crucial for transparent reporting and helps reviewers understand how you arrived at your final set of included studies. The diagram should track the number of:
+*Create a PRISMA flow diagram* (consider using a tool to visually represent the selection process throughout the SLR. This diagram is crucial for transparent reporting and helps reviewers understand how you arrived at your final set of included studies. The diagram should track the number of:
 
 * **Studies Identified:** Total studies retrieved from databases.
 * **Studies Screened:** Studies assessed based on titles and abstracts.
