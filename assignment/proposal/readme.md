@@ -13,13 +13,16 @@ This guide empowers you to construct a compelling research proposal in Data Scie
 **Objective**: Introduce the research topic, state the problem, and outline the research objectives and questions.
 
 * **Motivation:**  Begin by painting a vivid picture of the broader field within Data Science or Computer Science where your research resides.  Highlight the specific problem or challenge you aim to address.  Explain the real-world significance of this problem and its impact on the chosen field.  For instance, you might explore the limitations of current anomaly detection algorithms in financial fraud identification, or the challenges of bias in natural language processing tasks.
+* **Problem Statement:** Clearly define the problem your research intends to address.
 * **Research Question:**  Formulate a well-defined and focused research question that serves as the compass guiding your investigation. This question should be specific enough to be achievable within the proposed timeframe, yet hold significant value to the field.  A well-crafted question sparks curiosity and compels the reader to delve deeper into your proposed research. 
 * **Objectives:**  Outline the specific, measurable objectives that will steer you towards answering your main research question.  Each objective should be a clear, attainable step on the path to achieving your overall research goal.  For example, an objective might be to "develop and evaluate a novel anomaly detection algorithm that outperforms existing methods in identifying fraudulent transactions."
+* **Significance:** Explain the expected contributions and significance of your research.
+
 
 ## Chapter 2: Literature Review (LR) - Establishing Your Expertise
 **Objective**: Review existing literature to justify your research and identify gaps.
 
-* **State of the Art:** Conduct a thorough review of existing research directly related to your chosen topic.  Provide a comprehensive overview of relevant theories, key concepts, and existing solutions proposed by other researchers.  Demonstrate your grasp of the current landscape by citing authoritative sources and scholarly articles.
+* **Theoretical Framework:** Conduct a thorough review of existing research directly related to your chosen topic.  Provide a comprehensive overview of relevant theories, key concepts, and existing solutions proposed by other researchers.  Demonstrate your grasp of the current landscape by citing authoritative sources and scholarly articles.
 * **Critical Analysis:**  Go beyond merely summarizing existing research.  Engage in a critical analysis, identifying strengths, weaknesses, and potential gaps in knowledge within the existing body of work.  This analysis not only showcases your expertise but also helps you position your research as a valuable contribution by addressing these identified shortcomings. 
 * **Positioning Your Research:**  Explain how your research question and objectives contribute to the existing body of knowledge.  Highlight how your research builds upon or departs from existing work.  Convince your reader that your research fills a critical gap or offers a unique perspective that advances the field. 
 
@@ -34,14 +37,13 @@ This guide empowers you to construct a compelling research proposal in Data Scie
 ## Chapter 4: Conclusion - Highlighting Impact and Future Directions
 **Objective**: Summarize the proposal and reiterate the importance of the study.
 
-
-* **Summary:** Briefly revisit your research question, objectives, and proposed methodology, providing a concise overview of your research plan.
+* **Summary:** Briefly recap the main points of the proposal such as your research question, objectives, and proposed methodology, providing a concise overview of your research plan.
 * **Expected Outcomes:**  Outline the anticipated outcomes and contributions of your research.  Explain how your findings will advance knowledge in Data Science or Computer Science.  Convince your reader that your research holds value for the field by addressing the problem you identified in the introduction. 
 * **Future Work:**  Discuss potential avenues for future research directions that could stem from your proposed work.  This demonstrates your forward-thinking approach and the broader applicability of your research findings.  For instance, you might propose further research to explore the application of your findings to a different domain or dataset.
 
 ### Formatting Guidelines
 
-1. Follow the **[UTM Thesis Manual](https://sps.utm.my/thesis-formatting-2023/)** for specific formatting rules such as typeface, font size, margins, and spacing1.
+1. Follow the **[UTM Thesis Manual](https://sps.utm.my/thesis-formatting-2023/)** for specific formatting rules such as typeface, font size, margins, and spacing.
 2. Ensure proper citation and referencing as per the **Harvard** or **APA** system outlined in the manual.
 
 Prepare the document according to the UTM Thesis Template1.
