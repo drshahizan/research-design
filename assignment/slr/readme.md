@@ -78,17 +78,15 @@ This guide outlines the steps for conducting a Systematic Literature Review (SLR
 
 1. **Inaccurate Record Counting**: Ensure that the numbers reported in the flow diagram accurately reflect the records identified, screened, eligible, and included.
 2. **Lack of Clarity**: Each step in the flow diagram should be clearly labeled and explained, so that the reasons for excluding studies at each phase are understandable.
-3. **Omitting Reasons for Exclusion**: It's crucial to specify the reasons for excluding studies during the screening and eligibility phases³.
-4. **Failure to Update**: If you're updating a review, the flow diagram should reflect the current search and not just replicate the previous diagram¹.
+3. **Omitting Reasons for Exclusion**: It's crucial to specify the reasons for excluding studies during the screening and eligibility phases.
+4. **Failure to Update**: If you're updating a review, the flow diagram should reflect the current search and not just replicate the previous diagram.
 5. **Not Using the Latest Template**: Always use the most recent version of the PRISMA flow diagram, which accommodates different types of literature searches, including grey literature¹.
-6. **Ignoring Grey Literature**: If grey literature is part of your search strategy, it should be included in the flow diagram².
-7. **Poor Documentation**: Keep meticulous records of your searches and decisions throughout the review process to accurately populate the flow diagram².
+6. **Ignoring Grey Literature**: If grey literature is part of your search strategy, it should be included in the flow diagram.
+7. **Poor Documentation**: Keep meticulous records of your searches and decisions throughout the review process to accurately populate the flow diagram.
 
 By avoiding these pitfalls, you can create a PRISMA flow diagram that is both transparent and reproducible, which is essential for the integrity of your systematic review. Remember to consult the PRISMA 2020 guidelines and use the appropriate template for your review type.
 
-
-
-
+### Summary
 By following these detailed instructions and adhering to the PRISMA protocol, you can conduct a high-quality SLR in Data Science or Computer Science.  This will allow you to prepare a well-structured manuscript suitable for publication in a Scopus-indexed journal, reaching a wider audience and contributing valuable insights to the field.
 
 
