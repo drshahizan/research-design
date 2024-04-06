@@ -17,7 +17,7 @@ This guide outlines the steps for conducting a Systematic Literature Review (SLR
 
 2. **Literature Search Strategy:**  To locate relevant studies, develop a comprehensive search strategy using Boolean operators (AND, OR, NOT) in relevant databases like Scopus, Web of Science, and ACM Digital Library. Identify keywords related to your research question and its sub-concepts. Consider synonyms and related terminology to ensure a thorough search.
 
-**Documenting the Selection Process: PRISMA Flow Diagram**
+### Documenting the Selection Process: PRISMA Flow Diagram
 
 *Create a PRISMA flow diagram* (consider using a tool to visually represent the selection process throughout the SLR. This diagram is crucial for transparent reporting and helps reviewers understand how you arrived at your final set of included studies. The diagram should track the number of:
 
@@ -26,7 +26,7 @@ This guide outlines the steps for conducting a Systematic Literature Review (SLR
 * **Studies Excluded:** Studies not meeting inclusion/exclusion criteria.
 * **Studies Included:** Studies included in the final review.
 
-**Literature Search and Selection**
+### Literature Search and Selection
 
 1. **Search Execution:** Conduct the defined search strategy in chosen databases. Export search results in a format compatible with reference management software (e.g., Mendeley, Zotero). These tools will help you organize your references and streamline the selection process.
 2. **Duplicates Removal:** Utilize reference management software to identify and remove duplicate entries. Duplicates can arise from searching multiple databases or different search strategies.
@@ -41,7 +41,7 @@ This guide outlines the steps for conducting a Systematic Literature Review (SLR
 4. **Title & Abstract Screening:**  Independently screen titles and abstracts of all retrieved studies based on the inclusion/exclusion criteria. This is an initial filtering process to identify potentially relevant studies. Resolve disagreements through discussion or by involving a third reviewer to ensure objectivity.
 5. **Full-Text Review:** Retrieve and thoroughly assess full-text articles of studies deemed potentially relevant based on title and abstract screening. Apply the inclusion/exclusion criteria rigorously to finalize the selection of studies for the review. This in-depth analysis ensures the studies truly align with your research question and methodology.
 
-**Data Extraction and Analysis**
+### Data Extraction and Analysis
 
 1. **Data Extraction:** Develop a data extraction form in markdown format (e.g., a table) to capture relevant information from the included studies. This form will be your central repository for the data you analyze. Consider including:
     * Authors, year of publication, and journal title.
@@ -53,7 +53,7 @@ This guide outlines the steps for conducting a Systematic Literature Review (SLR
 
 3. **Quality Assessment (Optional):**  Consider performing a quality assessment of the included studies using established frameworks. This step is optional but can strengthen the credibility of your SLR. For quantitative studies, frameworks like the STROBE statement can be used. For qualitative studies, consider the COREQ checklist.
 
-**Writing the SLR Article**
+### Writing the SLR Article
 
 **Structure:** Follow the standard structure for research articles, utilizing markdown formatting for clear and concise presentation. Here's a breakdown of the sections:
 
@@ -64,15 +64,30 @@ This guide outlines the steps for conducting a Systematic Literature Review (SLR
 * **Conclusion:** Summarize the main contributions of your SLR, highlighting the key takeaways and their significance for the field.  Propose potential avenues for future research directions based on your findings.
 * **References:** Ensure all references are formatted according to the target journal's guidelines. Utilize markdown syntax for proper reference formatting (consult the specific journal's style guide for details).
 
-**Scopus Indexing: Aiming for High Impact**
+### Scopus Indexing: Aiming for High Impact
 
 *Target high-quality, peer-reviewed journals indexed in Scopus*. Carefully review the author guidelines for your chosen journal. These guidelines will specify formatting requirements for submission, including preferred reference formatting and any specific markdown conventions they may use.
 
-**Additional Considerations:**
+### Additional Considerations
 
 * **Timeline:** Allocate sufficient time for each stage of the SLR process. Consider potential delays in retrieving full-text articles or resolving reviewer disagreements. 
 * **Collaboration:** Working with a research partner can enhance efficiency, particularly during literature search, screening, and data analysis. 
 * **Transparency:** Ensure comprehensive and transparent reporting of the SLR methodology, following PRISMA guidelines to enhance the credibility and reproducibility of your research.
+
+#### PRISMA flow diagram: Avoid common pitfalls to ensure the accuracy and clarity of your report.
+
+1. **Inaccurate Record Counting**: Ensure that the numbers reported in the flow diagram accurately reflect the records identified, screened, eligible, and included.
+2. **Lack of Clarity**: Each step in the flow diagram should be clearly labeled and explained, so that the reasons for excluding studies at each phase are understandable.
+3. **Omitting Reasons for Exclusion**: It's crucial to specify the reasons for excluding studies during the screening and eligibility phases³.
+4. **Failure to Update**: If you're updating a review, the flow diagram should reflect the current search and not just replicate the previous diagram¹.
+5. **Not Using the Latest Template**: Always use the most recent version of the PRISMA flow diagram, which accommodates different types of literature searches, including grey literature¹.
+6. **Ignoring Grey Literature**: If grey literature is part of your search strategy, it should be included in the flow diagram².
+7. **Poor Documentation**: Keep meticulous records of your searches and decisions throughout the review process to accurately populate the flow diagram².
+
+By avoiding these pitfalls, you can create a PRISMA flow diagram that is both transparent and reproducible, which is essential for the integrity of your systematic review. Remember to consult the PRISMA 2020 guidelines and use the appropriate template for your review type.
+
+
+
 
 By following these detailed instructions and adhering to the PRISMA protocol, you can conduct a high-quality SLR in Data Science or Computer Science.  This will allow you to prepare a well-structured manuscript suitable for publication in a Scopus-indexed journal, reaching a wider audience and contributing valuable insights to the field.
 
