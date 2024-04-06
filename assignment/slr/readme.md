@@ -8,9 +8,10 @@
 
 # Conducting a Systematic Literature Review (SLR) in Data Science & Computer Science for Scopus Publication
 
+## Objective
 This guide outlines the steps for conducting a Systematic Literature Review (SLR) in Data Science or Computer Science, following the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) protocol.  We'll target publication in a Scopus-indexed journal, ensuring your research reaches a broad and relevant audience.
 
-**Preparation**
+### Preparation
 
 1. **Topic Selection:**  The foundation of your SLR is a well-defined research question. Identify a specific and focused area within Data Science or Computer Science that interests you.  For example, you might ask, "What are the most effective deep learning techniques for image classification in medical diagnosis?" 
 
