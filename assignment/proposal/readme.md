@@ -9,7 +9,7 @@
 
 This guide empowers you to construct a compelling research proposal in Data Science and Computer Science, structured across four key chapters: Introduction, Literature Review (LR), Research Methodology (RM), and Conclusion. 
 
-## Chapter 1: Introduction - Setting the Stage
+## Chapter 1: Introduction
 **Objective**: Introduce the research topic, state the problem, and outline the research objectives and questions.
 
 * **Motivation:**  Begin by painting a vivid picture of the broader field within Data Science or Computer Science where your research resides.  Highlight the specific problem or challenge you aim to address.  Explain the real-world significance of this problem and its impact on the chosen field.  For instance, you might explore the limitations of current anomaly detection algorithms in financial fraud identification, or the challenges of bias in natural language processing tasks.
@@ -19,14 +19,14 @@ This guide empowers you to construct a compelling research proposal in Data Scie
 * **Significance:** Explain the expected contributions and significance of your research.
 
 
-## Chapter 2: Literature Review (LR) - Establishing Your Expertise
+## Chapter 2: Literature Review (LR)
 **Objective**: Review existing literature to justify your research and identify gaps.
 
 * **Theoretical Framework:** Conduct a thorough review of existing research directly related to your chosen topic.  Provide a comprehensive overview of relevant theories, key concepts, and existing solutions proposed by other researchers.  Demonstrate your grasp of the current landscape by citing authoritative sources and scholarly articles.
 * **Critical Analysis:**  Go beyond merely summarizing existing research.  Engage in a critical analysis, identifying strengths, weaknesses, and potential gaps in knowledge within the existing body of work.  This analysis not only showcases your expertise but also helps you position your research as a valuable contribution by addressing these identified shortcomings. 
 * **Positioning Your Research:**  Explain how your research question and objectives contribute to the existing body of knowledge.  Highlight how your research builds upon or departs from existing work.  Convince your reader that your research fills a critical gap or offers a unique perspective that advances the field. 
 
-## Chapter 3: Research Methodology (RM) - Charting the Course
+## Chapter 3: Research Methodology (RM) 
 **Objective**: Describe the methods you will use to conduct your research.
 
 * **Research Design:**  Specify the research design you plan to employ, justifying your choice based on its suitability for answering your research question. Common designs in Data Science and Computer Science include experimental, observational, or survey designs.  For instance, you might propose an experimental design to evaluate the effectiveness of a newly developed machine learning algorithm compared to existing methods. 
@@ -34,7 +34,7 @@ This guide empowers you to construct a compelling research proposal in Data Scie
 * **Data Analysis:**  Outline the data analysis techniques you will employ to process and analyze your collected data.  These techniques will depend on your research design and data type.  For quantitative data, you might utilize statistical analysis or machine learning algorithms.  For qualitative data, content analysis methods might be appropriate. 
 * **Evaluation Metrics:** Define the specific evaluation metrics you will use to assess the success of your research.  These metrics will help you determine whether your findings support your research question and objectives.  For example, you might use classification accuracy or error rate metrics to evaluate the performance of a machine learning model.
 
-## Chapter 4: Conclusion - Highlighting Impact and Future Directions
+## Chapter 4: Conclusion
 **Objective**: Summarize the proposal and reiterate the importance of the study.
 
 * **Summary:** Briefly recap the main points of the proposal such as your research question, objectives, and proposed methodology, providing a concise overview of your research plan.
