@@ -6,9 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Systematic Literature Review
-
-## Conducting a Systematic Literature Review (SLR) in Data Science & Computer Science for Scopus Publication (using Markdown)
+# Conducting a Systematic Literature Review (SLR) in Data Science & Computer Science for Scopus Publication
 
 This guide outlines the steps for conducting a Systematic Literature Review (SLR) in Data Science or Computer Science, following the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) protocol.  We'll target publication in a Scopus-indexed journal, ensuring your research reaches a broad and relevant audience.
 
