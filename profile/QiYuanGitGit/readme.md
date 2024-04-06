@@ -33,7 +33,7 @@ Coming soon...
 
 ## Education and Training 🎓
 
-- Bachelor of BACHELOR OF APPLIED SCIENCE (Hons) (INDUSTRIAL CHEMISTRY) at [USM](https://admission.usm.my/) (2017 - 2021)
+- Bachelor of Applied Science (Hons) (Industrial Chemistry) at [USM](https://admission.usm.my/) (2017 - 2021)
 
 ## Contact Me 📫
 
