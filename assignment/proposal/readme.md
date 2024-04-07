@@ -50,6 +50,10 @@ Prepare the document according to the UTM Thesis Template1.
 Review the Thesis Manual for details on submission procedures and requirements1.
 Please refer to the provided links for the complete guidelines and ensure that your proposal adheres to the standards set by the Universiti Teknologi Malaysia. Good luck with your research proposal writing!
 
+## Github Repository: Literature Review
+- [Generative AI Playground](https://github.com/drshahizan/Generative-AI-Playground)
+- [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
+  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
 
