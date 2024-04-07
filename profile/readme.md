@@ -29,7 +29,7 @@
 | 17  | AFRIZAL NEHEMIA TOSCANY |                | [:octocat:](https://github.com/drshahizan)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="./portfolio/your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 18  | ABDIRAHMAN OSMAN HASHI |                | [:octocat:](https://github.com/drshahizan)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="./portfolio/your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 19  | TAFA TAOFIK OLASUNKANMI |                | [:octocat:](https://github.com/drshahizan)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="./portfolio/your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 20  | ADEYEMO SARAFA OLASUNKANMI |   sarafaAdeyemo             | [:octocat:](https://github.com/drshahizan)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="./portfolio/your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 20  | ADEYEMO SARAFA OLASUNKANMI |   sarafaAdeyemo             | [:octocat:](https://github.com/sarafaAdeyemo)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="./portfolio/your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 
 ## Contribution 🛠️
