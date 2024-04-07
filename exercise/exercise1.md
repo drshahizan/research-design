@@ -13,10 +13,11 @@ These exercises will help you delve into your chosen research topic within compu
 
 * **Objective:** Identify a specific problem or challenge within your chosen field.
 * **Instructions:** 
-    * Start by researching a broad area within computer science or data science (e.g., machine learning, computer vision, natural language processing). 
-    * Explore recent advancements and challenges in this area. Identify areas where there's room for improvement or unanswered questions.
-    * Consider real-world applications of these areas and brainstorm any limitations or issues that arise. 
-    * Once you have a list of potential problems, choose one that particularly interests you and has significant implications. 
+    * Start by researching a broad area within computer science or data science (e.g., machine learning, computer vision, natural language processing). delve into recent research papers, industry reports, and expert blogs.
+    * Don't just skim the surface; actively seek out current advancements, identify trends, and pinpoint areas where limitations exist or questions remain unanswered.
+    * Consider real-world applications of these areas and brainstorm any limitations or issues that arise. Look for bottlenecks, inconsistencies, or potential biases that create problems.
+    * Once you have a comprehensive understanding of the chosen domain, brainstorm a list of potential problems. Prioritize those that pique your interest and hold significant real-world implications.
+    * Don't be afraid to refine your problem scope further. As you delve deeper, aspects that initially seemed like separate issues might converge into a larger, more impactful research question.
 
 **2. Motivation and Significance:**
 
