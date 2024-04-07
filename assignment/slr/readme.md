@@ -90,6 +90,7 @@ By avoiding these pitfalls, you can create a PRISMA flow diagram that is both tr
 By following these detailed instructions and adhering to the PRISMA protocol, you can conduct a high-quality SLR in Data Science or Computer Science.  This will allow you to prepare a well-structured manuscript suitable for publication in a Scopus-indexed journal, reaching a wider audience and contributing valuable insights to the field.
 
 ## Github Repository: Literature Review
+- [Generative AI Playground](https://github.com/drshahizan/Generative-AI-Playground)
 - [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
 - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
 - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
