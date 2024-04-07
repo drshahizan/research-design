@@ -53,6 +53,7 @@ Please refer to the provided links for the complete guidelines and ensure that y
 ## Github Repository: Literature Review
 - [Generative AI Playground](https://github.com/drshahizan/Generative-AI-Playground)
 - [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
+- [Research Material](https://github.com/drshahizan/research-material)
   
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
