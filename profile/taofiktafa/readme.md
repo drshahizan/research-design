@@ -1,9 +1,9 @@
 
-<div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/25f3fada-2bf5-4711-a387-862d114cd389" width="300" /></div>
+<div align="center"><img src="https://github.com/taofiktafa/BDM/assets/51344005/25f3fada-2bf5-4711-a387-862d114cd389" width="300" /></div>
 <h1 align="center">Taofik Tafa 👨‍💻</h1>
 
 ## About Me 🚀
-<div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
+<div align="center"><img src="https://github.com/taofiktafa/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
 Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in computer science education, system alaysis and design,  system administration, etc. Currently pursuing a PhD in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy writing articles on my blog, sharing my knowledge with others, and also exploring and contributing to open-source projects.
 
@@ -14,7 +14,7 @@ Hi, I'm Taofik Tafa, a passionate computer science educator from Nigeria. I love
 - Cloud services: Oracle Cloud
 - Other tools: Git, Docker, LXD
 
-## Projects <img src="https://github.com/drshahizan/BDM/assets/51344005/9bfd8fba-9b7b-4f06-8b4e-0a44313e5baa" width="30" />
+## Projects <img src="https://github.com/taofiktafa/BDM/assets/51344005/9bfd8fba-9b7b-4f06-8b4e-0a44313e5baa" width="30" />
 
 Here are some of the projects that I have worked on or contributed to:
 
