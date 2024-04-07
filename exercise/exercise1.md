@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-## 5 Exercises for Exploring Your Research Topic (Chapter 1: Introduction)
+# Exploring Your Research Topic (Chapter 1: Introduction)
 
 These exercises will help you delve into your chosen research topic within computer science or data science and lay the foundation for a strong introduction chapter.
 
@@ -13,8 +13,8 @@ These exercises will help you delve into your chosen research topic within compu
 
 * **Objective:** Identify a specific problem or challenge within your chosen field. Go beyond surface-level challenges to identify a specific, well-defined problem within a broader field.
 * **Instructions:** 
-    * Start by researching a broad area within computer science or data science (e.g., machine learning, computer vision, natural language processing). delve into recent research papers, industry reports, and expert blogs.
-    * Don't just skim the surface; actively seek out current advancements, identify trends, and pinpoint areas where limitations exist or questions remain unanswered.
+    * Start by researching a broad area within computer science or data science (e.g., machine learning, computer vision, natural language processing). Explore areas like Artificial Intelligence, Cybersecurity, Software Engineering, Data Visualization, and Big Data Analytics. Consider which problems pique your curiosity and ignite your desire to delve deeper.
+    * Don't just skim the surface; actively seek out current advancements, identify trends, and pinpoint areas where limitations exist or questions remain unanswered. Research current trends to identify a gap in knowledge or an issue that sparks your research fire. Utilize academic journals, online resources, and conferences to stay abreast of the latest advancements.
     * Consider real-world applications of these areas and brainstorm any limitations or issues that arise. Look for bottlenecks, inconsistencies, or potential biases that create problems.
     * Once you have a comprehensive understanding of the chosen domain, brainstorm a list of potential problems. Prioritize those that pique your interest and hold significant real-world implications.
     * Don't be afraid to refine your problem scope further. As you delve deeper, aspects that initially seemed like separate issues might converge into a larger, more impactful research question.
