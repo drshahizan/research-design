@@ -19,6 +19,18 @@ These exercises will help you delve into your chosen research topic within compu
     * Once you have a comprehensive understanding of the chosen domain, brainstorm a list of potential problems. Prioritize those that pique your interest and hold significant real-world implications.
     * Don't be afraid to refine your problem scope further. As you delve deeper, aspects that initially seemed like separate issues might converge into a larger, more impactful research question.
 
+**2. Unveiling the Problem Background:**
+
+* **Objective:** Gain a historical and technical understanding of the problem within the computer science or data science domain.
+
+* **Instructions:**
+    * Research the evolution of the problem you've identified.
+       * How did it emerge within the field?
+       * What were the initial approaches to addressing it?
+       * How have limitations in previous solutions contributed to the current state of the problem?
+    * Explore the technical underpinnings of the problem.
+       * What specific computer science or data science concepts are relevant?
+       * Are there particular algorithms, data structures, or software frameworks that play a role?
 **2. Motivation and Significance:**
 
 * **Objective:** Explain the importance of addressing your identified problem.
