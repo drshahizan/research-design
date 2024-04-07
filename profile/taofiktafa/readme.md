@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://raw.githubusercontent.com/taofiktafa/taofiktafa/master/img/wave.gif" width="30"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/taofiktafa/taofiktafa/master/img/wave.gif" width="30"></div>
 <h1 align="center">Taofik Tafa 👨‍💻</h1>
 
 ## About Me 🚀
