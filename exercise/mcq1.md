@@ -12,13 +12,13 @@
      - D) To detail the methodology used
 
 2. Why is understanding the problem background essential in research?
-     A) It helps in formulating the thesis statement
-     B) It provides a history of the problem
-     C) It outlines the research objectives
-     D) It summarizes the research findings
+     - A) It helps in formulating the thesis statement
+     - B) It provides a history of the problem
+     - C) It outlines the research objectives
+     - D) It summarizes the research findings
 
 3. A well-defined problem statement should:
-     A) Be vague to encompass all potential issues
+     - A) Be vague to encompass all potential issues
      B) Clearly specify the issue the research will address
      C) Focus on the research methodology
      D) Include the research results
