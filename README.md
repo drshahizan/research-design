@@ -13,7 +13,7 @@ This course will cover the fundamental steps and implementation on developing th
 
 ## 🔥 Important things
 1. [Student Information](profile)
-2. [Course Information](./images/L1_BigDataManagement.pdf)
+2. [Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)
 3. [Assignment](./assignment)
 4. [Exercise](./exercise)
 
