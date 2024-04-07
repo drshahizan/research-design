@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://github.com/taofiktafa/BDM/assets/51344005/25f3fada-2bf5-4711-a387-862d114cd389" width="300" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/taofiktafa/taofiktafa/master/img/wave.gif" width="30"/></div>
 <h1 align="center">Taofik Tafa 👨‍💻</h1>
 
 ## About Me 🚀
