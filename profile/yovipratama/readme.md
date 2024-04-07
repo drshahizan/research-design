@@ -1,3 +1,5 @@
+<div align="center"><img src="https://github.com/drshahizan/learn-github/blob/58085070cec37886e342d361f69339bd6835f5bc/profile/yovipratama/prof.jpeg" width="300" /></div>
+
 <h1 align="center">Hi 👋, I'm Yovi Pratama</h1>
 <h3 align="center">A passionate Computer Vision developer from Indonesia</h3>
 
