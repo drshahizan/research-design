@@ -31,7 +31,8 @@ These exercises will help you delve into your chosen research topic within compu
     * Explore the technical underpinnings of the problem.
        * What specific computer science or data science concepts are relevant?
        * Are there particular algorithms, data structures, or software frameworks that play a role?
-**2. Motivation and Significance:**
+         
+**3. Motivation and Significance:**
 
 * **Objective:** Explain the importance of addressing your identified problem.
 * **Instructions:**
@@ -41,7 +42,7 @@ These exercises will help you delve into your chosen research topic within compu
     * Use real-world examples to showcase the problem's significance. 
     * Explain how successfully addressing this problem can benefit the field and related industries. 
 
-**3. Research Question Formulation:**
+**4. Research Question Formulation:**
 
 * **Objective:** Formulate a well-defined research question that guides your investigation.
 * **Instructions:**
@@ -50,7 +51,7 @@ These exercises will help you delve into your chosen research topic within compu
     * Consider using question framing techniques like "How can...?" or "To what extent does...?"
     * Refine your question to ensure it sparks curiosity and guides your research steps. 
 
-**4. Research Objectives Breakdown:**
+**5. Research Objectives:**
 
 * **Objective:** Outline actionable steps (objectives) to answer your research question.
 * **Instructions:**
@@ -59,7 +60,15 @@ These exercises will help you delve into your chosen research topic within compu
     * Consider aspects like data collection, methodology development, evaluation criteria, or specific outcomes to be achieved.
     * Ensure all objectives are SMART (Specific, Measurable, Achievable, Relevant, and Time-bound). They should be achievable within your research timeframe and collectively lead to a successful completion of your research question.
 
-**5. Literature Review and Significance of Contribution:**
+**6. Define the Scope:**
+
+* **Objective:** Write a detailed description of your chosen topic’s scope. This should include:
+* **Instructions:**
+    * The specific aspects of the topic you will focus on.
+    * The limitations of your research.
+    * The expected outcomes or contributions to the field.
+
+**7. Significance of Contribution:**
 
 * **Objective:** Understand existing research, identify gaps, and highlight the potential contribution of your study.
 * **Instructions:**
