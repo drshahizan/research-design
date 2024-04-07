@@ -92,10 +92,12 @@ By following these detailed instructions and adhering to the PRISMA protocol, yo
 ## Github Repository: Literature Review
 - [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
 - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
-- [Systematic Literature Review - Gitbook](https://drshahizan.gitbook.io/slr/)
-- [AI tools](https://drshahizan.gitbook.io/ai-tools/)
 - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
 
+## Gitbook 
+- [AI tools](https://drshahizan.gitbook.io/ai-tools/)
+- [Systematic Literature Review - Gitbook](https://drshahizan.gitbook.io/slr/)
+  
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
 
