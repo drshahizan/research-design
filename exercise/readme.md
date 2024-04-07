@@ -15,7 +15,7 @@
 | 3. | Exercise 3 | Research framework diagram | <a href="https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass2/bdm" ><img src="https://raw.githubusercontent.com/drshahizan/BDM/main/images/rfp.png" width="24px" height="24px" ></a> | <a href="https://github.com/drshahizan/Python_EDA/blob/main/assignment/ass2/bdm/readme.md#submission" ><img src="https://raw.githubusercontent.com/drshahizan/BDM/main/images/answer.png" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
