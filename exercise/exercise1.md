@@ -23,6 +23,7 @@ These exercises will help you delve into your chosen research topic within compu
 
 * **Objective:** Explain the importance of addressing your identified problem.
 * **Instructions:**
+    * Go beyond simply stating the problem's existence. Research its impact on the broader field.
     * Research the impact of the chosen problem on the broader field. 
     * Consider potential consequences if left unaddressed. 
     * Use real-world examples to showcase the problem's significance. 
@@ -44,7 +45,7 @@ These exercises will help you delve into your chosen research topic within compu
     * Break down your overarching research question into smaller, achievable objectives. 
     * Each objective should be clear, measurable, and contribute directly to answering your main question. 
     * Consider aspects like data collection, methodology development, evaluation criteria, or specific outcomes to be achieved.
-    * Ensure all objectives are achievable within your research timeframe. 
+    * Ensure all objectives are SMART (Specific, Measurable, Achievable, Relevant, and Time-bound). They should be achievable within your research timeframe and collectively lead to a successful completion of your research question.
 
 **5. Literature Review and Significance of Contribution:**
 
@@ -53,7 +54,8 @@ These exercises will help you delve into your chosen research topic within compu
     * Conduct a comprehensive literature review in your chosen area. 
     * Identify relevant studies that address similar problems or use related methodologies. 
     * Analyze existing literature to identify any limitations, unanswered questions, or areas for improvement. 
-    * Explain how your research aims to address these gaps and contribute valuable knowledge to the field.
+    * Explain how your research aims to address these gaps. Will you be proposing a novel approach, introducing a new dataset, or utilizing a different analytical technique?
+    * Clearly articulate how your research will contribute valuable knowledge to the field and differentiate itself from existing work.
 
 By completing these exercises, you'll gain a deeper understanding of your research topic, develop a clear research question and objectives, and articulate the significance of your work within the broader field. 
 
