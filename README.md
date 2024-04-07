@@ -29,11 +29,11 @@ This course will cover the fundamental steps and implementation on developing th
 9. [Django](https://github.com/drshahizan/learn-django)
 
 ## Github Repository: Literature Review
-- 🆕 [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
-  - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
-  - [Systematic Literature Review](https://drshahizan.gitbook.io/slr/)
-  - [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
-  - [AI tools](https://drshahizan.gitbook.io/ai-tools/)
+- [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
+- [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
+- [Systematic Literature Review - Gitbook](https://drshahizan.gitbook.io/slr/)
+- [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
+- [AI tools](https://drshahizan.gitbook.io/ai-tools/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
