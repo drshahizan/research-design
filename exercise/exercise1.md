@@ -11,7 +11,7 @@ These exercises will help you delve into your chosen research topic within compu
 
 **1. Brainstorming and Problem Identification:**
 
-* **Objective:** Identify a specific problem or challenge within your chosen field.
+* **Objective:** Identify a specific problem or challenge within your chosen field. Go beyond surface-level challenges to identify a specific, well-defined problem within a broader field.
 * **Instructions:** 
     * Start by researching a broad area within computer science or data science (e.g., machine learning, computer vision, natural language processing). delve into recent research papers, industry reports, and expert blogs.
     * Don't just skim the surface; actively seek out current advancements, identify trends, and pinpoint areas where limitations exist or questions remain unanswered.
