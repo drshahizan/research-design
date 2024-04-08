@@ -126,7 +126,7 @@ By completing these exercises, you'll gain a deeper understanding of your resear
 | 1.8 Structure of the Thesis     | - Overview of how the thesis is organized.<br>- Outline of chapters and their contents.<br>- Logical flow of information throughout the thesis.<br>- Clear indication of where each subtopic fits within the thesis structure.                                                                 |
 | 1.9 Summary                    | - Summary of key points discussed in the introduction.<br>- Recap of the problem statement and research questions.<br>- Recap of the research objectives.<br>- Highlight of the significance of the research.<br>- Preview of the upcoming chapters.                                                             |
 
-Do's and don'ts for each aspect of Chapter 1
+## Do's and don'ts for each aspect of Chapter 1
 
 | No. | Do's                                                                                         | Don'ts                                                                                                                                               |
 |-----|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
