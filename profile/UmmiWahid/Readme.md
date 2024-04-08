@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/25f3fada-2bf5-4711-a387-862d114cd389" width="300" /></div>
+<div align="center"><img src=https://avatars.githubusercontent.com/u/165742794?s=400&u=5b8eaeebea021114d5d6f4672ab0c96c70c9c0b0&v=4>
 <h1 align="center">Ummi Farihah binti Abd Wahid 👨‍💻</h1>
 
 ## About Me 🚀
