@@ -27,6 +27,7 @@ I finished my six-month internship as a data analyst for the Johor Bahru-based r
 
 Education 🎓
 Bachelor of Actuarial Science with honours @ UiTM, campus Shah Alam, Selangor (2021-2023).
+
 Diploma of Actuarial Science @ UiTM, campus Tapah, Perak (2018-2021).
 
 
