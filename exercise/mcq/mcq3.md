@@ -24,7 +24,7 @@
 ```
 
 ## Multiple Choice Questions	
-**Instructions:** Choose the best answer for each question.
+Choose the best answer for each question.
 
 1. The introduction chapter typically provides what kind of information?
      - A) Detailed research methodology
