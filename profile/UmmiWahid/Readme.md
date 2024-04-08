@@ -2,7 +2,7 @@
 <h1 align="center">Ummi Farihah binti Abd Wahid 👨‍💻</h1>
 
 ## About Me 🚀
-<div align=https://github.com/drshahizan/research-design/blob/main/profile/UmmiWahid/gif-marketing-digital.gif>
+<div align="center"><img src=https://github.com/drshahizan/research-design/blob/main/profile/UmmiWahid/gif-marketing-digital.gif>
 
 Hi, I'm Ummi Wahid, currently pursuing a Master's in Data Science at Universiti Teknologi Malaysia. I love learning about new technologies and creating innovative solutions/visualizations for real-world problems. In my free time, I enjoy reading novels, watching drama/movies, and cooking.
 
