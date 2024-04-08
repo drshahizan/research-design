@@ -23,8 +23,22 @@
 
 3. **Markdown Template:** Use the provided [markdown template](temp_exer1.md) to enter your Chapter 1. Markdown is a lightweight markup language with plain-text formatting syntax, making it easy to write and read.
 
-4. **Submission:** Submit your completed Chapter 1 in the Submission folder. Ensure your document is correctly formatted and includes all required subtopics.
+4. **Submission:** Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is correctly formatted and includes all required subtopics. Within the [`exer1`]() folder, create a folder with your GitHub ID. Name the file as `exer1.md`.
 
+
+ You are required to submit your answer file in the `exer1` folder. Within the [`submission`](submission/) folder, create a folder with your GitHub ID. Name the file as `mcq1.md`.
+
+### Folder structure
+
+```
+🗂️submission
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq12.md
+├── 📁your github id
+```
 Detailed explanations for each subtopic are as follows:
 
 
