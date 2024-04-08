@@ -16,7 +16,7 @@
 ## Multiple-choice questions
 | Set | Topic  | File | 
 | :-----: |  ------ | :-----: | 
-| 1 | Introduction to Big Data and Big Data Analytics  | <a href="./mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| 1 | Chapter1: Introduction  | <a href="./mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
