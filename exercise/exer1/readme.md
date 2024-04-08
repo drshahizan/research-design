@@ -24,6 +24,8 @@
 3. **Markdown Template:** Use the provided [markdown template](temp_exer1.md) to enter your Chapter 1. Markdown is a lightweight markup language with plain-text formatting syntax, making it easy to write and read.
 
 4. **Submission:** Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is correctly formatted and includes all required subtopics. Within the [`exer1`]() folder, create a folder with your GitHub ID. Name the file as `exer1.md`.
+5. Do's and don'ts for each aspect of Chapter 1
+6. Checklist for Chapter 1
 
 ### Folder structure
 
