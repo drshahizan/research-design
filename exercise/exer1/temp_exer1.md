@@ -7,12 +7,10 @@
 
 # Exercise 1:  Chapter 1 - Introduction
 
-## Project Title
-<your title>
+### Project Title: <your title>
 
-### Prepared by: 
-  1. Name, matrix no, github_id
----
+### Prepared by: Name, matrix no, github_id
+
 ## 1.1 Introduction
 
 [Your introduction text here.]
