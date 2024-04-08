@@ -56,16 +56,28 @@ The data have several components, including the GDP, cash in circulation, checks
 # 3. Analyze the impact of the gold price on the commodities factor.
 
 ## What: 
-
+This topic focus on analyzing the relationship between gold price, crude oil price and palm oil price. 
 
 ## Why:
-
+1. The gold price as the focus of the research is due to the significant role that gold plays in the economy. Gold is considered a valuable metal and is often viewed as a safe haven asset, particularly during times of economic uncertainty. It is used as a hedge against inflation and other economic downturns, making it an important commodity for investors. 
 
 ## How:
+Analyze the relationship:
+1. Johansen Cointegration
+2. Autoregressive Distributed Lag (ARDL) models, to examine the long-term relationships between these variables.
+3. Granger Casuality Test
 
+To forecast:
+1. Vector Autoregression (VAR) model.
 
 ## Data:
-
+1. Gold Price (GP)
+2. Crude Oil Price (COP)
+3. Palm Oil Price (POP)
 
 ## Objective:
+1. To analyze the trends of gold price, crude oil price, palm oil price, Islamic stock market, and conventional stock market index from 2013 to 2021.
 
+2. To validate the causation and cointegration relationship between gold price, crude oil price and palm oil price using the Granger Causality test, Johansen Cointegration method, and Autoregressive Distributed Lag (ARDL) model.
+
+3. To forecast gold prices for future years with the integration of significant variables using the Vector Autoregression (VAR) model.
