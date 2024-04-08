@@ -7,6 +7,21 @@
 
 # Chapter 1: Introduction 
 
+You are required to complete your Chapter 1. 
+This chapter contains the following 9 subtopics:
+- 1.1 Introduction 
+- 1.2 Background of the Problem 
+- 1.3 Statement of the Problem 
+- 1.4 Research Questions 
+- 1.5 Objectives of the Research 
+- 1.6 Scope of the Study 
+- 1.7 Significance of the Research 
+- 1.8 Structure of the Thesis 
+- 1.9 Summary
+
+Detailed explanations for each subtopic are as follows:
+
+
 ## Exploring Your Research Topic
 
 These exercises will help you delve into your chosen research topic within computer science or data science and lay the foundation for a strong introduction chapter.
