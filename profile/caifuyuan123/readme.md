@@ -5,7 +5,7 @@
 
 ## About Me 🚀
 
-Hi, I'm Fuyuan Cai from China, and I'm currently pursuing a Master's degree in Data Science. I am passionate about challenges and change, and want to learn new things. Studying data science is a change for me and I hope to enter the field of data analytics in the future. In my spare time, I enjoy playing piano, games and travelling.
+Hi, I'm Cai Fuyuan from China, and I'm currently pursuing a Master's degree in Data Science. I am passionate about challenges and change, and want to learn new things. Studying data science is a change for me and I hope to enter the field of data analytics in the future. In my spare time, I enjoy playing piano, games and travelling.
 
 ## Skills 🛠️
 
