@@ -1,5 +1,6 @@
 
-Ummi Farihah binti Abd Wahid (Ummi Wahid) 👨‍💻
+[Passport Photo B_UMMI FARIHAH BINTI ABD WAHID](https://github.com/drshahizan/research-design/assets/165742794/c734ff09-6b49-4af4-98a5-a09a743dd7a6)
+Ummi Farihah binti Abd Wahid (Ummi Wahid)👨‍💻!
 About Me 🚀
 
 Hi, I'm Ummi Wahid, currently pursuing a Master degree in Data Science @ UTM. 
