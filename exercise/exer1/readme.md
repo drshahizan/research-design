@@ -25,22 +25,17 @@
 
 4. **Submission:** Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is correctly formatted and includes all required subtopics. Within the [`exer1`]() folder, create a folder with your GitHub ID. Name the file as `exer1.md`.
 
-
- You are required to submit your answer file in the `exer1` folder. Within the [`submission`](submission/) folder, create a folder with your GitHub ID. Name the file as `mcq1.md`.
-
 ### Folder structure
 
 ```
-🗂️submission
+🗂️exer1
 ├── 📄readme.md
 ├── 📁drshahizan
-│   ├── 📄mcq1.md
-│   ├── ...
-│   └── 📄mcq12.md
+│   ├── 📄exer1.md
 ├── 📁your github id
 ```
-Detailed explanations for each subtopic are as follows:
 
+Detailed explanations for each subtopic are as follows:
 
 ## Exploring Your Research Topic
 
