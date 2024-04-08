@@ -7,8 +7,8 @@
 
 # Chapter 1: Introduction 
 
-You are required to complete your Chapter 1. 
-This chapter contains the following 9 subtopics:
+## Instructions:
+You are required to complete your Chapter 1. This chapter contains the following 9 subtopics:
 - 1.1 Introduction 
 - 1.2 Background of the Problem 
 - 1.3 Statement of the Problem 
@@ -18,6 +18,9 @@ This chapter contains the following 9 subtopics:
 - 1.7 Significance of the Research 
 - 1.8 Structure of the Thesis 
 - 1.9 Summary
+
+You need to follow the UTM writing format. The information can be [found at](https://sps.utm.my/thesis-formatting-2023/)
+
 
 Detailed explanations for each subtopic are as follows:
 
