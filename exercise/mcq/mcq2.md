@@ -24,6 +24,8 @@
 ```
 
 ## Multiple Choice Questions	
+Choose the best answer for each question.
+
 1. What is the purpose of Chapter 1 in a research thesis?
    - A) To summarize the entire research process
    - B) To introduce the research topic and its importance
