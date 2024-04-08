@@ -32,6 +32,6 @@ Here are some of the projects that I have worked on or contributed to:
 
 If you want to get in touch with me, you can reach me through any of the following channels:
 
-- Email: [evelycc0917@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRqjCGPRGjtMbmXTVkfchpbLTmqBSWsDSjnxJXrLjKclhblJpClDdsNMmNJmQRVgsnzSkBq) ✉️
+- Email: [caifuyuan@graduate.utm.my](https://mail.google.com/mail/u/0/#inbox) ✉️
 - LinkedIn: [Cai Fuyuan](https://www.linkedin.com/in/fuyuan-cai-29382b302/) 💼
 - GitHub: [caifuyuan123](https://github.com/caifuyuan123) 🐱
