@@ -9,15 +9,15 @@
 
 ## Instructions:
 1. You are required to complete your Chapter 1. This chapter contains the following 9 subtopics:
-- 1.1 Introduction 
-- 1.2 Background of the Problem 
-- 1.3 Statement of the Problem 
-- 1.4 Research Questions 
-- 1.5 Objectives of the Research 
-- 1.6 Scope of the Study 
-- 1.7 Significance of the Research 
-- 1.8 Structure of the Thesis 
-- 1.9 Summary
+   - 1.1 Introduction 
+   - 1.2 Background of the Problem 
+   - 1.3 Statement of the Problem 
+   - 1.4 Research Questions 
+   - 1.5 Objectives of the Research 
+   - 1.6 Scope of the Study 
+   - 1.7 Significance of the Research 
+   - 1.8 Structure of the Thesis 
+   - 1.9 Summary
 
 2. **Formatting Requirements:** Use the [UTM writing format](https://sps.utm.my/thesis-formatting-2023/) for your thesis. This includes formatting guidelines for fonts, margins, headings, and references.
 
