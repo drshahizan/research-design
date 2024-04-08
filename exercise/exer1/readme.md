@@ -21,7 +21,7 @@
 
 2. **Formatting Requirements:** Use the [UTM writing format](https://sps.utm.my/thesis-formatting-2023/) for your thesis. This includes formatting guidelines for fonts, margins, headings, and references.
 
-3. **Markdown Template:** Use the provided [markdown template](https://github.com/drshahizan/research-design/blob/main/exercise/exer1/temp_exer1.md) to enter your information. Markdown is a lightweight markup language with plain-text formatting syntax, making it easy to write and read.
+3. **Markdown Template:** Use the provided [markdown template](temp_exer1.md) to enter your information. Markdown is a lightweight markup language with plain-text formatting syntax, making it easy to write and read.
 
 4. **Submission:** Submit your completed Chapter 1 in the Submission folder. Ensure your document is correctly formatted and includes all required subtopics.
 
