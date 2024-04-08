@@ -4,7 +4,7 @@
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
-Hi, I'm Ummi Wahid, currently pursuing a Master degree in Data Science @ UTM. I love learning about new technologies and creating innovative solutions/visualization for real-world problems. I have experience in software development, system administration, Enterprise Resource Planning Systems (ERPs), and blockchain. Currently pursuing a Masters in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy writing articles on my blog, sharing my knowledge with others, and also exploring and contributing to open-source projects.
+Hi, I'm Ummi Wahid, currently pursuing a Master's in Data Science at Universiti Teknologi Malaysia. I love learning about new technologies and creating innovative solutions/visualizations for real-world problems. In my free time, I enjoy reading novels, watching drama/movies, and cooking.
 
 ## Skills 🛠️
 
