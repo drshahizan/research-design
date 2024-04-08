@@ -5,10 +5,14 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Exercise 1:  
+# Exercise 1:  Chapter 1 - Introduction
 
-# Chapter 1: Introduction
+## Project Title
+<your title>
 
+### Prepared by: 
+  1. Name, matrix no, github_id
+---
 ## 1.1 Introduction
 
 [Your introduction text here.]
