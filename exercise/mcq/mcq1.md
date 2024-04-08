@@ -24,6 +24,7 @@
 ```
 
 ## Multiple Choice Questions	
+Choose the best answer for each question.
 
 1. What is the primary purpose of an introduction in a thesis?
      - A) To provide a summary of the findings
