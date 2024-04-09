@@ -17,6 +17,10 @@ This course will cover the fundamental steps and implementation on developing th
 3. [Assignment](./assignment)
 4. [Exercise](./exercise)
 
+## Data Science
+- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
+
+  
 ## Github Repository: Literature Review
 - [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
 - [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
