@@ -44,7 +44,7 @@ This course will cover the fundamental steps and implementation on developing th
 8. [Big data processing](https://github.com/drshahizan/Python-big-data)
 9. [Django](https://github.com/drshahizan/learn-django)
 
-## References
+## Articles
 1. Koons, G.L., Schenke-Layland, K., & Mikos, A.G. (2019). Why, when, who, what, how, and where for trainees writing literature review articles. *Annals of Biomedical Engineering*, **47**(11), 2334–2340. https://doi.org/10.1007/s10439-019-02290-5
 2. Jaidka, K., Khoo, C. S. G., & Na, J.-C. (2013). Literature review writing: How information is selected and transformed. *Aslib Proceedings, 65*(3), 5. [https://doi.org/10.1108/00012531311330665](https://www.researchgate.net/publication/257201603_Literature_review_writing_how_information_is_selected_and_transformed)
 3. Barrasso, A. P., & Spilios, K. E. (2021). [A scoping review of literature assessing the impact of the learning assistant model](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-00267-8). *International Journal of STEM Education, 8*(1), Article 12.
