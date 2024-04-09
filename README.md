@@ -42,6 +42,11 @@ This course will cover the fundamental steps and implementation on developing th
 4. Salazar-Reyna, R., Gonzalez-Aleu, F., Granda-Gutierrez, E.M.A., Diaz-Ramirez, J., Garza-Reyes, J.A. and Kumar, A. (2022), "A systematic literature review of data science, data analytics and machine learning applied to healthcare engineering systems", Management Decision, Vol. 60 No. 2, pp. 300-319. [https://doi.org/10.1108/MD-01-2020-0035](./images/slr1.pdf)
 5. Espinoza Mina, M. A., & Gallegos Barzola, D. D. P. (2018). Data Scientist: A Systematic Review of the Literature. Technology Trends, 476–487. [doi:10.1007/978-3-030-05532-5_35](./images/slr2.pdf)
 6. Memarian, B., Doleck, T. Data science pedagogical tools and practices: A systematic literature review. Educ Inf Technol (2023). https://doi.org/10.1007/s10639-023-12102-y
+7. Sandaruwan, I.P.T., Janardana, J.A.B. and Waidyasekara, K.G.A.S., 2023. Data science applications for 
+carbon footprint management in buildings: A systematic literature review. In: Sandanayake, Y.G., 
+Waidyasekara, K.G.A.S., Ramachandra, T. and Ranadewa, K.A.T.O. (eds). Proceedings of the 11th World 
+Construction Symposium, 21-22 July 2023, Sri Lanka. [Online]. pp. 446-459. DOI: https://doi.org/10.31705/WCS.2023.37. Available from: https://ciobwcs.com/papers/446
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
