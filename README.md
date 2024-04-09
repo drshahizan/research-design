@@ -41,8 +41,7 @@ This course will cover the fundamental steps and implementation on developing th
 3. Barrasso, A. P., & Spilios, K. E. (2021). [A scoping review of literature assessing the impact of the learning assistant model](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-00267-8). *International Journal of STEM Education, 8*(1), Article 12.
 4. Salazar-Reyna, R., Gonzalez-Aleu, F., Granda-Gutierrez, E.M.A., Diaz-Ramirez, J., Garza-Reyes, J.A. and Kumar, A. (2022), "A systematic literature review of data science, data analytics and machine learning applied to healthcare engineering systems", Management Decision, Vol. 60 No. 2, pp. 300-319. [https://doi.org/10.1108/MD-01-2020-0035](./images/slr1.pdf)
 5. Espinoza Mina, M. A., & Gallegos Barzola, D. D. P. (2018). Data Scientist: A Systematic Review of the Literature. Technology Trends, 476–487. [doi:10.1007/978-3-030-05532-5_35](./images/slr2.pdf)
-
-
+6. Memarian, B., Doleck, T. Data science pedagogical tools and practices: A systematic literature review. Educ Inf Technol (2023). https://doi.org/10.1007/s10639-023-12102-y
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
