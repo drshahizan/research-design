@@ -48,6 +48,7 @@ Waidyasekara, K.G.A.S., Ramachandra, T. and Ranadewa, K.A.T.O. (eds). Proceeding
 Construction Symposium, 21-22 July 2023, Sri Lanka. [Online]. pp. 446-459. DOI: https://doi.org/10.31705/WCS.2023.37. Available from: https://ciobwcs.com/papers/446
 8. Arruda, H. M., Bavaresco, R. S., Kunst, R., & Barbosa, J. (2023). Data science methods and tools for Industry 4.0: A systematic literature review and taxonomy. *Sensors, 23*(11), 5010. https://doi.org/10.3390/s23115010
 9. Saltz, J. S., & Krasteva, I. (2022). Current approaches for executing big data science projects: A systematic literature review. *PeerJ Computer Science, 8*(January 2019), e862. https://doi.org/10.7717/peerj-cs.862
+10. Reddy, R. C., Bhattacharjee, B., Mishra, D., & Mandal, A. (2022). A systematic literature review towards a conceptual framework for enablers and barriers of an enterprise data science strategy. *Information Systems and e-Business Management, 20*(3). https://doi.org/10.1007/s10257-022-00550-x
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
