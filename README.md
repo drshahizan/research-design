@@ -18,6 +18,7 @@ This course will cover the fundamental steps and implementation on developing th
 4. [Exercise](./exercise)
 
 ## Data Science
+- [Data Science - A Complete Introduction](https://www.heavy.ai/learn/data-science)
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 
   
