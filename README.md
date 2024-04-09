@@ -17,6 +17,13 @@ This course will cover the fundamental steps and implementation on developing th
 3. [Assignment](./assignment)
 4. [Exercise](./exercise)
 
+## Github Repository: Literature Review
+- [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
+- [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
+- [Systematic Literature Review - Gitbook](https://drshahizan.gitbook.io/slr/)
+- [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
+- [AI tools](https://drshahizan.gitbook.io/ai-tools/)
+
 ## Github Repository: Data Science
 1. [Learn Github](https://github.com/drshahizan/learn-github)
 2. [Big Data Management](https://github.com/drshahizan/BDM)
@@ -28,12 +35,10 @@ This course will cover the fundamental steps and implementation on developing th
 8. [Big data processing](https://github.com/drshahizan/Python-big-data)
 9. [Django](https://github.com/drshahizan/learn-django)
 
-## Github Repository: Literature Review
-- [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
-- [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
-- [Systematic Literature Review - Gitbook](https://drshahizan.gitbook.io/slr/)
-- [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
-- [AI tools](https://drshahizan.gitbook.io/ai-tools/)
+## References
+1. Koons, G.L., Schenke-Layland, K., & Mikos, A.G. (2019). Why, when, who, what, how, and where for trainees writing literature review articles. *Annals of Biomedical Engineering*, **47**(11), 2334–2340. https://doi.org/10.1007/s10439-019-02290-5
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
