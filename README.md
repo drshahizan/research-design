@@ -53,6 +53,7 @@ Construction Symposium, 21-22 July 2023, Sri Lanka. [Online]. pp. 446-459. DOI: 
 12. Saltz, J. S., & Dewar, N. (2019). Data science ethical considerations: A systematic literature review and proposed project framework. *Ethics and Information Technology, 21*(3), 197-208. https://doi.org/10.1007/s10676-019-09502-5
 13. Al-Tashi, Q., Abdulkadir, S. J., Rais, H. M., Mirjalili, S., & Alhussian, H. (2020). Approaches to Multi-Objective Feature Selection: A Systematic Literature Review. *IEEE Access, 8*, 125076-125096. https://doi.org/10.1109/ACCESS.2020.3007291
 14. Wube, H. D., Esubalew, S. Z., Weldesellasie, F. F., & Debelee, T. G. (2022). Text-Based Chatbot in Financial Sector: A Systematic Literature Review. *Data Science in Finance and Economics, 2*(3), 209-236. https://doi.org/10.3934/DSFE.2022011
+15. Aguilar-Esteva, V., Acosta-Banda, A., Carreño Aguilera, R., & Patiño Ortiz, M. (2023). Sustainable Social Development through the Use of Artificial Intelligence and Data Science in Education during the COVID Emergency: A Systematic Review Using PRISMA. *Sustainability*, 15(8), 6498. https://doi.org/10.3390/su15086498
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
