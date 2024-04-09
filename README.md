@@ -51,6 +51,7 @@ Construction Symposium, 21-22 July 2023, Sri Lanka. [Online]. pp. 446-459. DOI: 
 10. Reddy, R. C., Bhattacharjee, B., Mishra, D., & Mandal, A. (2022). A systematic literature review towards a conceptual framework for enablers and barriers of an enterprise data science strategy. *Information Systems and e-Business Management, 20*(3). https://doi.org/10.1007/s10257-022-00550-x
 11. Alonso-Fernandez, C., Calvo-Morata, A., Freire, M., & Fernández-Manjón, B. (2019). Applications of data science to game learning analytics data: A systematic literature review. *Computers & Education, 141*(1). https://doi.org/10.1016/j.compedu.2019.103612
 12. Saltz, J. S., & Dewar, N. (2019). Data science ethical considerations: A systematic literature review and proposed project framework. *Ethics and Information Technology, 21*(3), 197-208. https://doi.org/10.1007/s10676-019-09502-5
+13. Al-Tashi, Q., Abdulkadir, S. J., Rais, H. M., Mirjalili, S., & Alhussian, H. (2020). Approaches to Multi-Objective Feature Selection: A Systematic Literature Review. *IEEE Access, 8*, 125076-125096. https://doi.org/10.1109/ACCESS.2020.3007291
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
