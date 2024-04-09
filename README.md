@@ -37,6 +37,16 @@ This course will cover the fundamental steps and implementation on developing th
 
 ## References
 1. Koons, G.L., Schenke-Layland, K., & Mikos, A.G. (2019). Why, when, who, what, how, and where for trainees writing literature review articles. *Annals of Biomedical Engineering*, **47**(11), 2334–2340. https://doi.org/10.1007/s10439-019-02290-5
+2. Jaidka, K., Khoo, C. S. G., & Na, J.-C. (2013). Literature review writing: How information is selected and transformed. *Aslib Proceedings, 65*(3), 5. [https://doi.org/10.1108/00012531311330665](https://www.researchgate.net/publication/257201603_Literature_review_writing_how_information_is_selected_and_transformed)
+
+Make sure to double-check this format against the most current APA guidelines or your institution's requirements, as citation standards can change over time..
+
+Source: Conversation with Bing, 09/04/2024
+(1) How to Write a Literature Review | Guide, Examples, & Templates - Scribbr. https://www.scribbr.com/methodology/literature-review/.
+(2) Sample papers - APA Style. https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers.
+(3) APA Literature Review - Collin College. https://www.collin.edu/studentresources/writingcenter/pdfs/PRCHandouts/APA%20Literature%20Review.pdf.
+(4) How to Write a Literature Review in APA Format - Pen and the Pad. https://penandthepad.com/write-literature-review-apa-format-6569414.html.
+(5) en.wikipedia.org. https://en.wikipedia.org/wiki/Literature_review.
 
 
 
