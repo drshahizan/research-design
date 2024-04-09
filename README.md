@@ -46,7 +46,7 @@ This course will cover the fundamental steps and implementation on developing th
 carbon footprint management in buildings: A systematic literature review. In: Sandanayake, Y.G., 
 Waidyasekara, K.G.A.S., Ramachandra, T. and Ranadewa, K.A.T.O. (eds). Proceedings of the 11th World 
 Construction Symposium, 21-22 July 2023, Sri Lanka. [Online]. pp. 446-459. DOI: https://doi.org/10.31705/WCS.2023.37. Available from: https://ciobwcs.com/papers/446
-
+8. Arruda, H. M., Bavaresco, R. S., Kunst, R., & Barbosa, J. (2023). Data science methods and tools for Industry 4.0: A systematic literature review and taxonomy. *Sensors, 23*(11), 5010. https://doi.org/10.3390/s23115010
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
