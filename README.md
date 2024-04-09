@@ -19,6 +19,7 @@ This course will cover the fundamental steps and implementation on developing th
 
 ## Data Science
 - [Data Science - A Complete Introduction](https://www.heavy.ai/learn/data-science)
+- [Deconstructing Data Science: Breaking The Complex Craft Into It’s Simplest Parts](https://medium.com/the-mission/deconstructing-data-science-breaking-the-complex-craft-into-its-simplest-parts-15b15420df21)
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 
   
