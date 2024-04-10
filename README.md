@@ -19,6 +19,7 @@ This course will cover the fundamental steps and implementation on developing th
 
 ## Data Science
 - [Data Science - A Complete Introduction](https://www.heavy.ai/learn/data-science)
+- [What is Data Science? Definition, Examples, Tools & More](https://www.datacamp.com/blog/what-is-data-science-the-definitive-guide)
 - [Intro to data science on Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/intro-data-science-google-cloud)
 - [Modernizing data science lifecycle management with AWS and Wipro](https://aws.amazon.com/blogs/machine-learning/modernizing-data-science-lifecycle-management-with-aws-and-wipro/)
 - [Deconstructing Data Science: Breaking The Complex Craft Into It’s Simplest Parts](https://medium.com/the-mission/deconstructing-data-science-breaking-the-complex-craft-into-its-simplest-parts-15b15420df21)
