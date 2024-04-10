@@ -26,17 +26,6 @@
 4. [**Do's and don'ts**](do_dont.md) for each aspect of Chapter 1
 5. [**Checklist**](checklist.md) for Chapter 1
 
-### Submission
-Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is correctly formatted and includes all required subtopics. Within the [`exer1`]() folder, create a folder with your GitHub ID. Name the file as `exer1.md`.
-
-```
-🗂️exer1
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄exer1.md
-├── 📁your github id
-```
-
 Detailed explanations for each subtopic are as follows:
 
 ## Exploring Your Research Topic
@@ -113,6 +102,41 @@ These exercises will help you delve into your chosen research topic within compu
     * Clearly articulate how your research will contribute valuable knowledge to the field and differentiate itself from existing work.
 
 By completing these exercises, you'll gain a deeper understanding of your research topic, develop a clear research question and objectives, and articulate the significance of your work within the broader field. 
+
+## Submission
+Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is correctly formatted and includes all required subtopics. Within the [`exer1`]() folder, create a folder with your GitHub ID. Name the file as `exer1.md`.
+
+```
+🗂️exer1
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄exer1.md
+├── 📁your github id
+```
+
+| No. | Name                              | ID             | Portfolio |
+|-----|-----------------------------------|----------------|-------------|
+| 1   | ALBASHAH, ZAINAB ALI A            |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 2   | CAI FUYUAN                        |  caifuyuan123  | <a href="caifuyuan123"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 3   | FARADHYSA CAMILA                  |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 4   | GRACE LING KIAN HWAI              |  GraceLKH      | <a href="GraceLKH"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 5   | LU RUIQI                          |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 6   | MAHAR AFROZE                      |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 7   | NURAMIRA SHAFINAZ BINTI ZULAILEE  |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 9  | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid     | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 10  | WAFAA ZAHIRA BINTI ANAS           |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 11  | YAP QI YUAN                       | QiYuanGitGit   | <a href="QiYuanGitGit"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 12  | BAKUNGA BRONSON                   | BakungaBronson | <a href="BakungaBronson"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 13  | ABDULAZIZ S. YALWA |     saiduyalwa          | <a href="saiduyalwa"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 14  | TAFA TAOFIK OLASUNKANMI |   taofiktafa     | <a href="taofiktafa"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 15  | ADEYEMO SARAFA OLASUNKANMI |   sarafaAdeyemo             | <a href="sarafaAdeyemo"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 16  | MOHAMMAD ALI BIN AFARIN |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 17  | APRI JUNAIDI |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 18  | YOVI PRATAMA           |         yovipratama       | <a href="yovipratama"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 19  | AFRIZAL NEHEMIA TOSCANY |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 20  | ABDIRAHMAN OSMAN HASHI |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
