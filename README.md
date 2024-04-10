@@ -22,6 +22,7 @@ This course will cover the fundamental steps and implementation on developing th
 - [Deconstructing Data Science: Breaking The Complex Craft Into It’s Simplest Parts](https://medium.com/the-mission/deconstructing-data-science-breaking-the-complex-craft-into-its-simplest-parts-15b15420df21)
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist). Step by step guide to becoming an AI and Data Scientist in 2024
 - [Why Is Data Science Different than Software Development?  It Starts with Data…Lots o’ DATA!!](https://www.datasciencecentral.com/why-is-data-science-different-than-software-development-it-starts/)
+- [Conceptual Framework for Solving Data Analysis Problems](https://www.geeksforgeeks.org/conceptual-framework-for-solving-data-analysis-problems/)
 - [Battle of the Data Science Venn Diagrams](https://deeplearning.lipingyang.org/wp-content/uploads/2017/10/Battle-of-the-Data-Science-Venn-Diagrams.pdf)
 - [**ScienceGate**](https://www.sciencegate.app/keyword/40688?expand_article=1) features a collection of the latest research papers in data science, covering a wide range of topics from environmental impact to business applications.
 - [**Harvard Data Science Review**](https://hdsr.mitpress.mit.edu/) offers a platform for foundational thinking, research milestones, and educational innovations in data science.
