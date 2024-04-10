@@ -53,22 +53,36 @@ This course will cover the fundamental steps and implementation on developing th
 - **[The Conversation](https://theconversation.com/global/topics/data-science-18784)**: Has a section dedicated to data science, with articles discussing the impact of data science on various fields.
   
 ## Github Repository: Literature Review
-- [UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)
-- [Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)
-- [Systematic Literature Review - Gitbook](https://drshahizan.gitbook.io/slr/)
-- [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
-- [AI tools](https://drshahizan.gitbook.io/ai-tools/)
+
+- **[UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)**: A repository by UTM that explores the use of AI in conducting systematic literature reviews.
+
+- **[Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)**: This vault contains resources and templates for conducting literature reviews in computer science using Obsidian.md.
+
+- **[Systematic Literature Review - Gitbook](https://drshahizan.gitbook.io/slr/)**: A Gitbook dedicated to guiding readers through the process of conducting systematic literature reviews.
+
+- **[Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)**: This repository provides tools and tips for using Obsidian.md to enhance academic writing and research.
+
+- **[AI tools](https://drshahizan.gitbook.io/ai-tools/)**: A collection of AI tools and resources compiled to assist researchers in various tasks related to data science and machine learning.
 
 ## Github Repository: Data Science
-1. [Learn Github](https://github.com/drshahizan/learn-github)
-2. [Big Data Management](https://github.com/drshahizan/BDM)
-3. [High Performance Data Processing](https://github.com/drshahizan/HPDP)
-4. [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
-5. [Python for beginners](https://github.com/drshahizan/python-tutorial)
-6. [Web Scraping](https://github.com/drshahizan/python-web)
-7. [Exploratory Data Analysis (EDA)](https://github.com/drshahizan/Python_EDA)
-8. [Big data processing](https://github.com/drshahizan/Python-big-data)
-9. [Django](https://github.com/drshahizan/learn-django)
+
+- **[Learn Github](https://github.com/drshahizan/learn-github)**: A tutorial repository designed to help beginners understand and master the functionalities of GitHub.
+
+- **[Big Data Management](https://github.com/drshahizan/BDM)**: This repository focuses on strategies and technologies for managing large datasets effectively.
+
+- **[High Performance Data Processing](https://github.com/drshahizan/HPDP)**: A collection of resources dedicated to processing data at high speeds and efficiency.
+
+- **[Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)**: A repository covering advanced topics and discussions in the field of data engineering.
+
+- **[Python for beginners](https://github.com/drshahizan/python-tutorial)**: Offers tutorials and exercises for those new to programming, specifically in the Python language.
+
+- **[Web Scraping](https://github.com/drshahizan/python-web)**: Contains code and documentation for scraping data from the web using Python.
+
+- **[Exploratory Data Analysis (EDA)](https://github.com/drshahizan/Python_EDA)**: This repository provides examples and best practices for performing exploratory data analysis using Python.
+
+- **[Big data processing](https://github.com/drshahizan/Python-big-data)**: Focuses on techniques and code examples for processing big data using Python.
+
+- **[Django](https://github.com/drshahizan/learn-django)**: A guide for learning Django, a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 
 ## Articles
 1. Koons, G.L., Schenke-Layland, K., & Mikos, A.G. (2019). Why, when, who, what, how, and where for trainees writing literature review articles. *Annals of Biomedical Engineering*, **47**(11), 2334–2340. https://doi.org/10.1007/s10439-019-02290-5
