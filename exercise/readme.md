@@ -10,14 +10,14 @@
 | No. | Activity | Topic | File | Submission |
 | :-----: | ------ | ------ | :-----: | :-----: | 
 | 1. | Exercise 1 | Chapter 1: Introduction | <a href="exer1" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="exer1.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 2. | Exercise 2 | Proposal: title, synopsis, and major reference | <a href="exer1.md" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="exer1.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 2. | Exercise 2 | Chapter 2: Literature Review | <a href="exer1.md" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="exer1.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. | Exercise 3 | Research framework diagram | <a href="exer1.md" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="exer1.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 
 ## Multiple-choice questions
 | Set | Topic  | File | 
 | :-----: |  ------ | :-----: | 
 | mcq1 | Chapter 1: Introduction  | <a href="./mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
-| mcq2 | Chapter 1: Introduction  | <a href="./mcq/mcq2.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| mcq2 | Chapter 1: Introduction   | <a href="./mcq/mcq2.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 | mcq3 | Chapter 1: Introduction  | <a href="./mcq/mcq3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 
 
