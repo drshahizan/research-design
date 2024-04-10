@@ -116,13 +116,13 @@ Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is c
 
 | No. | Name                              | ID             | Answer |
 |-----|-----------------------------------|----------------|:-------------:|
-| 1   | ALBASHAH, ZAINAB ALI A            |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 2   | CAI FUYUAN                        |  caifuyuan123  | <a href="caifuyuan123"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 3   | FARADHYSA CAMILA                  |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 4   | GRACE LING KIAN HWAI              |  GraceLKH      | <a href="GraceLKH"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 5   | LU RUIQI                          |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 6   | MAHAR AFROZE                      |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 7   | NURAMIRA SHAFINAZ BINTI ZULAILEE  |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 1   | ALBASHAH, ZAINAB ALI A            |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 2   | CAI FUYUAN                        |  caifuyuan123  | <a href="caifuyuan123"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 3   | FARADHYSA CAMILA                  |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 4   | GRACE LING KIAN HWAI              |  GraceLKH      | <a href="GraceLKH"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 5   | LU RUIQI                          |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 6   | MAHAR AFROZE                      |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 7   | NURAMIRA SHAFINAZ BINTI ZULAILEE  |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 9  | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid     | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 10  | WAFAA ZAHIRA BINTI ANAS           |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
