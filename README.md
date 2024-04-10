@@ -19,6 +19,7 @@ This course will cover the fundamental steps and implementation on developing th
 
 ## Data Science
 - [Data Science - A Complete Introduction](https://www.heavy.ai/learn/data-science)
+- [Intro to data science on Google Cloud](https://cloud.google.com/blog/topics/developers-practitioners/intro-data-science-google-cloud)
 - [Deconstructing Data Science: Breaking The Complex Craft Into It’s Simplest Parts](https://medium.com/the-mission/deconstructing-data-science-breaking-the-complex-craft-into-its-simplest-parts-15b15420df21)
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist). Step by step guide to becoming an AI and Data Scientist in 2024
 - [Why Is Data Science Different than Software Development?  It Starts with Data…Lots o’ DATA!!](https://www.datasciencecentral.com/why-is-data-science-different-than-software-development-it-starts/)
