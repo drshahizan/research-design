@@ -104,13 +104,13 @@ These exercises will help you delve into your chosen research topic within compu
 By completing these exercises, you'll gain a deeper understanding of your research topic, develop a clear research question and objectives, and articulate the significance of your work within the broader field. 
 
 ## Submission
-Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is correctly formatted and includes all required subtopics. Within the [`exer1`]() folder, create a folder with your GitHub ID. Name the file as `exer1.md`.
+Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is correctly formatted and includes all required subtopics. Within the [`exer1`]() folder, create a folder with your GitHub ID. Name the file as `readme.md`.
 
 ```
 🗂️exer1
 ├── 📄readme.md
 ├── 📁drshahizan
-│   ├── 📄exer1.md
+│   ├── 📄readme.md
 ├── 📁your github id
 ```
 
