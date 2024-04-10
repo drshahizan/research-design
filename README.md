@@ -11,12 +11,18 @@
 ## Course Synopsis
 This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. Students will be given the mechanisms on how to transform and digest the literature reviews that leads to the proposed title. The theoretical and practical aspects of implementing draft project proposal will be the milestone of this course. Ordered, Critical and Reasoning Exposition of knowledge through students efforts.
 
-## 🔥 Important things
-1. [Student Information](profile)
-2. [Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)
-3. [Assignment](./assignment)
-4. [Exercise](./exercise)
-5. [E-Learning UTM](https://elearning.utm.my/23242/index.php)
+## 🔥 Important Things
+
+- **[Student Information](profile)**: Access personal and academic information relevant to your student profile.
+  
+- **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
+  
+- **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
+  
+- **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
+  
+- **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
+
 
 ## Data Science Resources
 
