@@ -9,7 +9,7 @@
 
 | No. | Activity | Topic | File | Submission |
 | :-----: | ------ | ------ | :-----: | :-----: | 
-| 1. | Exercise 1 | Chapter 1: Introduction | <a href="exer1" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="exer1.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. | Exercise 1 | Chapter 1: Introduction | <a href="exer1" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="/exer1/readme.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 2. | Exercise 2 | Chapter 2: Literature Review | <a href="exer1.md" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="exer1.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 3. | Exercise 3 | Research framework diagram | <a href="exer1.md" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="exer1.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 
