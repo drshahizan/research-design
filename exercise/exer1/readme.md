@@ -114,8 +114,8 @@ Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is c
 ├── 📁your github id
 ```
 
-| No. | Name                              | ID             | Portfolio |
-|-----|-----------------------------------|----------------|-------------|
+| No. | Name                              | ID             | Answer |
+|-----|-----------------------------------|----------------|:-------------:|
 | 1   | ALBASHAH, ZAINAB ALI A            |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 2   | CAI FUYUAN                        |  caifuyuan123  | <a href="caifuyuan123"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 3   | FARADHYSA CAMILA                  |                | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
