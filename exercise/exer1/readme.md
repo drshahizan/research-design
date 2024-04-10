@@ -128,7 +128,7 @@ Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is c
 | 10  | WAFAA ZAHIRA BINTI ANAS           |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 11  | YAP QI YUAN                       | QiYuanGitGit   | <a href="QiYuanGitGit"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 12  | BAKUNGA BRONSON                   | BakungaBronson | <a href="BakungaBronson"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 13  | ABDULAZIZ S. YALWA |     saiduyalwa          | <a href="saiduyalwa"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 13  | ABDULAZIZ S. YALWA |     saiduyalwa          | <a href="saiduyalwa"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 14  | TAFA TAOFIK OLASUNKANMI |   taofiktafa     | <a href="taofiktafa"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 15  | ADEYEMO SARAFA OLASUNKANMI |   sarafaAdeyemo             | <a href="sarafaAdeyemo"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 16  | MOHAMMAD ALI BIN AFARIN |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
