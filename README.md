@@ -16,6 +16,7 @@ This course will cover the fundamental steps and implementation on developing th
 2. [Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)
 3. [Assignment](./assignment)
 4. [Exercise](./exercise)
+5. [E-Learning UTM](https://elearning.utm.my/23242/index.php)
 
 ## Data Science
 - [Data Science - A Complete Introduction](https://www.heavy.ai/learn/data-science)
