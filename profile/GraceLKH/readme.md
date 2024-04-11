@@ -6,14 +6,14 @@
 
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
-Hi, I'm Grace, currently pursuing a Master degree in Data Science @ UTM. I'm the one who likes to challenge myself, and that's why before I made the decision to further my study in the field of Data Science, I actually gave myself a try to work in various fields such as web design engineer, data analyst, process associate, catering, pastry, bar tender, promoter, and others. 
+Hi, I'm Grace, currently pursuing a Master degree in Data Science @ UTM. I'm the one who likes to challenge myself, and that's why before I made the decision to further my study in the field of Data Science, I actually gave myself a try to work in various fields such as network design engineer, data analyst, process associate, catering, pastry, bar tender, promoter, and others. 
 
 ## Skills 🛠️
 
 - Programming languages: MySQL, Python (Learning)
 - Web frameworks: N/A
 - Blockchain platforms: N/A
-- Cloud services: Threecloud (A kind of cloud that is owned by the company itself)
+- Cloud services: Threecloud (A kind of cloud that is owned by the company itself), AWS (Learning)
 - Other tools: Rabbit (Tableau like software), Capcut, AutoCAD, Solidworks
 
 ## Related Work Experience 💼
