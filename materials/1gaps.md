@@ -5,7 +5,25 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Identifying Research Gaps
+# Research Gap
+
+## Definition
+A **research gap** is essentially an unanswered question or unresolved problem in a field, which reflects a lack of existing research in that space. It can also exist when there's already a fair deal of existing research, but where the findings of the studies pull in different directions, making it difficult to draw firm conclusions. 
+
+In the context of **Computer Science** and **Data Science**, research gaps can emerge in various areas. Here are some examples:
+
+1. **New Concepts or Phenomena**: This type of research gap emerges when there’s a new concept or phenomenon that hasn’t been studied much, or at all. For example, when a new algorithm or data structure is introduced, there's an opportunity to explore its impacts on computational efficiency, its applications in different domains, etc¹.
+
+2. **Disagreement Gap**: This type of gap exists when different studies have conflicting findings. For example, different machine learning models might have varying performance on the same dataset, and it's not clear which model is the best.
+
+3. **Contextual Gap**: This type of gap exists when existing research has not been conducted in a specific context or condition. For example, a certain data analysis technique might work well in one domain (like healthcare), but it's not clear if it would work as well in another domain (like finance).
+
+4. **Methodological Gap**: This type of gap exists when there are questions about the methods used in existing research. For example, there might be questions about the validity of certain data collection methods or the robustness of certain computational models.
+
+Identifying these gaps requires a thorough understanding of the existing literature and a keen eye for details and patterns that have not yet been explored. Once a gap is identified, it can serve as a valuable starting point for new research.
+
+
+## Identifying Research Gaps
 
 Steps that can help you identify a research gap
 
