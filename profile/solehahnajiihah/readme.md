@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://github.com/drshahizan/research-design/assets/165742522/a3d544da-6a27-4163-a0a2-6d90cffbabcb" width=40% height=40%>
-  <br/>
-
-  
-  # Solehah Najiihah Binti Abd Jamal (Solehah) 
-  
 </p>
+
+<h1 align="center">
+  Solehah Najiihah (Solehah)
+</h1>
+
 
 
 ## About Me
