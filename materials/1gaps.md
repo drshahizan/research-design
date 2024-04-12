@@ -1,4 +1,6 @@
-Identifying research gaps in fields like computer science and data science involves a systematic approach. Here are some steps that can help you identify a research gap:
+# Identifying research gaps
+
+Steps that can help you identify a research gap
 
 1. **Review existing literature**: Conduct a thorough review of the existing literature in your research area. This will help you identify what has already been studied and what gaps still exist¹.
 
