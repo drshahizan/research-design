@@ -1,9 +1,12 @@
 <p align="center">
   <img src="https://github.com/drshahizan/research-design/assets/165742522/a3d544da-6a27-4163-a0a2-6d90cffbabcb" width=40% height=40%>
+  <br/>
+
   
   # Solehah Najiihah Binti Abd Jamal (Solehah) 
   
 </p>
+
 
 ## About Me
 Hello, I'm Solehah Najiihah, currently pursuing a master degree in data science at UTM. I like to learn new things, gain new knowledges and challenge myself. 
