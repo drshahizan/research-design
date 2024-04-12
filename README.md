@@ -26,8 +26,8 @@ This course will cover the fundamental steps and implementation on developing th
 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
-| 1.   | Research Gap     | <a href="./materials/1gaps.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 2.   | Navigating the Data Science Landscape               | <a href="./materials/ds_landscape.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 1.   | Research Gaps     | <a href="./materials/1gaps.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 2.   | AI Tools for Identifying Research Gaps | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-gaps.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 
 ## Data Science Resources
