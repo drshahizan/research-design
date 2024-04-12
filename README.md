@@ -5,7 +5,6 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-
 # Research Design and Analysis in Data Science (MCSD1043)
 
 ## Course Synopsis
@@ -22,6 +21,13 @@ This course will cover the fundamental steps and implementation on developing th
 - **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
   
 - **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
+
+## Notes
+
+| No. | Content                                             | File | 
+|----: |----------------------------------------------------|------|
+| 1.   | Charting Your Path in Data and Machine Learning     | <a href="./materials/de_ds.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 2.   | Navigating the Data Science Landscape               | <a href="./materials/ds_landscape.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 
 ## Data Science Resources
