@@ -14,6 +14,7 @@ Hi, I'm YAP QI YUAN, a master's student in Data Science (UTM). I am passionate a
 - Web frameworks: NA
 - Blockchain platforms: NA
 - Cloud services: AWS (Start to learn)
+- JMP software, SQL(Oracle) during work
 - Other tools: Git
 
 ## Projects <img src="https://github.com/drshahizan/BDM/assets/51344005/9bfd8fba-9b7b-4f06-8b4e-0a44313e5baa" width="30" />
