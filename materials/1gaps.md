@@ -12,7 +12,7 @@ A **research gap** is essentially an unanswered question or unresolved problem i
 
 In the context of **Computer Science** and **Data Science**, research gaps can emerge in various areas. Here are some examples:
 
-1. **New Concepts or Phenomena**: This type of research gap emerges when there’s a new concept or phenomenon that hasn’t been studied much, or at all. For example, when a new algorithm or data structure is introduced, there's an opportunity to explore its impacts on computational efficiency, its applications in different domains, etc¹.
+1. **New Concepts or Phenomena**: This type of research gap emerges when there’s a new concept or phenomenon that hasn’t been studied much, or at all. For example, when a new algorithm or data structure is introduced, there's an opportunity to explore its impacts on computational efficiency, its applications in different domains, etc.
 
 2. **Disagreement Gap**: This type of gap exists when different studies have conflicting findings. For example, different machine learning models might have varying performance on the same dataset, and it's not clear which model is the best.
 
@@ -51,7 +51,7 @@ Remember, identifying a research gap requires critical thinking, creativity, and
 ## Common Pitfalls in Identifying Research Gaps
 Identifying research gaps is a crucial part of the research process, but it can also be challenging. Here are some common pitfalls to avoid:
 
-1. **Overwhelming Information**: Dealing with an enormous amount of information can be daunting. It's important to stay organized and focused on your research question³.
+1. **Overwhelming Information**: Dealing with an enormous amount of information can be daunting. It's important to stay organized and focused on your research question.
 
 2. **Lack of Organization**: Some researchers may find it difficult to organize the information they have gathered³. Using tools like reference management software can help keep your sources organized.
 
