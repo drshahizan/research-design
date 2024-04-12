@@ -1,6 +1,8 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  ![apriok](https://github.com/drshahizan/research-design/assets/7279471/44f0a61d-233c-43fc-b0f5-8b9ba9356fb1)
+
+ <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
 </div>
 
 <div id="badges"  align="center">
