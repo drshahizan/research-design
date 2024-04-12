@@ -5,65 +5,19 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Research Gaps
+# Challenges of Manual Literature Reviews
 
-## Definition
-A **research gap** is essentially an unanswered question or unresolved problem in a field, which reflects a lack of existing research in that space. It can also exist when there's already a fair deal of existing research, but where the findings of the studies pull in different directions, making it difficult to draw firm conclusions. 
+Imagine you're a data scientist on a critical mission to unearth insights from data. But before you can build your fancy models and algorithms, you need a solid foundation – a grasp of what others have discovered in similar territory. This is where the traditional approach of manual literature reviews comes in. However, instead of wrangling data, you're wrestling with research papers – a process riddled with challenges that can leave even the most enthusiastic data scientist feeling overwhelmed.
 
-In the context of **Computer Science** and **Data Science**, research gaps can emerge in various areas. Here are some examples:
+* **Information Avalanche:** The scientific world is constantly churning out new research. Journals, conferences, and online repositories are overflowing with papers. This exponential growth creates a massive information ocean, making it difficult to find the specific studies most relevant to your data science project. It's like trying to locate a single fish in a vast and ever-expanding sea. Traditional search methods often involve sifting through countless papers, many of which might be irrelevant, leading to frustration and wasted time.
 
-1. **New Concepts or Phenomena**: This type of research gap emerges when there’s a new concept or phenomenon that hasn’t been studied much, or at all. For example, when a new algorithm or data structure is introduced, there's an opportunity to explore its impacts on computational efficiency, its applications in different domains, etc.
+* **Time Thief:**  Even with the most focused search strategy, manual reviews are inherently time-consuming. Each paper requires careful reading, analysis, and potentially note-taking or summarizing. This can quickly become a significant time investment, stealing valuable hours that could be spent on the core tasks of data science – building models, analyzing results, and drawing meaningful conclusions. With limited time resources, data scientists might be forced to skim through papers or prioritize readily available sources, potentially missing out on crucial research that could strengthen their project.
 
-2. **Disagreement Gap**: This type of gap exists when different studies have conflicting findings. For example, different machine learning models might have varying performance on the same dataset, and it's not clear which model is the best.
+* **Bias Bug:**  Humans are wired to have biases, and literature reviews are not immune. Unconscious preferences can influence which papers we choose to focus on or how we interpret them. Confirmation bias, for example, can lead us to favor studies that support our existing ideas, while neglecting those that challenge them. This can create a skewed understanding of the research landscape, potentially leading to flawed conclusions in our own data science projects.  Similarly, availability bias might make us prioritize easily accessible publications over potentially more valuable, but harder-to-find, research.
 
-3. **Contextual Gap**: This type of gap exists when existing research has not been conducted in a specific context or condition. For example, a certain data analysis technique might work well in one domain (like healthcare), but it's not clear if it would work as well in another domain (like finance).
+* **Resource Rumble:**  Conducting thorough manual reviews can be a resource-intensive endeavor.  Academic databases with the most comprehensive collections often come with hefty subscription fees.  This financial barrier can limit access to the most relevant research, especially for individual researchers or smaller teams.  Furthermore, the time commitment associated with manual searching and review represents another resource constraint.  The time spent wrestling with papers detracts from other crucial aspects of data science projects, like data collection, cleaning, and analysis. This creates a resource allocation dilemma, forcing data scientists to make tough choices about where to invest their limited time and budget.
 
-4. **Methodological Gap**: This type of gap exists when there are questions about the methods used in existing research. For example, there might be questions about the validity of certain data collection methods or the robustness of certain computational models.
-
-Identifying these gaps requires a thorough understanding of the existing literature and a keen eye for details and patterns that have not yet been explored. Once a gap is identified, it can serve as a valuable starting point for new research.
-
-
-## Identifying Research Gaps
-
-Steps that can help you identify a research gap
-
-1. **Review existing literature**: Conduct a thorough review of the existing literature in your research area. This will help you identify what has already been studied and what gaps still exist.
-
-2. **Identify a research problem**: Identify a specific research problem or question that you want to address.
-
-3. **Analyze existing research**: Analyze the existing research related to your research problem. This will help you identify areas that have not been studied, inconsistencies in the findings, or limitations of the previous research.
-
-4. **Brainstorm potential research ideas**: Based on your analysis, brainstorm potential research ideas that address the identified gaps.
-
-5. **Consult with experts**: Consult with experts in your research area to get their opinions on potential research ideas and to identify any additional gaps that you may have missed.
-
-6. **Refine research questions**: Refine your research questions and hypotheses based on the identified gaps and potential research ideas.
-
-7. **Develop a research proposal**: Develop a research proposal that outlines your research questions, objectives, and methods to address the identified research gap.
-
-There are different types of research gaps that can be identified, and each type is associated with a specific situation or problem. Here are the main types of research gaps:
-
-- **Theoretical Gap**: This type of research gap refers to a lack of theoretical understanding or knowledge in a particular area.
-- **Empirical Gap**: An empirical gap occurs when there is a lack of empirical evidence or data in a particular area.
-
-Remember, identifying a research gap requires critical thinking, creativity, and a thorough understanding of the existing literature. It is an iterative process that may require revisiting and refining your research questions and ideas multiple times.
-
-## Common Pitfalls in Identifying Research Gaps
-Identifying research gaps is a crucial part of the research process, but it can also be challenging. Here are some common pitfalls to avoid:
-
-1. **Overwhelming Information**: Dealing with an enormous amount of information can be daunting. It's important to stay organized and focused on your research question.
-
-2. **Lack of Organization**: Some researchers may find it difficult to organize the information they have gathered³. Using tools like reference management software can help keep your sources organized.
-
-3. **Ignoring Methodologies**: Not evaluating the methodologies employed in existing studies can lead to missed opportunities to identify limitations or weaknesses in research design, data collection, or analysis.
-
-4. **Narrow Literature Review**: A common mistake is not conducting a thorough and wide-ranging literature review¹. This can lead to a narrow understanding of the field and missed research gaps.
-
-5. **Ignoring Discrepancies**: Not noting discrepancies, unanswered questions, or areas where further investigation is warranted can lead to missed research gaps.
-
-6. **Not Consulting Experts**: Not consulting with experts in your research area can lead to missed opportunities to identify additional gaps that you may have missed.
-
-Remember, the process of identifying research gaps requires critical thinking, creativity, and a thorough understanding of the existing literature. It's an iterative process that may require revisiting and refining your research questions and ideas multiple times².
+These interconnected challenges highlight the limitations of traditional manual literature reviews in the ever-evolving world of data science.  The sheer volume of information, the risk of bias, and the limitations of time and resources can make it difficult for data scientists to stay ahead of the curve and build upon the work of others.  Fortunately, the field of data science is constantly innovating, and advancements in automated literature review tools offer a glimmer of hope.  These tools act as intelligent assistants, helping data scientists sift through the vast ocean of research and pinpoint the most relevant papers, freeing up valuable time and resources for what they do best – uncovering hidden patterns and generating groundbreaking insights from data. 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
