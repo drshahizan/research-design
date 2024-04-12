@@ -48,7 +48,7 @@ There are different types of research gaps that can be identified, and each type
 
 Remember, identifying a research gap requires critical thinking, creativity, and a thorough understanding of the existing literature. It is an iterative process that may require revisiting and refining your research questions and ideas multiple times.
 
-## Common Pitfalls in Identifying Research Gaps.
+## Common Pitfalls in Identifying Research Gaps
 Identifying research gaps is a crucial part of the research process, but it can also be challenging. Here are some common pitfalls to avoid:
 
 1. **Overwhelming Information**: Dealing with an enormous amount of information can be daunting. It's important to stay organized and focused on your research question³.
