@@ -17,7 +17,6 @@
   </a> -->
 </div>
 
-https://github-stats-alpha.vercel.app/api?username={aprijunaidi}
 
 
 **aprijunaidi/aprijunaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
