@@ -48,6 +48,23 @@ There are different types of research gaps that can be identified, and each type
 
 Remember, identifying a research gap requires critical thinking, creativity, and a thorough understanding of the existing literature. It is an iterative process that may require revisiting and refining your research questions and ideas multiple times.
 
+## Common Pitfalls in Identifying Research Gaps.
+Identifying research gaps is a crucial part of the research process, but it can also be challenging. Here are some common pitfalls to avoid:
+
+1. **Overwhelming Information**: Dealing with an enormous amount of information can be daunting. It's important to stay organized and focused on your research question³.
+
+2. **Lack of Organization**: Some researchers may find it difficult to organize the information they have gathered³. Using tools like reference management software can help keep your sources organized.
+
+3. **Ignoring Methodologies**: Not evaluating the methodologies employed in existing studies can lead to missed opportunities to identify limitations or weaknesses in research design, data collection, or analysis.
+
+4. **Narrow Literature Review**: A common mistake is not conducting a thorough and wide-ranging literature review¹. This can lead to a narrow understanding of the field and missed research gaps.
+
+5. **Ignoring Discrepancies**: Not noting discrepancies, unanswered questions, or areas where further investigation is warranted can lead to missed research gaps.
+
+6. **Not Consulting Experts**: Not consulting with experts in your research area can lead to missed opportunities to identify additional gaps that you may have missed.
+
+Remember, the process of identifying research gaps requires critical thinking, creativity, and a thorough understanding of the existing literature. It's an iterative process that may require revisiting and refining your research questions and ideas multiple times².
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
 
