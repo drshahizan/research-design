@@ -1,6 +1,8 @@
 ### Hi there 👋
+![apriok](https://github.com/drshahizan/research-design/assets/7279471/d05cccfb-9093-4d8f-a2ca-c972129638f8)
+
 <div id="header" align="center">
-  ![apriok]
+
 
  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
 </div>
