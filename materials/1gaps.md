@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Research Gap
+# Research Gaps
 
 ## Definition
 A **research gap** is essentially an unanswered question or unresolved problem in a field, which reflects a lack of existing research in that space. It can also exist when there's already a fair deal of existing research, but where the findings of the studies pull in different directions, making it difficult to draw firm conclusions. 
