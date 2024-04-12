@@ -26,7 +26,7 @@ This course will cover the fundamental steps and implementation on developing th
 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
-| 1.   | Charting Your Path in Data and Machine Learning     | <a href="./materials/de_ds.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 1.   | Research Gap     | <a href="./materials/1gaps.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 2.   | Navigating the Data Science Landscape               | <a href="./materials/ds_landscape.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 
