@@ -62,11 +62,8 @@ https://scholar.google.com/citations?user=SMhndc8AAAAJ
 - **Bachelor of Computer**: STMIK Amik Bandung, Bandung Indonesia
 - **Master of Computer Science**: Dian Nuswantoro University, Semarang, Indonesia
 - **Master of Computer Science**: Universiti Teknikal Malaysia Melaka
-- **PhD in Computing**: Universiti Teknologi Malaysia (on going)
+- **PhD in Computing**: Universiti Teknologi Malaysia (ongoing)
 
-
-
-**aprijunaidi/aprijunaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
