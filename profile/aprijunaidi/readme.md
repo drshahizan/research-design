@@ -18,6 +18,15 @@
 </div>
 
 
+### About me
+Hello, I am **Apri**! I am a computing lecturer based in Indonesia. I am passionate about sharing knowledge. I have the privilege of training in professional programming courses, where I can help others develop their skills and understanding of the tech world.
+
+Besides teaching and training, I am also the founder of a book publishing company and a scientific journal. I serve as a board editor and reviewer for several journals in Indonesia. My research interests lie in the exciting field of **Artificial Intelligence**, where I constantly strive to learn more and contribute to this ever-evolving discipline.
+
+I am currently pursuing a **PhD** degree at Universiti Teknologi Malaysia to deepen my understanding and expertise in this field.
+
+When I'm not immersed in academia or programming, you can find me on my YouTube channel, where I explore my creative side and share my hobbies with a wider audience. Feel free to connect with me and join me on this journey!
+
 
 **aprijunaidi/aprijunaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
