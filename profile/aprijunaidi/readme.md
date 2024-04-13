@@ -52,6 +52,10 @@ I am actively involved in various social activities and communities, serving bot
 
 My engagement in social activities dates back to my senior high school years. Being close to the community and friends has always been a source of joy and fulfilment for me. I believe that these experiences are not just about giving but also about learning and growing together.
 
+## Publications
+
+I am actively working on several publications in my field of interest. You can find a list of my publications on my Google Scholar Profile.
+https://scholar.google.com/citations?user=SMhndc8AAAAJ
 
 
 
