@@ -21,7 +21,7 @@ The traditional process of searching for relevant academic literature can be tim
 
 Overall, AI-powered Literature Review significantly streamlines the information gathering process, allowing researchers to delve deeper into their chosen field and accelerate progress in academic exploration.
 
-## Case Studies:
+## Case Studies
 
 **Data Science:**
 
