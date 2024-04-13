@@ -57,14 +57,20 @@ My engagement in social activities dates back to my senior high school years. Be
 I am actively working on several publications in my field of interest. You can find a list of my publications on my Google Scholar Profile.
 https://scholar.google.com/citations?user=SMhndc8AAAAJ
 
+## Education 🎓
+
+- **Bachelor of Computer**: STMIK Amik Bandung, Bandung Indonesia
+- **Master of Computer Science**: Dian Nuswantoro University, Semarang, Indonesia
+- **Master of Computer Science**: Universiti Teknikal Malaysia Melaka
+- **PhD in Computing**: Universiti Teknologi Malaysia (on going)
+
 
 
 **aprijunaidi/aprijunaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my own company
-- 🌱 I’m currently pursuing a Ph.D. in Computing
+
 - 👯 I’m looking to collaborate on AI research
 - 📫 How to reach me: please send me email: apri.junaidi@gmail.com
 
