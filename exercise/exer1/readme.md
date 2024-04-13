@@ -131,12 +131,10 @@ Submit your completed Chapter 1 in the `exer1` folder. Ensure your document is c
 | 13  | ABDULAZIZ S. YALWA |     saiduyalwa          | <a href="saiduyalwa"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 14  | TAFA TAOFIK OLASUNKANMI |   taofiktafa     | <a href="taofiktafa"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 15  | ADEYEMO SARAFA OLASUNKANMI |   sarafaAdeyemo             | <a href="sarafaAdeyemo"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 16  | MOHAMMAD ALI BIN AFARIN |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 17  | APRI JUNAIDI |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 18  | YOVI PRATAMA           |         yovipratama       | <a href="yovipratama"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 19  | AFRIZAL NEHEMIA TOSCANY |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 20  | ABDIRAHMAN OSMAN HASHI |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 21  | DR MSO | drshahizan | <a href="drshahizan"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 16  | APRI JUNAIDI |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 17  | YOVI PRATAMA           |         yovipratama       | <a href="yovipratama"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 18  | ABDIRAHMAN OSMAN HASHI |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 19  | DR MSO | drshahizan | <a href="drshahizan"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 
 
 ## Contribution 🛠️
