@@ -10,11 +10,11 @@ Zainab Albashah from Saudi Arabia, I’m doing my master's degree in Data Scienc
 # Work Experience 💼
  I had a full-time internship for 3 months in data analysis at Foodics company. The main work was to change the CRM system which was (Zoho crm) so I took the data from the old system I analyzed it cleaned it then uploaded it to the new system which was (Salesforce)
 # Education and Training 🎓
-•	Bachelor of Management Information Systems in Saudi Arabia (2016 - 2021).//
-•	Undergraduate semester training at a startup company where I work in the data management field. 
+•	Bachelor of Management Information Systems in Saudi Arabia (2016 - 2021). <br>
+•	Undergraduate semester training at a startup company where I work in the data management field. <br>
 # Contact Me 📫
 If you want to get in touch with me, you can reach me through any of the following channels:
-•	Email: zainabali@graduate.utm.my ✉️
-•	LinkedIn: [Zainab Albashah](https://www.linkedin.com/in/zainab-albashah-733897200/) 💼
-•	GitHub: [zaalbashah](https://github.com/zaalbashah) 🐱
+•	Email: zainabali@graduate.utm.my ✉️ <br>
+•	LinkedIn: [Zainab Albashah](https://www.linkedin.com/in/zainab-albashah-733897200/) 💼 <br>
+•	GitHub: [zaalbashah](https://github.com/zaalbashah) 🐱 <br>
 
