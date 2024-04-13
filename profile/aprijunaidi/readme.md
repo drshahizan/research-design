@@ -38,6 +38,14 @@ When I'm not immersed in academia or programming, you can find me on my YouTube 
 ### Research Interest
 My primary research areas are **Artificial Intelligence** and **Internet of Things (IoT)**. I am deeply fascinated by these fields and constantly seek to contribute to them through my research.
 
+## Work Experience
+
+- **Programmer at the Tax Audit Office of the Indonesian Government**: Contributed to the development and maintenance of key systems.
+- **Programmer at a Japanese Pharmaceutical Company (Indonesia Office)**: Worked on various projects, enhancing my skills and contributing to the company's technological advancements.
+- **Head of the Information Systems Department at a University**: Led the department, overseeing all information system-related activities and initiatives.
+- **Head of a Research Group on Data Engineering at a University in Indonesia**: Led a team of researchers, driving innovation and advancements in the field of data engineering.
+- **Commissioner at My Own Company**: Oversaw strategic decisions and contributed to the growth and success of the company.
+
 
 
 **aprijunaidi/aprijunaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
