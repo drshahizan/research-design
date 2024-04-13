@@ -3,7 +3,6 @@
 <h1 align="center">Nuramira Shafinaz</h1>
 
 ## About Me 🚀
-<div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
 Hello, I'm Nuramira Shafinaz Binti Zulaile, a Passionate and driven IT Software interested in developing innovative solutions to real-world problems and currently pursuing a Master of Data Science from Universiti Teknologi Malaysia. Eager to apply theoretical knowledge in practical settings and contribute to cutting-edge technological advancements.
 
