@@ -8,7 +8,7 @@ Hello, I'm Nuramira Shafinaz Binti Zulaile, a Passionate and driven IT Software 
 
 ## Skills 🛠️
 
-- Programming languages: JAVA, JavaScript/J2EE, MYSQL, JSON/REST API, Phyton (Learning), R (Learning)
+- Programming languages: JAVA/J2EE, JavaScript, C++, PHP, HTML, CSS, Phyton (Learning), R (Learning)
 - Web frameworks: Hibernate, Spring, Ajax, Maven
 - Blockchain platforms: NA
 - Cloud services: Amazon Web Services (Learning)
