@@ -15,10 +15,6 @@ Hi, I'm Cai Fuyuan from China, and I'm currently pursuing a Master's degree in D
 - Cloud services: AWS (Learning)
 - Other tools: Git.....
 
-## Projects <img src="https://github.com/drshahizan/BDM/assets/51344005/9bfd8fba-9b7b-4f06-8b4e-0a44313e5baa" width="30" />
-
-Here are some of the projects that I have worked on or contributed to:
-
 ## Work Experience 💼
 
 - I have participated in internships in logistics companies and government departments during holidays.
