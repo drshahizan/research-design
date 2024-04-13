@@ -35,6 +35,9 @@ When I'm not immersed in academia or programming, you can find me on my YouTube 
 - **Database Management System**: I have a solid understanding of database management systems and their applications.
 - **Hosting and Website Management**: I am experienced in managing web hosting and maintaining websites.
 
+### Research Interest
+My primary research areas are **Artificial Intelligence** and **Internet of Things (IoT)**. I am deeply fascinated by these fields and constantly seek to contribute to them through my research.
+
 
 
 **aprijunaidi/aprijunaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
