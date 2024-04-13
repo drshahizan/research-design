@@ -29,7 +29,7 @@
 | 17  | APRI JUNAIDI |   aprijunaidi             | [:octocat:](https://github.com/aprijunaidi)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="aprijunaidi"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 18  | YOVI PRATAMA           |         yovipratama       | [:octocat:](https://github.com/yovipratama)       | <a href="https://www.linkedin.com/in/yovipratama"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="yovipratama"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 19  | AFRIZAL NEHEMIA TOSCANY |                | [:octocat:](https://github.com/drshahizan)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 20  | ABDIRAHMAN OSMAN HASHI |                | [:octocat:](https://github.com/drshahizan)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="your_github_id"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 20  | ABDIRAHMAN OSMAN HASHI |                | [:octocat:](https://github.com/EngHashi)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="EngHashi"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
