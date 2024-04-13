@@ -30,7 +30,7 @@ This course will cover the fundamental steps and implementation on developing th
 | 2.   | AI Tools for Identifying Research Gaps | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-gaps.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 3.   | Challenges of Manual Literature Reviews | <a href="./materials/2LR.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 | 4.   | The Efficient Literature Search | <a href="./materials/3ELR.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
-| 5.   | Literature Search | <a href="./materials/3ELR.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+| 5.   | Literature Search Tools | <a href="./materials/3ELR.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 
 
