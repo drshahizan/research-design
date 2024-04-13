@@ -46,6 +46,13 @@ My primary research areas are **Artificial Intelligence** and **Internet of Thin
 - **Head of a Research Group on Data Engineering at a University in Indonesia**: Led a team of researchers, driving innovation and advancements in the field of data engineering.
 - **Commissioner at My Own Company**: Oversaw strategic decisions and contributed to the growth and success of the company.
 
+## Social Activities
+
+I am actively involved in various social activities and communities, serving both as a member and advisor. My contributions range from providing intellectual assistance to hands-on help during events such as disaster relief, including the distribution of food, drinks, and blankets. 
+
+My engagement in social activities dates back to my senior high school years. Being close to the community and friends has always been a source of joy and fulfilment for me. I believe that these experiences are not just about giving but also about learning and growing together.
+
+
 
 
 **aprijunaidi/aprijunaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
