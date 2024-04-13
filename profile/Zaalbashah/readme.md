@@ -14,6 +14,6 @@ Zainab Albashah from Saudi Arabia, I’m doing my master's degree in Data Scienc
 # Contact Me 📫
 If you want to get in touch with me, you can reach me through any of the following channels:
 •	Email: zainabali@graduate.utm.my ✉️
-•	LinkedIn: Zainab Albashah 💼
-•	GitHub: zaalbashah 🐱
+•	LinkedIn: [Zainab Albashah](https://www.linkedin.com/in/zainab-albashah-733897200/) 💼
+•	GitHub: [zaalbashah](https://github.com/zaalbashah) 🐱
 
