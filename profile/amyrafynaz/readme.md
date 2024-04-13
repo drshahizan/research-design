@@ -30,12 +30,12 @@ BLESS stands for Business Licensing Electronic Support System. It is an online s
 
 ## Work Experience 💼
 
-- [Intern at Indonesia Institute of Science], Bandung
+- Intern at Indonesia Institute of Science, Bandung
   - Develop bioinformatics services in High-Performance Computers on a server located at LIPI Cibinong to access and analyze the exponentially
     expanding genomic sequence and functional data using Basic Local Alignment Tools (BLAST).
   - Identify possible functions based on similarities to known sequences whether a protein, nucleotide or DNA sequence.
     
-- TM ELit at Telekom Malaysia Berhad
+- TM Elit at Telekom Malaysia Berhad
   - Implement and operate Data Lake operation by support and troubleshooting the activities to ensure all the new requirements and changes are incorporated into 
     the system on time to produce up-to-date business data.
   - Design and implement solutions using big data components and TALEND for ELT processes, multidimensional, modelling, warehouse and data marts implementation.
