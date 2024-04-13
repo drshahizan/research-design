@@ -27,6 +27,15 @@ I am currently pursuing a **PhD** degree at Universiti Teknologi Malaysia to dee
 
 When I'm not immersed in academia or programming, you can find me on my YouTube channel, where I explore my creative side and share my hobbies with a wider audience. Feel free to connect with me and join me on this journey!
 
+### Skill
+
+- **Computer Science Trainer and Researcher**: I have extensive experience in teaching and researching various topics in computer science.
+- **Programming Languages**: I am proficient in several programming languages including Assembly, Basic, Python, C, PHP, and Arduino. I also have experience in IoT Programming.
+- **Typesetting**: I am skilled in using LaTeX for creating high-quality technical and scientific documents.
+- **Database Management System**: I have a solid understanding of database management systems and their applications.
+- **Hosting and Website Management**: I am experienced in managing web hosting and maintaining websites.
+
+
 
 **aprijunaidi/aprijunaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
