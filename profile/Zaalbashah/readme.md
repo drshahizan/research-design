@@ -1,4 +1,7 @@
-![image](https://github.com/drshahizan/research-design/assets/92760224/fa7b0288-58e5-4a3a-b973-74a8f5f21df8)
+<p align="center">
+<img src="https://github.com/drshahizan/research-design/assets/92760224/fa7b0288-58e5-4a3a-b973-74a8f5f21df8"  height="300" />
+</p>
+
 # About Me 
 Zainab Albashah from Saudi Arabia, I’m doing my master's degree in Data Science at UTM. I have a business background due to my bachelor's degree in Management Information Systems. I’m passionate about data science because it connects my business skills with my computer skills. I aim to be one of the most successful data scientists shortly.
 # Skills 🛠️
