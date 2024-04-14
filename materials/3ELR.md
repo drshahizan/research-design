@@ -7,8 +7,9 @@
 
 # The Efficient Literature Search
 
-
-https://pbs.twimg.com/media/F6fSxLlXQAEDB4M?format=jpg&name=4096x4096
+<p align="center">
+<img src="https://pbs.twimg.com/media/F6fSxLlXQAEDB4M?format=jpg&name=4096x4096"  height="600" />
+</p>
 
 ## Description
 
