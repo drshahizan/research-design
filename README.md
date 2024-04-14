@@ -32,6 +32,7 @@ This course will cover the fundamental steps and implementation on developing th
 | 4.   | The Efficient Literature Search | <a href="./materials/3ELR.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
 | 5.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 6.   | AI Tools for the Efficient Literature Search | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 7.   | AI Tools for Text Summarizers | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-summarizers.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 
 ## Data Science Resources
 
