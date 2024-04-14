@@ -12,7 +12,7 @@ This course will cover the fundamental steps and implementation on developing th
 
 ## 🔥 Important Things
 
-- **[Student Information](profile)**: Access personal and academic information relevant to your student profile.
+- **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
   
 - **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
   
