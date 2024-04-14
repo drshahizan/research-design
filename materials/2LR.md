@@ -7,6 +7,9 @@
 
 # Challenges of Manual Literature Reviews
 
+
+https://pbs.twimg.com/media/F6fSxLlXQAEDB4M?format=jpg&name=4096x4096
+
 Imagine you're a data scientist on a critical mission to unearth insights from data. But before you can build your fancy models and algorithms, you need a solid foundation – a grasp of what others have discovered in similar territory. This is where the traditional approach of manual literature reviews comes in. However, instead of wrangling data, you're wrestling with research papers – a process riddled with challenges that can leave even the most enthusiastic data scientist feeling overwhelmed.
 
 ## Information Avalanche
