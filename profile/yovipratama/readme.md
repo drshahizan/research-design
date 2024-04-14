@@ -47,3 +47,5 @@ Hello, my name is Yovi Pratama. I am a professional in the field of Informatics 
 <a href="https://instagram.com/yovipratama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yovipratama" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yovi_pratama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yovi_pratama" height="30" width="40" /></a>
 </p>
+## Publications
+<a href="https://scholar.google.com/citations?user=e18XecEAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>
