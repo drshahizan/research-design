@@ -7,6 +7,9 @@
 
 # The Efficient Literature Search
 
+
+https://pbs.twimg.com/media/F6fSxLlXQAEDB4M?format=jpg&name=4096x4096
+
 ## Description
 
 The traditional process of searching for relevant academic literature can be time-consuming and overwhelming.  However, advancements in Artificial Intelligence (AI) have introduced a new approach: **AI-powered Literature Review**. This technique utilizes AI-driven tools to automate the information retrieval process, significantly enhancing research efficiency. 
