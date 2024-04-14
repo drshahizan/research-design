@@ -7,6 +7,10 @@
 
 # Research Gaps
 
+<p align="center">
+<img src="https://media.licdn.com/dms/image/D4D22AQFpLG26-80YpQ/feedshare-shrink_2048_1536/0/1695289046555?e=1715817600&v=beta&t=OYihOi8tjBNP8_8jk0GgPYUWCUnPknblCdmYgEsWk1A"  height="300" />
+</p>
+
 https://media.licdn.com/dms/image/D4D22AQFpLG26-80YpQ/feedshare-shrink_2048_1536/0/1695289046555?e=1715817600&v=beta&t=OYihOi8tjBNP8_8jk0GgPYUWCUnPknblCdmYgEsWk1A
 
 ## Definition
