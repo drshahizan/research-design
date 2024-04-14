@@ -15,7 +15,7 @@ Hello, I'm Solehah Najiihah, currently pursuing a master degree in data science 
 > Python <br/> C++ <br/> Power Bi (Learning) <br/> AWS (Learning)
 
 ## Work Experience
-I have completed my 3 months internship at Epson Precision Johor on 2022. I did documentation on all the processes done in the assigned department.
+I have completed 3 months internship at Epson Precision Johor on 2022. I did documentation on all the processes done in the assigned department.
 
 ## Education
 > Bachelor of Electrical-Electronic Engineering (UTM, 2023)
