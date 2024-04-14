@@ -1,5 +1,5 @@
 
-<div align="center"><img src="profile/amyrafynaz/WhatsApp Image 2024-04-02 at 10.30.48 AM.jpeg" width="300" /></div>
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/profile/amyrafynaz/WhatsApp%20Image%202024-04-02%20at%2010.30.48%20AM.jpeg" width="300" /></div>
 <h1 align="center">Nuramira Shafinaz</h1>
 
 ## About Me 🚀
