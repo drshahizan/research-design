@@ -9,7 +9,7 @@
 
 
 ## About Me
-Hello, I'm Solehah Najiihah, currently pursuing a master degree in data science at UTM. I like to learn new things, gain new knowledges and challenge myself. 
+Hello, I'm Solehah Najiihah, currently pursuing a master degree in data science at UTM. 
 
 ## Skills
 > Python <br/> C++ <br/> Power Bi (Learning) <br/> AWS (Learning)
