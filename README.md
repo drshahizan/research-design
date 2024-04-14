@@ -72,6 +72,8 @@ This course will cover the fundamental steps and implementation on developing th
   
 ## Github Repository: Literature Review
 
+- **[The Daily Life of a PhD Student](https://github.com/drshahizan/phd)**: Offers insights into the routine and experiences of a PhD student, providing valuable tips for navigating academic research.
+
 - **[UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)**: A repository by UTM that explores the use of AI in conducting systematic literature reviews.
 
 - **[Obsidian Vault for Systematic Literature Reviews in Computer Science](https://github.com/drshahizan/obsidian-slr)**: This vault contains resources and templates for conducting literature reviews in computer science using Obsidian.md.
