@@ -7,13 +7,12 @@
 
 # Research Gaps
 
+## Definition
+A **research gap** is essentially an unanswered question or unresolved problem in a field, which reflects a lack of existing research in that space. It can also exist when there's already a fair deal of existing research, but where the findings of the studies pull in different directions, making it difficult to draw firm conclusions. 
+
 <p align="center">
 <img src="https://media.licdn.com/dms/image/D4D22AQFpLG26-80YpQ/feedshare-shrink_2048_1536/0/1695289046555?e=1715817600&v=beta&t=OYihOi8tjBNP8_8jk0GgPYUWCUnPknblCdmYgEsWk1A"  height="500" />
 </p>
-
-
-## Definition
-A **research gap** is essentially an unanswered question or unresolved problem in a field, which reflects a lack of existing research in that space. It can also exist when there's already a fair deal of existing research, but where the findings of the studies pull in different directions, making it difficult to draw firm conclusions. 
 
 In the context of **Computer Science** and **Data Science**, research gaps can emerge in various areas. Here are some examples:
 
@@ -26,7 +25,6 @@ In the context of **Computer Science** and **Data Science**, research gaps can e
 4. **Methodological Gap**: This type of gap exists when there are questions about the methods used in existing research. For example, there might be questions about the validity of certain data collection methods or the robustness of certain computational models.
 
 Identifying these gaps requires a thorough understanding of the existing literature and a keen eye for details and patterns that have not yet been explored. Once a gap is identified, it can serve as a valuable starting point for new research.
-
 
 ## Identifying Research Gaps
 
@@ -48,8 +46,9 @@ Steps that can help you identify a research gap
 
 There are different types of research gaps that can be identified, and each type is associated with a specific situation or problem. Here are the main types of research gaps:
 
-- **Theoretical Gap**: This type of research gap refers to a lack of theoretical understanding or knowledge in a particular area.
-- **Empirical Gap**: An empirical gap occurs when there is a lack of empirical evidence or data in a particular area.
+<p align="center">
+<img src="https://pbs.twimg.com/media/GG3F_ssaYAAzi8i?format=png&name=900x900"  height="500" />
+</p>
 
 Remember, identifying a research gap requires critical thinking, creativity, and a thorough understanding of the existing literature. It is an iterative process that may require revisiting and refining your research questions and ideas multiple times.
 
