@@ -20,6 +20,8 @@
 | mcq1 | Chapter 1: Introduction  | <a href="./mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 | mcq2 | Chapter 1: Introduction   | <a href="./mcq/mcq2.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 | mcq3 | Chapter 1: Introduction  | <a href="./mcq/mcq3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| mcq4 | Systematic Literature Review  | <a href="./mcq/mcq4.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| mcq5 | Systematic Literature Review   | <a href="./mcq/mcq5.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 
 
 ## Contribution 🛠️
