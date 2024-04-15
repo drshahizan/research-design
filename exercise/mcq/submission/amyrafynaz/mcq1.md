@@ -7,13 +7,13 @@
 
 ## MCQ Set:
 
-**Name:**
+**Name:** Nuramira Shafinaz Binti Zulailee
 
-**Matrix No:**
+**Matrix No:** 
 
 ## Answer
-1.
-2.
+1. C
+2. B
 3.
 4.
 5.
