@@ -22,7 +22,8 @@
 | mcq3 | Chapter 1: Introduction  | <a href="./mcq/mcq3.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 | mcq4 | Systematic Literature Review  | <a href="./mcq/mcq4.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 | mcq5 | Systematic Literature Review   | <a href="./mcq/mcq5.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
-
+| mcq6 | Chapter 2: Literature Review  | <a href="./mcq/mcq6.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| mcq7 | Chapter 2: Literature Review   | <a href="./mcq/mcq7.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
