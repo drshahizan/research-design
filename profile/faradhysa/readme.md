@@ -17,6 +17,6 @@ I have completed internship at Pharmaniaga Berhad in Data Analyst for 5 months. 
 Bachelor of Computer Science in Software Engineering (Hons.) at Universiti Teknologi Malaysia (2019 - 2023)
 # Contact Me
 ---
-* Email: [dhysa16@gmail.com] (dhysa16@gmail.com)
-* LinkedIn: [Faradhysa Camila] (https://www.linkedin.com/in/faradhysa-camila-a62a0b1b8/)
-* GitHub: [fardhys] (https://github.com/fardhys)
+* Email: [dhysa16@gmail.com](dhysa16@gmail.com)
+* LinkedIn: [Faradhysa Camila](https://www.linkedin.com/in/faradhysa-camila-a62a0b1b8/)
+* GitHub: [fardhys](https://github.com/fardhys)
