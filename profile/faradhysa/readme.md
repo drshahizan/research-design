@@ -1,4 +1,7 @@
-![image](https://github.com/drshahizan/research-design/assets/89257883/addcafe4-7952-45ca-92f6-7fa7c0bcc3ad)
+<p align="center">
+<img src="https://github.com/drshahizan/research-design/assets/89257883/addcafe4-7952-45ca-92f6-7fa7c0bcc3ad"  height="300" />
+</p>
+
 # Faradhysa Camila
 ---
 # About Me
