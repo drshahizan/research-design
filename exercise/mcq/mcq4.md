@@ -1,4 +1,30 @@
-Certainly! Here are 25 multiple-choice questions (MCQs) for a systematic literature review in computer science, formatted using Markdown:
+<a href="https://github.com/drshahizan/research-design/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/research-design" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/network/members"><img src="https://img.shields.io/github/forks/drshahizan/research-design" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-design" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/research-design"><img src="https://img.shields.io/github/issues/drshahizan/research-design" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
+# Systematic Literature Review
+
+## Instructions
+- Please use the [MCQ template](temp_mcq.md).
+- Please answer the following Multiple Choice Questions. You are required to submit your answer file in the submission folder. Within the [`submission`](submission/) folder, create a folder with your GitHub ID. Name the file as `mcq4.md`.
+
+### Folder structure
+
+```
+🗂️submission
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq12.md
+├── 📁your github id
+```
+
+## Multiple Choice Questions	
+Choose the best answer for each question.
 
 1. What is the primary objective of a systematic literature review (SLR)?
    - [ ] A. To summarize existing literature on a topic
@@ -132,9 +158,7 @@ Certainly! Here are 25 multiple-choice questions (MCQs) for a systematic literat
     - [ ] C. Excluding non-English language studies
     - [ ] D. Including studies with conflicting results
 
-23. What is the significance of a risk of bias
-
- assessment in a systematic literature review?
+23. What is the significance of a risk of bias assessment in a systematic literature review?
     - [ ] A. To summarize the key findings of each study
     - [ ] B. To identify gaps in the existing literature
     - [ ] C. To evaluate the quality of each study
@@ -152,4 +176,3 @@ Certainly! Here are 25 multiple-choice questions (MCQs) for a systematic literat
     - [ ] C. To synthesize the results of multiple studies
     - [ ] D. To present a qualitative summary of the findings
 
-Let me know if you need any changes or additions!
