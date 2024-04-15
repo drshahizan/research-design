@@ -24,6 +24,7 @@
 | mcq5 | Systematic Literature Review   | <a href="./mcq/mcq5.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 | mcq6 | Chapter 2: Literature Review  | <a href="./mcq/mcq6.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 | mcq7 | Chapter 2: Literature Review   | <a href="./mcq/mcq7.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
+| mcq8 | Literature Review and Systematic Literature Review  | <a href="./mcq/mcq8.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
