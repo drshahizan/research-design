@@ -32,7 +32,7 @@ Choose the best answer for each question.
     - c) Collecting the data
     - d) Analyzing the data
 
-2.**Which of the following is not a database typically used in a systematic literature review in computer science?
+2. Which of the following is not a database typically used in a systematic literature review in computer science?
     - a) PubMed
     - b) IEEE Xplore
     - c) ACM Digital Library
