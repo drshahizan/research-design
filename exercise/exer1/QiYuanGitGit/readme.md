@@ -10,7 +10,7 @@
 
 ### Project Title: <your title>
 
-### Prepared by: Name, matrix no, github_id
+### Prepared by: Yap Qi Yuan, MCS231025, QiYuanGitGit
 
 ## 1.1 Introduction
 
