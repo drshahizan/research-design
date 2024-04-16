@@ -30,7 +30,7 @@ Hi, I'm Grace, currently pursuing a Master degree in Data Science @ UTM. I'm the
 If you want to get in touch with me, you can reach me through any of the following channels:
 
 - Email: gracelingkian@graduate.utm.my ✉️
-- LinkedIn: [Bakunga Bronson](https://www.linkedin.com/in/gracelkh) 💼
+- LinkedIn: [Grace Ling](https://www.linkedin.com/in/gracelkh) 💼
 - GitHub: [GraceLKH](https://github.com/GraceLKH) 🐱
 
 
