@@ -1,0 +1,9 @@
+## MCQ Set:8
+
+**Name:** 
+FAISAL BIN AL ABID 
+**Matrix No:** PCS223024
+
+## Answer
+1.A 2.B 3.B 4.D 5.B 6.C 7.B 8.A 9.B 10.B 11.C 12.B 13.C 14.B 15.C 16.C 17.D 18.B 19.D 20.C
+21.D 22.C 23.D 24.B 25.A
