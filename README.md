@@ -25,7 +25,7 @@ This course will cover the fundamental steps and implementation on developing th
 ## Slides 
 | No. | Module                                             | Sub Module | File|
 |----: |----------------------------------------------------|------|------|
-| 1.   | Research Methodology in Computing     | Introduction to Research |<a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD" ><img src="./images/youtube.png" width="24px" height="24px" ></a> |
+| 1.   | Research Methodology in Computing     | Introduction to Research |<a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 
 
 ## Additional Notes
