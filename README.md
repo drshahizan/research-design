@@ -22,7 +22,13 @@ This course will cover the fundamental steps and implementation on developing th
   
 - **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
 
-## Notes
+## Slides 
+| No. | Content                                             | File | 
+|----: |----------------------------------------------------|------|
+| 1.   | Research Methodology in Computing     | |<a href="./materials/1gaps.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
+
+
+## Additional Notes
 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
