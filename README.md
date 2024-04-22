@@ -24,15 +24,15 @@ This course will cover the fundamental steps and implementation on developing th
 
 ## Slides 
 | No. | Module                                             | Sub Module | File|
-|----: |----------------------------------------------------|------|
-| 1.   | Research Methodology in Computing     | Introduction to Research |<a href="./materials/1gaps.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
+|----: |----------------------------------------------------|------|------|
+| 1.   | Research Methodology in Computing     | Introduction to Research |<a href="./materials/1gaps.md" ><img src="./images/youtube.png" width="24px" height="24px" ></a> |
 
 
 ## Additional Notes
 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
-| 1.   | Research Gaps     | <a href="./materials/1gaps.md" ><img src="./images/youtube.png" width="24px" height="24px" ></a> |
+| 1.   | Research Gaps     | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
 | 2.   | Challenges of Manual Literature Reviews | <a href="./materials/2LR.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
 | 3.   | The Efficient Literature Search | <a href="./materials/3ELR.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
 
