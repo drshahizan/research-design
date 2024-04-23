@@ -41,14 +41,14 @@ This course will cover the fundamental steps and implementation on developing th
 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
-| 1.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 2.   | Identifying Research Gaps | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 3.   | Paper Discovery | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 4.   | Paper Visualization | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 5.   | Chatbot and Assistance | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-chatbot.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 6.   | Text Summarizers | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-summarizers.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 7.   | Citation Management | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-citation.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 8.   | Journal Matching | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 1.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 2.   | Identifying Research Gaps | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 3.   | Paper Discovery | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 4.   | Paper Visualization | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 5.   | Chatbot and Assistance | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-chatbot.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 6.   | Text Summarizers | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-summarizers.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 7.   | Citation Management | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-citation.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 8.   | Journal Matching | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 
 ## Data Science Resources
 
