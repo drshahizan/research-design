@@ -8,7 +8,7 @@
 # Research Design and Analysis in Data Science (MCSD1043)
 
 <p align="center">
-<img src="/images/RM.jpeg"  height="300" />
+<img src="/images/RM.jpeg"  height="400" />
 </p>
 
 ## Course Synopsis
