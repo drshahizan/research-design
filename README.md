@@ -48,11 +48,11 @@ This course will cover the fundamental steps and implementation on developing th
 
 | No. | Topic | File|
 |----: |------|------|
-| 1.   | Part 1: Literature Review |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
-| 2.   | Part 2: Sources of Literature |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
-| 3.   | Part 3: Conventional Review |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
-| 4.   | Part 4: Review + Experimental Paper |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
-| 5.   | Part 5: Using AI Tools & ChatGPT to help writing review papers |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 1.   | Part 1: Literature Review |<a href="https://youtu.be/gFPxEUHWxU8?si=n2-b0I-jFPZMul3p" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 2.   | Part 2: Sources of Literature |<a href="https://youtu.be/f5dGatS_g-w?si=m2AduW4o16KWl-W0" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 3.   | Part 3: Conventional Review |<a href="https://youtu.be/fRyfAUmrTco?si=_Srw8FYGAm-ZM4UF" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 4.   | Part 4: Review + Experimental Paper |<a href="https://youtu.be/MRiwIoEE9PI?si=cjBipxaeT2LgXHsn" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 5.   | Part 5: Using AI Tools & ChatGPT to help writing review papers |<a href="https://youtu.be/6GFe1q2g11Q?si=sRgU03C78RJ77FGW" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 
 
 ## Additional Notes
