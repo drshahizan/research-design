@@ -32,6 +32,8 @@ This course will cover the fundamental steps and implementation on developing th
 | 1.   | Research Methodology in Computing     | Part 1: Introduction to Research |<a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 | 2.   |      | Part 2: Research in Computing |<a href="https://youtu.be/_wY_HfWA7LI?si=Lv6NOX_FCIqPB7qp" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 | 3.   |      | Part 3: Expectation of Research for an Academic Degree |<a href="https://youtu.be/jWy38T4gV9M?si=0ACv2X__cYhMauM_" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 4.   | Problem Formulation | Part 1:  |<a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+
 
 ## Additional Notes
 
