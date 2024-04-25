@@ -35,7 +35,7 @@ This course will cover the fundamental steps and implementation on developing th
 | 4.   | Problem Formulation | Part 1:  |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 | 5.   |      | Part 2: Developing Problem Statement |<a href="https://youtu.be/xWpCkcreuto?si=T62fdZKbNCCG-njH" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 | 6.   |      | Part 3:  |<a href="https://youtu.be/Iw07_sZEy8Y?si=6WBOOGz2XwOwopbx" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
-| 7.   |      | Part 3:  |<a href="https://youtu.be/hA98OCtzORg?si=eSEc4MgdSkfk0zid" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 7.   |      | Part 4:  |<a href="https://youtu.be/hA98OCtzORg?si=eSEc4MgdSkfk0zid" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 
 ## Additional Notes
 
