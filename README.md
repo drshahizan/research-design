@@ -27,6 +27,7 @@ This course will cover the fundamental steps and implementation on developing th
 - **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
 
 ## Slides 
+### Module 1: Research Methodology in Computing 
 | No. | Module                                             | Sub Module | File|
 |----: |----------------------------------------------------|------|------|
 | 1.   | Research Methodology in Computing     | Part 1: Introduction to Research |<a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
