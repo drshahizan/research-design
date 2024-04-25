@@ -28,7 +28,7 @@ This course will cover the fundamental steps and implementation on developing th
 
 ## Slides 
 ### Module 1: Research Methodology in Computing 
-| No. | Sub Module | File|
+| No. | Topic | File|
 |----: |------|------|
 | 1.   | Part 1: Introduction to Research |<a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 | 2.   | Part 2: Research in Computing |<a href="https://youtu.be/_wY_HfWA7LI?si=Lv6NOX_FCIqPB7qp" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
@@ -36,12 +36,24 @@ This course will cover the fundamental steps and implementation on developing th
 
 ### Module 2: Problem Formulation
 
-| No. | Sub Module | File|
+| No. | Topic | File|
 |----: |------|------|
 | 1.   | Part 1: What is a Research Problem?  |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 | 2.   | Part 2: Developing Problem Statement <br>Part 3: Formulating Research Questions and Hypothesis|<a href="https://youtu.be/xWpCkcreuto?si=T62fdZKbNCCG-njH" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 | 3.   | Part 4: Research Aim <br> Part 5:Research Objectives <br> Part 6: From Problem Statement to Research Questions to Research Objectives |<a href="https://youtu.be/Iw07_sZEy8Y?si=6WBOOGz2XwOwopbx" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 | 4.   | Part 7: Research Scope  |<a href="https://youtu.be/hA98OCtzORg?si=eSEc4MgdSkfk0zid" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+
+
+### Module 3: Literature Review
+
+| No. | Topic | File|
+|----: |------|------|
+| 1.   | Part 1: Literature Review |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 2.   | Part 2: Sources of Literature |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 3.   | Part 3: Conventional Review |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 4.   | Part 4: Review + Experimental Paper |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 5.   | Part 5: Using AI Tools & ChatGPT to help writing review papers |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+
 
 ## Additional Notes
 
