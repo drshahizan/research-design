@@ -34,8 +34,8 @@ This course will cover the fundamental steps and implementation on developing th
 | 3.   |      | Part 3: Expectation of Research for an Academic Degree |<a href="https://youtu.be/jWy38T4gV9M?si=0ACv2X__cYhMauM_" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 | 4.   | Problem Formulation | Part 1: What is a Research Problem?  |<a href="https://youtu.be/uhjnDO90VgU?si=E6rtLH0luM6IXqkX" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 | 5.   |      | Part 2: Developing Problem Statement <br>Part 3: Formulating Research Questions and Hypothesis|<a href="https://youtu.be/xWpCkcreuto?si=T62fdZKbNCCG-njH" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
-| 6.   |      | Part 3:  |<a href="https://youtu.be/Iw07_sZEy8Y?si=6WBOOGz2XwOwopbx" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
-| 7.   |      | Part 4:  |<a href="https://youtu.be/hA98OCtzORg?si=eSEc4MgdSkfk0zid" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 6.   |      | Part 4: Research Aim <br> Part 5:Research Objectives <br> Part 6: From Problem Statement to Research Questions to Research Objectives |<a href="https://youtu.be/Iw07_sZEy8Y?si=6WBOOGz2XwOwopbx" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 7.   |      | Part 7: Research Scope  |<a href="https://youtu.be/hA98OCtzORg?si=eSEc4MgdSkfk0zid" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 
 ## Additional Notes
 
