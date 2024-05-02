@@ -6,7 +6,24 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Journal Indexing
-Certainly! Here's a detailed description of journal indexing in Web of Science (WoS), Scopus, and non-indexed journals, presented in markdown format:
+
+Journal indexing is a critical aspect of academic publishing that affects the visibility, credibility, and impact of research. Here's an overview of what journal indexing entails:
+
+## What is Journal Indexing?
+Journal indexing refers to the inclusion of a journal in a database or a collection of journals. These databases are often searchable and allow researchers, scholars, and the general public to find articles for their research needs. Indexed journals are typically considered to be of higher scientific quality than non-indexed journals.
+
+## How Does a Journal Get Indexed?
+Journals undergo a rigorous evaluation process to be indexed. The criteria for indexing may include:
+- **Ethics and Peer Review Policies**: Journals must have clear and strict peer review processes and ethical guidelines.
+- **Editorial Board Transparency**: The editorial board's qualifications and processes must be transparent.
+- **Assessment Criteria for Submitted Articles**: There should be clear criteria for the acceptance and rejection of articles.
+
+## Key Types of Journal Indexes
+There are several types of journal indexes, including:
+- **General Indexes**: Broad coverage across multiple disciplines (e.g., Web of Science Core Collection).
+- **Specialized Indexes**: Focus on specific fields or regions (e.g., Science Citation Index Expanded for science and technology journals).
+
+## Major Indexing Databases
 
 ### Web of Science (WoS)
 The **Web of Science** (WoS) is a prestigious database that provides a comprehensive citation search. It allows researchers to search for articles from thousands of high-impact journals worldwide. WoS includes several indices such as:
