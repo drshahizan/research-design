@@ -37,8 +37,6 @@ Journals indexed in WoS are considered to be of high quality due to rigorous sel
 - Editorial content
 - Citation data
 
-To explore journals indexed in WoS, you can visit the [Web of Science Master Journal List](^1^).
-
 ### Scopus
 **Scopus** is another extensive abstract and citation database of peer-reviewed literature. It covers:
 - Scientific journals
@@ -48,8 +46,6 @@ To explore journals indexed in WoS, you can visit the [Web of Science Master Jou
 Scopus offers:
 - **Author profiles** which include details about publications and citation data.
 - **Journal metrics**, such as CiteScore, SJR (SCImago Journal Rank), and SNIP (Source Normalized Impact per Paper).
-
-For a list of journals indexed by Scopus, you can refer to resources like the [Scopus list](^2^) provided by various institutions.
 
 ### Non-Indexed Journals
 Non-indexed journals are those not included in major databases like WoS or Scopus. They may still be peer-reviewed but do not have the same level of recognition or visibility. Researchers should be cautious when publishing in non-indexed journals, as they may not undergo the same rigorous review process.
@@ -78,7 +74,7 @@ When choosing a journal for publication, it's essential to consider whether it's
 
 APCs are most commonly associated with open access articles, where the fee may be paid by the author, the author's institution, or their research funder. The global average per-journal APC is approximately **USD 1,626**, but this can range from under $100 to over $5,000, with some journals like Nature charging up to €9,500.
 
-Please note that while APCs are common in open access publishing, they are not exclusive to it. Some subscription-based journals also charge APCs for open access options within their journals, often referred to as "hybrid" open access¹.
+Please note that while APCs are common in open access publishing, they are not exclusive to it. Some subscription-based journals also charge APCs for open access options within their journals, often referred to as "hybrid" open access.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
