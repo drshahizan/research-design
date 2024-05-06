@@ -20,6 +20,8 @@ An example of a research question in computer science could be:
 
 This question is clear, focused on a specific topic (machine learning and stock market prediction), complex (requires understanding and application of machine learning algorithms), and arguable (different algorithms and optimization techniques can lead to different results).
 
+## Characteristics of a good Research Question
+
 <p align="center">
 <img src="../images/rq.jpeg"  height="300" />
 </p>
