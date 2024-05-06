@@ -30,3 +30,10 @@ Here are the key characteristics to keep in mind when crafting a research questi
 ✅ Testable: Can it stand up to scrutiny? Your question should be ripe for empirical testing, allowing for data-driven conclusions.
 
 PS:  What do you think is the most challenging aspect of crafting a research question?
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?
