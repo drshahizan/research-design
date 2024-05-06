@@ -87,19 +87,26 @@ In the field of **computer science**, a research question could be related to va
 
 7. **Ethical**: Is the research question ethical? It should not involve any harm to participants or unethical practices in the research process.
 
-## Poorly formulated research questions
+## Crafting Effective Research Questions in Computer Science
 
-1. **"Why is the sky blue?"**: While this might seem like a good question, it's not a good research question for computer science because it's not related to the field. A good research question should be relevant to your field of study.
+Formulating a strong research question is a crucial first step in any computer science investigation. A well-defined question lays the groundwork for a focused and impactful research project. Here, we explore some common pitfalls in question formulation and provide examples of effective research questions.
 
-2. **"Is Python a good programming language?"**: This question is too subjective and could lead to biased results. A better question might be, "What are the advantages and disadvantages of using Python for data analysis?"
+**Avoiding Unclear or Unfocused Questions:**
 
-3. **"How can we solve world hunger using technology?"**: This question is too broad and complex to be addressed effectively in a single research project. It could be narrowed down to something like, "How can machine learning be used to optimize crop yields?"
+* **Relevance:** Questions like "Why is the sky blue?" are not relevant to computer science and should be tailored to the field.
+* **Subjectivity:**  "Is Python a good language?" is subjective and can lead to biased results. A better approach would be to identify specific strengths and weaknesses for a particular application, such as data analysis.
+* **Scope:** Questions like "How can technology solve world hunger?" are too broad. A more focused approach, like "Can machine learning optimize crop yields?" allows for deeper investigation.
+* **Vagueness:** "Can computers think?" is a philosophical question. A more specific and researchable question would  explore capabilities and limitations of AI in mimicking human cognitive processes.
+* **Speculation:** "Will quantum computing become mainstream?" is difficult to research. A better question might be, "What challenges hinder the widespread adoption of quantum computing?" 
 
-4. **"Can computers think?"**: This question is too vague and philosophical. A more specific and researchable question might be, "What are the capabilities and limitations of artificial intelligence in mimicking human cognitive processes?"
+**Elements of a Strong Research Question:**
 
-5. **"Will quantum computing become mainstream?"**: This question is speculative and not easily researchable. A better question might be, "What are the current challenges and potential solutions in making quantum computing more accessible?"
+* **Clarity:** The question should be clearly stated and understandable by someone familiar with the field.
+* **Focus:** The question should target a specific aspect of computer science.
+* **Complexity:** The question should require in-depth research and analysis, not a simple answer.
+* **Contestability:** The question should allow for debate and exploration of different solutions or perspectives. 
 
-## Examples of a research question in Computer Science 
+**Examples of Effective Research Questions:**
 
 1. **"How can machine learning algorithms be optimized to improve their performance in predicting stock market trends?"**: This question is clear, focused on a specific topic (machine learning and stock market prediction), complex (requires understanding and application of machine learning algorithms), and arguable (different algorithms and optimization techniques can lead to different results).
 
@@ -110,8 +117,9 @@ In the field of **computer science**, a research question could be related to va
 4. **"What are the challenges in implementing quantum computing, and what potential solutions exist?"**: This question is clear, focused (on quantum computing), complex (requires understanding of quantum computing principles and challenges), and arguable (different solutions can be proposed and evaluated).
 
 5. **"How can artificial intelligence be integrated into healthcare to improve patient outcomes?"**: This question is clear, focused (on AI in healthcare), complex (requires understanding of AI and healthcare systems), and arguable (the impact of AI on patient outcomes can be debated).
+**The Challenge of Balance:**
 
-PS:  What do you think is the most challenging aspect of crafting a research question?
+The most challenging aspect of crafting a research question lies in achieving the right balance. The question should be specific enough to be answerable through research, while remaining broad enough to be interesting and allow for exploration and discovery. 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
