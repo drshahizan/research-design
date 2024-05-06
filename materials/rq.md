@@ -12,6 +12,24 @@ A **research question** is a clear, focused, concise, complex, and arguable ques
 
 In the field of **computer science**, a research question could be related to various domains such as algorithms, data structures, computer systems, machine learning, artificial intelligence, software engineering, computer graphics, computational complexity, etc.
 
+
+## Strategies for brainstorming research questions:
+
+1. **Identify Your Interest**: Start with a broad field of interest and then narrow down to a specific topic that you are curious about.
+
+2. **Read Existing Literature**: Look at what has already been done in your field of interest. This can help you identify gaps, controversies, or emerging trends that you can explore.
+
+3. **Ask Open-Ended Questions**: Your research question should be open-ended, meaning it should not be answerable with a simple "yes" or "no". 
+
+4. **Use the 5 Ws**: Consider the who, what, when, where, and why of your topic. This can help you focus your question.
+
+5. **Discuss with Others**: Talk to your professors, colleagues, or classmates about your ideas. They can provide valuable feedback and may suggest angles you hadn't considered.
+
+6. **Relevance to Field**: Ensure that your research question is relevant and significant to your field of study. It should contribute to the existing body of knowledge.
+
+7. **Flexibility**: Be flexible and open to refining your question as you progress in your research. As you learn more about your topic, you may find that your focus shifts slightly.
+
+Remember, a good research question is the foundation of your research. It's worth investing the time to get it right!
 ## Example
 
 An example of a research question in computer science could be:
@@ -50,7 +68,24 @@ Here are the key characteristics to keep in mind when crafting a research questi
 
 ✅ Testable: Can it stand up to scrutiny? Your question should be ripe for empirical testing, allowing for data-driven conclusions.
 
+## Common pitfalls to avoid when formulating a research question
+
+1. **Too Broad or Too Narrow**: A research question that is too broad can lead to a lack of focus in your research, while a question that is too narrow might not allow for sufficient analysis. It's important to find a balance.
+
+2. **Not Researchable**: The question should be one that can be answered through the research process. If the question is based on personal beliefs or values, it may not be researchable.
+
+3. **Too Complex**: While complexity is good, a question that is overly complex can make your research difficult to manage. It's better to have a clear and concise question that can be expanded upon.
+
+4. **Lack of Originality**: The research question should contribute to the existing body of knowledge in your field. If the question has already been answered, it may not be a good choice for a research project.
+
+5. **Not Linked to Theory**: In many fields, research questions should be tied to existing theories. A question that is not linked to theory may lack depth and significance.
+
+6. **Unethical or Impractical**: The research question should be ethical and practical. If answering the question would involve unethical practices, or if it is not feasible to answer the question due to time, resource, or access constraints, then it may need to be revised.
+
+Remember, a well-formulated research question is the foundation of a successful research project. It guides your research, helps you stay focused, and drives your arguments. It's worth spending the time to get it right!
+
 PS:  What do you think is the most challenging aspect of crafting a research question?
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
