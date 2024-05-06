@@ -105,13 +105,6 @@ Formulating a strong research question is a crucial first step in any computer s
 * **Vagueness:** "Can computers think?" is a philosophical question. A more specific and researchable question would  explore capabilities and limitations of AI in mimicking human cognitive processes.
 * **Speculation:** "Will quantum computing become mainstream?" is difficult to research. A better question might be, "What challenges hinder the widespread adoption of quantum computing?" 
 
-**Elements of a Strong Research Question:**
-
-* **Clarity:** The question should be clearly stated and understandable by someone familiar with the field.
-* **Focus:** The question should target a specific aspect of computer science.
-* **Complexity:** The question should require in-depth research and analysis, not a simple answer.
-* **Contestability:** The question should allow for debate and exploration of different solutions or perspectives. 
-
 **Examples of Effective Research Questions:**
 
 1. **"How can machine learning algorithms be optimized to improve their performance in predicting stock market trends?"**: This question is clear, focused on a specific topic (machine learning and stock market prediction), complex (requires understanding and application of machine learning algorithms), and arguable (different algorithms and optimization techniques can lead to different results).
