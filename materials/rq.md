@@ -13,7 +13,7 @@ A **research question** is a clear, focused, concise, complex, and arguable ques
 In the field of **computer science**, a research question could be related to various domains such as algorithms, data structures, computer systems, machine learning, artificial intelligence, software engineering, computer graphics, computational complexity, etc.
 
 
-## Strategies for brainstorming research questions:
+## Strategies for brainstorming research questions
 
 1. **Identify Your Interest**: Start with a broad field of interest and then narrow down to a specific topic that you are curious about.
 
@@ -42,8 +42,6 @@ This question is clear, focused on a specific topic (machine learning and stock 
 <p align="center">
 <img src="../images/rq.jpeg"  height="300" />
 </p>
-
-Here are the key characteristics to keep in mind when crafting a research question that shines:
 
 ✅ Clear and focused: No more beating around the bush! Your question should be crystal clear, leaving no room for ambiguity or confusion.
 
@@ -81,10 +79,27 @@ Here are the key characteristics to keep in mind when crafting a research questi
 
 6. **Unethical or Impractical**: The research question should be ethical and practical. If answering the question would involve unethical practices, or if it is not feasible to answer the question due to time, resource, or access constraints, then it may need to be revised.
 
-Remember, a well-formulated research question is the foundation of a successful research project. It guides your research, helps you stay focused, and drives your arguments. It's worth spending the time to get it right!
+## Strategies to assess the quality of your research question
+
+1. **Clarity**: Is the research question clear and unambiguous? You should be able to easily understand what is being asked.
+
+2. **Specificity**: Is the research question focused and concise? A good research question should be specific enough to explore in depth within the scope of your project.
+
+3. **Complexity**: Does the research question require analysis, synthesis, and evaluation? It should not be answerable with a simple "yes" or "no", or by easily found facts. It should require thought and the integration of multiple sources.
+
+4. **Arguable**: Is the research question open to debate? It should not be universally accepted as fact and should have more than one potential answer.
+
+5. **Researchable**: Can the research question be answered with the time, resources, and access you have? If not, you may need to refine your question.
+
+6. **Relevance**: Is the research question significant to the field of study? It should contribute to the existing body of knowledge and be of interest to others in the field.
+
+7. **Ethical**: Is the research question ethical? It should not involve any harm to participants or unethical practices in the research process.
+
+Remember, a well-formulated research question is the foundation of a successful research project. It's worth spending the time to get it right!
+
+
 
 PS:  What do you think is the most challenging aspect of crafting a research question?
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
