@@ -29,7 +29,6 @@ In the field of **computer science**, a research question could be related to va
 
 7. **Flexibility**: Be flexible and open to refining your question as you progress in your research. As you learn more about your topic, you may find that your focus shifts slightly.
 
-Remember, a good research question is the foundation of your research. It's worth investing the time to get it right!
 ## Example
 
 An example of a research question in computer science could be:
