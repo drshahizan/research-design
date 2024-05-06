@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 <p align="center">
-<img src="../../images/rq.jpeg"  height="300" />
+<img src="../images/rq.jpeg"  height="300" />
 </p>
 
 Here are the key characteristics to keep in mind when crafting a research question that shines:
