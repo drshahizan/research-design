@@ -12,7 +12,6 @@ A **research question** is a clear, focused, concise, complex, and arguable ques
 
 In the field of **computer science**, a research question could be related to various domains such as algorithms, data structures, computer systems, machine learning, artificial intelligence, software engineering, computer graphics, computational complexity, etc.
 
-
 ## Strategies for brainstorming research questions
 
 1. **Identify Your Interest**: Start with a broad field of interest and then narrow down to a specific topic that you are curious about.
@@ -29,33 +28,40 @@ In the field of **computer science**, a research question could be related to va
 
 7. **Flexibility**: Be flexible and open to refining your question as you progress in your research. As you learn more about your topic, you may find that your focus shifts slightly.
 
-## Characteristics of a good Research Question
+## Characteristics of a Good Research Question
 
-<p align="center">
-<img src="../images/rq.jpeg"  height="300" />
-</p>
+1. 🎯 **Clear and Focused:**  
+   Your question should be **explicit** and **direct**, eliminating any ambiguity or confusion.
 
-✅ Clear and focused: No more beating around the bush! Your question should be crystal clear, leaving no room for ambiguity or confusion.
+2. 🔍 **Researchable:**  
+   It must be **empirically investigable**, striking a balance between specificity and breadth to enable comprehensive examination.
 
-✅ Researchable:  Can it be answered through empirical investigation? Your question should be just the right blend of specific and broad to allow for thorough exploration.
+3. 🌟 **Relevant and Meaningful:**  
+   The question should address a **noteworthy gap** or issue in your field, adding valuable insights to the existing body of knowledge.
 
-✅ Relevant and meaningful: Does it tackle a significant gap or problem in your field? Your question should contribute meaningfully to existing knowledge.
+4. ⚖️ **Objective and Unbiased:**  
+   Maintain neutrality; your question must be devoid of personal prejudices to allow an unbiased inquiry.
 
-✅ Objective and unbiased: Keep it impartial! Your question should be free from personal biases, ensuring a fair exploration of the topic.
+5. 🏁 **Feasible:**  
+   Verify that your question is manageable within the limits of time, resources, and data accessibility.
 
-✅ Feasible: Keep it real! Ensure your question can be tackled within the constraints of time, resources, and data availability.
+6. 📐 **Methodologically Aligned:**  
+   It should correspond seamlessly with your selected research methodology.
 
-✅ Aligned with appropriate methodology: Does it match your chosen research approach? Your question should fit snugly with your methodology of choice.
+7. 🤝 **Ethical:**  
+   Your question must adhere to ethical norms, ensuring the dignity and safety of all participants.
 
-✅ Ethical: Respect is key! Ensure your question upholds ethical standards, safeguarding the well-being of all involved.
+8. 💡 **Innovative:**  
+   Aim for it to open avenues for novel findings or perspectives.
 
-✅ Potentially leading to new insights or discoveries: Will it pave the way for fresh discoveries? Your question should have the potential to uncover new knowledge or perspectives.
+9. ❤️ **Personally Resonant:**  
+   Choose a question that aligns with your passions and expertise, fueling your motivation.
 
-✅ Aligned with the researcher's interests and expertise: Does it ignite your passion? Your question should resonate with your interests and skills, driving genuine enthusiasm.
+10. 🔎 **Precise and Specific:**  
+    Your question should be sharply defined, steering clear of any vague terms.
 
-✅ Precise and specific: Leave no room for guesswork! Your question should be laser-focused, avoiding vague terminology.
-
-✅ Testable: Can it stand up to scrutiny? Your question should be ripe for empirical testing, allowing for data-driven conclusions.
+11. ✅ **Testable:**  
+    It ought to be verifiable through empirical methods, paving the way for data-backed conclusions.
 
 ## Common pitfalls to avoid when formulating a research question
 
@@ -117,6 +123,7 @@ Formulating a strong research question is a crucial first step in any computer s
 4. **"What are the challenges in implementing quantum computing, and what potential solutions exist?"**: This question is clear, focused (on quantum computing), complex (requires understanding of quantum computing principles and challenges), and arguable (different solutions can be proposed and evaluated).
 
 5. **"How can artificial intelligence be integrated into healthcare to improve patient outcomes?"**: This question is clear, focused (on AI in healthcare), complex (requires understanding of AI and healthcare systems), and arguable (the impact of AI on patient outcomes can be debated).
+   
 **The Challenge of Balance:**
 
 The most challenging aspect of crafting a research question lies in achieving the right balance. The question should be specific enough to be answerable through research, while remaining broad enough to be interesting and allow for exploration and discovery. 
