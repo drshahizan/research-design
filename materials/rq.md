@@ -5,6 +5,21 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+
+# Research Question
+
+A **research question** is a clear, focused, concise, complex, and arguable question around which you center your research. It's the question to which you want to find an answer through your research.
+
+In the field of **computer science**, a research question could be related to various domains such as algorithms, data structures, computer systems, machine learning, artificial intelligence, software engineering, computer graphics, computational complexity, etc.
+
+## Example
+
+An example of a research question in computer science could be:
+
+> "How can machine learning algorithms be optimized to better predict stock market trends?"
+
+This question is clear, focused on a specific topic (machine learning and stock market prediction), complex (requires understanding and application of machine learning algorithms), and arguable (different algorithms and optimization techniques can lead to different results).
+
 <p align="center">
 <img src="../images/rq.jpeg"  height="300" />
 </p>
