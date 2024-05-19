@@ -152,7 +152,7 @@ Construction Symposium, 21-22 July 2023, Sri Lanka. [Online]. pp. 446-459. DOI: 
 
 | **Category**          | **Link**                                                                                                   |
 |-----------------------|------------------------------------------------------------------------------------------------------------|
-| **Thesis Manual and Template** | [Thesis Manual (2018)](https://sps.utm.my/wp-content/uploads/2020/05/Thesis-manual-26.5.2020_full.pdf)       |
+| **Thesis Manual and Template** | [Thesis Manual (2023)](https://sps.utm.my/wp-content/uploads/2023/11/Thesis-Guideline-18.10.2023-1.pdf)       |
 |                       | [Thesis Template (Ms Word) v2.3](https://sps.utm.my/wp-content/uploads/2020/05/UTM-Thesis-Template-v2.3-28062019.dotx_.zip) |
 |                       | [Thesis Template (Ms Word BM) v1.2](https://sps.utm.my/wp-content/uploads/2020/05/UTM-Thesis-Template-v1.2-BM-28062019.dotx_.zip)  |
 |                       | [Latex Thesis Template (Offline)](https://github.com/utmthesis/utmthesis)                                   |
