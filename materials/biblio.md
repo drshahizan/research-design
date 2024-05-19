@@ -17,6 +17,46 @@ Here's what Bibliometrix offers:
 
 Bibliometrix is particularly useful for analyzing publication datasets, building matrices for co-citation, coupling, collaboration, and co-word analysis. These matrices are then used for network analysis, multiple correspondence analysis, and other data reduction techniques². It's a powerful tool for researchers and academics looking to evaluate scientific literature comprehensively.
 
+## Installation
+Installing Bibliometrix is a straightforward process if you follow these steps:
+
+1. **Install R**: You need to have R installed on your computer. You can download the most recent version of R from the [Comprehensive R Archive Network (CRAN)](https://cran.r-project.org/).
+
+2. **Install RStudio (Optional)**: While not necessary, RStudio provides a user-friendly interface for R. You can download it from the [RStudio website](^2^).
+
+3. **Install Bibliometrix**:
+   - Open R or RStudio.
+   - In the console, type the following command and press Enter:
+     ```R
+     install.packages("bibliometrix")
+     ```
+   - If prompted, select a CRAN mirror that is closest to your location for a faster download.
+
+4. **Load Bibliometrix**:
+   - Once installed, load Bibliometrix by typing the following command in the R console:
+     ```R
+     library(bibliometrix)
+     ```
+
+5. **Launch Biblioshiny (Optional)**:
+   - Biblioshiny is the web-based interface for Bibliometrix. To launch it, enter the following command in the R console:
+     ```R
+     biblioshiny()
+     ```
+
+This will open Biblioshiny in your default web browser, allowing you to perform bibliometric analysis using a graphical interface without the need for coding³.
+
+For a more detailed guide, you can watch instructional videos available online that walk you through the installation and usage of Bibliometrix and Biblioshiny¹²³. Remember to check for any specific system requirements or dependencies that might be needed for your operating system.
+
+Source: Conversation with Bing, 19/05/2024
+(1) undefined. https://cran.r-project.org/%29.
+(2) 💯Learn to use Bibliometrix for Simple and Powerful Literature Analysis (and Great Charts). https://www.youtube.com/watch?v=5nXzL2yCkGQ.
+(3) How to How to install biblioshiny using R package for bibliometrics. https://www.youtube.com/watch?v=gjxfqzSuiIo.
+(4) Bibliometrics (22): How to install bibliometric softwares. https://www.youtube.com/watch?v=ETwMBqv_wiM.
+(5) 💯Learn to use Bibliometrix for Simple and Powerful Literature Analysis (and Great Charts). https://www.youtube.com/watch?v=5nXzL2yCkGQ.
+(6) Bibliometrix - Download. https://www.bibliometrix.org/home/index.php/download.
+(7) Bibliometrix - Home. https://www.bibliometrix.org/home/.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
 
