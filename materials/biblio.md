@@ -13,7 +13,7 @@ Here's what Bibliometrix offers:
 - **Data Collection**: It starts with data collection from various bibliographic databases like Scopus and Web of Science.
 - **Data Analysis**: After data upload, it allows for a range of analyses, including statistical analysis, data preprocessing, and construction of co-occurrence matrices.
 - **Visualization**: Bibliometrix can generate dynamic graphs and visual representations to help understand the data better.
-- **Biblioshiny**: This is a web-based interface that encapsulates the core code of Bibliometrix, allowing users to perform bibliometric analysis interactively¹.
+- **Biblioshiny**: This is a web-based interface that encapsulates the core code of Bibliometrix, allowing users to perform bibliometric analysis interactively.
 
 Bibliometrix is particularly useful for analyzing publication datasets, building matrices for co-citation, coupling, collaboration, and co-word analysis. These matrices are then used for network analysis, multiple correspondence analysis, and other data reduction techniques². It's a powerful tool for researchers and academics looking to evaluate scientific literature comprehensively.
 
