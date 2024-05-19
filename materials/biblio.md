@@ -50,9 +50,10 @@ For a more detailed guide, you can watch instructional videos available online t
 
 
 ### Youtube
-- 💯Learn to use Bibliometrix for Simple and Powerful Literature Analysis (and Great Charts). https://www.youtube.com/watch?v=5nXzL2yCkGQ.
-- How to How to install biblioshiny using R package for bibliometrics. https://www.youtube.com/watch?v=gjxfqzSuiIo.
-- Bibliometrics (22): How to install bibliometric softwares. https://www.youtube.com/watch?v=ETwMBqv_wiM.
+- [Learn to use Bibliometrix for Simple and Powerful Literature Analysis (and Great Charts)](https://www.youtube.com/watch?v=5nXzL2yCkGQ)
+- [How to How to install biblioshiny using R package for bibliometrics](https://www.youtube.com/watch?v=gjxfqzSuiIo)
+- [Bibliometrics: How to install bibliometric softwares]( https://www.youtube.com/watch?v=ETwMBqv_wiM)
+- [The Biblioshiny App for Non-Coders | Bibliometrix R Package](https://youtu.be/tAEgZlmnD-A?si=k00PGRxzEPB3aVRl)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
