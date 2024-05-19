@@ -153,13 +153,10 @@ Construction Symposium, 21-22 July 2023, Sri Lanka. [Online]. pp. 446-459. DOI: 
 | **Category**          | **Link**                                                                                                   |
 |-----------------------|------------------------------------------------------------------------------------------------------------|
 | **Thesis Manual and Template** | [Thesis Manual (2023)](https://sps.utm.my/wp-content/uploads/2023/11/Thesis-Guideline-18.10.2023-1.pdf)       |
-|                       | [Thesis Template (Ms Word) v2.3](https://sps.utm.my/wp-content/uploads/2020/05/UTM-Thesis-Template-v2.3-28062019.dotx_.zip) |
-|                       | [Thesis Template (Ms Word BM) v1.2](https://sps.utm.my/wp-content/uploads/2020/05/UTM-Thesis-Template-v1.2-BM-28062019.dotx_.zip)  |
-|                       | [Latex Thesis Template (Offline)](https://github.com/utmthesis/utmthesis)                                   |
-|                       | [Latex Thesis Template (Online)](https://www.overleaf.com/latex/templates/universiti-teknologi-malaysia-thesis/cbthxcdswcfp) |
-|                       | [Plagiarism form](https://sps.utm.my/wp-content/uploads/2020/04/Borang-Plagiat-NEW-2018-converted.pdf)       |
-|                       | [Thesis Submission Form 1](https://sps.utm.my/wp-content/uploads/2020/04/Borang-Penyerahan-Tesis-1-NEW-2018-converted.pdf)  |
-|                       | [Thesis Submission Form 2](https://sps.utm.my/wp-content/uploads/2020/04/Borang-Penyerahan-Tesis-2-NEW-2018-converted.pdf)  |
+|                       | [Thesis Template (Ms Word)](https://sps.utm.my/wp-content/uploads/2023/11/UTM-Thesis-Template-v2-2023.zip) _(updated on 1/10/2023)_ |
+|                       | [Thesis Template (Ms Word BM) v1.2](https://sps.utm.my/wp-content/uploads/2024/05/UTM-Thesis-Template-v3-2024-BM-1.zip)_(updated on 1/5/2024)_  |
+|                       | [Latex Thesis Template (Offline)](https://sps.utm.my/wp-content/uploads/2023/10/utmthesis-template-v7.0.zip) _(updated on 1/10/2023)_ |
+|                       | [Latex Thesis Template (Online)](https://www.overleaf.com/latex/templates/universiti-teknologi-malaysia-thesis/cbthxcdswcfp) _(updated on 1/10/2023)_|
 | **YouTube Tutorial**  | [How to use the Template in Ms Word](https://youtu.be/V_eY0v6yb64)                                          |
 |                       | [How to use Template dotx](https://youtu.be/Vat6q4MS8t8)                                                   |
 |                       | [How to remove School Name on Title Page](https://youtu.be/2RGTW_NU_-4)                                     |
