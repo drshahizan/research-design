@@ -54,6 +54,7 @@ For a more detailed guide, you can watch instructional videos available online t
 - [How to How to install biblioshiny using R package for bibliometrics](https://www.youtube.com/watch?v=gjxfqzSuiIo)
 - [Bibliometrics: How to install bibliometric softwares]( https://www.youtube.com/watch?v=ETwMBqv_wiM)
 - [The Biblioshiny App for Non-Coders | Bibliometrix R Package](https://youtu.be/tAEgZlmnD-A?si=k00PGRxzEPB3aVRl)
+- [How to merge Scopus and Web of Science (WoS) databases to use on Bibliometrix or Mendeley](https://youtu.be/chaDruiPs4U?si=uYm2xwjnUnTMA3u0)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
