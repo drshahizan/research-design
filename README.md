@@ -66,8 +66,6 @@ This course will cover the fundamental steps and implementation on developing th
 | 5. |Research Question|<a href="./materials/rq.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
 | 6. |Bibliometrix|<a href="./materials/biblio.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
 
-
-
 ## Data Science Resources
 
 - **[Data Science - A Complete Introduction](https://www.heavy.ai/learn/data-science)**: This resource provides a comprehensive overview of data science, including its importance and applications in various industries.
@@ -149,6 +147,30 @@ Construction Symposium, 21-22 July 2023, Sri Lanka. [Online]. pp. 446-459. DOI: 
 13. Al-Tashi, Q., Abdulkadir, S. J., Rais, H. M., Mirjalili, S., & Alhussian, H. (2020). Approaches to Multi-Objective Feature Selection: A Systematic Literature Review. *IEEE Access, 8*, 125076-125096. https://doi.org/10.1109/ACCESS.2020.3007291
 14. Wube, H. D., Esubalew, S. Z., Weldesellasie, F. F., & Debelee, T. G. (2022). Text-Based Chatbot in Financial Sector: A Systematic Literature Review. *Data Science in Finance and Economics, 2*(3), 209-236. https://doi.org/10.3934/DSFE.2022011
 15. Aguilar-Esteva, V., Acosta-Banda, A., Carreño Aguilera, R., & Patiño Ortiz, M. (2023). Sustainable Social Development through the Use of Artificial Intelligence and Data Science in Education during the COVID Emergency: A Systematic Review Using PRISMA. *Sustainability*, 15(8), 6498. https://doi.org/10.3390/su15086498
+
+## Thesis Formatting
+
+| **Category**          | **Link**                                                                                                   |
+|-----------------------|------------------------------------------------------------------------------------------------------------|
+| **Thesis Manual and Template** | [Thesis Manual (2018)](https://sps.utm.my/wp-content/uploads/2020/05/Thesis-manual-26.5.2020_full.pdf)       |
+|                       | [Thesis Template (Ms Word) v2.3](https://sps.utm.my/wp-content/uploads/2020/05/UTM-Thesis-Template-v2.3-28062019.dotx_.zip) |
+|                       | [Thesis Template (Ms Word BM) v1.2](https://sps.utm.my/wp-content/uploads/2020/05/UTM-Thesis-Template-v1.2-BM-28062019.dotx_.zip)  |
+|                       | [Latex Thesis Template (Offline)](https://github.com/utmthesis/utmthesis)                                   |
+|                       | [Latex Thesis Template (Online)](https://www.overleaf.com/latex/templates/universiti-teknologi-malaysia-thesis/cbthxcdswcfp) |
+|                       | [Plagiarism form](https://sps.utm.my/wp-content/uploads/2020/04/Borang-Plagiat-NEW-2018-converted.pdf)       |
+|                       | [Thesis Submission Form 1](https://sps.utm.my/wp-content/uploads/2020/04/Borang-Penyerahan-Tesis-1-NEW-2018-converted.pdf)  |
+|                       | [Thesis Submission Form 2](https://sps.utm.my/wp-content/uploads/2020/04/Borang-Penyerahan-Tesis-2-NEW-2018-converted.pdf)  |
+| **YouTube Tutorial**  | [How to use the Template in Ms Word](https://youtu.be/V_eY0v6yb64)                                          |
+|                       | [How to use Template dotx](https://youtu.be/Vat6q4MS8t8)                                                   |
+|                       | [How to remove School Name on Title Page](https://youtu.be/2RGTW_NU_-4)                                     |
+|                       | [How to Format Chapter](https://youtu.be/XTo9zq5k1uk)                                                      |
+|                       | [How to Format Paragraph](https://youtu.be/BJlPZV8kk_M)                                                    |
+|                       | [How to Format Declaration and Title Page](https://youtu.be/c_-_99_ct_A)                                    |
+| **Thesis Cover**      | [Full Thesis Cover](https://sps.utm.my/wp-content/uploads/2018/09/Full-PhD-in-A3-Printing.psd)             |
+|                       | [Front Page *.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Front-PhD-in-A4-Printing.psd)      |
+|                       | [Spine *.psd format](https://sps.utm.my/wp-content/uploads/2018/07/Thesis-Spine-PhD-B5.psd)                |
+|                       | [Back Cover [English] *.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Back-PhD-in-A4-Printing-EN.psd) |
+|                       | [Back Cover [Malay] *.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Back-PhD-in-A4-Printing-BM.psd) |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
