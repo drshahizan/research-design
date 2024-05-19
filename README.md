@@ -64,6 +64,9 @@ This course will cover the fundamental steps and implementation on developing th
 | 3.   | The Efficient Literature Search | <a href="./materials/3ELR.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
 | 4.   | Journal Indexing | <a href="./materials/JI.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
 | 5. |Research Question|<a href="./materials/rq.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
+| 6. |Bibliometrix|<a href="./materials/biblio.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
+
+
 
 ## Data Science Resources
 
