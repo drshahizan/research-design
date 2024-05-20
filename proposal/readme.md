@@ -9,7 +9,7 @@
 # Proposal
 
 | No. | Name                              | ID             | Proposal Title                                  | File |
-|-----|-----------------------------------|----------------|:---------------------------------------:|:-------------:|
+|-----|-----------------------------------|----------------|---------------------------------------|:-------------:|
 | 1   | ALBASHAH, ZAINAB ALI A            | Zaalbashah     |        | <a href="Zaalbashah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 2   | CAI FUYUAN                        | caifuyuan123   |      | <a href="caifuyuan123"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 3   | FARADHYSA CAMILA                  | fardhys        |           | <a href="faradhysa"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
