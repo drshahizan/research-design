@@ -8,7 +8,7 @@
 
 # Proposal
 
-| No. | Name                              | ID             | Proposal Title                                  | Linkedin                                                         | Portfolio |
+| No. | Name                              | ID             | Proposal Title                                  | Linkedin                                                         | File |
 |-----|-----------------------------------|----------------|:---------------------------------------:|:----------------------------------------------------------------:|:-------------:|
 | 1   | ALBASHAH, ZAINAB ALI A            | Zaalbashah| [:octocat:](https://github.com/Zaalbashah)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="Zaalbashah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 2   | CAI FUYUAN                        |  caifuyuan123  | [:octocat:](https://github.com/caifuyuan123)     | <a href="https://www.linkedin.com/in/fuyuan-cai-29382b302/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="caifuyuan123"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
