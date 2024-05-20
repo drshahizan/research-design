@@ -17,7 +17,7 @@ This course will cover the fundamental steps and implementation on developing th
 ## ✨ Project Handbook
 - **[Master Data Science Project Handbook](./images/Project%20Handbook.pdf)**
 - **[Template: Project Proposal](./materials/proposal.md)**
-
+- **[Proposal](./proposal/readme.md)**
 
 ## 🔥 Important Things
 
@@ -175,7 +175,7 @@ Construction Symposium, 21-22 July 2023, Sri Lanka. [Online]. pp. 446-459. DOI: 
 |                       | [Back Cover [Malay] *.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Back-PhD-in-A4-Printing-BM.psd) |
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
