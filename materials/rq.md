@@ -122,7 +122,7 @@ Formulating a strong research question is a crucial first step in any computer s
 The most challenging aspect of crafting a research question lies in achieving the right balance. The question should be specific enough to be answerable through research, while remaining broad enough to be interesting and allow for exploration and discovery. 
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 

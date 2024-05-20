@@ -28,7 +28,7 @@ Conducting thorough manual reviews can be a resource-intensive endeavor.  Academ
 These interconnected challenges highlight the limitations of traditional manual literature reviews in the ever-evolving world of data science.  The sheer volume of information, the risk of bias, and the limitations of time and resources can make it difficult for data scientists to stay ahead of the curve and build upon the work of others.  Fortunately, the field of data science is constantly innovating, and advancements in automated literature review tools offer a glimmer of hope.  These tools act as intelligent assistants, helping data scientists sift through the vast ocean of research and pinpoint the most relevant papers, freeing up valuable time and resources for what they do best – uncovering hidden patterns and generating groundbreaking insights from data. 
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 

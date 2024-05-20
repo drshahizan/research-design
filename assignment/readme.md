@@ -16,7 +16,7 @@ Conducting a Systematic Literature Review (SLR) in Data Science and Computer Sci
 Research proposal writing is a systematic and structured way of presenting a research idea or question, where the writer outlines the intended study's background, objectives, methods, and potential impact. It begins with an introduction that sets the context and significance of the research, followed by a literature review that situates the work within existing scholarship and identifies gaps. The methodology section details the proposed approach for data collection and analysis, ensuring scientific rigor and validity. The proposal concludes with a summary of the research's anticipated contributions to knowledge and practice in the field, often suggesting further areas for investigation.
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 

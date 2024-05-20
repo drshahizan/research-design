@@ -77,7 +77,7 @@ APCs are most commonly associated with open access articles, where the fee may b
 Please note that while APCs are common in open access publishing, they are not exclusive to it. Some subscription-based journals also charge APCs for open access options within their journals, often referred to as "hybrid" open access.
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 

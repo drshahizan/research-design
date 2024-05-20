@@ -70,7 +70,7 @@ Identifying research gaps is a crucial part of the research process, but it can 
 Remember, the process of identifying research gaps requires critical thinking, creativity, and a thorough understanding of the existing literature. It's an iterative process that may require revisiting and refining your research questions and ideas multiple times².
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
