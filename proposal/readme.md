@@ -10,20 +10,20 @@
 
 | No. | Name                              | ID             | Proposal Title                                  | File |
 |-----|-----------------------------------|----------------|:---------------------------------------:|:-------------:|
-| 1   | ALBASHAH, ZAINAB ALI A            | Zaalbashah     | [:octocat:](https://github.com/Zaalbashah)       | <a href="Zaalbashah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 2   | CAI FUYUAN                        | caifuyuan123   | [:octocat:](https://github.com/caifuyuan123)     | <a href="caifuyuan123"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 3   | FARADHYSA CAMILA                  | fardhys        | [:octocat:](https://github.com/fardhys)          | <a href="faradhysa"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 4   | GRACE LING KIAN HWAI              | GraceLKH       | [:octocat:](https://github.com/GraceLKH)         | <a href="GraceLKH"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 5   | LU RUIQI                          | LURUIQI7       | [:octocat:](https://github.com/LURUIQI7)         | <a href="LURUIQI7"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 6   | MAHAR AFROZE                      | maharafroze2024| [:octocat:](https://github.com/maharafroze2024)  | <a href="maharafroze2024"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 7   | NURAMIRA SHAFINAZ BINTI ZULAILEE  | amyrafynaz     | [:octocat:](https://github.com/amyrafynaz)       | <a href="amyrafynaz"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah| [:octocat:](https://github.com/solehahnajiihah)  | <a href="solehahnajiihah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 9   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      | [:octocat:](https://github.com/UmmiWahid)        | <a href="UmmiWahid"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 10  | WAFAA ZAHIRA BINTI ANAS           | wafaazahira    | [:octocat:](https://github.com/wafaazahira)      | <a href="wafaazahira"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 11  | YAP QI YUAN                       | QiYuanGitGit   | [:octocat:](https://github.com/QiYuanGitGit)     | <a href="QiYuanGitGit"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 1   | ALBASHAH, ZAINAB ALI A            | Zaalbashah     |        | <a href="Zaalbashah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 2   | CAI FUYUAN                        | caifuyuan123   |      | <a href="caifuyuan123"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 3   | FARADHYSA CAMILA                  | fardhys        |           | <a href="faradhysa"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 4   | GRACE LING KIAN HWAI              | GraceLKH       |          | <a href="GraceLKH"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 5   | LU RUIQI                          | LURUIQI7       |          | <a href="LURUIQI7"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 6   | MAHAR AFROZE                      | maharafroze2024|   | <a href="maharafroze2024"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 7   | NURAMIRA SHAFINAZ BINTI ZULAILEE  | amyrafynaz     |        | <a href="amyrafynaz"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah|   | <a href="solehahnajiihah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 9   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      |         | <a href="UmmiWahid"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 10  | WAFAA ZAHIRA BINTI ANAS           | wafaazahira    |       | <a href="wafaazahira"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 11  | YAP QI YUAN                       | QiYuanGitGit   |      | <a href="QiYuanGitGit"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
