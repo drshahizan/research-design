@@ -14,6 +14,11 @@
 ## Course Synopsis
 This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. Students will be given the mechanisms on how to transform and digest the literature reviews that leads to the proposed title. The theoretical and practical aspects of implementing draft project proposal will be the milestone of this course. Ordered, Critical and Reasoning Exposition of knowledge through students efforts.
 
+## Project Handbook
+- **[Master Data Science Project Handbook](./images/Project%20Handbook.pdf)**: 
+- **[ProjectProposal](./images/proposal.md)**: 
+
+
 ## 🔥 Important Things
 
 - **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
