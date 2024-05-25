@@ -19,7 +19,7 @@
 | 7   | NURAMIRA SHAFINAZ BINTI ZULAILEE  | amyrafynaz     |        | <a href="amyrafynaz"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah|   | <a href="solehahnajiihah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 9   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      |         | <a href="UmmiWahid"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 10  | WAFAA ZAHIRA BINTI ANAS           | wafaazahira    |       | <a href="wafaazahira"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 10  | WAFAA ZAHIRA BINTI ANAS           | wafaazahira    |  Cashless Payment Adoption in Malaysia: A Quantitative Approach     | <a href="wafaazahira"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 11  | YAP QI YUAN                       | QiYuanGitGit   |   A systematic review of Machine Translation Performance for Low-Resourced and Under-Resourced Languages   | <a href="QiYuanGitGit"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
