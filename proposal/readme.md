@@ -20,7 +20,7 @@
 | 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah|   | <a href="solehahnajiihah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 9   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      |  Analyze the Cashless Payment Adoption in Malaysia using A Quantitative Approach       | <a href="UmmiWahid"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 10  | WAFAA ZAHIRA BINTI ANAS           | wafaazahira    |       | <a href="wafaazahira"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 11  | YAP QI YUAN                       | QiYuanGitGit   |   A systematic review of Machine Translation Performance for Low-Resourced and Under-Resourced Languages   | <a href="QiYuanGitGit"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 11  | YAP QI YUAN                       | QiYuanGitGit   |   Sentiment analysis of news title on the movement of stock prices in Malaysia   | <a href="QiYuanGitGit"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
