@@ -25,11 +25,17 @@
 
 ## 1.4 Research Questions
 
-[Your research questions here.]
+[1) What is the performance of cashless payment in Malaysia?
+2) What is the relationship between the cashless economy and economic growth in Malaysia
+3) Which one dominates between cashless payment and cash in circulation in Malaysia?
+4) When will be Malaysia fully ready for cashless economy in Malaysia?]
 
 ## 1.5 Objectives of the Research
 
-[Your research objectives here.]
+[1) To fit cashless payment data into multiple linear regression assumptions.
+2) To identify the relationship between the cashless economy and economic growth in Malaysia.
+3) To examine the degree of dominance among cashless payment and cash in circulation in Malaysia.
+4) To forecast the readiness performance of cashless payment in Malaysia.]
 
 ## 1.6 Scope of the Study
 
