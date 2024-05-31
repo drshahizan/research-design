@@ -26,7 +26,7 @@
 ## 1.4 Research Questions
 
 1) What is the performance of cashless payment in Malaysia?
-2) What is the relationship between the cashless economy and economic growth in Malaysia
+2) What is the relationship between the cashless economy and economic growth in Malaysia?
 3) Which one dominates between cashless payment and cash in circulation in Malaysia?
 4) When will be Malaysia fully ready for cashless economy in Malaysia?
 
