@@ -7,9 +7,9 @@
 
 # Exercise 1:  Chapter 1 - Introduction
 
-### Project Title: <your title>
+### Project Title: <Cashless Payment Performance in Malaysia using a Quantitative Approach>
 
-### Prepared by: Name, matrix no, github_id
+### Prepared by: UMMI FARIHAH BINTI ABD WAHID, MCS231032, UmmiWahid
 
 ## 1.1 Introduction
 
