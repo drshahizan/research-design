@@ -13,6 +13,11 @@
 
 ## 1.1 Introduction
 
+The thesis examines on the adoption of cashless payment systems in Malaysia, providing insight into the country's growing financial transaction scene. The study, which will run from 2004 to 2023, will look into the performance of cashless payment systems and their relationship with economic growth indicators. Besides, using data from Bank Negara Malaysia, the study aims to provide insights into the dominance of cashless transactions over physical cash circulation, providing a detailed picture of Malaysia's transition to a cashless economy. Moreover, the study uses quantitative tools such as Multiple Linear Regression and Stochastic Dominance to evaluate the influence of digital payment methods on economic development and anticipate the country's readiness for a cash-free future. 
+
+Hence, the study explores into the complexity of data analysis and interpretation in order to answer research questions regarding the performance of cashless payment systems and their relevance to economic growth. The study attempts to identify patterns, trends, and possible insights that can guide policy choices and strategic initiatives targeted at promoting a more effective and digitally-driven financial ecosystem in Malaysia by looking at the GDP figures and basic payment indicators over the given timeframe. The use of quantitative tools such as Multiple Linear Regression demonstrates the dedication to rigorous analysis and evidence-based findings, giving a solid foundation for understanding the dynamics of cashless transactions in Malaysia.
+
+Furthermore, the analysis recognises the importance of digital payment systems in not only expediting transactions and improving customer convenience, but also in accelerating economic growth and empowering enterprises, particularly SMEs. The study emphasises the need of using credible sources of data and quantitative approaches to drive Malaysia towards a cashless economy. The study intends to add significant insights to Malaysia's ongoing discussion on financial technology and digital transformation by meticulously examining the relationship between cashless payment acceptance and economic indicators.
 
 ## 1.2 Background of the Problem
 
