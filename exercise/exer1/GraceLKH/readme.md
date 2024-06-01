@@ -2,11 +2,11 @@
 
 ### Project Title: 
 
-TEMPORAL ANALYSIS OF CLIMATIC INFLUENCES ON FOREST FIRE PATTERNS IN PENINSULAR MALAYSIA
+<h4 align="center"> TEMPORAL ANALYSIS OF CLIMATIC INFLUENCES ON FOREST FIRE PATTERNS IN PENINSULAR MALAYSIA </h4>
 
 ### Prepared by: 
 
-GRACE LING KIAN HWAI, MCS231026, GraceLKH
+<h4 align="center"> GRACE LING KIAN HWAI, MCS231026, GraceLKH </h4>
 
 ## 1.1 Introduction
 
@@ -70,25 +70,32 @@ This research is significant as it will provide insights into the climatic influ
 
 This thesis is structured into seven chapters, each providing a comprehensive and systematic approach to addressing the research question: How do climatic variables influence the temporal patterns of forest fires in Peninsular Malaysia? The chapters are organized as follows:
 
-Chapter 1: Introduction
+### Chapter 1: Introduction
+
 The introduction begins by presenting the primary research question and explaining its significance in understanding the influence of climatic variables on forest fires. It provides essential background information on climate change and forest fires, emphasizing their global and regional impacts, particularly in Peninsular Malaysia. The chapter outlines the research objectives, scope, assumptions, and significance, setting the stage for the entire study. It concludes with a brief overview of the methodologies employed, including data collection, analysis, and modeling techniques.
 
-Chapter 2: Literature Review/Problem Background
+### Chapter 2: Literature Review/Problem Background
+
 This chapter reviews existing literature and research relevant to the field, providing a context for the current project. It discusses the historical context and evolution of understanding climate change and forest fires, both globally and specifically in Peninsular Malaysia. Key studies are examined, highlighting their methodologies, findings, and limitations. The chapter identifies research gaps, demonstrating the need for a detailed study focused on the region's unique climatic and ecological conditions.
 
-Chapter 3: Research Methodology
+### Chapter 3: Research Methodology
+
 The methodology chapter describes the data science project life cycle framework used in the study. It details the sources of climatic and forest fire data and explains the methods for data collection. The chapter outlines the data pre-processing steps, including cleaning, transformation, and feature engineering, to prepare the data for analysis. This comprehensive description ensures transparency and reproducibility of the research methods.
 
-Chapter 4: Exploratory Data Analysis (EDA)
+### Chapter 4: Exploratory Data Analysis (EDA)
+
 This chapter focuses on exploratory data analysis (EDA), starting with visualizations and descriptive statistics to explore and understand the data. It discusses initial insights gained from EDA, also referred to as diagnostic analytics, and details the feature engineering process to create and select relevant features for modeling. The chapter also describes the predictive modeling techniques used to assess forest fire risk based on climatic variables and explores potential prescriptive analytics approaches for fire management recommendations.
 
-Chapter 5: Model Development
+### Chapter 5: Model Development
+
 The model development chapter discusses the processes and experiments involved in developing predictive models. It provides a detailed evaluation of the models using appropriate metrics to assess their accuracy and reliability. Additionally, the chapter explains the process of developing a dashboard for visualizing results and supporting decision-making, emphasizing the importance of effective communication of findings through storytelling.
 
-Chapter 6: Results and Discussion/Interpretation
+### Chapter 6: Results and Discussion/Interpretation
+
 This chapter presents the results of the study, describing the data pipeline used for processing and analysis, if applicable. It includes visualizations and tables that summarize the findings, providing a clear and concise interpretation of the results in the context of the problem background and research objectives identified in Chapter 1. The chapter discusses the implications of the findings for forest fire management and policy and compares the results to existing studies to highlight contributions and differences.
 
-Chapter 7: Conclusion
+### Chapter 7: Conclusion
+
 The conclusion chapter summarizes the key findings of the research, reflecting on the success and limitations of the project. It provides concluding remarks and offers suggestions for future research or improvements, emphasizing the ongoing need for enhanced understanding and management of forest fires in the context of climate change. This final chapter aims to provide actionable recommendations and highlight the study's contributions to the field.
 
 Each chapter builds on the previous one, ensuring a logical flow of information and a comprehensive understanding of the research problem and its solutions. This structure is designed to provide a clear and systematic roadmap for the research, leading to meaningful conclusions and actionable recommendations.
