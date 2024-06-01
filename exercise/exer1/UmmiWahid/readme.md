@@ -78,6 +78,27 @@ The fundamental goal of this thesis is to examine the implementation of cashless
 
 ## References
 
+1. Khanna, K. (2017). Cashless Payment: Behavioural Change to Economic Growth. Qualitative and Quantitative Research Review, 2(2). https://nfct.co.uk/wpcontent/uploads/journal/published_paper/volume-2/issue-2/LS0q4m3F.pdf
+2. Ong, T. (2016). Cashless payment and economic growth. Tee and Ong Financial Innovation, 2(4). https://doi.org/10.1186/s40854-016-0023-z
+3. England. (2022). Top SIX Digital Payments Countries About to go Cashless. https://fintechmagazine.com/digital-payments/top-six-digital-payments-countries-about-to-go-cashless
+4. Izzaamirah Ishak, Ali Imran Mohamed, & Rosman, M. H. (2020). DETERMINANT IN ACCEPTANCE OF CASHLESS PAYMENT: AN EMPIRICAL STUDY IN MALAYSIA. International Journal of Psychosocial Rehabilitation, 24(4). https://doi.org/10.37200/IJPR/V24I4/PR201568
+5. Yusoff, N. H., Sarifin, M. R., & Abidin, A. Z. (2021). Factors Influencing Practice of Cashless Purchase During COVID-19 Movement Control Order (MCO) in Malaysian Society. International Journal of Academic Research in Business & Social Sciences, 12(1), 702-714. https://doi.org/10.6007/IJARBSS/v12-i1/11613
+6. Sharon, A. (2019). Malaysia expected to become cashless society in 20 years. Open Gov Asia - CIO Network Pte Ltd. https://opengovasia.com/malaysia-expected-to-become-cashless-society-in-20-years/
+7. Victor Fabius, S. K., Björn Timelin, and Sofia Moulvad Veranen. (2020). How COVID-19 is changing consumer behavior—now and forever. McKinsey & Company. https://www.mckinsey.com/industries/retail/our-insights/how-covid-19-is-changing-consumer-behavior-now-and-forever
+8. Gomes, V. (2020). Digital Payments: MCO a turning point for cashless transactions in Malaysia. The Edge Media 
+Group. https://www.theedgemarkets.com/article/digital-payments-mco-turning-point-cashless-transactions-malaysia
+9. Ali, M. F., Harum, N., Abu, N. A., Talib, M. S., Doheir, M., & Al Mhiqani, M. N. (2019). Impact of cashless society on the economic growth in Malaysia. Religación: Revista de Ciencias Sociales y Humanidades, 4(16), 300-307.
+10. Anonymous. (2022). Promoting financial inclusivity through cashless payments. The Edge Markets. https://www.theedgemarkets.com/content/advertise/promoting-financial-inclusivity-through-cashless-payments
+11. Asia, D. N. (2013). Electronic payments stimulate economic growth in Malaysia: Visa. Digital News Asia. https://www.digitalnewsasia.com/digital-economy/electronic-payments-stimulate-economic-growth-in-malaysia-visa
+12. Bahrini, R., & Qaffas, A. (2019). Impact of Information and Communication Technology on Economic Growth: Evidence from Developing Countries. Economies, 7(1). https://doi.org/10.3390/economies7010021
+13. Cackler, J., Gu, E., & Rodgers, M. (2008). Technology in Developing Economies. CS 201: Computers, Ethics, and Social Responsibility at Stanford University. https://cs.stanford.edu/people/eroberts/cs181/projects/2007-08/developing-economies/
+14. Hani, A. (2022). Cashless society in Malaysia within 3 years. The Malaysian Reserve. 
+https://themalaysianreserve.com/2022/06/17/cashless-society-in-malaysia-within-3 years/#:~:text=UP%20TO%2074%25%20of%20Malaysian,Asia)%20Consumer%20Payments%20Attitudes%20Study
+15. Ng, J. (2022). More government agencies now accept cashless payments. New Straits Times. https://www.nst.com.my/news/nation/2022/03/777880/more-government-agencies-now-accept-cashless-payments
+16. Suhaidi, N. (2022). Cashless payment growing in prevalence. The Malaysian Reserve. https://themalaysianreserve.com/2022/07/22/cashless-payment-growing-in-prevalence/
+17. Tennant, F. (2021). Cashless society: the future of digital payments. Financier Worldwide Magazine. https://www.financierworldwide.com/cashless-society-the-future-of-digital-payments#.Y5__hnZBy02 
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
 
