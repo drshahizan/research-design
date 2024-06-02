@@ -8,7 +8,7 @@
 
 # Exercise 1:  Chapter 1 - Introduction
 
-### Project Title: Predictive Analysis for Wafer Die Quality: Detecting Fail/Pass and Identifying Fail Patterns
+### Project Title: Sentiment analysis of news title on the movement of stock prices in Malaysia
 
 ### Prepared by: Yap Qi Yuan, MCS231025, QiYuanGitGit
 
