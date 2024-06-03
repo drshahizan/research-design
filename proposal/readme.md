@@ -15,7 +15,7 @@
 | 3   | FARADHYSA CAMILA                  | fardhys        |           | <a href="faradhysa"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 4   | GRACE LING KIAN HWAI              | GraceLKH       | Temporal Analysis of Climatic Influences on Forest Fire Patterns in Peninsular Malaysia | <a href="GraceLKH"><img src="../images/portfolio.png" width="24px" height="24px"></a>  |
 | 5   | LU RUIQI                          | LURUIQI7       |  Predicting Traffic Congestion in Malaysia Using Publicly Available Data  | <a href="LURUIQI7"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 6   | MAHAR AFROZE                      | maharafroze2024|   | <a href="maharafroze2024"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 6   | MAHAR AFROZE                      | maharafroze2024|  Data-Driven Approach to Student Identification and Outreach for UTS College | <a href="maharafroze2024"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 7   | NURAMIRA SHAFINAZ BINTI ZULAILEE  | amyrafynaz     | Investigating the use of data analytics in optimizing energy consumption in smart buildings | <a href="amyrafynaz"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah|   | <a href="solehahnajiihah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 9   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      |  Analyze the Cashless Payment Adoption in Malaysia using A Quantitative Approach       | <a href="UmmiWahid"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
