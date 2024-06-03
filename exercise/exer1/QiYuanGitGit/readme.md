@@ -42,15 +42,15 @@ This study will mainly focuses on sentiment analysis of news titles and its impa
 
 ## 1.7 Significance of the Research
 
-[The significance of your research here.]
+The research aims to bridge and reduce existing gaps by exploring the practical implications of sentiment analysis in financial decision-making and offering valuable insights for investors and stakeholders operating in Malaysia's stock market.
 
 ## 1.8 Structure of the Thesis
 
-[Outline the structure of your thesis here.]
+This thesis will be structured to delve into parts such as methodology, data analysis, results, and conclusions derived from the research on sentiment analysis of news titles and stock price movements in Malaysia.
 
 ## 1.9 Summary
 
-[Summarize the key points of your introduction here.]
+This research will address the gap in knowledge regarding the relationship between sentiment analysis of news titles and stock prices in Malaysia, offering practical implications and contributing to advancements in data-driven financial predictions.
 
 ## References
 
