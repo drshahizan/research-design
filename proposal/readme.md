@@ -10,7 +10,7 @@
 
 | No. | Name                              | ID             | Proposal Title                                  | File |
 |-----|-----------------------------------|----------------|---------------------------------------|:-------------:|
-| 1   | ALBASHAH, ZAINAB ALI A            | Zaalbashah     |       | <a href="Zaalbashah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 1   | ALBASHAH, ZAINAB ALI A            | Zaalbashah     | PREDICTION OF POLYCYSTIC OVARY SYNDROME (PCOS) DIAGNOSIS USING ARTIFICIAL NEURAL NETWORK ALGORITHM       | <a href="Zaalbashah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 2   | CAI FUYUAN                        | caifuyuan123   |      | <a href="caifuyuan123"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 3   | FARADHYSA CAMILA                  | fardhys        |           | <a href="faradhysa"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 4   | GRACE LING KIAN HWAI              | GraceLKH       | Temporal Analysis of Climatic Influences on Forest Fire Patterns in Peninsular Malaysia | <a href="GraceLKH"><img src="../images/portfolio.png" width="24px" height="24px"></a>  |
