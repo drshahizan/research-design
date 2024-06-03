@@ -14,7 +14,11 @@
 
 ## 1.1 Introduction
 
-[Your introduction text here.]
+Sentiment analysis, also known as opinion mining, is a branch or field of study within Natural Language Processing (NLP) that analyzes and tries to figure out peoples’ opinions, sentiments, attitudes, and emotions expressed in written text. The main goal of sentiment analysis is to examine the hidden emotional tone or attitude behind the piece of text and then classify it as either positive, negative, or neutral.
+Sentiment analysis could be essential in understanding market sentiments in financial markets. It refers to the collection of attitudes and psychology of investors towards the financial market. Through sentiment analysis, people can understand how people’s feelings towards certain assets or market conditions influence stock prices and trading decisions. It utilizes techniques from natural language processing and machine learning to analyze and classify text based on its emotional content automatically. It can helps in managing brand reputation, understanding customer reviews, making informed market decisions , evaluating marketing campaigns, and analyzing financial sentiments to predict market trends. 
+There are several types of sentiment analysis, such as fine-grained sentiment analysis, which categorizes tests as positive, negative, or neutral; intent-based analysis, which understands the intent behind text; and aspect-based analysis, which focuses on specific components mentioned in the text.
+However, there are challenges, such as dealing with contradictory sentiments in text, analyzing context-specific meanings of words, identifying sarcasm, handling abbreviations and acronyms, and interpreting the overall context of the text accurately. 
+
 
 ## 1.2 Background of the Problem
 
