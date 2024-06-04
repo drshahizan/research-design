@@ -9,10 +9,10 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="[https://github.com/drshahizan/SECP3843/blob/b258210aaed9fc156dcd7236a012e9a37acff947/submission/Jokeryde/img/img001.jpg](https://avatars.githubusercontent.com/u/160567549?v=4&size=40)" />
+  <img height="200px" src="[[https://github.com/drshahizan/SECP3843/blob/b258210aaed9fc156dcd7236a012e9a37acff947/submission/Jokeryde/img/img001.jpg](https://avatars.githubusercontent.com/u/160567549?v=4&size=40)](https://avatars.githubusercontent.com/u/160567549?v=4)" />
 </p>
 
-## Title: ABC
+## Title: Sentiment analysis of news title on the movement of stock prices in Malaysia
 
 <table align="center">
   <tr>
@@ -20,8 +20,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>ADAM WAFII BIN AZUAR</td>
-    <td>A20EC0003</td>
+    <td>YAP QI YUAN</td>
+    <td>MCS231025</td>
   </tr>
 
 </table>
