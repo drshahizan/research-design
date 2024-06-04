@@ -5,8 +5,6 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-![IMG_0018s](https://github.com/drshahizan/research-design/assets/165742522/6eab9f34-f949-4849-8fc3-8bfaa6dd81cb)
-
 # Proposal
 
 <p align="center">
