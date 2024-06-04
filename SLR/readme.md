@@ -15,7 +15,7 @@ Conducting a Systematic Literature Review (SLR) in Data Science and Computer Sci
 ## Group Information
 | No. | Group Name                              | Title             | File                                  | 
 |-----|-----------------------------------|----------------|:---------------------------------------:|
-| 1   | Name          | ABC | <a href="group1"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 1   | Data Digester | Data Science Review | <a href="group1"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 2   | Name          | ABC | <a href="group2"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 3   | Name          | ABC | <a href="group3"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 4   | Name          | ABC | <a href="group4"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
