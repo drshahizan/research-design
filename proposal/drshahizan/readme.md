@@ -28,7 +28,7 @@
 
 ## Submission
 
-| No  | Answer     |                                                 File                                                  |
+| No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1  | Chapter 1 | <a href="./chapter1/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 |  2  | Chapter 2 | <a href="./chapter2/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
