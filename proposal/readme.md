@@ -20,7 +20,7 @@
 | 7   | NURAMIRA SHAFINAZ BINTI ZULAILEE  | amyrafynaz     | Investigating the use of data analytics in optimizing energy consumption in smart buildings | <a href="amyrafynaz"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah| Convolutional Neural Network for Driver Drowsiness Detection | <a href="solehahnajiihah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 9   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      |  Analyze the Cashless Payment Adoption in Malaysia using A Quantitative Approach       | <a href="UmmiWahid"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 10  | WAFAA ZAHIRA BINTI ANAS           | wafaazahira    |       | <a href="wafaazahira"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 10  | WAFAA ZAHIRA BINTI ANAS           | wafaazahira    | Malaysian Education Performance Analytics   | <a href="wafaazahira"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 11  | YAP QI YUAN                       | QiYuanGitGit   |   Sentiment analysis of news title on the movement of stock prices in Malaysia   | <a href="QiYuanGitGit"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
