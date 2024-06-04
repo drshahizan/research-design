@@ -9,7 +9,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5"  />
+  <img src="https://github.com/drshahizan/research-design/blob/main/profile/wafaazahira/DA8B535D-5ACF-4CCB-8F9C-B5A2095E6545_1_201_a.jpeg" width="300" />
 </p>
 
 ## Title: ABC
