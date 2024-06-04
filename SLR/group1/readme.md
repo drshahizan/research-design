@@ -52,4 +52,14 @@ The dataset presented is focused on the prediction of water quality and consists
 The dataset provides comprehensive information on water quality indicators and environmental factors. The preliminary review and preprocessing stages simplified data cleansing, handling of missing data, and removing duplicates. The exploratory data analysis provided helpful insights into the distribution of numerical variables and their interrelationships. Data preprocessing techniques were used to optimise the dataset for machine learning models. The in depth report defines the procedures performed to preprocess the data for analysis and provides the foundation for future exploration in predicting water quality.
 
 
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
+
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
+
+
 
