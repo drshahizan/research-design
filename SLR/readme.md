@@ -19,7 +19,7 @@ Conducting a Systematic Literature Review (SLR) in Data Science and Computer Sci
 | 2   | Group 2       | A Systematic Review of Machine Translation Performance for Low-Resource and Under-Resource Languages | <a href="group2"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 3   | Connected Cities         | Assessment of LoRa Technology in Enhancing Agricultural Productivity in Rural Malaysia | <a href="group3"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 4   | Exploring Deep Learning Techniques          | Exploring the Evolution of Deep Learning Techniques: A Systematic Literature Riview | <a href="group4"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 5   | Group 5          | *Identification of learning styles using an enhanced Machine learning algorithm in e-learning platform* | <a href="group5"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 5   | Group 5          | Identification of learning styles using an enhanced Machine learning algorithm: A systematic Literature review | <a href="group5"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 6   | Group 6          | ABC | <a href="group6"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 
