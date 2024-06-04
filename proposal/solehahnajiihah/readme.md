@@ -1,3 +1,49 @@
-Drowsiness is commonly known as feeling abnormally sleepy or tired during the day which can lead to micro-sleep episodes on the road, endangering lives. This natural human response often results from the fatigue induced by long journeys or long working hours. According to the Ministry of Transport Malaysia (MOT), road accidents in Malaysia increased from 414,421 in 2010 to 567,516 in 2019. In 2023, a total of 598,635 road accidents with 12,417 fatalities were reported nationwide by Bukit Aman Traffic Investigation and Enforcement Department. Driver drowsiness is one of the many factors contributing to road accidents, posing a serious threat to safety. This alarming statistic shows the importance of implementing an effective driver drowsiness monitoring system to prevent traffic accidents.
+<a href="https://github.com/drshahizan/research-design/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/research-design" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/network/members"><img src="https://img.shields.io/github/forks/drshahizan/research-design" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-design" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/research-design"><img src="https://img.shields.io/github/issues/drshahizan/research-design" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-Over the years, numerous researchers have proposed and developed their models for driver drowsiness detection systems. The system starts by taking input from the driver's video camera, then the models will detect whether the driver is awake or asleep. An effective driver drowsiness system must have a real-time monitoring system that can alert the driver once it detects the state of the driver. Recent advances in machine learning, particularly the development of lightweight networks, offer promising solutions to these challenges. Lightweight networks are designed to offer high accuracy results with lower computational resources, making them ideal for real-time applications in context with resource-constrained resources.
+
+# Proposal
+
+<p align="center">
+  <img height="200px" src="https://github.com/drshahizan/SECP3843/blob/b258210aaed9fc156dcd7236a012e9a37acff947/submission/Jokeryde/img/img001.jpg" />
+</p>
+
+## Title: ABC
+
+<table align="center">
+  <tr>
+    <th>Name</th>
+    <th>Matric No.</th>
+  </tr>
+  <tr>
+    <td>SOLEHAH NAJIIHAH BINTI ABD JAMAL</td>
+    <td>MSD231035</td>
+  </tr>
+
+</table>
+<br>
+
+
+## Submission
+
+| No  | Chapter     |                                                 File |
+| :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
+|  1  | Chapter 1 | <a href="./chapter1/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  2  | Chapter 2 | <a href="./chapter2/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  3  | Chapter 3 | <a href="./chapter3/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  4  | Chapter 4 | <a href="./chapter4/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  5  | Chapter 5 | <a href="./chapter5/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+
+## Contribution 🛠️
+
+Please create an [Issue](https://github.com/drshahizan/special-topic-data-engineering/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
