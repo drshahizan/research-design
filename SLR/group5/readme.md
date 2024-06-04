@@ -12,7 +12,7 @@
 
 | Name          | Matric Number  | 
 | ------------- | -------------- | 
-|ADEYEMO SARAFA OLASUNKANMI    |       | 
+|ADEYEMO SARAFA OLASUNKANMI    | PEC233040      | 
 |CAI FUYUAN     | MCS231005       | 
 |LU RUIQI    | MCS231028       |
 
