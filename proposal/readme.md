@@ -9,7 +9,8 @@
 # Proposal
 
 | No. | Name                              | ID             | Proposal Title                                  | File |
-|-----|-----------------------------------|----------------|---------------------------------------|:-------------:|
+|-----:|-----------------------------------|----------------|---------------------------------------|:-------------:|
+| 0  | MOHD SHAHIZAN OTHMAN                      | drshahizan   |   Proposal template   | <a href="drshahizan"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 1   | ALBASHAH, ZAINAB ALI A            | Zaalbashah     | Prediction Of Polycystic Ovary Syndrome (PCOS) Diagnosis Using Artificial Neural Network Algorithm     | <a href="Zaalbashah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 2   | CAI FUYUAN                        | caifuyuan123   | Optimizing Supply Chain Efficiency through Predictive Analytics: A Data-Driven Approach     | <a href="caifuyuan123"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 3   | FARADHYSA CAMILA                  | fardhys        |  Analyzing the Effects of Air Pollution on Indonesian Urban Public Health  | <a href="faradhysa"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
