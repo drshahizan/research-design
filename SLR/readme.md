@@ -15,8 +15,7 @@ Conducting a Systematic Literature Review (SLR) in Data Science and Computer Sci
 ## Group Information
 | No. | Group Name                              | Title             | File                                  | 
 |-----|-----------------------------------|----------------|:---------------------------------------:|
-
-| 1   | ALBASHAH, ZAINAB ALI A            | Zaalbashah| [:octocat:](https://github.com/Zaalbashah)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="Zaalbashah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 1   | Name          | ABC| <a href="drshahizan"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 
 ## Student Information
