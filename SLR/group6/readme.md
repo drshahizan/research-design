@@ -12,9 +12,9 @@
 
 | Name          | Matric Number  | 
 | ------------- | -------------- | 
+|AFRIZAL NEHEMIA TOSCANY    |        | 
 |MAHAR AFROZE     | MCS231027       | 
 | SOLEHAH NAJIIHAH BINTI ABD JAMAL    | MCS231035       |
-
 
 ### 📂  File:
 
