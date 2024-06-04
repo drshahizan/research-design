@@ -7,7 +7,7 @@
 
 # Assignment: Systematic Literature Review
 
-### Group Name: 
+### Group Name: Evolution Deep Learning
 ### Group Members:
 
 | Name          | Matric Number  | 
