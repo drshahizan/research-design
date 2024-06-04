@@ -14,6 +14,7 @@
 | ------------- | -------------- | 
 | UMMI FARIHAH BINTI ABD WAHID     | MCS231032      | 
 | NURAMIRA SHAFINAZ    | MCS231031      |
+| YOVI PRATAMA  | MCS231017        | 
 
 
 ### 📂  File:
