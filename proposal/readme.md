@@ -17,7 +17,7 @@
 | 5   | LU RUIQI                          | LURUIQI7       |  Predicting Traffic Congestion in Malaysia Using Publicly Available Data  | <a href="LURUIQI7"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 6   | MAHAR AFROZE                      | maharafroze2024|  Data-Driven Approach to Student Identification and Outreach for UTS College | <a href="maharafroze2024"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 7   | NURAMIRA SHAFINAZ BINTI ZULAILEE  | amyrafynaz     | Investigating the use of data analytics in optimizing energy consumption in smart buildings | <a href="amyrafynaz"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah|   | <a href="solehahnajiihah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah| Convolutional Neural Network for Driver Drowsiness Detection | <a href="solehahnajiihah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 9   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      |  Analyze the Cashless Payment Adoption in Malaysia using A Quantitative Approach       | <a href="UmmiWahid"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 10  | WAFAA ZAHIRA BINTI ANAS           | wafaazahira    |       | <a href="wafaazahira"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 11  | YAP QI YUAN                       | QiYuanGitGit   |   Sentiment analysis of news title on the movement of stock prices in Malaysia   | <a href="QiYuanGitGit"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
