@@ -20,6 +20,10 @@ This course will cover the fundamental steps and implementation on developing th
 - **[Proposal](./proposal/readme.md)**
 - **[Sample proposal](https://github.com/drshahizan/research-material/blob/main/readme.md)**
 
+## Assignment
+- **[Proposal](./proposal/readme.md)**
+- **[Systematic Literature Review](./SLR/readme.md)**
+
 ## 🔥 Important Things
 
 - **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
