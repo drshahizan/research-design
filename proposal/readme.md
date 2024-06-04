@@ -5,6 +5,9 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+# Research proposal writing
+
+Research proposal writing is a systematic and structured way of presenting a research idea or question, where the writer outlines the intended study's background, objectives, methods, and potential impact. It begins with an introduction that sets the context and significance of the research, followed by a literature review that situates the work within existing scholarship and identifies gaps. The methodology section details the proposed approach for data collection and analysis, ensuring scientific rigor and validity. The proposal concludes with a summary of the research's anticipated contributions to knowledge and practice in the field, often suggesting further areas for investigation.
 
 # Proposal
 
