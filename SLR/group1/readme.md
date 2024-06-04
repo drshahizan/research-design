@@ -12,10 +12,11 @@
 
 | Name          | Matric Number  | 
 | ------------- | -------------- | 
-|	APRI JUNAIDI    | MCS231004       | 
+|	APRI JUNAIDI    | PEC223017       | 
+| ALBASHAH, ZAINAB ALI A    | MCS231021       |
 | FARADHYSA CAMILA	   | MCS231034      |
 | WAFAA ZAHIRA ANAS  | MCS231033        | 
-| ALBASHAH, ZAINAB ALI A    | MCS231024       |
+
 
 ### 📂  File:
 
