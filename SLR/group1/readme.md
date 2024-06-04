@@ -7,15 +7,15 @@
 
 # Assignment: Systematic Literature Review
 
-### Group Name: 
+### Group Name: Data Digesters
 ### Group Members:
 
 | Name          | Matric Number  | 
 | ------------- | -------------- | 
-|MOHAMMED RAZA ASFAK CHIDIMAR     | MCS231004       | 
-| AYAZ RAHMAN BHUIYAN    | MCS231023       |
-|MUSAB IBNE AHMAD  | MCS231017        | 
-| HUSSEIN YUSUF SHEIKH MOHAMED   | MCS231024       |
+|	APRI JUNAIDI    | MCS231004       | 
+| FARADHYSA CAMILA	   | MCS231034      |
+| WAFAA ZAHIRA ANAS  | MCS231033        | 
+| ALBASHAH, ZAINAB ALI A    | MCS231024       |
 
 ### 📂  File:
 
