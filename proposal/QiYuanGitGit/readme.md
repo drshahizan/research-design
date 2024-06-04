@@ -9,7 +9,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="[[https://github.com/drshahizan/SECP3843/blob/b258210aaed9fc156dcd7236a012e9a37acff947/submission/Jokeryde/img/img001.jpg](https://avatars.githubusercontent.com/u/160567549?v=4&size=40)](https://avatars.githubusercontent.com/u/160567549?v=4)" />
+  <img height="https://github.com/drshahizan/research-design/blob/main/profile/QiYuanGitGit/profile_gif.gif?raw=true" width="600" />
 </p>
 
 ## Title: Sentiment analysis of news title on the movement of stock prices in Malaysia
