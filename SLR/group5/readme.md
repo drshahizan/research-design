@@ -12,9 +12,9 @@
 
 | Name          | Matric Number  | 
 | ------------- | -------------- | 
-|Sarafa O Adeyemo    |       | 
-|Cai Fuyuan     | MCS231005       | 
-|Lu Ruiqi    | MCS231028       |
+|ADEYEMO SARAFA OLASUNKANMI    |       | 
+|CAI FUYUAN     | MCS231005       | 
+|LU RUIQI    | MCS231028       |
 
 
 ### 📂  File:
