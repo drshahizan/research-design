@@ -7,11 +7,19 @@
 
 
 # Assignment
-## 1. Conducting a Systematic Literature Review (SLR) in Data Science & Computer Science for Scopus Publication
+## Conducting a Systematic Literature Review (SLR) in Data Science & Computer Science for Scopus Publication
 
 Conducting a Systematic Literature Review (SLR) in Data Science and Computer Science for Scopus publication involves a meticulous process of collecting, evaluating, and synthesizing existing research. It starts with defining clear research questions, followed by a comprehensive search of databases to gather relevant studies. The inclusion and exclusion criteria are rigorously applied to ensure the review’s focus. The selected literature is then critically appraised for quality and relevance. Finally, the findings are synthesized to highlight trends, gaps, and opportunities for future research, ensuring the SLR’s contribution to the academic community is robust and valuable
 
-# Student Information
+
+## Group Information
+| No. | Group Name                              | Title             | File                                  | 
+|-----|-----------------------------------|----------------|:---------------------------------------:|
+
+| 1   | ALBASHAH, ZAINAB ALI A            | Zaalbashah| [:octocat:](https://github.com/Zaalbashah)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="Zaalbashah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+
+
+## Student Information
 
 | No. | Name                              | ID             | Github                                  | Linkedin                                                         | Portfolio |
 |-----|-----------------------------------|----------------|:---------------------------------------:|:----------------------------------------------------------------:|:-------------:|
