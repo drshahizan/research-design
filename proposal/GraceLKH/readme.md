@@ -36,10 +36,9 @@
 |  4  | Chapter 4 | <a href="./chapter4/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 |  5  | Chapter 5 | <a href="./chapter5/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 
-## Contact Me if you encounter any problem 📫
+## Contact Me if you encounter any problems 📫
 
 - Email: gracelingkian@graduate.utm.my ✉️
-- LinkedIn: [Grace Ling](https://www.linkedin.com/in/gracelkh) 💼
 - GitHub: [GraceLKH](https://github.com/GraceLKH) 🐱
 
 
