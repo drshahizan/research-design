@@ -13,9 +13,8 @@
 | Name          | Matric Number  | 
 | ------------- | -------------- | 
 |MAHAR AFROZE     | MCS231027       | 
-| AYAZ RAHMAN BHUIYAN    | MCS231023       |
-|MUSAB IBNE AHMAD  | MCS231017        | 
-| HUSSEIN YUSUF SHEIKH MOHAMED   | MCS231024       |
+| SOLEHAH NAJIIHAH BINTI ABD JAMAL    | MCS231035       |
+
 
 ### 📂  File:
 
