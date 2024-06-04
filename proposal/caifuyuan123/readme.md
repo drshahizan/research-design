@@ -9,7 +9,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="[[https://github.com/drshahizan/SECP3843/blob/b258210aaed9fc156dcd7236a012e9a37acff947/submission/Jokeryde/img/img001.jpg]](https://avatars.githubusercontent.com/u/165741276?v=4)(https://github.com/account)" />
+  <img height="200px" src="https://github.com/drshahizan/SECP3843/blob/b258210aaed9fc156dcd7236a012e9a37acff947/submission/Jokeryde/img/img001.jpg" />
 </p>
 
 ## Title: ABC
@@ -20,8 +20,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>Cai Fuyuan</td>
-    <td>MCS231005</td>
+    <td>ADAM WAFII BIN AZUAR</td>
+    <td>A20EC0003</td>
   </tr>
 
 </table>
@@ -46,5 +46,4 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
 
