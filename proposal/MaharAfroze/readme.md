@@ -12,7 +12,7 @@
   <img height="200px" src="https://github.com/drshahizan/SECP3843/blob/b258210aaed9fc156dcd7236a012e9a37acff947/submission/Jokeryde/img/img001.jpg" />
 </p>
 
-## Title: ABC
+## Title: Data-Driven Approach to Student Identification and Outreach for UTS College
 
 <table align="center">
   <tr>
@@ -20,8 +20,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>ADAM WAFII BIN AZUAR</td>
-    <td>A20EC0003</td>
+    <td>Mahar Afroze</td>
+    <td>MCS231027</td>
   </tr>
 
 </table>
