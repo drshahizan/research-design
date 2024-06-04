@@ -16,11 +16,11 @@ Conducting a Systematic Literature Review (SLR) in Data Science and Computer Sci
 | No. | Group Name                              | Title             | File                                  | 
 |-----|-----------------------------------|----------------|:---------------------------------------:|
 | 1   | Name          | ABC | <a href="group1"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 2   | Name          | ABC | <a href="group1"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 3   | Name          | ABC | <a href="group1"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 4   | Name          | ABC | <a href="group1"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 5   | Name          | ABC | <a href="group1"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 6   | Group 6          | ABC | <a href="group1"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 2   | Name          | ABC | <a href="group2"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 3   | Name          | ABC | <a href="group3"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 4   | Name          | ABC | <a href="group4"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 5   | Name          | ABC | <a href="group5"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 6   | Group 6          | ABC | <a href="group6"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 
 ## Student Information
