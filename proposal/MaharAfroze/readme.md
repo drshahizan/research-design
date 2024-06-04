@@ -9,7 +9,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/SECP3843/blob/b258210aaed9fc156dcd7236a012e9a37acff947/submission/Jokeryde/img/img001.jpg" />
+  <img height="200px" src="https://avatars.githubusercontent.com/u/165741418?v=4" />
 </p>
 
 ## Title: Data-Driven Approach to Student Identification and Outreach for UTS College
