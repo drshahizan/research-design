@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>SOLEHAH NAJIIHAH BINTI ABD JAMAL</td>
-    <td>MSD231035</td>
+    <td>MCS231035</td>
   </tr>
 
 </table>
