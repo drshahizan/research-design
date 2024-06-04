@@ -9,7 +9,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/SECP3843/blob/b258210aaed9fc156dcd7236a012e9a37acff947/submission/Jokeryde/img/img001.jpg" />
+  <img height="200px" src="https://github.com/drshahizan/research-design/assets/165741197/b259dae2-31d8-4642-91ea-66e8e84cfe53" />
 </p>
 
 <table align="center">
@@ -18,8 +18,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>ADAM WAFII BIN AZUAR</td>
-    <td>A20EC0003</td>
+    <td>GRACE LING KIAN HWAI</td>
+    <td>MCS231026</td>
   </tr>
 
 </table>
