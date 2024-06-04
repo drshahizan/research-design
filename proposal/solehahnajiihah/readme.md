@@ -8,7 +8,7 @@
 # Proposal
 
 <p align="center">
-  <img src="https://github.com/drshahizan/research-design/assets/165742522/6eab9f34-f949-4849-8fc3-8bfaa6dd81cb" width=40% height=40%>
+  <img src="https://github.com/drshahizan/research-design/assets/165742522/6eab9f34-f949-4849-8fc3-8bfaa6dd81cb" width=30% height=30%>
 </p>
 
 ## Title: ABC
