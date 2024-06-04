@@ -14,6 +14,7 @@
 | ------------- | -------------- | 
 |MAHAR AFROZE     | MCS231027       | 
 | SOLEHAH NAJIIHAH BINTI ABD JAMAL    | MCS231035       |
+| AFRIZAL NEHEMIA TOSCANY    | PEC233046       |
 
 
 ### 📂  File:
