@@ -34,10 +34,10 @@ Don't forget to hit the :star: if you like this repo.
 | No  | Answer     |                                                 File                                                  |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1  | Chapter 1 | <a href="./chapter1/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  2  | Chapter 2 | <a href="./question2/question2.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  3  | Chapter 3 | <a href="./question3/question3.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  4  | Chapter 4 | <a href="./question4/question4.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  5  | Chapter 5 | <a href="./question5/question5.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  2  | Chapter 2 | <a href="./chapter2/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  3  | Chapter 3 | <a href="./chapter3/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  4  | Chapter 4 | <a href="./chapter4/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  5  | Chapter 5 | <a href="./chapter5/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 
