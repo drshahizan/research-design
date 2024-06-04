@@ -12,7 +12,7 @@
   <img height="200px" src="WhatsApp Image 2024-04-02 at 10.30.48 AM.jpeg"/>
 </p>
 
-## Title: 	Investigating the use of data analytics in optimizing energy consumption in smart buildings
+## Title: 	INVESTIGATING THE USE OF DATA ANALYTICS IN OPTIMIZING ENERGY CONSUMPTION IN SMART BUILDING
 
 <table align="center">
   <tr>
