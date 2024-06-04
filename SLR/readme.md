@@ -15,7 +15,7 @@ Conducting a Systematic Literature Review (SLR) in Data Science and Computer Sci
 ## Group Information
 | No. | Group Name                              | Title             | File                                  | 
 |-----|-----------------------------------|----------------|:---------------------------------------:|
-| 1   | Name          | ABC| <a href="drshahizan"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 1   | Name          | ABC | <a href="group1"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 
 ## Student Information
