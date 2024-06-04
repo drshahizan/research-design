@@ -12,10 +12,9 @@
 
 | Name          | Matric Number  | 
 | ------------- | -------------- | 
-|MOHAMMED RAZA ASFAK CHIDIMAR     | MCS231004       | 
-| AYAZ RAHMAN BHUIYAN    | MCS231023       |
-|MUSAB IBNE AHMAD  | MCS231017        | 
-| HUSSEIN YUSUF SHEIKH MOHAMED   | MCS231024       |
+| BAKUNGA BRONSON | MEC232016       | 
+| GRACE LING KIAN HWAI | MCS231026       |
+| ABDULAZIZ S. YALWA | PEC233037        | 
 
 ### 📂  File:
 
