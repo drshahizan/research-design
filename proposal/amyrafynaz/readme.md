@@ -9,7 +9,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="proposal/amyrafynaz/WhatsApp Image 2024-04-02 at 10.30.48 AM.jpeg" />
+  <img height="200px" src="WhatsApp Image 2024-04-02 at 10.30.48 AM.jpeg"/>
 </p>
 
 ## Title: 	Investigating the use of data analytics in optimizing energy consumption in smart buildings
