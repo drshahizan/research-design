@@ -12,10 +12,10 @@
 
 | Name          | Matric Number  | 
 | ------------- | -------------- | 
-|MOHAMMED RAZA ASFAK CHIDIMAR     | MCS231004       | 
-| AYAZ RAHMAN BHUIYAN    | MCS231023       |
-|MUSAB IBNE AHMAD  | MCS231017        | 
-| HUSSEIN YUSUF SHEIKH MOHAMED   | MCS231024       |
+|TaoFik Tafa     |       | 
+|YAP QI YUAN     | MCS231025       |
+|CAI HUA ZHU     |        | 
+
 
 ### 📂  File:
 
