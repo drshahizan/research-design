@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Special Topic Data Engineering (SECP3843)
 
-## Alternative Assessment
+## Proposal
 
 <p align="center">
   <img height="200px" src="https://github.com/drshahizan/SECP3843/blob/b258210aaed9fc156dcd7236a012e9a37acff947/submission/Jokeryde/img/img001.jpg" />
@@ -28,17 +28,16 @@ Don't forget to hit the :star: if you like this repo.
 </table>
 <br>
 
-## Dataset: MFLIX DATASET
 
 ## Submission
 
 | No  | Answer     |                                                 File                                                  |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1  | Question 1 | <a href="./question1/question1.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  2  | Question 2 | <a href="./question2/question2.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  3  | Question 3 | <a href="./question3/question3.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  4  | Question 4 | <a href="./question4/question4.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  5  | Question 5 | <a href="./question5/question5.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  1  | Chapter 1 | <a href="./chapter1/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  2  | Chapter 2 | <a href="./question2/question2.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  3  | Chapter 3 | <a href="./question3/question3.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  4  | Chapter 4 | <a href="./question4/question4.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  5  | Chapter 5 | <a href="./question5/question5.md"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 
