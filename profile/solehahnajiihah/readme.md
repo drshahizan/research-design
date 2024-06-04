@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/drshahizan/research-design/assets/165742522/a3d544da-6a27-4163-a0a2-6d90cffbabcb" width=40% height=40%>
+  <img src="https://github.com/drshahizan/research-design/assets/165742522/a3d544da-6a27-4163-a0a2-6d90cffbabcb" width=20% height=20%>
 </p>
 
 <h1 align="center">
