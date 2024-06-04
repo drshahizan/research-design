@@ -7,7 +7,7 @@
 
 # Assignment: Systematic Literature Review
 
-### Group Name: 
+### Group Name: GROUP 5
 ### Group Members:
 
 | Name          | Matric Number  | 
