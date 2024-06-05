@@ -14,7 +14,20 @@ The proposal outlines a research project aimed at developing and implementing pr
 
 ## 1.2 Background of the Problem
 
-The global supply chain landscape has changed significantly over the last few decades, driven by technological advances, globalization and changing consumer expectations. Despite these advances, many organizations still rely on traditional supply chain management practices, which tend to be reactive rather than proactive.
+The global supply chain landscape has changed significantly over the past few decades, driven by technological advances, globalization and changing consumer expectations, and the efficiency of supply chain operations is critical to the success of organizations. Despite these advances, many organizations still rely on traditional supply chain management practices, which are often reactive rather than proactive. Traditional supply chain management approaches are increasingly inadequate to meet the multifaceted challenges facing modern supply chains.
+
+One of the biggest challenges in supply chain management is accurately forecasting customer demand. Traditional forecasting methods often rely heavily on historical sales data that may not reflect rapid changes in market conditions, consumer behavior or economic fluctuations. This can lead to excess inventory, which increases holding costs and ties up capital, or to out-of-stocks, which can result in lost sales and reduced customer satisfaction.
+
+Maintaining a balanced inventory is critical, but difficult to achieve with traditional methods, which typically use static reorder points and periodic checks. These methods can lead to overstocking, which increases warehousing costs and can result in product obsolescence, or understocking, which leads to an inability to meet customer demand in a timely manner.
+
+Efficient logistics is critical for just-in-time delivery and cost management. However, logistics operations face challenges such as fuel price volatility, transport delays and route inefficiencies. Traditional logistics planning does not always adequately address these issues, leading to increased transport costs and delivery delays.
+
+Many organizations use fragmented data scattered across different departments and systems. This siloed approach prevents a comprehensive view of the supply chain, making it difficult to make informed decisions. Lack of integrated data can hinder the ability to identify inefficiencies and effectively optimize supply chain processes.
+
+Decision-making in many supply chains remains largely manual and reactive, relying on past events rather than forward-looking insights. This approach can lead to slower response times and missed opportunities to mitigate potential disruptions. Without predictive insights, supply chains lack the flexibility needed to anticipate and proactively respond to change.
+
+Despite the availability of advanced technologies such as predictive analytics, many organizations still face challenges in integrating these solutions into existing supply chain processes. The inability to effectively integrate new technologies can lead to ongoing inefficiencies and a failure to realize the potential benefits of innovation.
+These pervasive issues highlight the urgent need for more advanced supply chain management methods.
 
 ## 1.3 Statement of the Problem
 
