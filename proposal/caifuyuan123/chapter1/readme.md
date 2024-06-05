@@ -7,7 +7,9 @@
 ## 1.1 Introduction
 
 In the contemporary business environment of rapidly evolving technology and highly competitive markets, the efficiency of supply chain operations has become a key determinant of organizational success or failure, and organizations are forced to optimize their supply chain operations in order to maintain a competitive edge. Traditional supply chain management approaches typically rely on reactive measures and historical data analysis, which often fail to address the complexity and dynamism of modern supply chains. These traditional approaches struggle to provide the flexibility and foresight needed to navigate the volatile demands and unexpected disruptions of today's global markets.
+
 Predictive analytics, an innovative approach that uses advanced algorithms and machine learning techniques to analyze historical data and predict future trends, offers a promising solution to these challenges. By anticipating future demand, identifying potential bottlenecks and optimizing resources across the supply chain, predictive analytics enables businesses to make proactive, data-driven decisions. This shift from reactive to proactive supply chain management not only improves operational efficiency, but also provides significant competitive advantage.
+
 The proposal outlines a research project aimed at developing and implementing predictive analytics models to optimize supply chain efficiency. The primary focus is to integrate data from all stages of the supply chain to create robust, scalable models that can forecast demand, optimize inventory levels and streamline logistics operations. These models are designed to more accurately forecast demand, optimize inventory levels, streamline logistics operations and ultimately enable a more responsive and resilient supply chain.
 
 ## 1.2 Background of the Problem
