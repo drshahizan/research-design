@@ -42,7 +42,6 @@ Managing inventory levels is an important aspect of supply chain management. Exc
 
 4) Operational Inefficiency
 Inefficient logistics and transport planning can lead to increased costs and longer delivery times. Factors such as poor route planning, inadequate load planning and unforeseen disruptions can lead to operational inefficiencies.
-
 5) Supply chain disruptions
 External disruptions, including natural disasters, geopolitical events, and supplier issues, can severely impact supply chain performance. Traditional risk management approaches are often insufficient to effectively predict and mitigate these disruptions.
 
