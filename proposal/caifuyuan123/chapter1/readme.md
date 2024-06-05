@@ -20,14 +20,19 @@ The global supply chain landscape has changed significantly over the last few de
 
 (1) Increasing complexity
 Modern supply chains are highly complex, involving numerous stakeholders, multiple segments, and a wide geographic range. Coordinating the activities of this complex network is challenging and often leads to inefficiencies and delays.
+
 (2) Fluctuating demand
 Market demand is becoming increasingly difficult to predict due to factors such as changing consumer preferences, economic fluctuations and seasonal changes. Traditional forecasting methods struggle to accurately predict demand, resulting in a mismatch between supply and demand.
+
 (3) Inventory Challenges
 Managing inventory levels is an important aspect of supply chain management. Excessive inventory ties up capital and increases holding costs, while insufficient inventory leads to stock-outs and lost sales. Without accurate demand forecasting and inventory optimisation tools, it is difficult to achieve the right balance.
+
 (4) Operational Inefficiency
 Inefficient logistics and transport planning can lead to increased costs and longer delivery times. Factors such as poor route planning, inadequate load planning and unforeseen disruptions can lead to operational inefficiencies.
+
 (5) Supply chain disruptions
 External disruptions, including natural disasters, geopolitical events, and supplier issues, can severely impact supply chain performance. Traditional risk management approaches are often insufficient to effectively predict and mitigate these disruptions.
+
 (6) Inadequate data utilisation
 Despite the vast amount of data generated throughout the supply chain, many organisations fail to fully utilise this data to drive decision-making. Data silos, lack of integration, and limited analytical capabilities hinder the potential to leverage data for predictive insights.
 
