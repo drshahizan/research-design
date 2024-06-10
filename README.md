@@ -18,7 +18,7 @@ This course will cover the fundamental steps and implementation on developing th
 - **[Master Data Science Project Handbook](./images/Project%20Handbook.pdf)**
 - **[Template: Project Proposal](./materials/proposal.md)**
 - **[Proposal](./proposal/readme.md)**
-- **[Sample proposal](https://github.com/drshahizan/research-material/blob/main/readme.md)**
+- **[Sample proposal](./materials/sample.md)**
 
 ## Assignment
 - **[Proposal](./proposal/readme.md)**
