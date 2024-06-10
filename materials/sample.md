@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Research Material
+# Sample Project
 
 ## 📖 Msc Data Science
 | No | Name | Type|Title |  File |
