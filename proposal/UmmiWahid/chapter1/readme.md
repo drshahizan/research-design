@@ -76,7 +76,7 @@ This chapter elaborates on the methodology framework presented in the introducti
 **Chapter 4: Exploratory Data Analysis (EDA)**
 This chapter focuses on Exploratory Data Analysis (EDA), which begins with visualisations and descriptive statistics to help you understand and investigate data. In order to construct significant features suitable for modelling, feature engineering is carried out in conjunction with diagnostic analytics, sometimes referred to as early observations from EDA. Furthermore, several predictive modelling approaches that are used to evaluate the the cashless economic indicators based on meteorological variables are explained, and potential prescriptive analytic options that are intended to suggest the adoption cashless performance are further examined.
 
-**Chapter 5: Results and Discussion/Interpretation**
+**Chapter 5: Discussion and Future Work**
 This chapter summarises the findings of the data analysis carried out using the methodology framework provided in Chapter 3. It presents the findings from fitting cashless payment data into several linear regression assumptions and determining the relationship between the cashless economy and Malaysia's economic growth. Furthermore, this chapter investigates the degree of dominance between cashless payment and cash in circulation, providing useful insights about Malaysia's readiness for a cashless economy. This chapter contributes to the actual understanding of cashless payment uptake in Malaysia and its implications for economic development by presenting the findings in depth.
 
 ## 1.9 Summary
