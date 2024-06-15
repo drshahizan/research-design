@@ -68,7 +68,7 @@ This course will cover the fundamental steps and implementation on developing th
 
 | No. | Topic | File|
 |----: |------|------|
-| 1.   | Research Methodology |<a href="https://youtu.be/gFPxEUHWxU8?si=n2-b0I-jFPZMul3p" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+| 1.   | Research Methodology |<a href="https://youtu.be/gFPxEUHWxU8?si=n2-b0I-jFPZMul3p" ><img src="./images/pdf.svg" width="30px" height="30px" ></a> |
 
 
 ## Additional Notes
