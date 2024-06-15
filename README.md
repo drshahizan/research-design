@@ -64,6 +64,12 @@ This course will cover the fundamental steps and implementation on developing th
 | 4.   | Part 4: Review + Experimental Paper |<a href="https://youtu.be/MRiwIoEE9PI?si=cjBipxaeT2LgXHsn" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 | 5.   | Part 5: Using AI Tools & ChatGPT to help writing review papers |<a href="https://youtu.be/6GFe1q2g11Q?si=sRgU03C78RJ77FGW" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
 
+### Module 4: Research Methodology
+
+| No. | Topic | File|
+|----: |------|------|
+| 1.   | Research Methodology |<a href="https://youtu.be/gFPxEUHWxU8?si=n2-b0I-jFPZMul3p" ><img src="./images/youtube.png" width="30px" height="30px" ></a> |
+
 
 ## Additional Notes
 
