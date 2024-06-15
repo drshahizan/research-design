@@ -64,7 +64,20 @@ Since cashless payment is one of the sources to increase economic growth, it hel
 
 ## 1.8 Structure of the Thesis
 
-[Outline the structure of your thesis here.]
+**Chapter 1: Introduction**
+The introduction chapter establishes the context for the thesis by providing an outline of the research on the adoption of cashless payment in Malaysia. It discusses the study's research topics, objectives, and significance, emphasising the importance of knowing cashless transaction performance and its impact on economic growth. The chapter also discusses the methodology framework, which describes the data collecting, analysis, and processing tools that will be used to explore the relationship between the cashless economy and economic indicators.
+
+**Chapter 2: Literature Review**
+This chapter examines the existing literature on the cashless economy in Malaysia and around the world. It examines the current state of cashless transactions in Malaysia, focusing on significant trends, adoption rates, and the economic impact of digital payment systems. The chapter also covers the use of electronic payments in other countries, giving a comparative analysis to help Malaysia understand its position in the cashless economy environment. The literature review also digs into past research' methodology, such as Multiple Linear Regression and Stochastic Dominance, to give light on the analytical tools utilised in assessing cashless payment system adoption.
+
+**Chapter 3: Methodology**
+This chapter elaborates on the methodology framework presented in the introduction. The chapter describes the data gathering procedure, with a focus on Bank Negara Malaysia's Basic Payment Indicator data from 2004 to 2023. It also discusses data analysis approaches such as graphing currency in circulation and e-payment data to analyse performance trends. This chapter explores deeper into the processes involved in data processing, specifically in creating and adjusting a multiple linear regression model to determine how the cashless economy and economic growth are related. This chapter provides a roadmap for the empirical analysis that will be undertaken in the following chapters by outlining the methodology framework.
+
+**Chapter 4: Exploratory Data Analysis (EDA)**
+This chapter focuses on Exploratory Data Analysis (EDA), which begins with visualisations and descriptive statistics to help you understand and investigate data. In order to construct significant features suitable for modelling, feature engineering is carried out in conjunction with diagnostic analytics, sometimes referred to as early observations from EDA. Furthermore, several predictive modelling approaches that are used to evaluate the the cashless economic indicators based on meteorological variables are explained, and potential prescriptive analytic options that are intended to suggest the adoption cashless performance are further examined.
+
+**Chapter 5: Results and Discussion/Interpretation**
+This chapter summarises the findings of the data analysis carried out using the methodology framework provided in Chapter 3. It presents the findings from fitting cashless payment data into several linear regression assumptions and determining the relationship between the cashless economy and Malaysia's economic growth. Furthermore, this chapter investigates the degree of dominance between cashless payment and cash in circulation, providing useful insights about Malaysia's readiness for a cashless economy. This chapter contributes to the actual understanding of cashless payment uptake in Malaysia and its implications for economic development by presenting the findings in depth.
 
 ## 1.9 Summary
 
