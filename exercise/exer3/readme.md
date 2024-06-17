@@ -7,7 +7,6 @@
 
 # Exercise: NABC Model
 
-Here's the NABC Model Exercise with related emojis added to each section for a more engaging presentation:
 
 ## NABC Model Exercise: Individual Project Proposal Development 🚀
 
@@ -15,15 +14,11 @@ This exercise will guide you through developing a project proposal using the NAB
 
 **Instructions:**
 
-**1. Team Formation (Optional):** 👥
-
-This exercise is designed for individual work. However, if you prefer, you can form a team of **maximum two** students to develop your proposal collaboratively.
-
-**2. Data Science Project Selection:** 🎯
+**1. Data Science Project Selection:** 🎯
 
   - Choose a real-world problem you'd like to address using data science techniques. This can be related to your field of study, personal interests, or current events.
 
-**3. NABC Model Breakdown:** 📝
+**2. NABC Model Breakdown:** 📝
 
 **Deliverable:** Your completed NABC Model.
 
@@ -53,12 +48,22 @@ This exercise is designed for individual work. However, if you prefer, you can f
 * How will your solution differentiate itself from the competition?
 * How will your data science approach offer a novel angle to achieve better results?
 
-**4. Deliverables:** 📊
+**3. Deliverables:** 📊
 
 * Submit a well-structured document outlining your NABC Model for your chosen data science project.
 * Ensure your document addresses each aspect clearly and concisely.
+* Submit your completed exercise in the `exer3` folder. Ensure your document is correctly formatted and includes all required subtopics. Within the [`exer3`]() folder, create a folder with your GitHub ID. Name the file as `readme.md`.
 
-**5. Tips for Success:** 🌟
+```
+🗂️exer3
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄readme.md
+├── 📁your github id
+```
+
+
+**4. Tips for Success:** 🌟
 
 * Conduct thorough research to understand the problem and existing solutions.
 * Be specific and provide details about your proposed approach and methodology.
@@ -69,16 +74,6 @@ This exercise is designed for individual work. However, if you prefer, you can f
 
 **Good luck!** 🍀
 
-## Submission
-Submit your completed exercise in the `exer2` folder. Ensure your document is correctly formatted and includes all required subtopics. Within the [`exer3`]() folder, create a folder with your GitHub ID. Name the file as `readme.md`.
-
-```
-🗂️exer2
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄readme.md
-├── 📁your github id
-```
 
 | No. | Name                              | ID             | Answer |
 |-----|-----------------------------------|----------------|:-------------:|
