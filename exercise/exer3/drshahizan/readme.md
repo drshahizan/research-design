@@ -39,6 +39,9 @@
 * Discuss their strengths and weaknesses.
 * Explain how your solution is different and better.
 * Describe the novel angle your data science approach brings.
+  
+## 5. Visualisation
+Visualisation of Your Approach (Draw/Sketch diagram to show your proposed solution):
 
 ## Conclusion
 *A summary of your proposal and its potential impact.*
