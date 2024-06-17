@@ -5,20 +5,17 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Exercise: NABC Model
-
-
-## NABC Model Exercise: Individual Project Proposal Development 🚀
+# Exercise: NABC Model 🚀
 
 This exercise will guide you through developing a project proposal using the NABC Model (Need, Approach, Benefit, Competition). This model serves as a framework to clearly define your data science project and its potential impact.
 
-**Instructions:**
+## Instructions:
 
-**1. Data Science Project Selection:** 🎯
+### 1. Data Science Project Selection 🎯
 
   - Choose a real-world problem you'd like to address using data science techniques. This can be related to your field of study, personal interests, or current events.
 
-**2. NABC Model Breakdown:** 📝
+### 2. NABC Model Breakdown 📝
 
 **Deliverable:** Your completed NABC Model.
 
@@ -48,7 +45,7 @@ This exercise will guide you through developing a project proposal using the NAB
 * How will your solution differentiate itself from the competition?
 * How will your data science approach offer a novel angle to achieve better results?
 
-**3. Deliverables:** 📊
+### 3. Deliverables 📊
 
 * Submit a well-structured document outlining your NABC Model for your chosen data science project.
 * Ensure your document addresses each aspect clearly and concisely.
@@ -62,9 +59,7 @@ This exercise will guide you through developing a project proposal using the NAB
 ├── 📁your github id
 ```
 
-
-**4. Tips for Success:** 🌟
-
+### 4. Tips for Success 🌟
 * Conduct thorough research to understand the problem and existing solutions.
 * Be specific and provide details about your proposed approach and methodology.
 * Clearly demonstrate the value proposition of your project by highlighting the benefits.
