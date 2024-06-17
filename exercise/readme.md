@@ -11,7 +11,7 @@
 | :-----: | ------ | ------ | :-----: | :-----: | 
 | 1. | Exercise 1 | Chapter 1: Introduction | <a href="exer1" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="exer1/readme.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 | 2. | Exercise 2 | AI Tools| <a href="exer2" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="exer2/readme.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
-| 3. | Exercise 3 | NABC model| <a href="exer3.md" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="exer3.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
+| 3. | Exercise 3 | NABC model| <a href="exer3" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="exer3.md#submission" ><img src="../images/answer.png" width="24px" height="24px" ></a> | 
 
 ## Multiple-choice questions
 | Set | Topic  | File | 
