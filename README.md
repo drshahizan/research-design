@@ -71,6 +71,7 @@ This course will cover the fundamental steps and implementation on developing th
 | 1.   | Research Methodology |<a href="https://github.com/drshahizan/research-design/blob/main/images/Module%205_%20Research%20Methodology_%201.pdf" ><img src="./images/pdf.svg" width="30px" height="30px" ></a> |
 
 
+
 ## Additional Notes
 
 | No. | Content                                             | File | 
@@ -81,6 +82,9 @@ This course will cover the fundamental steps and implementation on developing th
 | 4.   | Journal Indexing | <a href="./materials/JI.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
 | 5. |Research Question|<a href="./materials/rq.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
 | 6. |Bibliometrix|<a href="./materials/biblio.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
+| 7. |NABC Model|<a href="https://ahappyphd.org/posts/pitching-nabc/" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
+| 8. |NABC research pitch canvas (create a copy) |<a href="https://jamboard.google.com/d/1efCn10a5xobHS7LyhrpjN-NCwGNW6U42VaGzv8CG6RM/copy" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
+
 
 ## Data Science Resources
 
