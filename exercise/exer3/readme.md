@@ -56,7 +56,7 @@ Adding visual elements to your NABC Model document can make it more engaging and
 - **Bold and Italics**: Use bold and italics to emphasize key points or terms.
 - **Bullet Points**: Use bullet points to list features, benefits, or other important elements.
 
-### 3. Deliverables 📊
+### 4. Deliverables 📊
 
 * Submit a well-structured document outlining your NABC Model for your chosen data science project.
 * Ensure your document addresses each aspect clearly and concisely.
@@ -71,7 +71,7 @@ Adding visual elements to your NABC Model document can make it more engaging and
   ├── 📁your github id
 ```
 
-### 4. Tips for Success 🌟
+### 5. Tips for Success 🌟
 * Conduct thorough research to understand the problem and existing solutions.
 * Be specific and provide details about your proposed approach and methodology.
 * Clearly demonstrate the value proposition of your project by highlighting the benefits.
