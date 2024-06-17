@@ -50,7 +50,7 @@ This exercise will guide you through developing a project proposal using the NAB
 * Submit a well-structured document outlining your NABC Model for your chosen data science project.
 * Ensure your document addresses each aspect clearly and concisely.
 * Submit your completed exercise in the `exer3` folder. Ensure your document is correctly formatted and includes all required subtopics. Within the [`exer3`]() folder, create a folder with your GitHub ID. Name the file as `readme.md`.
-* Tem
+* [NABC Model: Project Proposal Template](drshahizan)
 
 ```
   🗂️exer3
