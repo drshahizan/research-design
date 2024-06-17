@@ -45,6 +45,17 @@ This exercise will guide you through developing a project proposal using the NAB
 * How will your solution differentiate itself from the competition?
 * How will your data science approach offer a novel angle to achieve better results?
 
+### 3. Visual elements 📈
+Adding visual elements to your NABC Model document can make it more engaging and easier to understand. Here are some suggestions for incorporating visual elements:
+
+- **Charts and Graphs**: Use charts and graphs to represent data, trends, or comparisons related to your project.
+- **Diagrams**: Include flowcharts or diagrams to illustrate the steps of your approach or the structure of your solution.
+- **Images**: Add relevant images to break up text and add visual interest.
+- **Tables**: Organize data or comparison points in tables for clarity.
+- **Infographics**: Create infographics to summarize complex information in a visually appealing way.
+- **Bold and Italics**: Use bold and italics to emphasize key points or terms.
+- **Bullet Points**: Use bullet points to list features, benefits, or other important elements.
+
 ### 3. Deliverables 📊
 
 * Submit a well-structured document outlining your NABC Model for your chosen data science project.
