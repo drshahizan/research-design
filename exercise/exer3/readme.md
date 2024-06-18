@@ -93,7 +93,7 @@ Adding visual elements to your NABC Model document can make it more engaging and
 | 7   | NURAMIRA SHAFINAZ BINTI ZULAILEE  |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 9  | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid     | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-| 10  | WAFAA ZAHIRA BINTI ANAS           |                | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+| 10  | WAFAA ZAHIRA BINTI ANAS           | wafaazahira    | <a href="your_github_id"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 11  | YAP QI YUAN                       | QiYuanGitGit   | <a href="QiYuanGitGit"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 12  | BAKUNGA BRONSON                   | BakungaBronson | <a href="BakungaBronson"><img src="../../images/answer.png" width="24px" height="24px"></a> |
 | 13  | ABDULAZIZ S. YALWA |     saiduyalwa          | <a href="saiduyalwa"><img src="../../images/answer.png" width="24px" height="24px"></a> |
