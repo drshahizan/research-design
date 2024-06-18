@@ -82,7 +82,7 @@ The scope of this project includes:
 3.	Key climatic variables such as temperature, rainfall, and humidity will be examined for their influence on forest fire patterns. 
 4.	The study will focus exclusively on Peninsular Malaysia, excluding East Malaysia due to different climatic and ecological conditions.
 5.	The research will use historical data that is currently obtainable, although it may have some constraints regarding precision and comprehensiveness. 
-6.	Statistical and machine learning tools will be used for data analysis and model development.
+6.	Statistical methods will be used for data analysis and model development.
 
 ### 1.7 Assumptions
 The following assumptions are made for this research:
