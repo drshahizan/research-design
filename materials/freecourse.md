@@ -7,9 +7,9 @@
 
 # Top 10 Free Online Courses for PhD Students and Researchers
 
-| No. | Course Title                                                               | Description                                                                                                                                       | Link                                 |
+| No. | Course Title                                                               | Description | Source                                 |
 |-----|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| 1   | Understanding Research Methods                                           | You will learn how to design your research questions and how to position the novelty of your research.                                              | [Link](https://lnkd.in/g-xBFj4v)    |
+| 1   | [Understanding Research Methods](https://www.coursera.org/learn/research-methods)| You will learn how to design your research questions and how to position the novelty of your research.                                              | Cousera   |
 | 2   | How to Write and Publish a Scientific Paper                              | You will learn how to write a paper, how to evaluate/review a paper, and how to select appropriate venue for your paper submission.                  | [Link](https://lnkd.in/giwTe2is)    |
 | 3   | Introduction to Systematic Review and Meta-Analysis                      | You will learn how to perform systematic review, how to define inclusion and exclusion criteria, and how to answer the questions of your review.     | [Link](https://lnkd.in/gnpN9ivf)    |
 | 4   | Research for Impact                                                      | You will learn principles and practices for how to make your research more impactful.                                                               | [Link](https://lnkd.in/gRsWsUsq)    |
