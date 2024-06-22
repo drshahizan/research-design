@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Top 10 Online Courses for PhD Students and Researchers
+# Top 10 Online Courses for Postgraduate Students and Researchers
 
 For PhD students and researchers looking to expand their skills and knowledge, a selection of the 10 best online courses is available. These courses cover a range of important topics including understanding research methods, writing and publishing scientific papers, conducting systematic reviews and meta-analyses, research effectiveness and exploring different research methods. They also provide guidance on quantitative and qualitative research, writing case studies, creating a complete research project and writing successful research papers. There is also a course on writing research proposals. Each course provides comprehensive insights and practical advice to help researchers succeed in their academic endeavours and includes accessible links for easy enrolment.
 
