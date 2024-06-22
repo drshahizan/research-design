@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Top 10 Free Online Courses for PhD Students and Researchers
+# Top 10 Online Courses for PhD Students and Researchers
 
 | No. | Course Title                                                               | Description | Source                                 |
 |-----|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
@@ -14,11 +14,11 @@
 | 3   | [Introduction to Systematic Review and Meta-Analysis](https://www.coursera.org/learn/systematic-review) | You will learn how to perform systematic review, how to define inclusion and exclusion criteria, and how to answer the questions of your review. | Coursera   |
 | 4   | [Research for Impact](https://www.coursera.org/learn/research-for-impact) | You will learn principles and practices for how to make your research more impactful. | Coursera|
 | 5   | [Research Methodologies](https://www.coursera.org/learn/research-methodologies) | You will learn about a broad range of research methodologies, sampling approaches, and primary and secondary data collection.                       | Coursera |
-| 6   | [Quantitative and Qualitative Research for Beginners]()                      | You will learn the basics of quantitative and qualitative data analysis.                                                                            | [Link](https://shorturl.at/uNT58)   |
-| 7   | [Writing Case Studies: Science of Delivery]()                                | You will learn how to plan your research, conduct interviews, and organize your writing.                                                            | [Link](https://shorturl.at/ejnMY)   |
-| 8   | [Research Methodology: Complete Research Project Blueprint]()                | You will learn about data collection, data analysis, reporting.                                                                                     | [Link](https://lnkd.in/gFU8Nbrv)    |
-| 9   | [How to Write a Successful Research Paper]()                                 | You will learn the complete process of paper writing with templates.                                                                                | [Link](https://lnkd.in/g-ni3u5q)    |
-| 10  | [Research Proposal Bootcamp: How To Write A Research Proposal]() | You will learn how to write a research proposal for your PhD.                                                                                       | [Link](https://lnkd.in/gNRitBwX)    |
+| 6   | [Quantitative and Qualitative Research for Beginners](https://www.edx.org/learn/research/the-national-university-of-singapore-quantitative-and-qualitative-research-for-beginners) | You will learn the basics of quantitative and qualitative data analysis. | EDX|
+| 7   | [Writing Case Studies: Science of Delivery](https://www.edx.org/learn/writing/princeton-university-writing-case-studies-science-of-delivery) | You will learn how to plan your research, conduct interviews, and organize your writing.| EDX   |
+| 8   | [Research Methodology: Complete Research Project Blueprint](https://www.udemy.com/course/research-methodology-complete-research-project-blueprint/) | You will learn about data collection, data analysis, reporting. | Udemy    |
+| 9   | [How to Write a Successful Research Paper](https://www.udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/) | You will learn the complete process of paper writing with templates.                                                                                | Udemy |
+| 10  | [Research Proposal Bootcamp: How To Write A Research Proposal](https://www.udemy.com/course/research-proposal/) | You will learn how to write a research proposal for your PhD. | Udemy    |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
