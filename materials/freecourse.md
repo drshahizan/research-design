@@ -7,6 +7,8 @@
 
 # Top 10 Online Courses for PhD Students and Researchers
 
+For PhD students and researchers looking to expand their skills and knowledge, a selection of the 10 best online courses is available. These courses cover a range of important topics including understanding research methods, writing and publishing scientific papers, conducting systematic reviews and meta-analyses, research effectiveness and exploring different research methods. They also provide guidance on quantitative and qualitative research, writing case studies, creating a complete research project and writing successful research papers. There is also a course on writing research proposals. Each course provides comprehensive insights and practical advice to help researchers succeed in their academic endeavours and includes accessible links for easy enrolment.
+
 | No. | Course Title                                                               | Description | Source                                 |
 |-----|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 | 1   | [Understanding Research Methods](https://www.coursera.org/learn/research-methods)| You will learn how to design your research questions and how to position the novelty of your research.                                              | Cousera   |
