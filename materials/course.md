@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2MCSD1043&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Top 10 Online Courses for Postgraduate Students and Researchers
+# Top 11 Online Courses for Postgraduate Students and Researchers
 
-For PhD students and researchers looking to expand their skills and knowledge, a selection of the 10 best online courses is available. These courses cover a range of important topics including understanding research methods, writing and publishing scientific papers, conducting systematic reviews and meta-analyses, research effectiveness and exploring different research methods. They also provide guidance on quantitative and qualitative research, writing case studies, creating a complete research project and writing successful research papers. There is also a course on writing research proposals. Each course provides comprehensive insights and practical advice to help researchers succeed in their academic endeavours and includes accessible links for easy enrolment.
+For PhD students and researchers looking to expand their skills and knowledge, a selection of the 11 best online courses is available. These courses cover a range of important topics including understanding research methods, writing and publishing scientific papers, conducting systematic reviews and meta-analyses, research effectiveness and exploring different research methods. They also provide guidance on quantitative and qualitative research, writing case studies, creating a complete research project and writing successful research papers. There is also a course on writing research proposals. Each course provides comprehensive insights and practical advice to help researchers succeed in their academic endeavours and includes accessible links for easy enrolment.
 
 | No. | Course Title                                                               | Description | Source                                 |
 |-----:|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
@@ -20,8 +20,8 @@ For PhD students and researchers looking to expand their skills and knowledge, a
 | 7   | [Quantitative and Qualitative Research for Beginners](https://www.edx.org/learn/research/the-national-university-of-singapore-quantitative-and-qualitative-research-for-beginners) | You will learn the basics of quantitative and qualitative data analysis. | EDX|
 | 8   | [Writing Case Studies: Science of Delivery](https://www.edx.org/learn/writing/princeton-university-writing-case-studies-science-of-delivery) | You will learn how to plan your research, conduct interviews, and organize your writing.| EDX   |
 | 9   | [Research Methodology: Complete Research Project Blueprint](https://www.udemy.com/course/research-methodology-complete-research-project-blueprint/) | You will learn about data collection, data analysis, reporting. | Udemy    |
-| 10   | [How to Write a Successful Research Paper](https://www.udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/) | You will learn the complete process of paper writing with templates.                                                                                | Udemy |
-| 11  | [Research Proposal Bootcamp: How To Write A Research Proposal](https://www.udemy.com/course/research-proposal/) | You will learn how to write a research proposal for your PhD. | Udemy    |
+| 10   | [How to Write a Successful Research Paper](https://www.udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/) | You will learn the complete process of paper writing with templates.| Udemy |
+| 11  | [Research Proposal Bootcamp: How To Write A Research Proposal](https://www.udemy.com/course/research-proposal/) | You will learn how to write a research proposal for your PhD. | Udemy|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
