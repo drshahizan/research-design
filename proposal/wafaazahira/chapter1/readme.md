@@ -1,5 +1,5 @@
 # PROJECT PROPOSAL
-# TITLE: Predictive Modelling for Malaysia Higher Education Student Performance and Retention
+# Predictive Modelling for Malaysia Higher Education Student Performance and Retention
 
 ## Chapter 1: Introduction
 ### 1.1 Introduction
