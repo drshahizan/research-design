@@ -23,7 +23,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 7   | NURAMIRA SHAFINAZ BINTI ZULAILEE  | amyrafynaz     | Investigating the use of data analytics in optimizing energy consumption in smart buildings | <a href="amyrafynaz"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 8   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah| Convolutional Neural Network for Driver Drowsiness Detection | <a href="solehahnajiihah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 9   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      |  Modelling The Performance of Cashless Payment in Malaysia using ARIMA-BP      | <a href="UmmiWahid"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 10  | WAFAA ZAHIRA BINTI ANAS           | wafaazahira    | Predictive Modeling for UTM Student Performance and Retention  | <a href="wafaazahira"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 10  | WAFAA ZAHIRA BINTI ANAS           | wafaazahira    | Predictive Modeling for Malaysia Higher Education Student Performance and Retention  | <a href="wafaazahira"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 11  | YAP QI YUAN                       | QiYuanGitGit   |   Sentiment analysis of news title on the movement of stock prices in Malaysia   | <a href="QiYuanGitGit"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
