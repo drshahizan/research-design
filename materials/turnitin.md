@@ -21,15 +21,15 @@ Turnitin is a web-based service that checks your project report for plagiarism a
 
 To submit your project report in Turnitin, you need to follow these steps:
 1. Log in to Turnitin using the link [here](https://www.turnitin.com/login_page.asp)
-2. Enter the Class ID: **42052721** and Enrollment Key: **mcds1123** for the **Big Data Management** class.
+2. Enter the Class ID: **44602446** and Enrollment Key: **MCSD1043**.
 3. Click on the **View/Complete** link under the **Assignments** tab.
 
 <p align="center">
 <img src="../images/turnitin.png"  height="400" />
 </p>
    
-4. Select the **Assignment** you want to submit from the drop-down menu. Make sure you choose the correct one according to your project topic and group number. 
-5. Click on the **Submit** button and upload your project report file. Use your **group name** as the file name, such as `Ass1_KicapSambal.pdf`. You only need to send the report. There is no need to submit source code *.ipynb.
+4. Select the **Systematic Literature Review/ Chapter** you want to submit from the drop-down menu. Make sure you choose the correct one according to your project topic and group number. 
+5. Click on the **Submit** button and upload your project report file. Use your **group name** as the file name, such as `SLR_G01.pdf` or `Chap1_name`. You only need to send the report.
 6. Wait for the confirmation message and the digital receipt. You can also view your Similarity Report percentage by clicking on the **View** button.
 7. You are allowed to resubmit your project report up to three times and get immediate feedback from Turnitin. After the third attempt, you will have to wait 24 hours before you can resubmit and get a new Similarity Report. ⏳
 
