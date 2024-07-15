@@ -74,18 +74,23 @@ This study only covers the countries in Malaysia; thus, the results cannot repre
 ## 1.8 Structure of the Thesis
 
 **Chapter 1: Introduction**
+
 The introduction chapter establishes the context for the thesis by providing an outline of the research on the modeling the impact of oil price and stock market price on gold price. It discusses the study's research topics, objectives, and significance, emphasizing the importance of understanding the relationships between these variables and their implications for investors and policymakers. The chapter also discusses the methodology framework, which describes the data collection, analysis, and processing tools that will be used to explore the cointegration and causality relationships among gold price, crude oil price, palm oil price, Islamic stock market price, and conventional stock market price using methods such as Johansen Cointegration and Autoregressive Distributed Lag (ARDL) model.
 
 **Chapter 2: Literature Review**
+
 This chapter examines the existing literature on gold price, crude oil price, palm oil price, and the stock markets in Malaysia and globally. It explores the economic significance of gold and its role as a hedge against inflation and economic downturns. The chapter also covers the methodologies used in past research, including Johansen Cointegration and ARDL models, providing a foundation for the current study. Comparative analyses of the relationship between these variables in different countries are discussed to give a broader context to the findings.
 
 **Chapter 3: Methodology**
+
 This chapter elaborates on the methodology framework presented in the introduction. It describes the data gathering procedure, focusing on monthly data from January 2013 to December 2021 for gold price, crude oil price, palm oil price, Islamic stock market index, and conventional stock market index. The chapter discusses the statistical techniques employed, such as the Augmented Dickey-Fuller (ADF) test for stationarity, Johansen Cointegration test for long-term relationships, Granger Causality test for directional causality, and the Autoregressive Distributed Lag (ARDL) model for short- and long-term analysis. The Vector Autoregressive (VAR) model used for forecasting gold prices is also detailed.
 
 **Chapter 4: Exploratory Data Analysis (EDA)**
+
 This chapter focuses on the analysis of the collected data and presents the results of the statistical tests and models applied. It includes a detailed analysis of the trends in gold price, crude oil price, palm oil price, Islamic stock market index, and conventional stock market index. The chapter provides the results of the Johansen Cointegration test, indicating the presence or absence of long-term relationships among the variables. It also presents the findings of the Granger Causality test and the ARDL model, highlighting the causation and integration of significant variables with the gold price. The results of the gold price forecasting using the VAR model are also discussed.
 
 **Chapter 5: Discussion and Future Work**
+
 This chapter summarizes the findings of the study and discusses their implications. It interprets the results of the data analysis in the context of existing literature and theoretical frameworks. The chapter explores the practical implications for investors and policymakers, particularly in terms of using gold as a hedge against economic fluctuations and understanding the influence of crude oil and stock market prices on gold price. The limitations of the study are acknowledged, and suggestions for future research are provided, emphasizing the need for further exploration of other potential influencing factors and the application of different methodologies.
 
 ## 1.9 Summary
