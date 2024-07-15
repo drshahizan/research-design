@@ -1,4 +1,4 @@
-# Chapter 4 - Initial Result
+# Chapter 4 - Exploratory Data Analysis (EDA)
 
 ### Project Title: Modelling The Impact of Oil Price and Stock Market Price on Gold Price using Vector Autoregression (VAR) Model.
 
