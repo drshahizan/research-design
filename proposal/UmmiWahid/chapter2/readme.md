@@ -135,3 +135,14 @@ Vector Autoregression (VAR) is a forecasting algorithm that can be utilized when
 (Aydin & Cavdar, 2015) use VAR model to test the relationship between different variables to predict financial distress or stock market crashes. (Guglielmo et al., 2013) examines the nature of the relationships between stock market prices and exchange rates in six developed nations which are the US, the UK, Canada, Japan, the euro area, and Switzerland. (Muhammad Akbar et al 2019) used VAR model in examining the dynamic linkages among gold price, stock prices, exchange rate and interest rate nexus. All these studies share the same methodology for analyzing the relationship between macroeconomic variables.
 
 Taha Abdullah (2022) utilized VAR model in analyzing the relationship between time series as well as forecasting the oil price and gold price. In the research of (Rajab et al., 2022) VAR model shows a high level of accuracy in forecasting the spread of the COVID-19 infection. Numerous other fields, such as finance, tourism, and commodity prices, have also utilized vector autoregression.
+
+## References
+
+
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
+
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)]
