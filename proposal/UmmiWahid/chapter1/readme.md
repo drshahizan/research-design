@@ -1,4 +1,4 @@
-# Exercise 1:  Chapter 1 - Introduction
+# Chapter 1 - Introduction
 
 ### Project Title: Modelling The Impact of Oil Price and Stock Market Price on Gold Price using Vector Autoregression (VAR) Model.
 
