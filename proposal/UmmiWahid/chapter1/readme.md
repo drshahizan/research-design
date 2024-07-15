@@ -89,7 +89,7 @@ This chapter elaborates on the methodology framework presented in the introducti
 
 This chapter focuses on the analysis of the collected data and presents the results of the statistical tests and models applied. It includes a detailed analysis of the trends in gold price, crude oil price, palm oil price, Islamic stock market index, and conventional stock market index. The chapter provides the results of the Johansen Cointegration test, indicating the presence or absence of long-term relationships among the variables. It also presents the findings of the Granger Causality test and the ARDL model, highlighting the causation and integration of significant variables with the gold price. The results of the gold price forecasting using the VAR model are also discussed.
 
-**Chapter 5: Discussion and Future Work**
+**Chapter 5: Discussion**
 
 This chapter summarizes the findings of the study and discusses their implications. It interprets the results of the data analysis in the context of existing literature and theoretical frameworks. The chapter explores the practical implications for investors and policymakers, particularly in terms of using gold as a hedge against economic fluctuations and understanding the influence of crude oil and stock market prices on gold price. The limitations of the study are acknowledged, and suggestions for future research are provided, emphasizing the need for further exploration of other potential influencing factors and the application of different methodologies.
 
