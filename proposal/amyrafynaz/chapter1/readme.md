@@ -18,11 +18,6 @@
 
 ## 1.5 Objectives of the Research
 
-The objectives of the research are:
-
-1) To analyse the trend of gold price, crude oil price, palm oil price, Islamic and conventional stock market Index during year 2013 to 2022.
-2) To validate the causation and cointegration relationship between gold price, crude oil price, palm oil price, Islamic and conventional stock marker Index using Granger Causality test, Johansen Cointegration method and Autoregressive Distributed Lag (ARDL) model.
-3) To forecast gold price for future years with integration of significant variables using the Vector Autoregression model (VAR).
 
 ## 1.6 Scope of the Study
 
