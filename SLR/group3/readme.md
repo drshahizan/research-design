@@ -7,25 +7,25 @@
 
 # Assignment: Systematic Literature Review
 
-### Group Name: 
-### Group Members:
+### Group Name: Group 3, Connected Cities
+### Group Members: 
 
-| Name          | Matric Number  | 
-| ------------- | -------------- | 
-| BAKUNGA BRONSON | MEC232016       | 
-| GRACE LING KIAN HWAI | MCS231026       |
-| ABDULAZIZ S. YALWA | PEC233037        | 
+| Name          | Matric Number    | 
+| ------------- | --------------   | 
+| BAKUNGA BRONSON | MEC232016      | 
+| GRACE LING KIAN HWAI | MCS231026 |
+| ABDULAZIZ S. YALWA | PEC233037   | 
 
-### 📂  File:
+### 📂  File: https://drive.google.com/drive/folders/1gZ1Tl8Ar0AxmUH9b6gOK2d7F7F__0RYZ?usp=drive_link
 
 
 ## Abstract
-Abc
+This systematic review evaluates the effectiveness of Long Range (LoRa) technology in enhancing agricultural productivity in rural Malaysia. By conducting a comprehensive literature search across seven digital databases, 2,909 papers published between January 2019 and December 2023 were initially collected. Utilizing the PRISMA process, the review narrowed down to 47 primary studies, focusing on smart connectivity methods, verification techniques, challenges, and future directions in smart agriculture. The analysis revealed that LoRa technology, a subset of IoT, plays a significant role in agricultural advancements, offering insights into connectivity methods, validation practices, and emerging challenges. The review underscores the increasing application of smart technologies in agriculture, highlighting LoRa's impact on productivity and suggesting future research directions.
 
 ## PRISMA
-Prisma
-
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a8c71ff6-1dfd-4b8a-86e4-789a2c226acd"  height="400" />
+</p>
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
