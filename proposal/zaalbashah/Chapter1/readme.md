@@ -80,23 +80,6 @@ This study focuses on the comprehensive analysis of datasets related to Polycyst
 Moreover, statistical analysis involves applying statistical methods to interpret initial findings and derive meaningful insights relevant to PCOS prediction and diagnosis. Lastly, machine learning model development We are developing an artificial neural network (ANN) model specifically tailored for PCOS prediction, leveraging the capabilities of neural networks to forecast the presence or absence of PCOS based on the features in the dataset.
 
 
-## 1.8 Structure of the Thesis
-
-**Chapter 1: Introduction**
-The article opens by introducing the main research study and its importance in understanding factors influencing PCOS. It provides important contextual information on PCOS, focusing on its global and local implications. The section describes the objectives, scope, hypotheses and implications of the study in order to lay the foundation for further research. In addition, it provides a summary of the methods used, such as the data collection methods and analytical tools used in the sampling methods, before concluding this section.
-
-**Chapter 2: Literature Review**
-This chapter reviews relevant literature and research within the field to establish a framework for the current project. It discusses the historical development of PCOS understanding both globally and in specific regions. Key studies are examined with a focus on their methodologies, findings, and limitations. Additionally, the chapter identifies gaps in existing research, highlighting the urgent need for detailed studies that investigate region-specific factors and conditions due to the unique characteristics of those areas.
-
-**Chapter 3: Methodology**
-In the study, the methodology chapter delineates a framework for the data science project life cycle and how it was employed. It expounds on where the PCOS data was sourced from, as well as illustrates the approaches used to collect such information. Also explored are measures taken in the pre-processing of collected data - cleaning up errors and conducting transformations - so that they can be analyzed efficiently through feature engineering methods. Aiming at maintaining accountability, this all-encompassing account ensures the replicability of the research procedures utilized herein.
-
-**Chapter 4: Exploratory Data Analysis (EDA)**
-This chapter focuses on Exploratory Data Analysis (EDA), which begins with visualizations and descriptive statistics to help understand and investigate the PCOS dataset. In order to construct significant features suitable for modeling, feature engineering is carried out in conjunction with diagnostic analytics, sometimes referred to as early observations from EDA. Furthermore, several predictive modeling approaches that are used to evaluate PCOS risk based on various factors are explained, and potential prescriptive analytic options that are intended to suggest improvements in PCOS diagnosis and management are further examined.
-
-**Chapter 5: Discussion and Future Work**
-This chapter summarizes the findings of the data analysis carried out using the methodology framework provided in Chapter 3. It presents the findings from fitting PCOS data into several linear regression models and determining the relationship between various factors and the presence of PCOS. Furthermore, this chapter investigates the predictive accuracy of an Artificial Neural Network (ANN) model for PCOS, providing useful insights into the effectiveness of different predictive models. This chapter contributes to the actual understanding of PCOS risk factors and prediction by presenting the findings in depth, highlighting the implications for diagnosis and management of PCOS.
-
 
 
 
