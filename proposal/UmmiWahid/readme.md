@@ -12,7 +12,7 @@
   <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/Gambar%20Ummi.png" />
 </p>
 
-## Title: Modelling The Impact of Oil Price and Stock Market Price on Gold Price using Vector Autoregression (VAR) Model.
+## Title: Modelling The Impact of Oil Price and Stock Market Price on Gold Price using Long Short-Term Memory (LSTM) Model.
 
 <table align="center">
   <tr>
