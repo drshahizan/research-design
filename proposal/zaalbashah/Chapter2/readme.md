@@ -1,8 +1,8 @@
 # Chapter 2: Literature Review/Problem Background
 ## 2.1 Introduction
-Polycystic ovary syndrome (PCOS) is a common hormonal condition that affects women of reproductive age. It usually begins to appear during adolescence, but its symptoms vary over time. Ovarian syndrome can cause hormonal imbalances, menstrual irregularities, increased androgen levels and ovarian cysts. Irregular menstrual cycles, usually accompanied by a lack of ovulation, can make pregnancy difficult. Ovarian syndrome is the main cause of infertility.
+Polycystic ovary syndrome (PCOS) is a common hormonal disorder affecting women of childbearing age. It typically starts during adolescence and its symptoms can change over time. PCOS can lead to hormonal imbalances, irregular menstrual cycles, elevated levels of androgens (male hormones), and the development of ovarian cysts. These irregular menstrual cycles often involve a lack of ovulation, which can make it difficult for women to conceive. PCOS is a leading cause of infertility in women.
 
-Ovarian syndrome is a chronic condition that cannot be treated. However, some of its symptoms can be alleviated by lifestyle changes and by using medications and fertility treatments. The cause of ovarian syndrome is not yet known, but women with a family history or type 2 diabetes are more likely to develop it.
+PCOS is a chronic condition without a known cure. However, lifestyle adjustments, medications, and fertility treatments can help manage some of its symptoms. The exact cause of PCOS remains unclear, but genetics and conditions like type 2 diabetes may increase the likelihood of developing it.
 
 ## 2.2 Historical Context and Global Perspectives
 Historically, the understanding of PCOS has evolved significantly. First described in 1935 by Stein and Leventhal, PCOS was initially characterized by the presence of multiple ovarian cysts. Over the decades, research has expanded this definition to encompass a broader spectrum of symptoms and associated metabolic issues. Globally, PCOS affects an estimated 5-10% of women of reproductive age, with variations in prevalence based on diagnostic criteria and population studies.
