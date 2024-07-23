@@ -1,6 +1,6 @@
 # Chapter 1 - Introduction
 
-### Project Title: Modelling The Impact of Oil Price and Stock Market Price on Gold Price using Vector Autoregression (VAR) Model.
+### Project Title: Modelling The Impact of Oil Price and Stock Market Price on Gold Price using Long Short-Term Memory (LSTM) Model.
 
 ### Prepared by: UMMI FARIHAH BINTI ABD WAHID, MCS231032, UmmiWahid
 
