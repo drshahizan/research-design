@@ -81,8 +81,6 @@ In this work, the necessary hidden patterns can be studied for PCOS prediction b
 
 Lastly, the machine learning model of Artificial Neural Network (ANN) is developed to build the analysis model. Artificial neural networks (ANN) are inspired by the observation of the human brain. The neural network can predict the presence or absence of PCOS.
 
-## 1.7 Significance of the Research
-
 
 ## 1.8 Structure of the Thesis
 
