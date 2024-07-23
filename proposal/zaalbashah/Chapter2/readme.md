@@ -1,2 +1,2 @@
-# Exercise 1:  Chapter 2: Literature Review/Problem Background
+#Chapter 2: Literature Review/Problem Background
 
