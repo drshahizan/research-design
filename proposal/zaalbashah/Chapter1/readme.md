@@ -2,7 +2,22 @@
 
 ### Project Title: PREDICTION OF POLYCYSTIC OVARY SYNDROME (PCOS) DIAGNOSIS USING ARTIFICIAL NEURAL NETWORK ALGORITHM
 
-### Prepared by: ZAINAB ALI ALBASHAH 
+### Prepared by: ZAINAB ALI ALBASHAH 24\07\2024
+
+## Abstract
+The primary focus of this research is to investigate the factors influencing Polycystic Ovary Syndrome (PCOS) and its implications both globally and locally, given its substantial medical and socio-economic consequences. This critical health issue necessitates detailed research due to the limited number of existing studies and incomplete data. The study aims to understand the impact of various factors on PCOS, facilitating the development of predictive models and diagnostic tools to support effective decision-making in healthcare. By employing advanced analytical methods and comprehensive data collection, this research seeks to fill gaps in the current understanding of PCOS. The literature review situates the study within both historical and contemporary research contexts, highlighting the need for region-specific insights. The methodology chapter outlines the data science framework, detailing data sources, collection methods, and preprocessing steps to ensure robust analysis. Exploratory data analysis (EDA) utilizes visualizations and statistical techniques to examine the PCOS dataset, perform feature engineering, and develop predictive models for assessing PCOS risk. The discussion chapter presents findings from various models, including linear regression and Artificial Neural Networks (ANNs), and highlights their implications for PCOS diagnosis and management. This study aims to provide valuable insights for healthcare stakeholders, enhancing strategies for managing PCOS effectively under varying conditions. The ultimate goal is to contribute to improved healthcare approaches, benefiting both medical practice and policy-making in the management of PCOS.
+
+## Table of Contents
+- Abstract
+- List of Figures
+- List of Tables
+- List of Abbreviations
+- Appendices
+- Chapter 1: Introduction
+- Chapter 2: Literature Review/Problem Background
+- Chapter 3: Methodology
+- Chapter 4: EDA/Initial Results
+- Chapter 5: Discussion and Future Work
 
 ## 1.1 Introduction
 
@@ -86,8 +101,7 @@ This chapter focuses on Exploratory Data Analysis (EDA), which begins with visua
 **Chapter 5: Discussion and Future Work**
 This chapter summarizes the findings of the data analysis carried out using the methodology framework provided in Chapter 3. It presents the findings from fitting PCOS data into several linear regression models and determining the relationship between various factors and the presence of PCOS. Furthermore, this chapter investigates the predictive accuracy of an Artificial Neural Network (ANN) model for PCOS, providing useful insights into the effectiveness of different predictive models. This chapter contributes to the actual understanding of PCOS risk factors and prediction by presenting the findings in depth, highlighting the implications for diagnosis and management of PCOS.
 
-## 1.9 Summary
-The primary focus of this research is to investigate the factors influencing Polycystic Ovary Syndrome (PCOS) and its implications globally and locally. This critical health issue has substantial medical and socio-economic consequences. The introduction emphasizes the need for detailed research due to the limited existing studies and incomplete data. The study aims to understand the influence of various factors on PCOS, leading to the development of predictive models and diagnostic tools to support effective decision-making in healthcare. By employing advanced analytical methods and comprehensive data collection, this research seeks to address gaps in the current understanding of PCOS. The literature review contextualizes the study within the historical and contemporary research landscape, identifying the need for region-specific insights. The methodology chapter outlines the data science framework, detailing data sources, collection methods, and pre-processing steps to ensure robust analysis. The exploratory data analysis (EDA) chapter uses visualizations and statistical techniques to investigate the PCOS dataset, perform feature engineering, and develop predictive models for assessing PCOS risk. The discussion chapter presents the findings from various models, including linear regression and Artificial Neural Networks (ANN), highlighting their implications for PCOS diagnosis and management. The study aims to provide valuable insights for healthcare stakeholders, enhancing strategies for managing PCOS effectively under varying conditions. The ultimate goal is to contribute to better healthcare approaches, benefiting both medical practice and policy-making in managing PCOS.
+
 
 
 
