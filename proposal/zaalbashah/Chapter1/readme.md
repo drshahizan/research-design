@@ -75,11 +75,9 @@ For instance, factors such as low precision in obtaining outcomes, inadequate ex
 
 ## 1.6 Scope of the Study
 
-In this research, data collection is the primary step that needs to be carried out in this project. The data used in this project are obtained from kaggle dataset. Next, the exploratory analysis is applied to the dataset in the data preprocessing stage.
+This study focuses on the comprehensive analysis of datasets related to Polycystic Ovary Syndrome (PCOS). To ensure data integrity and consistency, the primary objectives include data collection and preprocessing the sourced datasets. Next, we conduct exploratory data analysis (EDA) to uncover hidden patterns and trends within the PCOS datasets, thereby facilitating a deeper understanding of the data characteristics.
 
-In this work, the necessary hidden patterns can be studied for PCOS prediction based on the exploratory analysis. The statistical method is used to understand and identify the initial results of the data.
-
-Lastly, the machine learning model of Artificial Neural Network (ANN) is developed to build the analysis model. Artificial neural networks (ANN) are inspired by the observation of the human brain. The neural network can predict the presence or absence of PCOS.
+Moreover, statistical analysis involves applying statistical methods to interpret initial findings and derive meaningful insights relevant to PCOS prediction and diagnosis. Lastly, machine learning model development We are developing an artificial neural network (ANN) model specifically tailored for PCOS prediction, leveraging the capabilities of neural networks to forecast the presence or absence of PCOS based on the features in the dataset.
 
 
 ## 1.8 Structure of the Thesis
