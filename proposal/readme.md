@@ -12,7 +12,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 # Proposal
 
 
-| No. | Name                              | ID             | Proposal Title                                  | File | PDF |
+| No. | Name                              | ID             | Proposal Title                                  | File | Slide |
 |-----:|-----------------------------------|----------------|---------------------------------------|:-------------:|:-------------:|
 | 0  | MOHD SHAHIZAN OTHMAN                      | drshahizan   |   Proposal template   | <a href="drshahizan"><img src="../images/pdf.svg" width="24px" height="24px"></a> | <a href="drshahizan"><img src="../images/pdf.svg" width="24px" height="24px"></a> |
 | 1   | ALBASHAH, ZAINAB ALI A            | Zaalbashah     | Prediction Of Polycystic Ovary Syndrome (PCOS) Diagnosis Using Artificial Neural Network Algorithm     | <a href="zaalbashah"><img src="../images/pdf.svg" width="24px" height="24px"></a> | <a href="zaalbashah/ppt"><img src="../images/pdf.svg" width="24px" height="24px"></a> |
