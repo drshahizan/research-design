@@ -23,7 +23,9 @@ Creating Lag features as well as Bollinger Band features for capturing the effec
 ## Machine Learning (Initial Results) 
 
 1.Model Selection Build regression models: first Linear Regression and then Decision Trees predicting the traffic based on Weather and Ridership data using metrics such as Mean Absolute Error (MAE) and R-squared to evaluate the models 
+
 2.Initial Observations Weather data and Public transport ridership data have turned out to be highly predictive for the traffic volume Decision Trees have performed better than other models. Reason could be that decision trees are good at capturing non-linearity and the numerous factors like temp, rain, snow etc can have interesting non-linear relations with traffic. 
+
 3.Next Steps Tune the model parameters for better performance Include additional features like special events and Holidays to get more information on public transport ridership. Once we have been through the different analyses and visualizations as mentioned above, we establish the insights effectively. 
 
 There is a lot that could be done to perform good visualization. Tools to perform the visualization may include Tableau, R (ggplot2) etc. The next step could be to construct powerful predictive models for the ultimate traffic parameter prediction in Malaysia.
