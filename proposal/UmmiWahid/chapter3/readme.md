@@ -108,7 +108,7 @@ Figure 3.6 Data Information of Conventional Stock Market Price Dataset
 In order to identify missing values and eliminate rows and columns with no values, data cleaning is done in this part. Figure 3.7 shows that while all datasets are free of missing values, some of the columns are not relevant to our research. It is therefore necessary to eliminate the following columns: 'Open', 'High', 'Low', 'Change %' from the Islamic stock market price dataset; and 'Open', 'High', 'Low', 'Close', 'Volume' from the conventional stock market price dataset. The process of removing these columns is depicted in Figure 3.8. The Islamic stock market price dataset now consists solely of date and price columns, whereas the traditional stock market price dataset only includes date and adj close columns.
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/duplicate.JPG"/>
+  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/duplicate.JPG"/>
 </p>
 <p align="center">
 Figure 3.7 Data Cleaning for All Datasets
