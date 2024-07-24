@@ -51,7 +51,7 @@ To aid the sentiment analysis aspect of the research, sentiment lexicons will be
 
 ![image](https://github.com/user-attachments/assets/e8a542a5-ec4f-4256-a17f-971e73f96785)
 ![image](https://github.com/user-attachments/assets/dd16a56c-d531-4e7c-a459-0b54fb64f2ea)
-![image](https://github.com/user-attachments/assets/6bf10aa7-1ce1-490d-839c-002dbd4252ea)
+![image](https://github.com/user-attachments/assets/421655d2-d033-4163-9b33-bf003d20f1b9)
 ![image](https://github.com/user-attachments/assets/896000b7-575c-4452-812f-d5c0dcfb9079)
 
 ## 3.4.4 	Machine Learning Models
@@ -63,7 +63,7 @@ Training a model in machine learning for sentiment analysis involves categorizin
 ## 3.4.5 	Sentiment Classification Refinement (Hybrid Approach)
 A hybrid approach, or combination of lexicon-based and machine learning-based approaches to leverage the strengths of both methods. In this approach, the lexicon-based approach is used to provide an initial sentiment score, which is then refined and adjusted by using a machine learning model trained on labelled data. This can result in more accurate and robust sentiment analysis, particularly for more complex or ambiguous text.
 
-![image](https://github.com/user-attachments/assets/ac0193cf-15d3-4a1a-923e-548eafd3a7d4)
+![image](https://github.com/user-attachments/assets/e08f6f20-d4d3-4130-8ab2-772a0c3c3ae0)
 
 ## 3.4.6 	Deep Learning Techniques
 
