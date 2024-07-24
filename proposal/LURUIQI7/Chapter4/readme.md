@@ -8,7 +8,7 @@
 
 3. Feature Engineering New columns like Rainy_Days: whether these days have above trace amount of precipitation and Peak_Hours Encoding the weather column and other categorical/descriptive columns. 
 
-Case 2: ernoary Data Exploratory Data Analysis (EDA) 
+## Case 2: ernoary Data Exploratory Data Analysis (EDA) 
 
 1. Visualizations Ridership trends: Line plots of daily/monthly/yearly public transport ridership trends. Service Comparsion: Box plots comparing ridership statistics of different transport types. 
 
