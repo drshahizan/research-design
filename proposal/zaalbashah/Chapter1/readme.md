@@ -1,4 +1,4 @@
-# Exercise 1:  Chapter 1 - Introduction
+# Chapter 1 - Introduction
 
 ### Project Title: PREDICTION OF POLYCYSTIC OVARY SYNDROME (PCOS) DIAGNOSIS USING ARTIFICIAL NEURAL NETWORK ALGORITHM
 
