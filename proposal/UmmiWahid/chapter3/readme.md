@@ -18,7 +18,7 @@ V.	Performance Validation and Evaluation
 The details of the research framework for this study are shown in the Figure below.
 
 <p align="center">
-  <img height="600px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Research%20Framework%20of%20Gold%20Price%20Prediction.JPG"/>
+  <img height="600px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Figure%203.1%20Research%20Framework%20of%20Gold%20Price%20Prediction.JPG"/>
 </p>
 
 
@@ -132,7 +132,7 @@ Figure 3.9 Data Concatenation on Merge Dataset
 </p>
 
 ## 3.6	Data Modelling
-The primary aim of this research is to model the impact of oil price and stock market price on gold price using advanced econometric techniques. The process begins with the collection of time series data, encompassing historical records of gold price, crude oil price, palm oil price, Islamic stock market price, and conventional stock market price, measured over monthly intervals from January 2013 to December 2021. This data must then undergo a series of pre-processing steps to ensure its suitability for modeling. Pre-processing includes handling missing values, converting data types, and ensuring the data is stationary—a requirement for many time series models. Stationarity is achieved through techniques like differencing to remove trends and seasonal structures. Figure 3.10 will show the framework of how VAR model methodology for forecasting gold price.
+The primary aim of this research is to model the impact of oil price and stock market price on gold price using advanced econometric techniques. The process begins with the collection of time series data, encompassing historical records of gold price, crude oil price, palm oil price, Islamic stock market price, and conventional stock market price, measured over monthly intervals from January 2013 to December 2021. This data must then undergo a series of pre-processing steps to ensure its suitability for modeling. Pre-processing includes handling missing values, converting data types, and ensuring the data is stationary—a requirement for many time series models. Stationarity is achieved through techniques like differencing to remove trends and seasonal structures. Figure 3.10 will show the framework of how LSTM and VAR model methodology for forecasting gold price.
 
 <p align="center">
   <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Figure%203.10%20LSTM%20Model%20for%20Gold%20Price%20Forecasting%20Methodology.JPG"/>
@@ -142,9 +142,10 @@ Once the data is prepared, it is divided into training and testing datasets. Thi
 
 The Autoregressive Distributed Lag (ARDL) model is then applied, which is suitable for analyzing the dynamic relationships between the variables over both the short and long term. The ARDL model parameters—lag orders of autoregressive (AR) and moving average (MA) components—are meticulously selected using criteria like the Akaike Information Criterion (AIC) and the Bayesian Information Criterion (BIC). This step is crucial as it lays the foundation for how well the model will understand and predict the time series data's behavior.
 
-The model fitting is the next phase, where the ARDL model, armed with the optimal parameters, is trained on the historical data. Upon training, the model's accuracy is evaluated using metrics such as the Root Mean Squared Error (RMSE) and the Mean Absolute Percentage Error (MAPE), which provide quantitative measures of the model's predictive performance. Additionally, the Long Short-Term memory (LSTM) model is employed for forecasting future values of the time series. These forecasts can be particularly valuable for planning and decision-making processes in the financial sector.
+The model fitting is the next phase, where the ARDL model, armed with the optimal parameters, is trained on the historical data. Upon training, the model's accuracy is evaluated using metrics such as the Root Mean Squared Error (RMSE) and the Mean Absolute Percentage Error (MAPE), which provide quantitative measures of the model's predictive performance. Additionally, the Long Short-Term memory (LSTM) model and Vector Autoregression Model (VAR) model are employed for forecasting future values of the time series. These forecasts can be particularly valuable for planning and decision-making processes in the financial sector.
 
 Lastly, the model's predictions are visualized against actual data for a comparative analysis, providing an intuitive and clear assessment of its forecasting capabilities. The visualizations include time series plots and scatter plots that compare predicted and actual values, helping to identify the model's strengths and areas for improvement.
+
 
 ## References
 1. Abbas, G., Bhowmik, R., Koju, L., & Wang, S. (2017). Cointegration and causality relationship between stock market, money market and foreign exchange market in Pakistan. Journal of Systems Science and Information, 5(1), 1-20. https://doi.org/10.21078/jssi-2017-001-20
