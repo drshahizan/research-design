@@ -59,6 +59,14 @@ The process and steps to get initial result of machine learning by using Scikit-
 ![image](https://github.com/user-attachments/assets/523b182c-7e41-44dc-a741-68bf9925cdce)
 
 
+## 4.5 Future Work
+Potential avenues for future research include:
+1. Broadening and exploration of more news data sources such as social media platforms like Reddit, Facebook, Instagram, Financial blogs like Malaysian Reserve, Invest Safely, and International News Outlets that cover Malaysia’s market like Bloomberg. Also, investigate the potential differences in sentiment and its influence from other news sources to obtain more comprehensive understanding.
+2. Advancement of sentiment analysis by develop more sophisticated sentiment analysis techniques such as use of domain-specific lexicons and fine-tuned language models that suitable for Malaysia’s market. Also, investigate more for more granular sentiment categories’ classification such as confidence & fear, optimism & pessimism to obtain the deeper insights.
+3. Incorporating Additional Data by integrating other sources like industry-specific news, macroeconomic indicators, or social media sentiments. The purpose is to enhance the accuracy or power of stock price prediction models and discover new signals that could make influence on stock market dynamics.
+4. Conduct deeper analysis of the temporal relationships between news sentiment and stock price movements such as lagged effects and lead-lag relationships. Also, employ advanced econometric techniques like Granger causality tests and vector autoregressive models to gain deeper understanding of causal mechanisms that drive the relationship between sentiment and stock prices.
+5. Investigate impact of news sentiment on stock price movements at the sector or industry level, varying by sensitivity levels to news. Stakeholders like investors and financial analysts can gain deeper insights. Also, integration of the developed sentiment analysis and stock price prediction models into real-world trading or decision-making for investment. Working with sector or industry partners to refine the models, further enchance their robustness and usability in the Malaysian financial landscape.
+
 
 ## References
 1. Albada, A., & Nizar, N. (2022). The Impact of the Investor Sentiment Index (SMI) on the Malaysian Stock Market during the COVID-l9 Pandamic. International Journal of Economics and Management, 16(2), 225–236. https://doi.org/10.47836/ijeam.16.2.06
