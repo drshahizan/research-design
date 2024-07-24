@@ -21,11 +21,11 @@ Based on the figure 4.1, the price of gold was at the lowest in 2014. The confli
 
 ## 4.1.2	Oil Price
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/palm%20oil%20graph.JPG"/>
+  <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/palm%20oil%20graph.JPG"/>
 </p>
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/crude%20oil%20graph.JPG"/>
+  <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/crude%20oil%20graph.JPG"/>
 </p>
 <p align="center">
 Figure 4.2 Trend of Oil Price
@@ -38,11 +38,11 @@ The next graph is palm oil price that present seasonality over the year. Based o
 
 ## 4.1.3	Stock Market Price
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/islamic%20stock%20graph.JPG"/>
+  <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/islamic%20stock%20graph.JPG"/>
 </p>
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/conventional%20stock%20graph.JPG"/>
+  <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/conventional%20stock%20graph.JPG"/>
 </p>
 <p align="center">
 Figure 4.3 Trend of Stock Market Price
@@ -67,7 +67,7 @@ Both the Islamic and Conventional stock market indices, as well as the gold pric
 
 ## 4.3	Initial Insights
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Correlation%20Heatmap.JPG"/>
+  <img height="500px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Correlation%20Heatmap.JPG"/>
 </p>
 <p align="center">
 Figure 4.4 Correlation Heatmap Analysis
