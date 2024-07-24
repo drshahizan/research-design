@@ -7,7 +7,7 @@
 ## 4.1 Introduction
 ## 4.1.1	Gold Price
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/gold%20graph.JPG"/>
+  <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/gold%20graph.JPG"/>
 </p>
 <p align="center">
 Figure 4.1 Trend of Gold Price
