@@ -6,6 +6,23 @@
 
 ## 3.1 Introduction
 
+## 3.2	The Framework
+
+## 3.3	Problem Formulation
+
+## 3.4	Data Collection
+
+## 3.5	Data Pre-processing
+
+## 3.5.1	Preliminary Analysis
+
+## 3.5.2	Data Cleaning
+
+## 3.5.3	Data Concatenation
+
+## 3.6	Data Modelling
+
+
 
 ## References
 
