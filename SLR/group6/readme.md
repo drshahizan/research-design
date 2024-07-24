@@ -20,7 +20,7 @@
 
 
 ## Abstract
-Abc
+The rapid advancement of technology has paved the way for innovative solutions in the development of smart villages, transforming rural areas into digitally empowered communities. This systematic literature review explores the various smart living technologies implemented in smart villages, focusing on their applications, benefits, and challenges. The review synthesizes research findings from numerous studies to provide a comprehensive understanding of how technologies such as the Internet of Things (IoT), artificial intelligence (AI), and renewable energy systems contribute to enhancing the quality of life in rural areas. Key areas of impact include healthcare, education, agriculture, and infrastructure development. The analysis highlights the significant role of community engagement and government policies in the successful implementation of smart living technologies. Despite the promising potential, the review also identifies persistent barriers such as digital literacy, funding, and infrastructure constraints. The findings aim to inform policymakers, researchers, and practitioners on the current state and future directions of smart living technologies in smart villages, ultimately contributing to sustainable rural development.
 
 ## PRISMA
 Prisma
