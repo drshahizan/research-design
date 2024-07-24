@@ -28,7 +28,8 @@ First, limited focus on the sentiment conveyed in news article titles, rather th
 Another gap in the literature is the computational and data-intensive nature of transformer models like FinBERT, which are commonly used for sentiment analysis. These models need computational resources and extensive data, limiting their suitability for real-time applications or systems that pose limited processing capabilities. Exploring more efficient and interpretable sentiment analysis methods, such as the eXplainable Lexicons (XLex) approach, could enhance financial decision-making and make sentiment analysis more accessible for a wider range of applications (Rizinski et al., 2023, 2024).
 Additionally, the existing research has faced challenges in accurately classifying neutral comments in sentiment analysis of social media platforms like Stocktwits. Developing advanced models and techniques to improve the classification of neutral sentiment and it could further enhance the predictive accuracy of stock price movements (Liu et al., 2022, 2023). These gaps in the literature, as illustrated in Table 2.1, offer the opportunities for future research to contribute to a deeper understanding of the role of sentiment analysis in the stock market of Malaysia and provide useful insights for investors, policymakers, and financial analysts.
 
-![image](https://github.com/user-attachments/assets/d6b466a3-19b6-4249-ad85-8bdef5616e35)
+![image](https://github.com/user-attachments/assets/c1d0b810-f5b1-408b-a2a2-c360cf10a16e)
+
 
 
 ## References
