@@ -42,5 +42,35 @@ Figure 4: Dataset after cleaning.
 
 Figure 5: Summarisation of duplicate and missing rows.
 
+## Modeling
+
+### BERTopic
+
+BERTopic is a topic modeling technique that uses transformers and c-TF-IDF to produce dense clusters. This allows for readily interpretable topics while maintaining significant words in the topic descriptions. It generally consists of three pillars; embedding, clustering and topic representation generation. In this project, the default version of BERTopic proposed by [43] is used and the hyperparameters are tuned to produce coherence topics based on the dataset. Embedding is a process of transforming non-vectorized data, such as tokens, into a vector space and allows the model to automatically understand the connections between words and their meanings. The output of the embedding step creates high dimensional output giving difficulty in clustering, hence UMAP is used to reduce the dimensionality. UMAP is the default in BERTopic because it can represent both the local and global high-dimensional space in lower dimensions. After dimensionality reduction, the input embeddings are clustered into groups of similar embeddings to get the topics. HDBSCAN is used as it is able to capture structure with different densities. CountVectorizer and c-TF-IDF are responsible for creating topic representation, hence the parameters must be fine-tuned to give coherence topics. 
+
+![image](https://github.com/user-attachments/assets/e3ede7cd-9a84-426e-91c5-fff45774349f)
+
+Figure 6: Default BERTopic model.
+
+### BERT
+
+BERT stands for Bidirectional Encoder Representations from Transformers is a pre-trained model, trained on enormous general purpose language that can be fine-tuned on specific smaller datasets for specific tasks such as sentiment analysis. The previous language models looked at text sequence either from left-to-right or combined left-to-right and right-to-left, predicting the next possible word. BERT introduces a new approach which is bidirectionally trained, providing a deeper understanding of the language context. BERT is based on transformer model architecture where it applies an attention mechanism to understand the relationship between words in a sentence. In this project, BertTokenizer and BERT-Base, uncased models are used. The datasets are split into training and testing and feed into the BERT model. 
+
+### LSTM
+
+LSTM is an extended version of RNN that learns sequential (temporal) data and long-term connections with more precision than normal RNNs. LSTM is chosen as it is able to handle long-term dependencies in sequential data such as in text documents. The proposed LSTM architecture is shown in Table 1. Tokenizer is used to convert the input data into numerical values and padding to set the length of the review. 
+
+
+![image](https://github.com/user-attachments/assets/4ab82bfd-10d3-4818-8124-242e19b516f4)
+
+Table 1: Proposed LSTM Architecture.
+
+## Performance Evaluation 
+
+The comparison performance between these models can be evaluated by calculating the Precision, F1-score, Recall and Area Under ROC Curve (AUROC). 
+
+
+
+
 
 
