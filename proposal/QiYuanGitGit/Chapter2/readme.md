@@ -32,10 +32,10 @@ Additionally, the existing research has faced challenges in accurately classifyi
 
 
 ## References
-Albada, A., & Nizar, N. (2022). The Impact of the Investor Sentiment Index (SMI) on the Malaysian Stock Market during the COVID-l9 Pandamic. International Journal of Economics and Management, 16(2), 225–236. https://doi.org/10.47836/ijeam.16.2.06
-Aslim, M. F., Firmansyah, G., Tjahjono, B., Akbar, H., & Widodo, A. M. (2023). Utilization of LSTM (Long Short Term Memory) Based Sentiment Analysis for Stock Price Prediction. Asian Journal of Social and Humanities, 1(12), 1241-1255.
-Chau, N. T., Kien, L. V., & Phong, D. T. (2023). Stock price movement prediction using text mining and sentiment analysis. Studies in Computational Intelligence, 167–179. https://doi.org/10.1007/978-3-031-29447-1_15 
-Cheng Kuan, M., Zayet, L., Akmar Ismail, T. M. A., & Mohamed Shuhidan, S. (2019). Prediction of Malaysian stock market movement using sentiment analysis. Journal of Physics: Conference Series, 1339(1), 012017. https://doi.org/10.1088/1742-6596/1339/1/012017 
+1. Albada, A., & Nizar, N. (2022). The Impact of the Investor Sentiment Index (SMI) on the Malaysian Stock Market during the COVID-l9 Pandamic. International Journal of Economics and Management, 16(2), 225–236. https://doi.org/10.47836/ijeam.16.2.06
+2. Aslim, M. F., Firmansyah, G., Tjahjono, B., Akbar, H., & Widodo, A. M. (2023). Utilization of LSTM (Long Short Term Memory) Based Sentiment Analysis for Stock Price Prediction. Asian Journal of Social and Humanities, 1(12), 1241-1255.
+3. Chau, N. T., Kien, L. V., & Phong, D. T. (2023). Stock price movement prediction using text mining and sentiment analysis. Studies in Computational Intelligence, 167–179. https://doi.org/10.1007/978-3-031-29447-1_15 
+4. Cheng Kuan, M., Zayet, L., Akmar Ismail, T. M. A., & Mohamed Shuhidan, S. (2019). Prediction of Malaysian stock market movement using sentiment analysis. Journal of Physics: Conference Series, 1339(1), 012017. https://doi.org/10.1088/1742-6596/1339/1/012017 
 Gangthade, R. A. (2024b). Stock price prediction using machine learning. International Journal for Research in Applied Science and Engineering Technology, 12(4), 3472–3477. https://doi.org/10.22214/ijraset.2024.60725 
 Fan, C., Zhao, Y., Song, M., & Wang, J.Sun, Y. (2019). Deep learning-based feature engineering methods for improved building energy prediction. Applied energy, 240, 35-45.
 Jiang, T., & Zeng, A. (2023). Financial sentiment analysis using FinBERT with application in predicting stock movement (arXiv:2306.02136). arXiv. http://arxiv.org/abs/2306.02136
