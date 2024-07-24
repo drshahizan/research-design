@@ -29,11 +29,11 @@ Due to these limitations, an automated, data-based recruitment system is highly 
 ### 1.4 Objectives
 The primary objective of the project is to change the student recruitment process at BERI within UTS College. The project's significant objectives are outline as follows:
 
-- **To Conduct a Systematic Literature Review (SLR):**
-
-  **Objective:** To conduct a comprehensive review of existing literature on automated recruitment systems, data-driven student identification, and social media data mining.
+- **To Analyze Social Media Data for Identifying Prospective Students:**
   
-  **Rationale:** This will provide a solid theoretical foundation and identify best practices and gaps in current research, informing the development of our model.
+  **Objective:** Identifying students in Bangladesh who are completing or have recently completed their A Levels and HSC English Version by analyzing social media data.
+  
+  **Rationale:** By utilizing data analytics on social media sites, we can more effectively identify prospective students who are interested in studying abroad. This would increase the efficacy of BERI's recruitment efforts.
 
 - **To Design and Develop an Automated Recruitment Model:**
   
