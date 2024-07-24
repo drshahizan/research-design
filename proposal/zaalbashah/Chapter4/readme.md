@@ -17,6 +17,11 @@ Feature engineering
 Examining a correlation matrix of all the features by using a heatmap to see the pattern illustrated the correlation between feature 
 For the PCOS dataset, at the right of the figure, we can see there is a high correlation between weight gain, hair growth (in undesire spots), skin darkening, hair loss, pimples, and fast food, at the right of figure, at the middle we can see there is a correlation between hip, waist size, and waist-hip ratio when wais size increase the hip size increase also. 
 
+![image](https://github.com/user-attachments/assets/3fb99f13-9dcc-42d1-baf5-221856f0fe01)
+Length of menstrual phase in PCOS vs normal we can see that PCOS patients have less length of the cycle compared to normal women whos do not have PCOS, on the other hand, The pattern of weight gain (BMI) over years in PCOS vs Normal shows that PCOS patients have higher BMI compared to normal women also it illustrates that the BMI increase over years for PCOS patient.
+
+
+
 
 
 
