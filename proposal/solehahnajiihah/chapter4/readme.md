@@ -15,10 +15,6 @@ Figure : After processing steps.
 
 The following step is lemmatization where words are converted into their base form. The SpaCy library is used for these steps. After that, a document-term matrix is created and wordcloud library is used to plot those words. Word clouds are the visualisation of words where the bigger the size of the word, the more frequent it appears in the corpus.
 
-![image](https://github.com/user-attachments/assets/64e56789-854d-4323-8e29-72cb0f03017b)
-
-Figure : WordCloud of the corpus.
-
 ![image](https://github.com/user-attachments/assets/95f3a4e5-e0a0-44d5-9c9c-638f52333ac4)
 
 Figure : Number of Reviews per Destination.
@@ -27,3 +23,10 @@ Figure : Number of Reviews per Destination.
 
 Figure : Number of Reviews per Rating.
 
+![image](https://github.com/user-attachments/assets/64e56789-854d-4323-8e29-72cb0f03017b)
+
+Figure : WordCloud of the corpus.
+
+![image](https://github.com/user-attachments/assets/32aa41aa-e8b9-40e5-a5ea-f76fa7f17ed6)
+
+Figure : WordCloud for each destination.
