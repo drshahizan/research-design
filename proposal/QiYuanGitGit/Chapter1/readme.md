@@ -1,43 +1,36 @@
-Chapter 1: Introduction
+#Chapter 1: Introduction
 
-1.1 	Overview
-
+##1.1 	Overview
 In chapter-1, it provides a detailed summary of the research and highlights the key elements that make up the research framework. It begins with the research background, setting the scene and highlighting the importance of the topic in ongoing discussions, current challenges in the field, and existing strategies to resolve them. The problem statement defines the particular issue or lack that will be focused on in the research, setting the groundwork for the study. Next, the study's direction and focus are determined by outlining the research questions. This is then followed by research objectives that address various aspects of the issue in order to support the main aim of the research and its influencing factors. The research scope outlines the study's limits and specifies what will be included and excluded in the research. Lastly, the research significance underscored the study's importance and potential influence by detailing the benefits and demonstrating how it will enhance knowledge in the wider field.
 
-1.2 	Research Background
-
+##1.2 	Research Background
 Sentiment analysis, also known as opinion mining, is the process of identifying individuals' opinions, emotions, attitudes, and feelings expressed in written form, specifically in financial news (Mishra, 2023; Shuhidan et al., 2018). This analysis is essential for predicting market trends in financial environments. Stakeholders can utilize sentiment analysis of news headlines to obtain valuable insights to inform their decision-making processes. Different strategies, like lexicon-based approaches and algorithms such as Naive Bayes, are commonly used in sentiment analysis(Cheng Kuan et al., 2019).
 Research has shown that the mood portrayed in news articles can greatly influence the value of stocks, with technologies like long short-term memory (LSTM) networks presenting an opportunity to improve the precision of stock price predictions (Sidek et al., 2023). In Malaysia, the assessment of feelings in news headlines has been studied using machine learning techniques such as Hybrid Naive Bayes, Opinion Lexicon-based algorithm, and Naive Bayes (Cheng Kuan et al., 2019; Shuhidan et al., 2018).
 The emotions conveyed in financial news appear to have a strong link with the movement of the stock market. This suggests that sentiment analysis could be an effective approach for predicting market patterns (McCarthy & Alaghband, 2023). Even with these improvements, difficulties remain in improving the precision of sentiment analysis models. In this research, our goal is to explore the sentiment analysis of news headlines and how it influences stock price changes in the Malaysian market. By filling the gaps in current literature and investigating new methods, we aim to contribute to the progress of sentiment analysis in financial environments.
 
-1.3 	Statement of the Problem
-
+##1.3 	Statement of the Problem
 It is crucial to grasp the sentiment in financial news headlines in order to predict stock market movements accurately, as these headlines hold vital information that can greatly impact stock prices. Different methods of sentiment analysis, including the Opinion Lexicon-based algorithm and Naive Bayes, have been utilized to evaluate sentiment in financial news. Nevertheless, obstacles remain in accurately predicting stock prices, particularly in relation to public attitudes and the distinct features of Malaysian online news platforms. While past studies have indicated a link between news sentiment and stock market fluctuations, the impact of sentiment on stock prices could vary. Advanced predictive models, such as Long Short-Term Memory (LSTM) networks, guarantee the improvement of stock price predictions by incorporating sentiment data. These models provide an advanced method for examining emotions and how they influence market patterns.
 Future studies can concentrate on improving these sophisticated predictive models to increase their precision in forecasting stock prices. Furthermore, investigating how these models can be applied to various financial markets can offer valuable insights for enhancing the overall precision of predicting stock prices. Researchers can improve predictive models, resolve challenges, and improve tools to forecast the stock market trends using sentiment analysis in financial news. Financial news headlines have a significant impact on stock market movements, but the exact effect of these sentiments on stock prices in Malaysia is not fully comprehended. Effectively predicting stock prices is challenging due to the need to combine historical data analysis with public sentiment analysis, making it difficult to improve accuracy through sentiment analysis integration. Existing studies provide a visualization regarding how the news sentiment influences the stock prices, and emphasize the necessity of advanced predictive models like Long Short-Term Memory (LSTM) networks to elevate prediction precision.
 Although there is a known correlation between financial news sentiment and stock market movements, there is still limited research focused on Malaysia. Therefore, there is a need for further investigations into how news sentiment affects stock prices in the Malaysian financial market. Despite encouraging findings, persistent challenges exist in fine-tuning sentiment analysis models for optimal stock price prediction accuracy. The difficulty and complexity to accurate predict the stock prices in the Malaysian market involves a blend of historical data analysis and the integration of public sentiment. This poses the challenges to effectively incorporating the sentiment analysis to enhance prediction accuracy. This research aims to explore the impact of sentiment expressed in financial news headlines on stock price movements in the Malaysian market, evaluating traditional sentiment analysis techniques and advanced predictive models like Long Short-Term Memory (LSTM) networks to improve the precision of stock price forecasts within the Malaysian financial landscape.
 
-1.4 	Research Questions
-
+##1.4 	Research Questions
 1.	How does specific sentiment expressed in financial news headlines impact the movement of stock prices in Malaysia?
 2.	What are the main challenges in order to accurately predict the stock prices in the Malaysian market using sentiment analysis techniques, and how to optimized the advanced models like LSTM networks to address these challenges?
 3.	How do various sentiment analysis techniques like Hybrid Naive Bayes and Opinion Lexicon-based methods affect the prediction of stock price changes in Malaysia, and how can these methods be evaluated and enhanced for more accurate forecasts?
 
-1.5	Objectives of the Research
-
+##1.5	Objectives of the Research
 1.	To analyze the nuanced impact of specific sentiments expressed in financial news headlines on stock price movements within the Malaysian stock market context.
 2.	The aim is to recognize and assess the main obstacles in accurately forecasting stock prices in the Malaysian market through sentiment analysis methods, and improve advanced models such as LSTM networks to boost prediction accuracy by tackling these obstacles.
 3.	To analyze the effects of various sentiment analysis algorithms, like Hybrid Naive Bayes and Opinion Lexicon-based methods, on forecasting stock price changes in Malaysia, and enhancing these algorithms to enhance prediction accuracy.
 
-1.6 	Scope of the Study
-
+##1.6 	Scope of the Study
 The scopes of this research are:
 1.	To investigate the impact of sentiment analysis from financial news headlines on stock price movements in the Malaysian stock market.
 2.	To examine the impact of feelings (positive, negative, and neutral) on stock prices in Malaysia at the sentence level, utilizing trusted Malaysian online news portals like the New Straits Times, Bursa Malaysia, and The Edge Market as main sources of data.
 3.	Use traditional sentiment analysis algorithms and advanced machine learning models, including Long Short-Term Memory networks to forecast the stock price movements based on news sentiment.
 4.	To conduct comprehensive data collection and analysis over 5 years to provide valuable insights for traders, investors, and financial analysts to optimize their investment strategies in Malaysia.
 
-1.7 	Significance of the Research
-
+##1.7 	Significance of the Research
 This research is highly important for traders and investors as it offers valuable information on financial news sentiment, helping in making informed decisions and minimizing the risk of making choices based on incomplete information. By incorporating sentiment analysis into forecasting models for stock prices, especially using advanced methods such as Long Short-Term Memory networks, the accuracy of predictions can be greatly enhanced. The research explores the correlation between historical stock prices and sentiment data and offers essential insights for refining predictive models and developing more accurate investment strategies in the stock market.
 The comparison between traditional and advanced machine learning algorithms in sentiment analysis helps to determine the most efficient methods for forecasting stock price fluctuations using news sentiment. This research able to provide more knowledges and understanding of the Malaysian financial market by investigating how news sentiment impacts stock prices in Malaysia. Financial stakeholders like traders, investors, and financial analysts , they can use sentiment analysis to improve market strategies and potentially boost the returns.
 Furthermore, the research supports the development of automated trading systems by integrating sentiment analysis, so it results in more reactive and advanced trading algorithms. This research sets a standard for future research, providing a foundation for more investigation into sentiment analysis and predicting stock prices, revealing the possibilities and difficulties of using sentiment data in financial markets.
