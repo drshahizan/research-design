@@ -30,13 +30,33 @@ o	Stock Market Features: This includes previous day’s stock price (including t
 ![image](https://github.com/user-attachments/assets/8d1564b3-ec34-4999-a5b4-29febbd975f7)
 
 4.4	Expected results
-![image](https://github.com/user-attachments/assets/895fe1bb-d87a-4bf8-aef0-636fdec05f89)
+![image](https://github.com/user-attachments/assets/dc545ddc-eeae-4e75-90da-d9e50b00425b)
+![image](https://github.com/user-attachments/assets/74d20ff3-490a-49ae-9411-81f0bc3b877a)
+![image](https://github.com/user-attachments/assets/967fba39-c9d0-41c6-9e0a-ee906f0562d3)
+
 
 4.4.1 Machine Learning (Initial Result)
 
 The process and steps to get initial result of machine learning by using Scikit-learn (sklearn) at Colab as shown at below: 
 
-![image](https://github.com/user-attachments/assets/2d88d1c6-0478-4d68-bb3a-fdfe7b9acdc1)
-![image](https://github.com/user-attachments/assets/7ed6d1d6-eae6-4701-b578-e90487aa5131)
+### Figure 4.2: Initial result of machine learning by Scikit-learn:
+![image](https://github.com/user-attachments/assets/7d358401-fde2-4a11-8c8b-8e1987a6ea41)
+![image](https://github.com/user-attachments/assets/8d38eb65-aeb8-4071-ad92-42b919f3b5ec)
+![image](https://github.com/user-attachments/assets/8838195f-86da-43dd-afb2-7c2d6a810022)
+![image](https://github.com/user-attachments/assets/2380972f-5f56-4d80-93f0-33a8bc4a80de)
+![image](https://github.com/user-attachments/assets/73dd107a-1f01-4bb5-96cd-efa4447442dc)
+![image](https://github.com/user-attachments/assets/c510c15d-7048-4d61-9890-a321e19655a9)
+![image](https://github.com/user-attachments/assets/7d38c671-ecaf-4879-90a7-b28399e9dafc)
+
+
+### Figure 4.3: Coding for Data Collection of News title:
+![image](https://github.com/user-attachments/assets/091e1d54-e1fc-4717-a1d6-bc67091bc6d7)
+
+
+### Figure 4.4: Coding to get sentiment score:
+![image](https://github.com/user-attachments/assets/ea886fef-274b-4b68-92a0-2db7c075eeaf)
+![image](https://github.com/user-attachments/assets/9ee669a7-1cf1-4620-a9b8-71ae9461dbd5)
+![image](https://github.com/user-attachments/assets/523b182c-7e41-44dc-a741-68bf9925cdce)
+
 
 
