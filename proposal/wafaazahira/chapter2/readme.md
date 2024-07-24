@@ -28,3 +28,10 @@ Impin and Kok, in their study conducted in 2021, aimed to examine how unemployme
 
 Understanding about the relationship between GDP, unemployment and Okun’s coefficient can be considered as an essential step in the formation of relevant economic policies. Although Okun’s Law gives us a direction on how to dissect the correlation between unemployment and economic growth, it is found out from empirical evidence that such a correlation might not always hold the same constant in different geographical regions and time zones. Other types of time series models such as the ARIMA and the Prophet can prove useful in predicting unemployment rates and can assist policymakers.
 
+### References
+1. Danlami, A. H., Rahim, K. A., & Yusoff, M. B. (2021). Impact of unemployment on economic growth in Malaysia: An application of ARDL approach. Journal of Economic Studies, 48(3), 369-387.
+2. Impin, C. M., & Kok, S. L. (2021). The effect of unemployment, inflation, and interest rates on Malaysia's GDP. International Journal of Economics and Management, 15(2), 152-169.
+3. Didiharyono, D., & Syukri, M. (2020). Application of ARIMA model to forecast unemployment rates in South Sulawesi. Journal of Applied Economics and Business, 8(3), 124-133.
+4. Selvarani, R., Ganesan, P., & Kumar, S. (2023). Forecasting unemployment rates in India using Prophet model. Indian Journal of Economics and Development, 19(1), 44-55.
+5. Kuang Yong Ng, Z., Zainal, Z., & Samsudin, S. (2023). Comparative performance of ARIMA, SARIMA, and GARCH models in modeling and forecasting unemployment among ASEAN-5 countries during the COVID-19 pandemic. International Journal of Business and Society, 24(3), 967-994.
+6. Ministry of Labour, Institute for Labour Market Information and Analysis (ILMIA). (2023). Youth unemployment in Malaysia. Retrieved from ILMIA website.
