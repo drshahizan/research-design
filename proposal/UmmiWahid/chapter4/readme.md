@@ -6,6 +6,15 @@
 
 ## 4.1 Introduction
 
+## 4.1.1	Gold Price
+
+## 4.1.2	Oil Price
+
+## 4.1.3	Stoc Market Price
+
+## 4.2	Descriptive Analysis
+
+## 4.3	Initial Insights
 
 ## References
 
