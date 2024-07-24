@@ -137,7 +137,7 @@ In conclusion, ARDL may be considered as an appropriate technique to ascertain t
 
 The Long Short-Term Memory (LSTM) network has been chosen to estimate the price of gold because it has a track record of successfully identifying complicated patterns and long-term dependencies in time series data. Recent research has shown that LSTM models are more effective in financial forecasting than more conventional methods like ARIMA. Phaladisailoed and Naruetharadhol (2019), for example, discovered that LSTM networks outperformed traditional models in their ability to predict gold prices. Furthermore, Kristjanpoller et al. (2021) demonstrated how the integration of several data sources in LSTM models was enhanced by a large margin when sentiment analysis was added. Additionally, Chen et al. (2020) improved the model's ability to capture both short- and long-term trends by combining a hybrid LSTM model with wavelet transformations.
 
-## 2.3.1	Long Short-Term Memory (VAR) Model
+## 2.3.1	Long Short-Term Memory (LSTM) Model
 
 The effectiveness of long short-term memory (LSTM) networks in time series forecasting has drawn a lot of interest lately, especially in the financial sector where gold price prediction is concerned. LSTM networks are well-suited for forecasting volatile and non-linear financial measures like gold prices due to their distinctive architecture, which enables them to capture complex patterns and long-term dependencies in time series data.
 
