@@ -61,11 +61,12 @@ For instance, factors such as low precision in obtaining outcomes, inadequate ex
 
 ## 1.4 Research Questions
 
-1. What are the significant risk factors that contribute to the development and progression of PCOS?
-2. How accurately can a multiple regression model predict the presence of PCOS based on identified risk factors?
+1. What are the most common symptoms of PCOS?
+2. How accurately can a multiple regression model predict the presence of PCOS?
 3. How can an Artificial Neural Network (ANN) be utilized to enhance the prediction of PCOS?
 4. What insights can be gained from visualizing prediction outcomes using an interactive dashboard?
 5. How can the findings from this research contribute to improving the diagnosis and management of PCOS in clinical practice?
+
 
 ## 1.5 Objectives of the Research
 
