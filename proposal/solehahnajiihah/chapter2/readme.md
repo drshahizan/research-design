@@ -1,4 +1,4 @@
-## INTRODUCTION
+## Chapter 2
 
 There are many techniques developed by researchers over the years regarding sentiment analysis on tourism. Some of them use topic modelling approaches for analysis and interpretation to get a better understanding of the corpus. Several approaches for classification have been introduced using deep learning methods such as long term short term (LTSM), bidirectional  long term short term (bi-LTSM), and transformer-model Bidirectional Encoder Representations (BERT). This chapter will provide the related works done regarding tourism sentiment analysis, topic modelling and deep learning techniques for sentiment classification with details.
 
