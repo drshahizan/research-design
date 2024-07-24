@@ -29,7 +29,7 @@ o	Stock Market Features: This includes previous day’s stock price (including t
 
 ![image](https://github.com/user-attachments/assets/8d1564b3-ec34-4999-a5b4-29febbd975f7)
 
-## 4.4	Expected results
+## 4.4	Expected Results
 ![image](https://github.com/user-attachments/assets/dc545ddc-eeae-4e75-90da-d9e50b00425b)
 ![image](https://github.com/user-attachments/assets/74d20ff3-490a-49ae-9411-81f0bc3b877a)
 ![image](https://github.com/user-attachments/assets/967fba39-c9d0-41c6-9e0a-ee906f0562d3)
