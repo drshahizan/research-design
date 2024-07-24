@@ -12,7 +12,7 @@
   <img height="200px" src="https://avatars.githubusercontent.com/u/165741418?v=4" />
 </p>
 
-## Title: Data-Driven Approach to Student Identification and Outreach for UTS College
+## Title: Student Identification and Outreach for UTS College
 
 <table align="center">
   <tr>
