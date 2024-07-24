@@ -115,7 +115,7 @@ Figure 3.7 Data Cleaning for All Datasets
 </p>
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/drop%20column%20islamic.JPG"/>
+  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/drop%20column%20islamic.JPG"/>
 </p>
 <p align="center">
 Figure 3.8 Drop Unnecessary Column
@@ -125,7 +125,7 @@ Figure 3.8 Drop Unnecessary Column
 A method for combining data from related datasets into a single, cohesive dataset in data analysis is called data concatenation. Since our data is gathered gradually in batches, it is crucial to this research that we combine all datasets from January 2013 to December 2023. This enables us to combine all of the datasets into one for analysis. An example of how we concatenate data across all datasets is shown in Figure 3.9.
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/concat().JPG"/>
+  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/concat().JPG"/>
 </p>
 <p align="center"> 
 Figure 3.9 Data Concatenation on Merge Dataset
