@@ -34,7 +34,7 @@ It is critical to account for the dynamic character of the variables involved, a
 The following datasets are carefully selected to assist in achieving our objectives. The data is obtained from official website of The World Bank Group and TradingEconomics consist of Inflation Rates, Interest Rates, and commodity prices including monthly crude oil and palm oil prices. The data includes different number of observations respectively for all datasets. Some missing data are interpolated to provide a consistent result. Furthermore, this study focuses on analysing and study the trend of commodity prices movement, relationships of different macroeconomic variables, forecasting the future inflation rate and interest rate. Each data is measured in percentage (%) for inflation and interest rates while crude oil and palm oil are measured in MYR (Malaysian Ringgit) per barrel and metric tonne.
 
 <p align="center">
-  <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Data%20of%20Each%20Variables.JPG"/>
+  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Data%20of%20Each%20Variables.JPG"/>
 </p>
 
 From the table 3.1, the data that represents the Islamic stock market is represented by FTSE Bursa Malaysia EMAS Shariah. While the data from the FTSE Bursa Malaysia KLCI History index provides more conventional stock market information. This research chose this website and this stock market because all Malaysian businesses listed on the Bursa Malaysia Main Market and ACE Market are eligible for inclusion, subject to achieving FTSE's worldwide standards of free float, liquidity, and invest ability. Investors can conduct international analysis and comparison using the FTSE Bursa Malaysia index methodology, and the management of the index series is transparent thanks to a set of Ground Rules. Therefore, it can be said that this data is particularly suitable for usage as one of the variables, aids in achieving the study's main goal.
@@ -42,10 +42,10 @@ From the table 3.1, the data that represents the Islamic stock market is represe
 Every item of data used in this study is secondary data. To be more specific, the data we collected did not match because the data on crude oil prices and palm oil prices is collected monthly rather than daily like other data. In order to synchronize the data with one another and get an accurate result, all data were evaluated and converted into monthly. It is expressed in monetary terms, specifically as Malaysian Ringgit (RM). In order to forecast the gold prices, this study chose to use 10 years period of data, from January 2013 to December 2023. This is because prior study has found that 10 years of data is sufficient to produce accurate forecasts.
 
 <p align="center">
-  <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Table%203.2%20Gold%20Price%2C%20Crude%20Oil%20Price%2C%20Palm%20Oil%20Price%2C%20FTSE%20Bursa%20Malaysia%20EMAS%20Shariah%20and%20FTSE%20Bursa%20Malaysia%20KLCI%20Histor.JPG"/>
+  <img height="500px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Table%203.2%20Gold%20Price%2C%20Crude%20Oil%20Price%2C%20Palm%20Oil%20Price%2C%20FTSE%20Bursa%20Malaysia%20EMAS%20Shariah%20and%20FTSE%20Bursa%20Malaysia%20KLCI%20Histor.JPG"/>
 </p>
 <p align="center">
-  <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Table%203.2%20Gold%20Price%2C%20Crude%20Oil%20Price%2C%20Palm%20Oil%20Price%2C%20FTSE%20Bursa%20Malaysia%20EMAS%20Shariah%20and%20FTSE%20Bursa%20Malaysia%20KLCI%20Histor%202.JPG"/>
+  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Table%203.2%20Gold%20Price%2C%20Crude%20Oil%20Price%2C%20Palm%20Oil%20Price%2C%20FTSE%20Bursa%20Malaysia%20EMAS%20Shariah%20and%20FTSE%20Bursa%20Malaysia%20KLCI%20Histor%202.JPG"/>
 </p>
 
 
@@ -53,7 +53,7 @@ Every item of data used in this study is secondary data. To be more specific, th
 It is necessary to complete preliminary analysis prior to moving on to further pre-processing. A data merging procedure is necessary to bring all of the raw data into one data frame once we have a firm grasp of the features provided in the dataset. Several data wrangling and data transformation procedures will be used on the dataset in an effort to further unify the disorganised raw data. Table 3.3 below lists every detail of the data pre-processing that was used.
 
 <p align="center">
-  <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Table%203.3%20Data%20Pre-processing%20Methods.JPG"/>
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Table%203.3%20Data%20Pre-processing%20Methods.JPG"/>
 </p>
 
 
@@ -61,7 +61,7 @@ It is necessary to complete preliminary analysis prior to moving on to further p
 Preliminary analysis is an important step in any data analysis since it helps you become acquainted with the data collection, understand its structure, format, and the sorts of variables it contains. Early investigation can identify problems that must be fixed for reliable analysis, such as missing values, outliers, or contradictions. The function ".info()" is used to retrieve the data information and gives a brief description of the dataframe. It displays every attribute information from the exported dataset, including the datatype, count of rows, and count of null counts. Figure 3.2 displays the gold price dataset information. The command "gold.info()" searches the dataframe "gold" for missing (NaN) values. The result indicates that all values are present. The dataset comprises 132 entries, suggesting that it is a medium-sized dataset. The dataframe comprises two columns: date and price, with datetime64[ns] and float64 as their respective datatypes.
 
 <p align="center">
-  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/gold.info().JPG"/>
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/gold.info().JPG"/>
 </p>
 <p align="center">
  Figure 3.2 Data Information of Gold Price Dataset
@@ -70,7 +70,7 @@ Preliminary analysis is an important step in any data analysis since it helps yo
 Figure 3.3 displays the palm oil price dataset information. The command "palm_oil.info()" searches the dataframe "palm oil" for missing (NaN) values. The result indicates that all values are present. The dataset comprises 132 entries, suggesting that it is a medium-sized dataset. The dataframe comprises two columns: date and price, with datetime64[ns] and int64 as their respective datatypes.
 
 <p align="center">
-  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/palm%20oil.info().JPG"/>
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/palm%20oil.info().JPG"/>
 </p>
 <p align="center">
 Figure 3.3 Data Information of Palm Oil Price Dataset
@@ -79,7 +79,7 @@ Figure 3.3 Data Information of Palm Oil Price Dataset
 The dataset information for crude oil prices is shown in Figure 3.4 The dataframe "crude oil" is searched for missing (NaN) values using the command "crude_oil.info()". According to the outcome, every value is present. Given that there are 132 entries in the dataset, it appears to be of medium size. The date and price columns in the dataframe have the datatypes datetime64[ns] and int64, respectively.
 
 <p align="center">
-  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/crude.info().JPG"/>
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/crude.info().JPG"/>
 </p>
 <p align="center">
 Figure 3.4 Data Information of Crude Oil Price Dataset
@@ -88,7 +88,7 @@ Figure 3.4 Data Information of Crude Oil Price Dataset
 The information on the Islamic stock market price dataset is shown in Figure 3.5 The dataframe "Islamic Stock Market" is searched for missing (NaN) values using the command "islamic_stock.info()". According to the outcome, every value is present. Given that there are 132 entries in the dataset, it appears to be of medium size. Six columns make up the dataframe: date, price, open, high, low, and change percentage. Each column contains the datatype for each item.
 
 <p align="center">
-  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/islamic%20stock.info().JPG"/>
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/islamic%20stock.info().JPG"/>
 </p>
 <p align="center">
 Figure 3.5 Data Information of Islamic Stock Market Price Dataset
@@ -97,7 +97,7 @@ Figure 3.5 Data Information of Islamic Stock Market Price Dataset
 The traditional stock market price dataset information is shown in Figure 3.6. The dataframe "conventional stock market" is searched for missing (NaN) values using the command "conventional_stock.info()". According to the outcome, every value is present. Given that there are 132 entries in the dataset, it appears to be of medium size. The dataframe has six columns: date, open, high, low, close, adj close, and volume. The datatypes for each column are objects and float64.
 
 <p align="center">
-  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/conventional%20stock.info().JPG"/>
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/conventional%20stock.info().JPG"/>
 </p>
 <p align="center">
 Figure 3.6 Data Information of Conventional Stock Market Price Dataset
