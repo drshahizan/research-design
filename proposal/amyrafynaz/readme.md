@@ -12,7 +12,7 @@
   <img height="200px" src="WhatsApp Image 2024-04-02 at 10.30.48 AM.jpeg"/>
 </p>
 
-## Title: 	Investigating the use of Data Analytics in Optimizing Energy Consumption in Smart Buildings
+## Title: 	Time Series Forecasting for Energy Consumption in Malaysia Using Regression Technique
 
 <table align="center">
   <tr>
