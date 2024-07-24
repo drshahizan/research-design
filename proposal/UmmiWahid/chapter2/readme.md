@@ -17,7 +17,7 @@ As a result, this research will acquire the best approach, which is Long Short-T
 For centuries, gold has been a significant precious metal. It is a significant financial asset for nations and an important part of the world's monetary reserves for trading and currency hedging (Capie, 2005). Gold is important in investing as well, particularly as a buffer against unfavourable financial occurrences. In fact, the prices of precious metals typically move in the other way during periods of financial unrest that cause stock indices to decline. For investors, mining ventures, connected businesses, and generally for any person who views gold as a leading indicator of the future performance of the global economy, anticipating gold price fluctuations is a crucial issue (Jabeur et al., 2021).
 
 <p align="center">
-  <img height="200px" src="[https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/Gambar%20Ummi.png]" />
+  <img height="200px" src="[proposal/UmmiWahid/images/Percentage of Investors That Have Ever Bought Each.JPG]"/>
 </p>
 
 
