@@ -17,11 +17,7 @@ As a result, this research will acquire the best approach, which is Long Short-T
 For centuries, gold has been a significant precious metal. It is a significant financial asset for nations and an important part of the world's monetary reserves for trading and currency hedging (Capie, 2005). Gold is important in investing as well, particularly as a buffer against unfavourable financial occurrences. In fact, the prices of precious metals typically move in the other way during periods of financial unrest that cause stock indices to decline. For investors, mining ventures, connected businesses, and generally for any person who views gold as a leading indicator of the future performance of the global economy, anticipating gold price fluctuations is a crucial issue (Jabeur et al., 2021).
 
 <p align="center">
-  <img height="200px" src="[proposal/UmmiWahid/images/Percentage of Investors That Have Ever Bought Each.JPG]"/>
-</p>
-
-<p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Percentage%20of%20Investors%20That%20Have%20Ever%20Bought%20Each.JPG"/>
+  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Percentage%20of%20Investors%20That%20Have%20Ever%20Bought%20Each.JPG"/>
 </p>
 
 According to the figure above, the World Gold Council study, the annual increase in the demand for gold as an asset and investment has been roughly 15% since 2001 (Chai et al., 2021). In terms of investment products that investors have purchased, gold ranks third with 46%, behind savings accounts (78%) and life insurance (54%), according to the most recent gold retail market survey study from 2019. In the global market, gold is rapidly becoming a commonplace financial strategy. The total amount of gold bought by central banks in 2019 was 651 tons, up 74% from the previous year. This marked the highest level of gold purchases by central banks since the Bretton Woods system collapsed in the 1970s. The world's central bank bought 374.1 tons of gold in the first half of 2021, an increase of 57% compared to the same period last year. The demand for gold from central banks has been rising. In reserve assets, gold is more significant.
