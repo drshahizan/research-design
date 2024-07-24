@@ -13,8 +13,8 @@ The Exploratory Data Analysis (EDA) phase is vital for understanding the dataset
 
 #### Visualizations
 Visualisation is one of the most potent tools for uncovering patterns and anomalies within the data. The following explanation of the visualisation is expected to be produced during the EDA process: 
-1)	Time Series Plots
-  •	Purpose: Time series plots are fundamental to understanding the temporal dynamics of energy     consumption. They help visualise how energy consumption has changed over time, identifying      trends and seasonality.
+1)	Time Series Plots <br>
+  •	Purpose: Time series plots are fundamental to understanding the temporal dynamics of energy     consumption. They help visualise how energy consumption has changed over time, identifying      trends and seasonality.<br>
   •	Implementation: The historical energy consumption data such as the amount of electricity        consumed in Malaysia, total electricity consumption, energy demand by sector in Malaysia,       household electricity per capita in Malaysia, and urbanization in Malaysia based on year        and primary energy supply in Malaysia. Separate plots for different sectors will be created     to identify the consumption patterns. For instance, a time series for energy demands by         sector in Malaysia may reveal increases in usage during a specific time. Similarly, the         household per capita plots may show the correlations between energy used within the year.
 2)	Correlation Heatmaps:
 •	Purpose: Correlation heatmaps visualize the strength and direction of the relationships between multiple variables. They are instrumental in identifying which variables are vital and correlated with energy consumption.
