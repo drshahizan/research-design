@@ -21,17 +21,18 @@ However, concerning GDP and unemployment, there is still a lack of more comprehe
 
 ### 1.3 Problem Statement
 Although the body of literature on Malaysia’s general economic profile is already extensive, there are relatively few studies that offer an analysis of GDP with different aspects of unemployment, total, youth, and duration-based. The following research questions guide this study:
-More specifically, they include aspects on the dynamics of GDP and unemployment rates, and other patterns that may exist.
-What were the actual trends in the states’ employment rates, the cycles and fluctuations that characterised the average rates, and the regular fluctuations that occurred due to factors such as the changing season?
+- How do GDP and unemployment rates interact over time?
+- What are the underlying trends, seasonal patterns, and residuals in the unemployment rates?
+- Can we accurately forecast future unemployment rates based on historical GDP data and other economic indicators?
 
-Is it possible to predict future employment rates from the analysis of statistics for real GDP and other factors?
 To answer these questions, a detailed going-concern analysis should be made employing descriptive statistics and time series analysis to capture the dynamics of Malaysia GDP Unemployment Rates. The purpose of this research is to find out the trends and correlations that will be of help in the formation of policies that will enhance growth of the economy and tackle the rates of unemployment.
 
 ### 1.4 Objectives
 The primary objectives of this research are:
-1. To analyse the GDP and unemployment rates of Malaysia in a descriptive manner to identify the trends of the two variables in the country. This involves reducing the data and making an attempt of finding out the essentials which relate or link various economic factors.
-2. To analyse trends or seasonal unemployment rates, and other components which are irregular, they need to be separated from the time series data. These aid in studying the natural trends with a view of identifying the contribution made by seasonal fluctuations and others.
-3. To deliver the predictive aims and objectives, time series analysis techniques are used such as ARIMA and Prophet models to predict future unemployment rates. This entails development of models from data gathered from past performance.
+1. To perform descriptive analysis on the GDP and unemployment rates of Malaysia to identify the trends of the two variables in the country. This involves reducing the data and making an attempt of finding out the essentials which relate or link various economic factors.
+2. To decompose time series data in order to analyse trends or seasonal unemployment rates, and other components which are irregular. These aid in studying the natural trends with a view of identifying the contribution made by seasonal fluctuations and others.
+3. To leverage time series analysis techniques using ARIMA and Prophet models to predict future unemployment rates. This entails development of models from data gathered from past performance.
+
 
 These objectives will help in developing an all round and holistic understanding of GDP and unemployment rate in Malaysia. With the attainment of these specific objectives, the study will provide important findings in the field of economic analysis that will assist policymakers to design measures that can promote economic development and decrease unemployment levels.
 
