@@ -102,7 +102,7 @@ In addition, findings of Granger Causality test in a study of M. E. Bildirici & 
 
 According to Yahya et al., (2013) as result of granger causality analysis, there was bi-directional causality relationship between the Islamic stock market with oil prices. Gold on the other hand was not causal of the Islamic stock market and vice versa.
 
-## 2.2.3	Johansen Cointegration
+## 2.2.3	Johansen Cointegration Test
 
 Cointegration can be calculated using various methods that have been described in past literature. In this study, we used the Johansen Test to calculate cointegration. Maximum likelihood is used in the Johansen test and its estimation strategy. When there are more than two variables, the test can be used to estimate all cointegration. Besides that, the test facilitates the estimation of all cointegration vectors with multiple variables that may contain at least two cointegration vectors. Time series analysis is used in the Johansen test.
 
@@ -114,7 +114,7 @@ According to Stoklasová, (2018), by using the Johansen cointegration test, it p
 
 Johansen Cointegration test is said to be more powerful than the Granger Causality method due to the accessibility number of variables in the model. Johansen test can estimate the cointegrating relationship of more than two variables compared to Granger test. The Johansen cointegration test is based on the regression parameters test, whereas the Engle-Granger method is based on the residual test. According to Gao et al., 2018, the potential endogeneity of the regressors is not taken into account by the Engle-Granger method because it assumes that one variable is endogenous, and the other is exogenous.
 
-## 2.2.4	Autoregressive Distributed Lag (ARDL)
+## 2.2.4	Autoregressive Distributed Lag (ARDL) Test
 
 According to Singhal (2019), the ARDL technique provides a number of benefits over the Johansen Cointegration test (Le and Chang, 2016) when examining the long-term relationships between gold prices, stock market prices, and crude oil prices. Besides that, ARDL model established by (M. Hashem Pesaran et al., 2001), who employs an error correction model and a linear transformation to include short-term modifications into the long-term equilibrium. Then, ARDL bound can be employed regardless of whether the study's variables are stationary variables I(0) and non-stationary variables I(1) in same estimation (Othman & Masih, 2018). To perform the ARDL bound test, however, the series must not be I(2). The bound test approach of ordinary least squares may be used to verify cointegration after the model's lag order has been determined (OLS). Lagged variables are employed in the ARDL technique, which helps in avoiding the endogeneity problem.
 
