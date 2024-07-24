@@ -106,13 +106,18 @@ Figure 3.6 Data Information of Conventional Stock Market Price Dataset
 
 ## 3.5.2	Data Cleaning
 In order to identify missing values and eliminate rows and columns with no values, data cleaning is done in this part. Figure 3.7 shows that while all datasets are free of missing values, some of the columns are not relevant to our research. It is therefore necessary to eliminate the following columns: 'Open', 'High', 'Low', 'Change %' from the Islamic stock market price dataset; and 'Open', 'High', 'Low', 'Close', 'Volume' from the conventional stock market price dataset. The process of removing these columns is depicted in Figure 3.8. The Islamic stock market price dataset now consists solely of date and price columns, whereas the traditional stock market price dataset only includes date and adj close columns.
+
 <p align="center">
   <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/duplicate.JPG"/>
+</p>
+<p align="center">
 Figure 3.7 Data Cleaning for All Datasets
 </p>
 
 <p align="center">
   <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/drop%20column%20islamic.JPG"/>
+</p>
+<p align="center">
 Figure 3.8 Drop Unnecessary Column
 </p>
 
@@ -121,6 +126,8 @@ A method for combining data from related datasets into a single, cohesive datase
 
 <p align="center">
   <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/concat().JPG"/>
+</p>
+<p align="center"> 
 Figure 3.9 Data Concatenation on Merge Dataset
 </p>
 
@@ -128,7 +135,7 @@ Figure 3.9 Data Concatenation on Merge Dataset
 The primary aim of this research is to model the impact of oil price and stock market price on gold price using advanced econometric techniques. The process begins with the collection of time series data, encompassing historical records of gold price, crude oil price, palm oil price, Islamic stock market price, and conventional stock market price, measured over monthly intervals from January 2013 to December 2021. This data must then undergo a series of pre-processing steps to ensure its suitability for modeling. Pre-processing includes handling missing values, converting data types, and ensuring the data is stationary—a requirement for many time series models. Stationarity is achieved through techniques like differencing to remove trends and seasonal structures. Figure 3.10 will show the framework of how VAR model methodology for forecasting gold price.
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Figure%203.10%20LSTM%20Model%20for%20Gold%20Price%20Forecasting%20Methodology.JPG"/>
+  <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/images/Figure%203.10%20LSTM%20Model%20for%20Gold%20Price%20Forecasting%20Methodology.JPG"/>
 </p>
 
 Once the data is prepared, it is divided into training and testing datasets. This division is essential for validating the model's effectiveness at making forecasts. For this research, the Johansen Cointegration test is employed to determine the long-term equilibrium relationships between the variables. Additionally, the Granger Causality test is used to identify the directional influences between the time series.
