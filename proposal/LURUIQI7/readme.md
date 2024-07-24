@@ -14,7 +14,7 @@
 </p>
 
 
-## Title: Predicting Traffic Congestion in Malaysia Using Publicly Available Data
+## Title: Predicting Traffic Congestion in Malaysia Using machine learning algorithms
 
 <table align="center">
   <tr>
