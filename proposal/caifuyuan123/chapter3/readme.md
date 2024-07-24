@@ -6,6 +6,7 @@ This study uses a quantitative research design to analyze figures and data visua
 Data source: supply store dataset from Github
 https://github.com/drshahizan/dataset/tree/main/mongodb/01-sales
 Data cleaning: data was imported and cleaned to ensure accuracy and completeness, resolve missing values, inconsistencies, and outliers, standardize date formats and ensure consistency of categorical data, and create relevant variables for analysis.
+
 <img width="258" alt="data" src="https://github.com/user-attachments/assets/b44f48cd-e49d-4fe0-9f6e-485aaf33470c">
 
 ## 3.3 Exploratory Data Analysis (EDA)
