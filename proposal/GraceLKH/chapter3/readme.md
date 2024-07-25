@@ -83,7 +83,7 @@ This study focuses on several enhancements using statistical methods to analyse 
 Understanding forest fire patterns requires a comprehensive approach that integrates various theoretical perspectives. By referring to the keywords identified in previous session, there are mainly three theories related to the study, including: Climate Change Theory, Fire Ecology, and Statistical Analysis. These theories are related to each other to provide a robust framework to explore the multifaceted nature of forest fires.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ecc36e01-7fe7-4e40-8684-ef6fc0f82ac9"  height="200" />
+<img src="https://github.com/user-attachments/assets/ecc36e01-7fe7-4e40-8684-ef6fc0f82ac9"  height="300" />
 </p>
 
 <p align="center">
