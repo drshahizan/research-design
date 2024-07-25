@@ -27,6 +27,9 @@ Data science has become an essential discipline, needed for enhancing competitiv
 
 ## PRISMA
 Prisma
+<p align="center">
+<img src="https://github.com/drshahizan/research-design/blob/main/SLR/group1/Image%2026-07-2024%20at%203.49%20AM.jpeg"  height="400" />
+</p>
 
 
 ## Contribution 🛠️
