@@ -50,11 +50,10 @@ Despite the vast amount of data generated throughout the supply chain, many orga
 (4) What are the key factors affecting the effectiveness of forecasting models in supply chain optimization?
 
 ## 1.5 Objectives of the Research
-This study is to improve supply chain efficiency by using predictive analytics to forecast demand, optimize inventory levels and improve overall operational efficiency. Specific objectives include:
-(1) Demand forecasting: using historical sales data to forecast future product demand.
-(2) Inventory Optimization: Determine optimal inventory levels to reduce costs and prevent stock-outs or overstocking.
-(3) Supplier performance analysis: Evaluate supplier performance to identify potential improvements and reduce risk.
-(4) Customer Satisfaction Improvement: Analyze customer satisfaction data to identify trends and improve service quality.
+The proposed project aims to achieve the following objectives:
+(1) To conduct exploratory data analysis on a historical sales dataset to identify and visualize patterns, trends and correlations in the supply chain operations in this dataset.
+(2) To perform predictive analyses of future sales from the historical data, using ARIMA and exponential smoothing models for time series analysis.
+(3) To comprehensive evaluation of the developed predictive model using k-fold cross validation to assess the model performance.
 
 ## 1.6 Scope of the Study
 This study focuses on the application of predictive analytics to optimize supply chain efficiency at all stages from procurement to delivery. The scope of the study covers the following areas:
