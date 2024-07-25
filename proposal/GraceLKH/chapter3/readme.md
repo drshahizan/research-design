@@ -16,34 +16,39 @@ This chapter highlighted the structured approach taken to analyse the temporal p
 The study’s research design is observational, which is suitable for understanding and analysing the existing patterns and relationships between climatic variables and forest fire occurrences. This design enables the gathering of information from natural settings without manipulating variables, ensuring that the findings are reflective of real-world scenarios. The choice of an observational design is justified by the need to analyse historical data to identify trends and correlations, which is essential for developing predictive models and management strategies.
 
 ### 3.3 Data Science Project Life Cycle
-The Data Science Project Life Cycle (Figure 1) is a systematic approach that guides the progression of a data-driven project from initial problem definition to deployment and maintenance of the solution. This cycle encompasses a series of interconnected stages designed to ensure thorough understanding, accurate analysis, and effective implementation of data-centric solutions. Every step in the process builds on the one before it, leading to a cohesive workflow that improves the accuracy and usefulness of the outcomes. The data science project life cycle followed in this session includes the first three stages: problem formulation, data collection and data pre-processing. The other stages such as data exploration will be discussed in Chapter 4, model building will be presented in Chapter 5, and the last two stages: deployment and monitoring and maintenance will be outlined in Chapter 7. 
+The Data Science Project Life Cycle (Figure 3.3) is a systematic approach that guides the progression of a data-driven project from initial problem definition to deployment and maintenance of the solution. This cycle encompasses a series of interconnected stages designed to ensure thorough understanding, accurate analysis, and effective implementation of data-centric solutions. Every step in the process builds on the one before it, leading to a cohesive workflow that improves the accuracy and usefulness of the outcomes. The data science project life cycle followed in this session includes the first three stages: problem formulation, data collection and data pre-processing. The other stages such as data exploration will be discussed in Chapter 4, model building will be presented in Chapter 5, and the last two stages: deployment and monitoring and maintenance will be outlined in Chapter 7. 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/011e4cc1-cbb8-451a-93f3-810f25fcf33f"  height="200" />
+<img src="https://github.com/user-attachments/assets/011e4cc1-cbb8-451a-93f3-810f25fcf33f"  height="400" />
 </p>
 
 <p align="center">
-Figure 3.2: Data Science Project Life Cycle
+Figure 3.3: Data Science Project Life Cycle
 </p>
 
-#### 3.2.1 Problem Formulation
+#### 3.3.1 Problem Formulation
 Forest fires in Peninsular Malaysia pose significant risks to ecosystems, biodiversity, and human settlements. Understanding the temporal patterns of these fires and their climatic influences is crucial for developing effective fire management strategies and early warning systems.
 
-#### 3.2.2 Data Source and Data Collection
-Data from multiple sources was gathered for this research to ensure a thorough examination of the factors that impact forest fire trends:
-
--	Google Earth Engine: The dataset on forest fires in Peninsular Malaysia is obtained from multiple-source remote sensing data through google earth engine. This platform integrates data from various satellites and provides high-resolution imagery, enabling detailed analysis of fire hotspots and burned areas.
--	IMF: The climate change dataset is obtained from IMF Climate Change Dashboard. This dataset includes comprehensive climate variables such as temperature, precipitation, humidity, and other relevant indicators, offering valuable insights into the climatic factors influencing forest fires.
-
-#### 3.2.3 Data Pre-Processing
-The data pre-processing steps are critical to ensuring the accuracy and reliability of the analysis. These steps involve several key activities: data cleaning, data transformation, and feature engineering. Figure 3.2.3 illustrates the process.
+#### 3.3.2 Data Source and Data Collection
+Data was gathered from Google Earth Engine for this research to ensure a thorough examination of the factors that impact forest fire trends. The dataset on forest fires and climate change in Peninsular Malaysia is obtained from multiple-source remote sensing data through google earth engine. This platform integrates data from various satellites and provides high-resolution imagery, generates not only relevant dataset for forest fire but also execute climate variables such as temperature, humidity, windspeed and other relevant indicators, offering valuable insights into the climatic factors influencing forest fires. The dataset size is approximately 82.89M which covered the forest fire and climate variables attributes from 2001 to 2023 years (Figure 3.3.2).
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/831dd597-4d47-401c-8423-6e988b7e8859"  height="200" />
+<img src="https://github.com/user-attachments/assets/0f309a68-9494-424c-b694-f610cdcfeb5a"  height="500" />
 </p>
 
 <p align="center">
-Figure 3.2.3: Data Pre-Processing Flow
+Figure 3.3.2: Forest Fire and Climate Variables Dataset Attributes.
+</p>
+
+#### 3.3.3 Data Pre-Processing
+The data pre-processing steps are critical to ensuring the accuracy and reliability of the analysis. These steps involve several key activities: data cleaning, data transformation, and feature engineering. Figure 3.3.3 illustrates the process.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/4c1e5b83-df4f-4070-8bd1-719f1bd8e93c"  height="500" />
+</p>
+
+<p align="center">
+Figure 3.3.3: Data Pre-Processing Flow
 </p>
 
 #### Step 1: Data Cleaning
@@ -57,24 +62,24 @@ Feature engineering involves generating new features using available data to imp
 
 These initial processing tasks together guarantee that the dataset is ready to use for future analysis steps, enhancing the quality and reliability of the insights derived from the statistical models.
 
-### 3.3 Data Analysis
+### 3.4 Data Analysis
 The data analysis involves employing advanced statistical methods to process and analyse the collected data. Time series analysis and regression models are used to quantify the relationship between climatic factors and fire patterns, offering a robust analytical framework. These techniques are suitable for handling the high-resolution temporal data and identifying significant trends and correlations.
 
-### 3.4 Evaluation Metrics
+### 3.5 Evaluation Metrics
 The research's effectiveness is measured using defined evaluation metrics. These metrics help determine whether the findings support the research question and objectives. Examples of evaluation metrics include:
 
 -	Prediction Accuracy: The accuracy of the models in predicting fire occurrences based on climatic variables.
 -	Error Rates: Methods like mean absolute error (MAE) and root mean square error (RMSE) are utilized for evaluating the model's performance.
 -	Model Robustness: The ability of the models to generalize to new data and avoid overfitting, assessed through cross-validation techniques.
 
-### 3.5 Comparison of Methods 
-#### 3.5.1 Previous Studies
+### 3.6 Comparison of Methods 
+#### 3.6.1 Previous Studies
 Recent advancements in remote sensing and machine learning have significantly enhanced the detection and monitoring of forest fires. Various studies have employed satellite imagery, drones, and ground-based sensors to detect and analyse fire patterns. In 2019, Sabani et al. utilized MODIS satellite data to detect forest fire hotspots in Southeast Asia, demonstrating the effectiveness of remote sensing in fire detection. In 2021, Saruni Dwiasnati and Yudo Devianto applied machine learning algorithms to classify fire-prone areas using historical fire data and climatic variables. A study by Ghali and Akhloufi in 2023 integrated drone-based imagery with deep learning models to accurately map burned areas and predict fire spread. In 2023, Sudiana et al. experiment with five detection methods and found CNN-RF hybrid method achieved 97% accuracy in fire detection. Finally, a theoretical framework proposed by Meng et al. in 2024 emphasized the importance of integrating cutting-edge fire detection and suppression technologies to reduce the likelihood and impact of forest fires.
 
-#### 3.5.2 Current Study
+#### 3.6.2 Current Study
 This study focuses on several enhancements using statistical methods to analyse forest fire patterns in Peninsular Malaysia. First, it utilizes high-resolution temporal data to capture more detailed patterns and trends, providing a finer granularity of analysis. Second, the research utilizes sophisticated statistical techniques such as regression models and time series analysis, to quantify the relationship between climatic factors and fire patterns, offering a robust analytical framework. Lastly, the research implements real-time validation techniques to ensure the robustness and reliability of the models, addressing potential issues of overfitting and ensuring the models' applicability in real-world scenarios. By building on the strengths of previous studies and introducing these novel elements, this research aims to provide a deeper and more accurate understanding of the climatic influences on forest fire patterns in the region.
 
-### 3.5.3 Summarisation and Research Gap
+#### 3.6.3 Summarisation and Research Gap
 Understanding forest fire patterns requires a comprehensive approach that integrates various theoretical perspectives. By referring to the keywords identified in previous session, there are mainly three theories related to the study, including: Climate Change Theory, Fire Ecology, and Statistical Analysis. These theories are related to each other to provide a robust framework to explore the multifaceted nature of forest fires.
 
 <p align="center">
@@ -82,12 +87,12 @@ Understanding forest fire patterns requires a comprehensive approach that integr
 </p>
 
 <p align="center">
-Table 3.5.3 Summarisation of The Comparison Between Previous and Current Methods and The Research Gap.
+Table 3.6.3 Summarisation of The Comparison Between Previous and Current Methods and The Research Gap.
 </p>
 
 The current research’s aim is to add to the existing knowledge by pinpointing these gaps in research by addressing the need for high-resolution temporal data, integrating advanced statistical techniques, focusing on region-specific studies, implementing real-time validation techniques, and developing comprehensive fire management systems.
 
-#### 3.6 Summary
+### 3.7 Summary
 This methodology chapter outlines the structured approach used to analyse the temporal patterns of forest fires in Peninsular Malaysia and their climatic influences using statistical methods. The chapter covers the full data science project life cycle, which includes problem definition, data collection from Google Earth Engine and IMF Climate Change Dashboard, data pre-processing involving cleaning, transformation, and feature engineering, and rigorous model building and validation. The study builds on previous research from 2019 to 2024, incorporating high-resolution temporal data, advanced statistical techniques, and real-time validation to improve the precision and dependability of the analysis. By identifying and addressing research gaps, this study aims to provide valuable insights and contribute to effective fire management strategies in the region.
 
 
