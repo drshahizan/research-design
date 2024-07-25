@@ -26,9 +26,8 @@ Even though climatic factors have been identified as a major cause of forest fir
 
 ### 1.4 Research Questions
 1. 	What trends can be deduced in relation to the forest fire incidences in Peninsular Malaysia in the last five years?
-2. 	Which month and seasons of the year are responsive to the highest number of times that forest fire occurred in Peninsular Malaysia?
-3. 	Where is the hotspot area that defines an area most likely to be affected by outbreak of forest fires?
-4. 	What is the relationship between geographical characteristic in the Peninsular Malaysia and the climatic factors that determine forest fire?
+2. 	Which month and seasons of the year and where are the hotspot areas responsive to the highest number of times that forest fire occurred in Peninsular Malaysia?
+3. 	What is the relationship between geographical characteristic in the Peninsular Malaysia and the climatic factors that determine forest fire?
 
 ### 1.5 Objectives of the Research
 To answer this research question, the following specific objectives are set:
