@@ -21,7 +21,7 @@
 
 
 ## Abstract
-Abc
+The systematic literature review explores the evolution of deep learning methods for plant disease identification and techniques and the development of essential approaches in this methodology that have transformed this field. The traditional methods of plant disease detection, which rely on manual inspections, are increasingly being replaced with advances in deep learning approaches, such as convolutional neural network (CNN) and transfer learning are used due to their higher accuracy and speed can be made scalable. By examining the comprehensive range of studies on learning approaches in plant pathology, this paper aims to outline trends, advances, and limitations by incorporating multiple studies on deep learning approaches. The findings emphasize the importance of enhancing disease identification effectiveness and the potential of these schemes in transforming agriculture practices. At the same time, it highlights the existing limitations and proposes directions to improve the robustness and utilization of deep learning for such an essential section.
 
 ## PRISMA
 <p align="center">
