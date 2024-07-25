@@ -1,6 +1,8 @@
 ## Chapter 3: Methodology
 ## 3.1 Research design
 This study uses a quantitative research design to analyze figures and data visualization to produce results to give recommendations. Quantitative methods are well suited to the application of this study as it involves analyzing large data sets to identify patterns, trends and relationships in supply chain operations. Specific methods include descriptive statistics, predictive modeling and machine learning techniques.
+![image](https://github.com/user-attachments/assets/70385568-873c-46ad-a68f-aecf525f3be0)
+
 
 ## 3.2 Data collection and pre-processing
 Data source: supply store dataset from Github
