@@ -47,14 +47,14 @@ Several case studies highlight the practical applications of research on forest 
 Analysing the patterns of forest fires is essential for creating effective strategies for fire management, mitigating fire risks, and protecting ecosystems and human communities. By identifying the factors that influence fire occurrences and their spatial and temporal distribution, researchers can inform fire prevention and response efforts (Moritz et al., 2014). The ongoing advancements in remote sensing, climate modelling, and data analytics continue to improve our understanding of forest fire patterns, underscoring their importance in addressing the challenges posed by increasing fire occurrences due to climate change (Stephens et al., 2012). In conclusion, research on forest fire patterns provides essential insights that drive both scientific understanding and practical actions to manage and mitigate the impacts of forest fires (Keeley & Syphard, 2021).
 
 #### 2.2.4 Peninsular Malaysia
-Peninsular Malaysia, referred to as West Malaysia, is part of the larger Southeast Asian country of Malaysia, situated on the Malay Peninsula. This region is distinguished by its diverse ecosystems, rich cultural heritage, and significant economic activities, especially in agriculture, manufacturing, and tourism (Hasan & Nair, 2014). Peninsular Malaysia is located between Thailand to the north, the Strait of Malacca to the west, the South China Sea to the east, and Singapore to the south (Olaniyi et al., 2011).
+Peninsular Malaysia (Figure 2.2.4), referred to as West Malaysia, is part of the larger Southeast Asian country of Malaysia, situated on the Malay Peninsula. This region is distinguished by its diverse ecosystems, rich cultural heritage, and significant economic activities, especially in agriculture, manufacturing, and tourism (Hasan & Nair, 2014). Peninsular Malaysia is located between Thailand to the north, the Strait of Malacca to the west, the South China Sea to the east, and Singapore to the south (Olaniyi et al., 2011).
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c26ca4ee-d047-4098-87a8-9f7e07e0278b"  height="200" />
+<img src="https://github.com/user-attachments/assets/0713f8af-021d-4b26-91c9-cb6aa690fb9f"  height="400" />
 </p>
 
 <p align="center">
-Figure 2.2.4:  Border of Malaysia
+Figure 2.2.4: Peninsular Malaysia
 </p>
 
 Research on Peninsular Malaysia has evolved over the decades, reflecting shifts in focus from colonial historical studies to contemporary issues such as sustainable development, environmental conservation, and socio-economic challenges (Hezri & Nordin Hasan, 2006). Early studies primarily documented the region's colonial history and post-independence developments (Ngah, n.d.). More recent research has embraced multidisciplinary approaches, incorporating perspectives from environmental science, economics, sociology, and urban planning to address the complex challenges faced by the region (Laporan Akhir Penyelidik, n.d.)
@@ -94,7 +94,7 @@ Figure 2.3.1: Type of Forest Fire (a) Ground Fire; (b) Surface Fire; (c) Crown F
 Fire ecology studies the role of fire in ecosystems and how it affects vegetation, wildlife, and soil (Kobziar et al., 2024). This branch of ecology provides critical insights into how different types of fires—ground, surface, and crown—interact with forest ecosystems. Ground fires impact the peat layers, surface fires clear underbrush and affect forest floor biodiversity, while crown fires have the potential to cause major alterations in the forest's structure and composition.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/972ce25a-56d3-4de2-bb79-528abce17e04"  height="200" />
+<img src="https://github.com/user-attachments/assets/972ce25a-56d3-4de2-bb79-528abce17e04"  height="300" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ Table 2.3.2 Causes, Symptoms and impact of forest fires in Peninsular Malaysia. 
 Statistical Analysis provides the tools to analyse complex data sets, identify trends, and make predictions, crucial for interpreting the climatic influences on forest fires (Higuera et al., 2015). By applying statistical methods to historical fire data, the patterns and correlations between fire occurrences and climatic variables such as temperature, humidity, and rainfall are identified (Table 2.3.3).
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/90e69cb4-db0c-47b5-be70-6e00f460331b"  height="200" />
+<img src="https://github.com/user-attachments/assets/90e69cb4-db0c-47b5-be70-6e00f460331b"  height="400" />
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ Table 2.3.3: Statistical Methods to Identify the Relationship Between Forest Fir
 From the statistical methods identified from previous studies, the work of Szpakowski & Jensen (2019), who utilized remote sensing to detect and map forest fires is encountered. Figure 2.4 showcases satellite imagery used for detecting fire hotspots, highlighting areas affected by forest fires in Peninsular Malaysia.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/58752dd7-6423-4d08-828e-c57841977bcf"  height="200" />
+<img src="https://github.com/user-attachments/assets/4b6e1308-bcea-4619-a87a-afe6948c8570"  height="200" />
 </p>
 
 <p align="center">
@@ -126,7 +126,7 @@ Figure 2.4: Satellite imagery showing fire hotspots in Peninsular Malaysia
 Since the data collection method from the study of Giglio et al. (2020) is remote sensing which is similar to the method used in this research, the comparison of different aspect in data sources, methodology, focus area and policy recommendation is done and the research gap between the studies are identified as in Table 2.4.1.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ed13c19c-ba21-4e37-99c8-216bf3fa1d5d"  height="200" />
+<img src="https://github.com/user-attachments/assets/ed13c19c-ba21-4e37-99c8-216bf3fa1d5d"  height="300" />
 </p>
 
 <p align="center">
