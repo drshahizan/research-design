@@ -7,7 +7,7 @@
 
 # Assignment: Systematic Literature Review
 
-### Group Name: Evolution Deep Learning
+### Group Name: Evolution Deep Learning Techniques in Plant Diseases
 ### Group Members:
 
 | Name          | Matric Number  | 
