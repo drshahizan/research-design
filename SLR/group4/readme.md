@@ -25,7 +25,7 @@ Abc
 
 ## PRISMA
 <p align="center">
-  <img height="300px" src="https://github.com/drshahizan/research-design/blob/main/SLR/group4/PRISMA_G4_Evolution%20Deep%20Learning%20Techniques%20in%20Plant%20Diseases.png"/>
+  <img height="400px" src="https://github.com/drshahizan/research-design/blob/main/SLR/group4/PRISMA_G4_Evolution%20Deep%20Learning%20Techniques%20in%20Plant%20Diseases.png"/>
 </p>
 <p align="center">
 PRISMA Diagrams of Evolution Deep Learning Techniques in Plant Diseases
