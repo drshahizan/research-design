@@ -22,10 +22,33 @@ https://drive.google.com/drive/folders/1oPSHeq-5X-IiXxpqdSA3K-tv_uvJIK_A?usp=dri
 
 
 ## Abstract
-Abc
+This systematic literature review examines the current overview of machine translation (MT) 
+performance for low-resourced and under-resourced languages, addressing the significant 
+challenges and limitations these languages face due to limited digital resources and parallel 
+corpora. Despite advancements in neural machine translation (NMT), the effectiveness of 
+these MT systems on these languages remains constrained, necessitating a comprehensive 
+synthesis of existing research to identify effective strategies and methodologies. The review 
+follows PRISMA guidelines, systematically searching multiple academic databases for studies 
+published between 2019 and 2023. A total of 69 relevant articles were studied to assess the 
+MT performance, the challenges encountered, and the effectiveness of used or proposed 
+solutions. Findings from the study reveal that while NMT has emerged as a dominant 
+approach, its performance is often stalled by the scarcity of training data and Structural 
+variability. The review highlights the importance of leveraging monolingual data and adapting 
+model architectures to improve translation accuracy. Additionally, it identifies trends in 
+research area, including the integration of multilingual sentiment analysis and speech-to-text 
+translation systems. This study offers a thorough examination of the present state of MT for 
+low-resourced and under-resourced languages. Furthermore, it emphasizes the necessity for 
+future research to investigate underrepresented languages and construct datasets that 
+encompass a wider range of languages. By fostering collaboration and innovation in this field, 
+the study aims to contribute to more effective and equitable translation solutions, ultimately 
+enhancing communication across diverse linguistic communities.
+
+Keywords: Machine translation, low-resourced languages, under-resourced languages
+
 
 ## PRISMA
-Prisma
+![image](https://github.com/user-attachments/assets/924c3d71-985d-4082-88bf-6b19c269056b)
+
 
 
 
