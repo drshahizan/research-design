@@ -29,8 +29,8 @@ First, only a few sources have analyzed the sentiment of news article titles, no
 The second problematic in the research area is that applications of transformer models such as FinBERT for purpose like sentiment analysis are usually computational and data-oriented. These models require computational resources and large datasets, hence they cannot easily be applied for real time, or when the system presents low processing capacity. Hence, it is crucial to search for other, more effective, but at the same time, more intelligible approaches to sentiment analysis, including the XLex strategy that could improve the financial decision-making process and open up new possibilities for the use of sentiment analysis (Rizinski et al., 2023, 2024).
 Also, the advanced studies have some limitations when it comes to the assessment of the neutral remarks in the sentiment analysis of the social media platforms such as Stocktwits. It might serve to enhance the effectiveness of current models for classifying neutral sentiments and even increase the predictive power of fluctuation in stocks’ prices (Liu et al., 2022, 2023). These gaps in the existing literature are as follows which is mentioned in Table 2.1, provide the way for the future research to enhance the understanding of the sentiment analysis in the operation of Malaysia’s stock market or offer valuable recommendations for investors, policymakers, and financial analysts.
 
-![image](https://github.com/user-attachments/assets/f84d63e1-27c8-45bb-8c7d-faef89ada7dd)
-
+![image](https://github.com/user-attachments/assets/b2c82c6b-e2c2-4eec-bdee-cecbe7f7854c)
+![image](https://github.com/user-attachments/assets/f2c18048-3435-4c4a-bd25-92dad74d5b90)
 
 
 
