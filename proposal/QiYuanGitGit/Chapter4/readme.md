@@ -22,7 +22,6 @@ For example, descriptive statistics work hand in hand with visualization tools b
 Feature engineering is the process that enables formation of new variables (features) from raw data, which are supposed to enhance the learning models by applying prior knowledge about the application domain (Verdonck et al ., 2021). It means data selection and data preparation that act in the capacity of modifying and transforming data to create a better predictive model. In the case of Fan et al. (2019), the authors argue that good feature engineering boosts the credibility of a model as well as the quality of insights generated from the data because it directs the models’ attention to what matters most in the data. As part of feature engineering in this work, raw text data from news articles are transformed into features that can be utilised for the determination of the movements in the stock prices. In this research, feature engineering will be applied in the following:
 ![image](https://github.com/user-attachments/assets/a44f33ce-4d7c-4ff2-bf56-842fa2d3174e)
 ![image](https://github.com/user-attachments/assets/37a82d0d-ecdd-4694-be6b-fc3e32be391a)
-![image](https://github.com/user-attachments/assets/8d1564b3-ec34-4999-a5b4-29febbd975f7)
 
 
 
