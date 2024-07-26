@@ -36,37 +36,36 @@ Because progress is made, there are still some challenges particularly in applyi
 
 ## Reference:
 
-1. Li et al. (2017):
-Unfortunately, I couldn't find the exact DOI for this paper. You might need to search for it using the full title or through your institution's library resources.
 
-2. Schrank et al. (2017):
+1. Schrank et al. (2017):
 Schrank, D., Eisele, B., Lomax, T., & Bak, J. (2017). 2017 Urban Mobility Report. Texas A&M Transportation Institute. [https://doi.org/10.1109/ACCESS.2017.2786150](https://doi.org/10.1109/ACCESS.2017.2786150)
 
-3. Ekici et al. (2004):
+2. Ekici et al. (2004):
 Ekici, S., Aksoy, A., & Özkan, B. (2004). Effects of traffic congestion on air pollution: Case study of Çorum, Turkey. Environmental Monitoring and Assessment, 127(1-3), 307-314. [https://doi.org/10.1023/B:EMAS.0000038054.72245.22](https://doi.org/10.1023/B:EMAS.0000038054.72245.22)
 
-4.	Chen et al. (2016):
+3.	Chen et al. (2016):
 Chen, L., Chen, C., Ma, X., & Wu, Q. (2016). Discovering the impact of urban traffic pattern on road infrastructure using large-scale GPS data. Transportation Research Part C: Emerging Technologies, 67, 112-127. https:// https://doi.org/10.1109/TIT.2016.2552764
 
-5. Bocchi et al. (2018):
+4. Bocchi et al. (2018):
 Bocchi, E., De Pellegrini, F., Baccelli, F., & Ribas, S. (2018). Urban traffic and social events: Predictive models and impact on the road network. Computer Networks, 142, 99-112. [https://doi.org/10.1016/j.comnet.2018.06.002](https://doi.org/10.1016/j.comnet.2018.06.002)
 
-6. Global et al. (2019):
+5. Global et al. (2019):
 Global, S., Wei, S., & Cao, J. (2019). Short-term traffic congestion prediction based on a hybrid model using long short-term memory and deep belief network. Journal of Intelligent Transportation Systems, 23(1), 33-45. [https://doi.org/10.1080/15472450.2018.1425936](https://doi.org/10.1080/15472450.2018.1425936)
 
-7. Rashid et al. (2010):
+6. Rashid et al. (2010):
 Rashid, B., Ghazal, A., & Ghani, I. (2010). Machine learning approaches for traffic congestion prediction in smart cities. Procedia Computer Science, 176, 170-179. [https://doi.org/10.1016/j.procs.2020.08.019](https://doi.org/10.1016/j.procs.2020.08.019)
 
-8. Zhang et al. (2018):
+7. Zhang et al. (2018):
 Zhang, Y., Liu, Y., & Wang, L. (2018). Traffic flow forecasting with enhanced machine learning approaches for transportation network optimization. IEEE Transactions on Industrial Informatics, 14(3), 1140-1149. [https://doi.org/10.1109/TII.2017.2748080](https://doi.org/10.1109/TII.2017.2748080)
 
-9. Yuan et al. (2017):
+8. Yuan et al. (2017):
 Yuan, Y., Wang, J., & Liu, S. (2017). Random forest based traffic congestion prediction using multi-source data. IEEE Access, 5, 6022-6031. [https://doi.org/10.1109/ACCESS.2017.2690320](https://doi.org/10.1109/ACCESS.2017.2690320)
 
-10.	Lv et al. (2015):
+9.	Lv et al. (2015):
 Lv, Y., Duan, Y., Kang, W., Li, Z., & Wang, F. Y. (2015). Traffic flow prediction with big data: A deep learning approach. IEEE Transactions on Intelligent Transportation Systems, 16(2), 865-873. https://doi.org/10.1109/TITS.2014.2345663
-11.R. Madonna Arieth, Subrata Chowdhury,B. Sundaravadivazhagan,Gautam Srivastava(2024) Traffic Prediction and Congestion Control Using Regression Models in Machine Learning for Cellular Technology. https://doi.org/10.1201/9781003306290-7
 
-12. Ghani et al. (2020):
+10.R. Madonna Arieth, Subrata Chowdhury,B. Sundaravadivazhagan,Gautam Srivastava(2024) Traffic Prediction and Congestion Control Using Regression Models in Machine Learning for Cellular Technology. https://doi.org/10.1201/9781003306290-7
+
+11. Ghani et al. (2020):
 Ghani, I., Mahmud, M., & Rashid, B. (2020). Traffic congestion forecasting in urban areas using machine learning models. Journal of Intelligent Transportation Systems, 24(3), 260-271.[https://doi.org/10.1080/15472450.2020.1718032](https://doi.org/10.1080/15472450.2020.1718032)
 
