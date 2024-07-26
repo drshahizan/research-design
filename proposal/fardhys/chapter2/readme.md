@@ -18,7 +18,7 @@ Even though records show air pollution has a severe impact on people’s health 
 ### 2.3 Descriptive Epidemiology
 Descriptive epidemiology on the other refers to the identification of the distribution and the factors associated with health-related events or conditions in identified populations. It offers a conceptual map focusing on the occurrence of diseases and components affecting occurrences (Last, 2019). Therefore, in the context of this study, descriptive epidemiological approach will be employed in order to examine the geographical and temporal trends in air pollution as well as its concomitant health effects in urban Indonesia.  
 
-Prior research on air pollution and health effects incorporated descriptive epidemiology to analyze the difference of the pollutant concentrations and effect across season and region (Samoli et al. , 2020; Zhang et al. , 2021). Using descriptive epidemiology approach, this study will be useful in establishing the current situation regarding air pollution and its effects on the health of Indonesians in its major cities and coming up with policies that may be adopted to counter the menace.  
+Prior research on air pollution and health effects incorporated descriptive epidemiology to analyze the difference of the pollutant concentrations and effect across season and region (Samoli et al. , 2020). Using descriptive epidemiology approach, this study will be useful in establishing the current situation regarding air pollution and its effects on the health of Indonesians in its major cities and coming up with policies that may be adopted to counter the menace.  
 
 Descriptive epidemiology will also be useful in this study in determining vulnerable populations and geographical locations with high health risks for intervention to curb the exposure and the effects. This will go a long way in painting a clear picture of the relationship between air pollutants and health hence aiding the formulation of effective public policies.
 
@@ -32,6 +32,31 @@ This research will therefore generate and test outcome prediction models to esti
 ### 2.5 Integrated Approach
 The comprehensive strategies of analysing the air pollution and the health risks include the use of several fields of knowledge and data sources. It is for this reason that these approaches acknowledge that air pollution as a problem is multifaceted both in its sources and pathways, and also in the ways and extent to which it affects human health given the various environmental, social and economic factors that define people’s lives (Briggs, 2019).
 
-Data integration has also been applied in earlier studies regarding the effects of AP on health applying data from AQMS, health, and meteorological models (Gulliver and Briggs, 2019; Jerrett et al., 2020). For this reason, for quantitative data, by combining these datasets, researchers are able to establish relationships that are not discerned when each factor is considered separately.
+Data integration has also been applied in earlier studies regarding the effects of AP on health applying data from AQMS, health, and meteorological models (Gulliver and Briggs, 2019). For this reason, for quantitative data, by combining these datasets, researchers are able to establish relationships that are not discerned when each factor is considered separately.
 
 The research methodology of this study will be multi-disciplinary with the aim of achieving the research objectives of assessing the effects of air pollution on people’s health in Indonesian cities. Thus, using descriptive epidemiology, predictive epidemiology and policy research the study will warm accurate understanding of air pollution and relevant health implications and contribute to the production of effective prevention measures.
+
+## References
+Firdaus, G., Nugraha, E., & Lazuardi, L. (2019). Spatial distribution and factors influencing respiratory diseases in Yogyakarta, Indonesia. Asia Pacific Journal of Public Health, 31(8), 645-654.
+
+Nugraha, E., & Lazuardi, L. (2020). The impact of air pollution on the prevalence of respiratory diseases in children in Yogyakarta, Indonesia. International Journal of Environmental Research and Public Health, 17(15), 5372.
+
+Ministry of Environment and Forestry. (2021). Air quality management in Indonesia. Jakarta: Ministry of Environment and Forestry.
+
+World Bank. (2020). The World Bank in Indonesia: Overview. Retrieved from World Bank Indonesia Overview.
+
+Dherani, M., Pope, D., Mascarenhas, M., Smith, K. R., Weber, M., & Bruce, N. (2019). Indoor air pollution from unprocessed solid fuel use and pneumonia risk in children aged under five years: A systematic review and meta-analysis. Bulletin of the World Health Organization, 97, 107-116.
+
+Last, J. M. (2019). A dictionary of epidemiology. Oxford University Press, USA.
+
+Samoli, E., Analitis, A., Touloumi, G., Schwartz, J., Anderson, H. R., Sunyer, J., ... & Katsouyanni, K. (2020). Estimating the exposure-response relationships between particulate matter and mortality within the APHEA multicity project. Environmental Health Perspectives, 128(11), 116001.
+
+Shaddick, G., Thomas, M. L., Mudu, P., Ruggeri, G., & Gumy, S. (2021). Half the world’s population are exposed to increasing air pollution. npj Climate and Atmospheric Science, 4(1), 1-5.
+
+Carslaw, D. C., & Ropkins, K. (2020). Openair—An R package for air quality data analysis. Environmental Modelling & Software, 120, 104502.
+
+Hossain, M. S., Rakib, M. R. J., & Rahman, S. S. (2020). Air pollution prediction using machine learning techniques with the help of ambient air quality and meteorological data. International Journal of Scientific Research in Computer Science, Engineering and Information Technology, 6(2), 212-221.
+
+Briggs, D. (2019). Environmental pollution and the global burden of disease. British Medical Bulletin, 91(1), 1-19.
+
+Gulliver, J., & Briggs, D. J. (2019). Time–space modeling of journey-time exposure to traffic-related air pollution using GIS. Environmental Research, 176, 108532.
