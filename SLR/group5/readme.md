@@ -21,10 +21,11 @@
 
 
 ## Abstract
-Abc
+Recently, advanced machine learning (ML) algorithms have revolutionized the way to comprehend learning patterns and their idiosyncrasies towards specific learning styles. In light of this phenomenon, through a systematic literature review process, we are here to consolidate and scrutinize all relevant research contributions accumulated so far regarding enhanced ML algorithms developed to identify and personalize learning scenarios based on various learning styles. The review is mainly focused on methods of the current study, impression of almost continuous algorithmic advancement in the field, and their respective outcomes to adjust learning content and strategies through ML techniques to reform the learning.
 
 ## PRISMA
-Prisma
+![image](https://github.com/user-attachments/assets/4fdcfac0-0ba5-4b3c-80dc-59f4ed6acc62)
+
 
 
 
