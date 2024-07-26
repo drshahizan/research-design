@@ -1,32 +1,89 @@
-# Chapter 4: EDA/Initial Results 
+# Chapter 4: Initial Findings
 
-## Case 1: Primary Data Exploratory Data Analysis (EDA) 
+## 4.1 Introduction 
 
-1. Visualizations Traffic Volume Trends:Line graphs of daily traffic volume trends. Weather Impact: Scatter plots to see the relationship between weather parameters (e.g. rain, temperature) and traffic volume. Accident Statistics: Bar plots depicting number of accidents on each month or year. 2. Descriptive Statistics Summary statistics of traffic volume, weather parameters, accident amounts. Correlation matrix showing what selected parameters are correlated with traffic volume. 
+This chapter contains the inital findings from the exploratory data analysis (EDA) and machine learning models development. Our research examines the prediction of traffic congestion for Malaysia, using a number of datasets. The datasets are as follow; traffic data, weather data, public transport ridership data, vehicle registration data. Through the data we aim to identify patterns and forecast future congestion.
 
-2. Initial Insights Which is the peak hour of the day for traffic volume and the conditions of traffic during that period. Which month had maximum number of accidents. Insight into weather conditions for that specific month. 
+## 4.2 Exploratory Data Analysis (EDA)
 
-3. Feature Engineering New columns like Rainy_Days: whether these days have above trace amount of precipitation and Peak_Hours Encoding the weather column and other categorical/descriptive columns. 
 
-## Case 2: ernoary Data Exploratory Data Analysis (EDA) 
+Visualizations and Descriptive Statistics 
+During EDA, descriptive statics and visualizations were carried out. Below, the visualizations and descriptive statistics are provided.
 
-1. Visualizations Ridership trends: Line plots of daily/monthly/yearly public transport ridership trends. Service Comparsion: Box plots comparing ridership statistics of different transport types. 
+### 4.2.1. Public Transport Ridership Over Time  
 
-2. Descriptive Statistics Calculating summary statistics of ridership data, average daily ridership, ridership std dev etc. Inspecting the ridership usage trend over different transport systems. 
+<p align="center">
+<img src="https://github.com/drshahizan/research-design/blob/main/proposal/LURUIQI7/Chapter5/2.png?raw=true"  height="400" />
+</p>
 
-3. Initial Insights What are the top hours for usage of public transport in a day. What are the demand peaks for each transport separately. Correlating ridership data with weather conditions to assess eect of unfavorable weather. 
+<p align="center">
+ 
+Description: A line plot for daily ridership for bus and LRT Ampang Line. The data is cyclic and highlight peaks where ridership is high and throughs when ridership is low. 
+Statistics: 
+Bus Ridership - Mean: 180,000 - Std Dev: 30,000 
+LRT Ampang Line - Mean: 150,000 - Std Dev: 25,000
 
-4. Feature Engineering 
-Creating dictionary for transport descriptions and encoding them. Feature Engineering Finding out two new features "Weekend" and "Holiday" to differentiate the weekdays from weekends and holidays from usual working days It is assumed that holidays would have less vehicular traffic as compared to weekdays. 
-Creating Lag features as well as Bollinger Band features for capturing the effect of past traffic on present and future traffic 
+### 4.2.2. Malaysia Road Accident Statistics (2010 - 2019)  
 
-## Machine Learning (Initial Results) 
+<p align="center">
+<img src="https://github.com/drshahizan/research-design/blob/main/proposal/LURUIQI7/Chapter5/3.png?raw=true"  height="400" />
+</p>
 
-1.Model Selection Build regression models: first Linear Regression and then Decision Trees predicting the traffic based on Weather and Ridership data using metrics such as Mean Absolute Error (MAE) and R-squared to evaluate the models 
+<p align="center">
+ 
+Description: A line plot to capture time and increase in road accidents - Statistics:  
+Average Annual Increase: 4%
 
-2.Initial Observations Weather data and Public transport ridership data have turned out to be highly predictive for the traffic volume Decision Trees have performed better than other models. Reason could be that decision trees are good at capturing non-linearity and the numerous factors like temp, rain, snow etc can have interesting non-linear relations with traffic. 
+### 4.2.3. Malaysia Road Fatalities (2010 - 2019)  
 
-3.Next Steps Tune the model parameters for better performance Include additional features like special events and Holidays to get more information on public transport ridership. Once we have been through the different analyses and visualizations as mentioned above, we establish the insights effectively. 
+<p align="center">
+<img src="https://github.com/drshahizan/research-design/blob/main/proposal/LURUIQI7/Chapter5/4.png?raw=true"  height="400" />
+</p>
 
-There is a lot that could be done to perform good visualization. Tools to perform the visualization may include Tableau, R (ggplot2) etc. The next step could be to construct powerful predictive models for the ultimate traffic parameter prediction in Malaysia.
+<p align="center">
+ 
+Description: A line plot showing the trend of road crash deaths through out the years. The death rates decreased drasiclly recent years 
+Statistics: o Peak Fatalities: 7152
 
+### 4.2.4. Vehicle Registration Over Time 
+
+<p align="center">
+<img src="https://github.com/drshahizan/research-design/blob/main/proposal/LURUIQI7/Chapter5/5.jpeg?raw=true"  height="400" />
+</p>
+
+<p align="center">
+  
+Description: A line plot to capture the increase and decrease in vehicle registrations over time 
+Statistics: o Peak Registrations: January and July
+
+### 4.2.5. Temperature Variation Over Time
+
+<p align="center">
+<img src="https://github.com/drshahizan/research-design/blob/main/proposal/LURUIQI7/Chapter5/6.jpeg?raw=true"  height="400" />
+</p>
+
+<p align="center">
+
+Description: A line plot showing max and min daily temperatures 
+Statistics: - Max Temperature: 33°C - Min Temperature: 24°C
+
+## 4.3 Initial Insights Gained from EDA
+
+Traffic Patterns: Public transport ridership has certain daily peak periods, which are likely with commuting patterns. 
+Accident Trends: Yearly accidents have been on the rise, with the number of fatalities occurring annually varying in number, although they had significantly dropped recently. 
+Vehicle Registrations: The number of vehicle registrations has some periodic peaks, which could suggests that there might be yearly surges in vehicle ownership, perhaps due to seasonal environmental factors or conducive economic conditions for purchasing vehicles. 
+Weather Impact: It is suspected that there are effects from the measurements of temperature that could have an effect on the road conditions and thus the congestion level too.
+
+## 4.4 Feature Engineering
+
+In view of what has been observed, new features are engineered and added to the original datasets to aid in prediction. 
+Derived Features: The day of the week, month, indicators on whether a day is a public holiday, weather conditions (temperature, whether it is raining or snowing) and special events which occurred on that day. 
+Time Series Features: Data from the previous day or time segment as features any temporal correlations can be captured in the features.
+
+## 4.5 Expected Outcome
+
+The main outcome of this research would be the development of a model for predicting traffic congestion in Malaysia. By providing a comprehensive set of features from different datasets and a significant amount of complimentary feature engineering, pitfalls which lead to traffic congestions, could possibly be detected. Consequently, authorities could be provided with actionable insights to manage such occurences.
+
+## 4.6 Future Work
+
+Improved models could be developed after this research phase and with availability of realtime data, this model could be further improved. Furthermore, we will also look into incorporating additional emerging technologies, such as the Internet of Things (IoT) and edge computing, to enhance the capabilities of data collection and data processing.
