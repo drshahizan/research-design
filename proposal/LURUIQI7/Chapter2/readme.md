@@ -64,7 +64,7 @@ Yuan, Y., Wang, J., & Liu, S. (2017). Random forest based traffic congestion pre
 9.	Lv et al. (2015):
 Lv, Y., Duan, Y., Kang, W., Li, Z., & Wang, F. Y. (2015). Traffic flow prediction with big data: A deep learning approach. IEEE Transactions on Intelligent Transportation Systems, 16(2), 865-873. https://doi.org/10.1109/TITS.2014.2345663
 
-10.R. Madonna Arieth, Subrata Chowdhury,B. Sundaravadivazhagan,Gautam Srivastava(2024) Traffic Prediction and Congestion Control Using Regression Models in Machine Learning for Cellular Technology. https://doi.org/10.1201/9781003306290-7
+10. R. Madonna Arieth, Subrata Chowdhury,B. Sundaravadivazhagan,Gautam Srivastava(2024) Traffic Prediction and Congestion Control Using Regression Models in Machine Learning for Cellular Technology. https://doi.org/10.1201/9781003306290-7
 
 11. Ghani et al. (2020):
 Ghani, I., Mahmud, M., & Rashid, B. (2020). Traffic congestion forecasting in urban areas using machine learning models. Journal of Intelligent Transportation Systems, 24(3), 260-271.[https://doi.org/10.1080/15472450.2020.1718032](https://doi.org/10.1080/15472450.2020.1718032)
