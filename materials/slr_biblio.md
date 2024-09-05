@@ -7,7 +7,7 @@
 
 # SLR VS Bibliometric research
 
-| **Aspect**                 | **SLR (Systematic Literature Review)**                              | **Bibliometric Analysis**                                             |
+| **Aspect**                 | **Systematic Literature Review (SLR)**                              | **Bibliometric Analysis**                                             |
 |----------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------|
 | **Purpose and Focus**       | Provides a comprehensive summary and critical analysis of research  | Quantitatively analyzes publication, citation, and collaboration data |
 | **Nature**                  | Qualitative                                                        | Quantitative                                                         |
