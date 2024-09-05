@@ -14,4 +14,3 @@ SLR VS bibliometric research
 | **Typical Fields of Use**   | Medicine, social sciences, education                                | Scientometrics, research evaluation                                  |
 | **Common Tools**            | PRISMA guidelines, thematic analysis                               | VOSviewer, Bibliometrix, CitNetExplorer                              |
 
-This table highlights the key differences between the two approaches in a structured format.
