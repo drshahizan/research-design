@@ -16,10 +16,6 @@ This course will cover the fundamental steps and implementation on developing th
 - **[Sample proposal](./materials/sample.md)**
 - **[Project Proposal Form MCSD 6215](https://github.com/drshahizan/research-design/blob/main/images/MCSD%206215%20Project%201%20Proposal%20Form.docx)**
 
-## Assignment
-- **[Proposal](./proposal/readme.md)**
-- **[Systematic Literature Review](./SLR/readme.md)**
-
 ## 🔥 Important Things
 
 - **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
@@ -36,6 +32,9 @@ This course will cover the fundamental steps and implementation on developing th
 
 - **[Top 11 Online Courses for Postgraduate Students and Researchers](https://github.com/drshahizan/research-design/blob/main/materials/course.md)**: For postgraduate students and researchers looking to expand their skills and knowledge, a selection of the 11 best online courses is available. These courses cover a range of important topics including understanding research methods, writing and publishing scientific papers, conducting systematic reviews and meta-analyses, research effectiveness and exploring different research methods. 
  
+## Assignment
+- **[Proposal](./proposal/readme.md)**
+- **[Systematic Literature Review](./SLR/readme.md)**
 
 ## Slides 
 ### Module 1: Research Methodology in Computing 
