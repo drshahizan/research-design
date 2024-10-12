@@ -8,6 +8,10 @@
 
 # Student Information
 
+<p align="center">
+<img src="../images/RM.jpeg"  height="300" />
+</p>
+
 | No. | Name                              | ID             | Github                                  | Linkedin                                                         | Portfolio |
 |-----|-----------------------------------|----------------|:---------------------------------------:|:----------------------------------------------------------------:|:-------------:|
 | 1   | ALBASHAH, ZAINAB ALI A            | Zaalbashah| [:octocat:](https://github.com/Zaalbashah)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="Zaalbashah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
