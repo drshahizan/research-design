@@ -22,7 +22,7 @@ This course will cover the fundamental steps and implementation on developing th
 ## 🔥 Important Things
 
 - **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
-  - Batch 2024-25/01
+  - [Batch 2024-25/01](profile/batch2.md)
   - [Batch 2023-24/02](profile/batch1.md)
   
 - **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
