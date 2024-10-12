@@ -29,16 +29,12 @@
 | 17  | RAIAN HAFIZ NILOY                         | RaianHafizNiloy   | [:octocat:](https://github.com/RaianHafizNiloy) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 18  | SAFIRA NURUL IZZA                         | sfzza             | [:octocat:](https://github.com/sfzza)   | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 19  | SITI SYAHIRAH BINTI MOHD YUNUS            |                   | [:octocat:](https://github.com/)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 20  | SUN QI                                    |                   | [:octocat:](https://github.com/)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/"><img src="../images/portfolio.png" width="24px" height="24px"></
-
-a> |
+| 20  | SUN QI                                    |                   | [:octocat:](https://github.com/)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 21  | TIAN FENGSHOU                             | TianFengshou      | [:octocat:](https://github.com/TianFengshou) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 22  | WAN NUR SYAZANA BINTI WAN RUSLAN          |                   | [:octocat:](https://github.com/)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 23  | XU ZHUANGZHUANG                           | zeno-z            | [:octocat:](https://github.com/zeno-z)  | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 24  | YANG YUEFEI                               | donmind29         | [:octocat:](https://github.com/donmind29) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 25  | ZHU QIAN                                  | zhuqian-utm       | [:octocat:](https://github.com/zhuqian-utm) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-
-Let me know if you'd like any adjustments or additional details!
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
