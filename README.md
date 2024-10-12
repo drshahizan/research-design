@@ -7,10 +7,6 @@
 
 # Research Design and Analysis in Data Science (MCSD1043)
 
-<p align="center">
-<img src="/images/RM.jpeg"  height="300" />
-</p>
-
 ## Course Synopsis
 This course will cover the fundamental steps and implementation on developing the initial ideas to formal academic writing accordingly. Students will be given the mechanisms on how to transform and digest the literature reviews that leads to the proposed title. The theoretical and practical aspects of implementing draft project proposal will be the milestone of this course. Ordered, Critical and Reasoning Exposition of knowledge through students efforts.
 
@@ -26,6 +22,8 @@ This course will cover the fundamental steps and implementation on developing th
 ## 🔥 Important Things
 
 - **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
+  - Batch 2024-25/01
+  - [Batch 2023-24/02](profile/batch1.md)
   
 - **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
   
