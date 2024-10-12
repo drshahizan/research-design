@@ -22,7 +22,7 @@ This course will cover the fundamental steps and implementation on developing th
   - [Batch 2024-25/01](profile/batch2.md)
   - [Batch 2023-24/02](profile/batch1.md)
   
-- **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
+- **[Course Information](./images/V4_CI%20MCSD1043%20RM%20Data%20Science%20Sem24252.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
   
 - **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
   
