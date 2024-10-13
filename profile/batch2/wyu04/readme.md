@@ -13,20 +13,31 @@
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
 
 ## 🛠️ Skills and ⚡ Experiences
-<br>
+
 **Skills: 💻**
 * Python 🐍
 * R 📊
 * SQL 🗄️
+  
 <br>
+
 **Languages: ✍🏻**
 * Malay
 * English
 * Chinese
+  
 <br>
+
 **Education: 👨🏻‍🎓**
 * Bachelor's Degree of Computer Science (Bioinformatics), Universiti Teknologi Malaysia 🏫
+  * *FYP: Identification of Potential Biomarkers for Esophageal Cancer From Gene Expression and Interaction Using Biclustering Algorithm*
+     * Biclustering, a powerful tool: effectively identify groups of genes and samples with similar patterns 📊
+     * The importance of data preprocessing for accurate and meaningful results. 🧹
+     * The effectiveness of SVM for classification: evaluate the identified biomarkers and assess their potential as predictors. 🤖
+     * The value of biological validation: Verifying biomarkers with biological knowledge bases helps to confirm their relevance and significance. 🧬
+  
 <br>
+
 **Internship: 💼**
 * Quality Assurance, XeerSoft 🕵️
   * *Test Planning and Design:*
