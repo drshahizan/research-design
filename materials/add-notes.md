@@ -11,12 +11,12 @@
 |----: |----------------------------------------------------|------|
 | 1.   | Research Gaps     | <a href="./materials/1gaps.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a> |
 | 2.   | Challenges of Manual Literature Reviews | <a href="2LR.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a> |
-| 3.   | The Efficient Literature Search | <a href="./materials/3ELR.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
-| 4.   | Journal Indexing | <a href="./materials/JI.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
-| 5. |Research Question|<a href="./materials/rq.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
-| 6. |Bibliometrix|<a href="./materials/biblio.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
-| 7. |NABC Model|<a href="https://ahappyphd.org/posts/pitching-nabc/" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
-| 8. |NABC research pitch canvas (create a copy) |<a href="https://jamboard.google.com/d/1efCn10a5xobHS7LyhrpjN-NCwGNW6U42VaGzv8CG6RM/copy" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
+| 3.   | The Efficient Literature Search | <a href="./materials/3ELR.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a> |
+| 4.   | Journal Indexing | <a href="./materials/JI.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a> |
+| 5. |Research Question|<a href="./materials/rq.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a>|
+| 6. |Bibliometrix|<a href="./materials/biblio.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a>|
+| 7. |NABC Model|<a href="https://ahappyphd.org/posts/pitching-nabc/" ><img src="../images/ibooks.png" width="24px" height="24px" ></a>|
+| 8. |NABC research pitch canvas (create a copy) |<a href="https://jamboard.google.com/d/1efCn10a5xobHS7LyhrpjN-NCwGNW6U42VaGzv8CG6RM/copy" ><img src="../images/ibooks.png" width="24px" height="24px" ></a>|
 
 
 ## Contribution 🛠️
