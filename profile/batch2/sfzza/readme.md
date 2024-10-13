@@ -12,7 +12,7 @@ I'm currently pursuing a master in Data Science at Universiti Teknologi Malaysia
 
 ## Skills
 - **Web Development**: HTML, CSS, React JS 🌐
-- **Mobile App Development**: React Native, Flutter 📱
+- **Mobile App Development**: React Native, [Flutter](https://github.com/sfzza/GoLaundry) 📱
 - **Programming Languages**: Python, JavaScript, C++ 💻
 - **Game Development**: Phaser, Pygame 🎮
 - **Frameworks & Tools**: TensorFlow, Scikit-learn, Pandas 🛠️
