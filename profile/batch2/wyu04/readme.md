@@ -13,20 +13,20 @@
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
 
 ## 🛠️ Skills and ⚡ Experiences
-
+<br>
 **Skills: 💻**
 * Python 🐍
 * R 📊
 * SQL 🗄️
-
+<br>
 **Languages: ✍🏻**
 * Malay
 * English
 * Chinese
-
+<br>
 **Education: 👨🏻‍🎓**
 * Bachelor's Degree of Computer Science (Bioinformatics), Universiti Teknologi Malaysia 🏫
-
+<br>
 **Internship: 💼**
 * Quality Assurance, XeerSoft 🕵️
   * *Test Planning and Design:*
