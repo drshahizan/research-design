@@ -22,7 +22,7 @@ I'm currently pursuing a master in Data Science at Universiti Teknologi Malaysia
 
 ## Fun Facts
 - **Part-Time Teacher**: I teach programming to kids, including Roblox development! 🎮👾
-- **Game Developer**: My love for games inspired me to start creating my own using Python, Phaser, and Construct 3 💻🎮🕹️
+- **Game Developer**: My love for games inspired me to start creating my own using Python, [Phaser](https://github.com/sfzza/Alien-Stars), and Construct 3 💻🎮🕹️
 - **Hobbies**: Gaming 🎮, coding challenges 👨‍💻, and exploring new game development tools 🚀
 
 ---
