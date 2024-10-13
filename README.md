@@ -29,8 +29,9 @@ This course will cover the fundamental steps and implementation on developing th
   - **[Systematic Literature Review](./SLR/readme.md)**
   
 - **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
-  
-- **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
+
+- **[Additional Notes](./materials/add-notes.md)**: 
+
 
 - **[Top 11 Online Courses for Postgraduate Students and Researchers](https://github.com/drshahizan/research-design/blob/main/materials/course.md)**: For postgraduate students and researchers looking to expand their skills and knowledge, a selection of the 11 best online courses is available. These courses cover a range of important topics including understanding research methods, writing and publishing scientific papers, conducting systematic reviews and meta-analyses, research effectiveness and exploring different research methods. 
 
