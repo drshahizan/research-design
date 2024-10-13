@@ -38,7 +38,7 @@
 
 | No. | Topic | File|
 |----: |------|------|
-| 1.   | Research Methodology |<a href="https://github.com/drshahizan/research-design/blob/main/images/Module%205_%20Research%20Methodology_%201.pdf" ><img src="./images/pdf.svg" width="30px" height="30px" ></a> |
+| 1.   | Research Methodology |<a href="https://github.com/drshahizan/research-design/blob/main/images/Module%205_%20Research%20Methodology_%201.pdf" ><img src="../images/pdf.svg" width="30px" height="30px" ></a> |
 
 
 ## Contribution 🛠️
