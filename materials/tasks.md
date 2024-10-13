@@ -7,7 +7,7 @@
 
 # ✅ Tasks to Complete Before the First Lecture
 
-Before attending the first lecture, ensure you've [**completed all the essential tasks**](./materials/tasks.md). These tasks will help you set up your learning environment, access the course materials, and be fully prepared to engage in class from day one. 📝💻
+Before attending the first lecture, ensure you've completed all the essential tasks. These tasks will help you set up your learning environment, access the course materials, and be fully prepared to engage in class from day one.
 
 
 ### 1. 📝 Fill in Your Personal Information
