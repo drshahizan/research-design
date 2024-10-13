@@ -11,13 +11,11 @@ Before attending the first lecture, ensure you've [**completed all the essential
 
 
 ### 1. 📝 Fill in Your Personal Information
-Please provide your details by filling out the form at the following link:  
-[**SharePoint Form**](https://liveutm-my.sharepoint.com/:x:/g/personal/shahizan_live_utm_my/EU2ITNriLIJErsDnnlYNrQMBOC4rd1uQx06CwuRDZL2z-w?e=ErW8LM)
+Please provide your details by filling out the form at the following link: [**SharePoint Form**](https://liveutm-my.sharepoint.com/:x:/g/personal/shahizan_live_utm_my/EU2ITNriLIJErsDnnlYNrQMBOC4rd1uQx06CwuRDZL2z-w?e=ErW8LM)
 
 
 ### 2. 📚 Access the Teaching Materials
-All teaching materials are available on GitHub. You can access them here:  
-[**Teaching Materials**](https://github.com/drshahizan/research-design)
+All teaching materials are available on GitHub. You can access them here: [**Teaching Materials**](https://github.com/drshahizan/research-design)
 
 
 ### 3. 💻 Create a GitHub Account
@@ -30,18 +28,15 @@ Go to [**My GitHub**](https://github.com/drshahizan) and click ‘Follow’. Thi
 
 
 ### 5. 📖 Learn GitHub
-For those who want to deepen their understanding of GitHub, check out this helpful resource:  
-[**Learn GitHub**](https://github.com/drshahizan/learn-github)
+For those who want to deepen their understanding of GitHub, check out this helpful resource: [**Learn GitHub**](https://github.com/drshahizan/learn-github)
 
 
 ### 6. 🖥️ Download GitHub Desktop
-To streamline your workflow, download and install GitHub Desktop. This tool will be essential for submitting assignments and collaborating on projects.  
-[**GitHub Desktop Download**](https://desktop.github.com/download/)
+To streamline your workflow, download and install GitHub Desktop. This tool will be essential for submitting assignments and collaborating on projects. [**GitHub Desktop Download**](https://desktop.github.com/download/)
 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
-
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
