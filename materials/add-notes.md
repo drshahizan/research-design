@@ -9,8 +9,8 @@
 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
-| 1.   | Research Gaps     | <a href="./materials/1gaps.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
-| 2.   | Challenges of Manual Literature Reviews | <a href="./materials/2LR.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
+| 1.   | Research Gaps     | <a href="./materials/1gaps.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a> |
+| 2.   | Challenges of Manual Literature Reviews | <a href="2LR.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a> |
 | 3.   | The Efficient Literature Search | <a href="./materials/3ELR.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
 | 4.   | Journal Indexing | <a href="./materials/JI.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
 | 5. |Research Question|<a href="./materials/rq.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
