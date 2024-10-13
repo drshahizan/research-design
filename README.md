@@ -30,6 +30,8 @@ This course will cover the fundamental steps and implementation on developing th
   
 - **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
 
+- **[Github Repository: Literature Review and Data Science](./materials/gh.md)**: Engage with exercises designed to complement your coursework and enhance learning.
+
 - **[Additional Notes](./materials/add-notes.md)**:
   
 - **[Data Science Resources](./materials/ds-resource.md)**: 
