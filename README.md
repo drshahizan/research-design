@@ -30,24 +30,12 @@ This course will cover the fundamental steps and implementation on developing th
   
 - **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
 
-- **[Additional Notes](./materials/add-notes.md)**: 
+- **[Additional Notes](./materials/add-notes.md)**:
+- 
+- **[Data Science Resources](./materials/ds-resource.md)**: 
 
 
 - **[Top 11 Online Courses for Postgraduate Students and Researchers](https://github.com/drshahizan/research-design/blob/main/materials/course.md)**: For postgraduate students and researchers looking to expand their skills and knowledge, a selection of the 11 best online courses is available. These courses cover a range of important topics including understanding research methods, writing and publishing scientific papers, conducting systematic reviews and meta-analyses, research effectiveness and exploring different research methods. 
-
-
-## Additional Notes
-
-| No. | Content                                             | File | 
-|----: |----------------------------------------------------|------|
-| 1.   | Research Gaps     | <a href="./materials/1gaps.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
-| 2.   | Challenges of Manual Literature Reviews | <a href="./materials/2LR.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
-| 3.   | The Efficient Literature Search | <a href="./materials/3ELR.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
-| 4.   | Journal Indexing | <a href="./materials/JI.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a> |
-| 5. |Research Question|<a href="./materials/rq.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
-| 6. |Bibliometrix|<a href="./materials/biblio.md" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
-| 7. |NABC Model|<a href="https://ahappyphd.org/posts/pitching-nabc/" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
-| 8. |NABC research pitch canvas (create a copy) |<a href="https://jamboard.google.com/d/1efCn10a5xobHS7LyhrpjN-NCwGNW6U42VaGzv8CG6RM/copy" ><img src="./images/ibooks.png" width="24px" height="24px" ></a>|
 
 
 ## Data Science Resources
