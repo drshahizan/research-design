@@ -22,6 +22,8 @@ This course covers the fundamental steps and implementation of developing initia
 ---
 
 ## 🔥 Important Things
+### ✅ Tasks to Complete Before the First Lecture:
+Before attending the first lecture, make sure you've completed all the [essential tasks](./materials/tasks.md). These include setting up your learning environment, accessing the course materials, and preparing to fully engage in the class from day one. 📝💻
 
 ### 👤 Student Information
 - **[Student Information](profile/readme.md)**: Access your personal and academic information.
