@@ -23,7 +23,7 @@ This course will cover the fundamental steps and implementation on developing th
   - [Batch 2023-24/02](profile/batch1.md)
   
 - **[Course Information](./images/V4_CI%20MCSD1043%20RM%20Data%20Science%20Sem24252.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
-  
+- **[Teaching Module](./materials/slides.md)**
 - **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
   - **[Proposal](./proposal/readme.md)**
   - **[Systematic Literature Review](./SLR/readme.md)**
