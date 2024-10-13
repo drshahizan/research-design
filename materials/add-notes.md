@@ -11,7 +11,7 @@
 |----: |----------------------------------------------------|------|
 | 1.   | Research Gaps     | <a href="1gaps.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a> |
 | 2.   | Challenges of Manual Literature Reviews | <a href="2LR.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a> |
-| 3.   | The Efficient Literature Search | <a href="./materials/3ELR.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a> |
+| 3.   | The Efficient Literature Search | <a href="/3ELR.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a> |
 | 4.   | Journal Indexing | <a href="JI.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a> |
 | 5. |Research Question|<a href="rq.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a>|
 | 6. |Bibliometrix|<a href="biblio.md" ><img src="../images/ibooks.png" width="24px" height="24px" ></a>|
