@@ -14,10 +14,10 @@ This course covers the fundamental steps and implementation of developing initia
 ---
 
 ## 📘 Project Handbook
-- **[Master Data Science Project Handbook](./images/Project%20Handbook.pdf)** 📄
-- **[Template: Project Proposal](./materials/proposal.md)** 📝
-- **[Sample Proposal](./materials/sample.md)** 📑
-- **[Project Proposal Form MCSD 6215](https://github.com/drshahizan/research-design/blob/main/images/MCSD%206215%20Project%201%20Proposal%20Form.docx)** 🗒️
+- **📄 [Master Data Science Project Handbook](./images/Project%20Handbook.pdf)** 
+- **📝 [Template: Project Proposal](./materials/proposal.md)** 
+- **📑 [Sample Proposal](./materials/sample.md)** 
+- **🗒️ [Project Proposal Form MCSD 6215](https://github.com/drshahizan/research-design/blob/main/images/MCSD%206215%20Project%201%20Proposal%20Form.docx)** 
 
 ---
 
@@ -25,8 +25,8 @@ This course covers the fundamental steps and implementation of developing initia
 
 ### 👤 Student Information
 - **[Student Information](profile/readme.md)**: Access your personal and academic information.
-  - [Batch 2024-25/01](profile/batch2.md) 🎓
-  - [Batch 2023-24/02](profile/batch1.md) 🎓
+  - [Batch 2024-25/01](profile/batch2.md) 
+  - [Batch 2023-24/02](profile/batch1.md) 
 
 ### 📝 Course Information
 - **[Course Information](./images/V4_CI%20MCSD1043%20RM%20Data%20Science%20Sem24252.pdf)**: Detailed course content, schedules, and requirements for the current semester. 📅
