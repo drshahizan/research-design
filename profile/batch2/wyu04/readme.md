@@ -7,8 +7,39 @@
 * I love to push my limits and explore new horizons. 📚🧠 
 * I'm driven by curiosity and a desire to continuously expand my knowledge. 🚀💡
 * Exploring new technology trends excites me because they offer endless possibilities for innovation and creativity. 🌍👨‍💻  
-Let's create something amazing together!
+
+*Let's create something amazing together!*
 
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
 
+## 🛠️ Skills and ⚡ Experiences
 
+**Skills: 💻**
+* Python 🐍
+* R 📊
+* SQL 🗄️
+
+**Languages: ✍🏻**
+* Malay
+* English
+* Chinese
+
+**Education: 👨🏻‍🎓**
+* Bachelor's Degree of Computer Science (Bioinformatics), Universiti Teknologi Malaysia 🏫
+
+**Internship: 💼**
+* Quality Assurance, XeerSoft 🕵️
+  * *Test Planning and Design:*
+    * Create comprehensive test plans that outline the scope, objectives, and resources required for testing.
+    * Design detailed test cases that cover various scenarios and potential defects.
+      
+  * *Test Execution:*
+     * Execute test cases and Document test results accurately and comprehensively.
+     * Identify defects and report them using a defect tracking tool, providing clear descriptions and steps to reproduce.
+  
+  * *Defect Tracking and Management:*
+     * Utilize a defect tracking tool to record, track, and manage identified defects throughout the development lifecycle.
+     * Assign defects to appropriate developers for resolution.
+     * Verify defect fixes and ensure they are closed properly.
+
+<hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
