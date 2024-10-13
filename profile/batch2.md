@@ -8,6 +8,8 @@
 
 # Student Information: 2024-25/01
 
+<img src="../images/batch2.jpeg"  height="300" />
+
 | No. | Name                                       | ID                | Github                                  | Linkedin                                                         | Portfolio |
 |-----|--------------------------------------------|-------------------|:---------------------------------------:|:----------------------------------------------------------------:|:-------------:|
 | 1   | ABDULLAHI ABDIRIZAK ADAM                   | AbdallaAbdirizak| [:octocat:](https://github.com/AbdallaAbdirizak)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/AbdallaAbdirizak"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
