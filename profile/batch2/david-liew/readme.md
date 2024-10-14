@@ -1,6 +1,6 @@
 # BIO
 ## Liew Yng Jeng
-![david-liew](https://github.com/drshahizan/research-design/tree/6db91e629c64448c2b75c5a63efa989b0e02b39b/profile/batch2/david-liew/image）
+![david-liew](https://github.com/drshahizan/research-design/tree/6db91e629c64448c2b75c5a63efa989b0e02b39b/profile/batch2/david-liew/image/MPP FC.jpeg）
 > Nickname: **Jeng / David**
 > Hometown: **Kluang, Johor, Malaysia**
 > Hobby: Video Game(Genshin Impact), Chess, Chinese Chess, Badminton
