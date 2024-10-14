@@ -9,7 +9,7 @@ For my final year project, I developed a user authentication system using behavi
 - **Content Writer & Data Entry (4 years):** Gained experience in content creation and data management, with a strong focus on precision and organization.
 
 ## Skills  
-- **Programming Languages:** Python, SQL  
+- **Programming Languages:** Python, SQL, HTML, CSS, C++  
 - **Core Competencies:** Machine learning, artificial intelligence, data science
 
 ## Let’s Connect  
