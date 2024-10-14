@@ -49,7 +49,7 @@
 ### :sparkles:Others
 
 - **The early founders of the iBooker open source community** (2018).
-- **Blog expert certification**: CSDN,Chinese Software Developer Network (2019).
+- **Blog expert certification**: CSDN, Chinese Software Developer Network (2019).
 - **Advanced Software Engineering Certification**: ZTE Software Technology (2019).
 - **PyTorch Chinese document administrator**: ApacheCN, iBooker (June 2019, Issue 3). 
 
