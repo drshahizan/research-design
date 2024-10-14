@@ -5,7 +5,7 @@
     <td align="center" width="300">
       <img src="image/jeng.jpeg" height="250" width="auto" title="Liew Yng Jeng" alt="Liew Yng Jeng">
     </td>
-    <td width="450">
+    <td colspan="2" width="450">
       <blockquote>Name:</blockquote>
       <div align="right"><b>Liew Yng Jeng (Jeng / David)</b></div>
       <blockquote>Email:</blockquote>
@@ -18,24 +18,24 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2"><h4>Hobby</h4></td>
+    <td colspan="3"><h4>Hobby</h4></td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="3">
       <br>
       <div align="center">
-        <img src="image/genshin.png" height="100" width="auto" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/>&nbsp;&nbsp;<b>Video Game(Genshin Impact)</b>
-        <img src="image/chess.png" height="100" width="auto" title="Chess" alt="Chess"/>&nbsp;&nbsp;<b>Chess</b>
-        <img src="image/bmt.png" height="100" width="auto" title="Badminton" alt="Badminton"/>&nbsp;&nbsp;<b>Badminton</b>
+        <img src="image/genshin.png" height="100" width="auto" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/><b>Video Game(Genshin Impact)</b>
+        <img src="image/chess.png" height="100" width="auto" title="Chess" alt="Chess"/><b>Chess</b>
+        <img src="image/bmt.png" height="100" width="auto" title="Badminton" alt="Badminton"/><b>Badminton</b>
       </div>
       <br>
     </td>
   </tr>
   <tr>
-    <td colspan="2"><h4>Education</h4></td>
+    <td colspan="3"><h4>Education</h4></td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="3">
       <br>
       <blockquote>
         <pre>Bachelor of Computer Science (Software Engineering) with Honours</pre>
@@ -47,10 +47,10 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2"><h4>Hard Skills</h4></td>
+    <td colspan="3"><h4>Hard Skills</h4></td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="3">
       <br>
       <ol>
         <li>Adobe Illustrator</li>
@@ -71,10 +71,27 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2"><h4>Internship Experience</h4></td>
+    <td colspan="3"><h4>University Activity Achievement</h4></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="image/JKM KDSE.jpeg" height="100" width="auto" title="JKM KDSE" alt="JKM KDSE"/><br>
+      <b>Student College Committee</b>
+    </td>
+    <td>
+      <img src="image/MPP FC.jpeg" height="100" width="auto" title="MPP FC" alt="MPP FC"/><br>
+      <b>Student Representative Council</b>
+    </td>
+    <td>
+      <img src="image/Event Lecturer.jpeg" height="100" width="auto" title="Event Lecturer" alt="Event Lecturer"/><br>
+      <b>Event Lecturer</b>
+    </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="3"><h4>Internship Experience</h4></td>
+  </tr>
+  <tr>
+    <td colspan="3">
       <ul>
         <li>
           <b>Position: Network Maintenance</b>
