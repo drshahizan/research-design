@@ -9,7 +9,7 @@
       <blockquote>Name :</blockquote>
       <div align="right"><b>Liew Yng Jeng (Jeng / David)</b></div>
       <blockquote>Email :</blockquote>
-      <div align="right"><b><a href="mailto:liewjeng@graduate.utm.my">liewjeng@graduate.utm.my</a></b></div>
+      <div align="right"><b>liewjeng@graduate.utm.my</b></div>
       <blockquote>Hometown :</blockquote>
       <div align="right"><b>Kluang, Johor, Malaysia</b></div>
       <blockquote>Language :</blockquote>
