@@ -1,5 +1,5 @@
 # About Me  
-Hi there! 👋 I’m Apri, a self-proclaimed tech geek and a master’s student in Data Science at Universiti Teknologi Malaysia. I hold a bachelor’s degree in Artificial Intelligence, where I had the opportunity to work on several small AI projects, further fueling my passion for AI and machine learning. I’m always eager to learn new things about the latest technologies!
+Hi there! 👋 I’m Laiba, a self-proclaimed tech geek and a master’s student in Data Science at Universiti Teknologi Malaysia. I hold a bachelor’s degree in Artificial Intelligence, where I had the opportunity to work on several small AI projects, further fueling my passion for AI and machine learning. I’m always eager to learn new things about the latest technologies!
 
 ## Projects  
 For my final year project, I developed a user authentication system using behavior and biometrics, which won **first prize** for its innovation. This system verified whether a user’s signature was genuine or forged. I also created a Q-learning chatbot, gaining deeper insights into AI and reinforcement learning.
