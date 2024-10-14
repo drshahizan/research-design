@@ -1,7 +1,7 @@
-![picture of me](https://github.com/drshahizan/research-design/profile/batch2/lunari21/alextan.jpg)
+
 
 ## About Me
-Hello. My name is **Alexander Tan Ka Jin**. I am 21 years old and am a fresh graduate of University of Nottingham. My previous degree is a Bachelor on Mathematical Sciences and Data Science. I'm from Malaysia. I was born in Malaysia on 2003 and I have been living here with my parents since then.
+<img src=alextan.jpg width="200" align="right"/> Hello. My name is **Alexander Tan Ka Jin**. I am 21 years old and am a fresh graduate of University of Nottingham. My previous degree is a Bachelor on Mathematical Sciences and Data Science. I'm from Malaysia. I was born in Malaysia on 2003 and I have been living here with my parents since then.
 
 I picked up data science for my higher studies due to the wide range of applications it has on the contemporary world and the wide set of skills I could potentially develop for myself. I am currently studying a **Masters** that is a continuation of my Bachelors
 
