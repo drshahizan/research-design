@@ -6,13 +6,13 @@
       <img src="image/jeng.jpeg" height="250" width="auto" title="Liew Yng Jeng" alt="Liew Yng Jeng">
     </td>
     <td colspan="2" width="450">
-      <blockquote>Name:</blockquote>
+      <blockquote>Name :</blockquote>
       <div align="right"><b>Liew Yng Jeng (Jeng / David)</b></div>
-      <blockquote>Email:</blockquote>
+      <blockquote>Email :</blockquote>
       <div align="right"><b><a href="mailto:liewjeng@graduate.utm.my">liewjeng@graduate.utm.my</a></b></div>
-      <blockquote>Hometown:</blockquote>
+      <blockquote>Hometown :</blockquote>
       <div align="right"><b>Kluang, Johor, Malaysia</b></div>
-      <blockquote>Language:</blockquote>
+      <blockquote>Language :</blockquote>
       <div align="right"><b>Malay, English, Mandarin, and Cantonese</b></div>
       <br>
     </td>
@@ -51,23 +51,24 @@
   </tr>
   <tr>
     <td colspan="3">
-      <br>
-      <ol>
-        <li>Adobe Illustrator</li>
-        <li>Adobe Photoshop</li>
-        <li>C Programming</li>
-        <li>C++ Programming</li>
-        <li>Cascading Style Sheets</li>
-        <li>Database in Structure Query Language</li>
-        <li>Hyper Text Markup Language</li>
-        <li>Hyper Text Preprocessor</li>
-        <li>Java Script Programming</li>
-        <li>Microsoft Office</li>
-        <li>Mobile Programming with Android Studio</li>
-        <li>Object Oriented Programming using Java</li>
-        <li>Visual Basic.Net Programming</li>
-      </ol>
-      <br>
+      
+##### Web Development : 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+##### Programming Languages : 
+![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++ Programming](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Visual Basic.NET](https://img.shields.io/badge/Visual%20Basic.NET-945DB7?style=for-the-badge&logo=visualstudio&logoColor=white)
+##### Design Tools :
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)      
+##### Other Tools :
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+      <br><br>
     </td>
   </tr>
   <tr>
