@@ -18,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>Hobby</h4></td>
+    <td colspan="3"><h4>🔥Hobby</h4></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -32,7 +32,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>Education</h4></td>
+    <td colspan="3"><h4>🎓 Education</h4></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -47,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>Hard Skills</h4></td>
+    <td colspan="3"><h4>💻 Hard Skills</h4></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -72,7 +72,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>University Activity Achievement</h4></td>
+    <td colspan="3"><h4>🏆 University Activity Achievement</h4></td>
   </tr>
   <tr align="center">
     <td>
@@ -89,7 +89,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>Internship Experience</h4></td>
+    <td colspan="3"><h4>💼 Internship Experience</h4></td>
   </tr>
   <tr>
     <td colspan="3">
