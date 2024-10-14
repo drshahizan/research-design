@@ -14,4 +14,5 @@ For my final year project, I developed a user authentication system using behavi
 
 ## Let’s Connect  
 As a tech geek who loves learning about new technologies, I’m always open to collaborating on AI and data science projects. Feel free to reach out, and let’s explore innovative solutions together!
+Reach out to me: laibanadeem920@gmail.com
 
