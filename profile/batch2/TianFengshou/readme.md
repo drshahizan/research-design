@@ -50,8 +50,8 @@
 
 - **Vice President of Software Association**: Shandong University of Science and Technology(2016).
 - **The early founders of the iBooker open source community** (2018).
-- **Blog expert certification**: CSDN, Chinese Software Developer Network (2019).
-- **Advanced Software Engineering Certification**: ZTE Software Technology (2019).
+- **Blog Expert**: CSDN, Chinese Software Developer Network (2019).
+- **Senior Software Engineer**: ZTE Software Technology (2019).
 - **PyTorch Chinese document administrator**: ApacheCN, iBooker (June 2019, Issue 3). 
 
 ## 📊 My GitHub Statistics
