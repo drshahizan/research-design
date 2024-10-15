@@ -7,6 +7,17 @@
 </p>
 
 <br>
+<h3 align="center">A Professional worker in the field of software development with more than 10 years of experience</h3>
+<p align="center">I am a person who has a passion for software and technology development 🌐 Has a background as a mobile developer, trainer and programmer 💻 and I really like technology and enjoy learning new technologies🛠️</p>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=rizkipm&label=Total%20Profile%20views&color=0047AB&style=plastic?" alt="rizkipm" height=25px, width=160px/> 
