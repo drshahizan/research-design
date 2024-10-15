@@ -39,19 +39,16 @@
 <picture> <img align="right" src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently running my own bussiness **UDACODING** as CEO and Founder
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently being **lecturer at Polytectnic State of Padang**, teaching about Data Science, Microservices and Mobile Developement
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 I have experience being Mobile Developer, Project Manager and Tech Lead
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Flutter, Python, PHP, SWIFT, Kotlin and NestJs**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **syaputra@graduate.utm.my**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
-
-- ⚡ Fun fact **I think I'm funny**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
