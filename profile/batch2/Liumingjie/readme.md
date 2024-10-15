@@ -1,15 +1,20 @@
 # 🚀 Hello My name is LIUMINGJIE
 
-## ✨ Introduction
-I completed my bachelor's degree in Computer Science at the City College of Southwest University of Science and Technology. Currently, I’m pursuing a master’s degree in Data Science at UTM.
+## ✨ About Me
+I am from China, and my hometown is Yibin, Sichuan, located in the southwest of China. I completed my bachelor's degree in Computer Science at the City College of Southwest University of Science and Technology. Currently, I’m pursuing a master’s degree in Data Science at UTM.
 ## 🌟 Hobby and Interests
 - 🏊‍♂️ Feature 1 Swimming
 - 🏓 Feature 2 Table tennis
 - 🎾 Feature 3 Tennis
-## 🔧 
-Step-by-step instructions on how to install and set up the project.
+## 🔧 Skills
+- Programming Languages: [Java,Css,HTML]
+- Interests: [AI, Machine Learning]
 
-```bash
+Feel free to explore my repositories and reach out if you want to discuss ideas or work together!
+
+
+
+
 
 
 
