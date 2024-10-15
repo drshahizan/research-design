@@ -4,9 +4,9 @@
 -----
 ## 🚀About me
 
-  My full name is Tian Fengshou or Aaron De Tian.
-  The first name is directly spelled in Chinese Pinyin, while the second name is more westernized.
-  Tian is my surname, and De is the middle name from my family.
+  My full name is Tian Fengshou or Aaron De Tian.  
+  The first name is directly spelled in Chinese Pinyin, while the second name is more westernized.  
+  Tian is my surname, and De is the middle name from my family.  
 
 - :cn:  I come from Heze City, Shandong Province, China. My Chinese name is 田丰收.
 - 🔭 I’m currently working on GXZY, a Chinese technology company. I established and managed the East China R&D Center.
