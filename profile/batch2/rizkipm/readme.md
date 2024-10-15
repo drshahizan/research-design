@@ -118,7 +118,8 @@
 </p>
 
 <br/>
-  
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -144,11 +145,15 @@
 ![RizkiPM's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rizkipm&custom_title=Rizkipm's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## 🐍 A Snake Eating Contributions Graph Github
 	
 <p align = "center">
 	<img src = "https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/github-contribution-grid-snake.svg?" alt = "Snake Github"/>
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🤝🏻 &nbsp;Connect with Me
 
