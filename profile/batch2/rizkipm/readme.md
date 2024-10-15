@@ -39,4 +39,24 @@
 **Hobbies:**  
 - Reading  
 - Traveling  
-- Coding  
+- Coding
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkipm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkipm&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.udacoding.com/"><img src="https://img.shields.io/badge/-udacoding.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rizki-syaputra-082b2a7b/"><img src="https://img.shields.io/badge/-Rizki%20Syaputra%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:syaputra@graduate.utm.my"><img src="https://img.shields.io/badge/-syaputra@graduate.utm.my-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/rizkisyaputra17/"><img src="https://img.shields.io/badge/-@rizkisyaputra17-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/rizki.programmermuslim/"><img src="https://img.shields.io/badge/-@Rizki Syaputra-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+</p>
