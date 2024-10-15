@@ -3,7 +3,7 @@
   <!--Biodata-->
   <tr>
     <td align="center" width="300">
-      <img src="image/jeng.jpeg" height="250" width="auto" title="Liew Yng Jeng" alt="Liew Yng Jeng">
+      <img src="image/jeng.jpeg" height="300" width="auto" title="Liew Yng Jeng" alt="Liew Yng Jeng">
     </td>
     <td colspan="2" width="450">
       <blockquote>Name :</blockquote>
@@ -14,6 +14,8 @@
       <div align="right"><b>Kluang, Johor, Malaysia</b></div>
       <blockquote>Language :</blockquote>
       <div align="right"><b>Malay, English, Mandarin, and Cantonese</b></div>
+      <blockquote>About Me :</blockquote>
+      <div align="justify">I am driven to create meaningful and efficient solutions that make a real difference in people’s lives. My goal is to constantly refine my skills in software development, ensuring that my work reduces errors and streamlines complex processes. I believe in continuous improvement and always look for ways to make systems work smarter, not harder.</div>
       <br>
     </td>
   </tr>
