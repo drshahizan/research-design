@@ -69,6 +69,18 @@
 </a>
 </p>
 <br>
+### ⚙️ &nbsp;GitHub Stats
+<div align="center">
+ 
+![Rizkipm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkipm\&theme=midnight-green\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rizkipm&theme=midnight-green)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Activity:</h3>
 
