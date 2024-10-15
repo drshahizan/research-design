@@ -3,7 +3,7 @@
   <!--Biodata-->
   <tr>
     <td align="center" width="300">
-      <img src="image/jeng.jpeg" height="300" width="auto" title="Liew Yng Jeng" alt="Liew Yng Jeng">
+      <img src="image/jeng.jpeg" height="400" width="auto" title="Liew Yng Jeng" alt="Liew Yng Jeng">
     </td>
     <td colspan="2" width="450">
       <blockquote>Name :</blockquote>
