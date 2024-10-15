@@ -67,14 +67,18 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkipm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkipm&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+<div align="center">
+	[![GitHub Streak](https://streak-stats.demolab.com/?user=rizkipm&theme=midnight-purple)](https://git.io/streak-stats)
+</div>
 </p>
 <br>
-### ⚙️ &nbsp;GitHub Stats
+### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
  
-![Rizkipm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkipm\&theme=midnight-green\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Rizkipm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkipm\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rizkipm&theme=midnight-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rizkipm&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
