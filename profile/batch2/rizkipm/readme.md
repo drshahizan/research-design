@@ -68,15 +68,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkipm&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<div align="center">
-	[![GitHub Streak](https://streak-stats.demolab.com/?user=rizkipm&theme=midnight-purple)](https://git.io/streak-stats)
-</div>
-<br>
-### ⚙️ &nbsp;GitHub Analytics
+
 <div align="center">
  
-![Rizkipm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkipm\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rizkipm&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
