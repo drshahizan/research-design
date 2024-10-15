@@ -32,9 +32,10 @@
 	
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 	
 ## <picture><img src = "https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/about_me.gif?raw=true" width = 50px></picture> About me
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <picture> <img align="right" src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/Right_Side.gif?raw=true" width = 250px></picture>
 
