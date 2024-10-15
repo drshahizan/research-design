@@ -9,7 +9,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=rizkipm&label=Profile%20views&color=0047AB&style=plastic?" alt="rizkipm" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=rizkipm&label=Total%20Profile%20views&color=0047AB&style=plastic?" alt="rizkipm" height=25px, width=160px/> 
 	
 </p>
 
