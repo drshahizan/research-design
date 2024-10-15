@@ -1,4 +1,4 @@
-## **ANNE DASHINI KANNAN** 
+# **ANNE DASHINI KANNAN** 
 
 ![_DSC0015](https://github.com/user-attachments/assets/1e0ed151-6247-4854-a1a4-2a3c8a8959a2)
 
@@ -15,7 +15,7 @@ Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about
 
 ---
 
-### **Skills 💡
+### Skills 💡
 **Technical Skills**:
 - Basic Coding
 - Project Management
@@ -52,10 +52,10 @@ Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about
 - https://link.springer.com/chapter/10.1007/978-981-16-8129-5_86
 
 
-**Iot Based Fish Monitoring System**
+**Iot Based Fish Monitoring System**-
 *A system that uses IoT to track needs and adapts aquaculture life to contemporary technology*
 
-**Latest Trends of Integration of Gas Leakage and Fire Detection Using IoT**
+**Latest Trends of Integration of Gas Leakage and Fire Detection Using IoT**-
 *Ability to identify early-stage main gas leaks that cause explosions*
 
 
@@ -67,7 +67,6 @@ Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about
 - LinkedIn: [Anne Dashini Kannan]
 - GitHub: [annedashini] *(if applicable)*
 
----
 
 
 
