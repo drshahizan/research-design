@@ -8,7 +8,7 @@ Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about
 
 
 ---
-### **Personal Interests** 🌟
+### **Personal Interests**:🌟
 -Business (currently running a small business KA_ICECREAMS)
 -Cooking and Baking
 -Dance
@@ -30,7 +30,9 @@ Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about
 - Adaptability
 - Motivated
 
-  ### **Education** 🎓
+---
+
+### **Education** 🎓
 **Degree** in **Computer Engineering**
 - Manipal International University
 - DEC 2023
@@ -44,7 +46,7 @@ Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about
 -input data for daily updates.
 -manually and technically monitor the system's outputs
 
-### **Publications** 📂
+### **Publications**:📂
 - http://mjsat.com.my/index.php/mjsat/article/view/296
 - https://link.springer.com/chapter/10.1007/978-981-16-8129-5_86
 
