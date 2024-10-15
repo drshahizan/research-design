@@ -17,8 +17,8 @@ I'm an international student at the University of Toronto Mississauga (UTM), maj
 ## 📈 My Projects
 Here are a few projects I've worked on:
 
-1. **[Research Design]([link-to-your-project](https://github.com/zhuqian-utm/research-design))** - Research Design and Analysis in Data Science (MCSD1043).
-2. **[Learn Github]([link-to-your-project](https://github.com/zhuqian-utm/learn-github))** - Exciting learning journey about learn Github.
+1. **[Research Design](https://github.com/zhuqian-utm/research-design)** - Research Design and Analysis in Data Science (MCSD1043).
+2. **[Learn Github](https://github.com/zhuqian-utm/learn-github)** - Exciting learning journey about learn Github.
 
 ## 🌐 Let's Connect
 - [LinkedIn](your-linkedin-profile)
@@ -27,6 +27,6 @@ Here are a few projects I've worked on:
 Feel free to reach out if you're interested in collaborating, discussing data science, or just want to connect! 🤝
 
 ## 📫 How to reach me
-- Email: [your-email@example.com]
+- Email: [zhuqian@graduate.utm.my]
 
 Thanks for stopping by! 🚀
