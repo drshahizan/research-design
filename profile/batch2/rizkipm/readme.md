@@ -3,7 +3,7 @@
 <div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/IMG_20180630_104657.jpg" width="1000" height="750"></div>
 
 <p align="center">
-  <a href="https://github.com/rizkipm/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=CEO+&+Founder+@udacoding;Data+Science+Student;Project+Manager;Tech+Lead;Lecturer+@+Polytechnic+State+of+Padang;Always+learning+new+things"></a>
+  <a href="https://github.com/rizkipm/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=CEO+Founder+@udacoding;Data+Science+Student;Project+Manager;Tech+Lead;Lecturer+@+Polytechnic+State+of+Padang;Always+learning+new+things"></a>
 </p>
 <h1 align="center"> Hey, Rizki Syaputra </h1>
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
