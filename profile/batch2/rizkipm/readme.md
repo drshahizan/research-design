@@ -58,6 +58,7 @@
 - Reading  
 - Traveling  
 - Coding
+  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -67,8 +68,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkipm&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 <br>
+
+<h3 align="left">Activity:</h3>
+
+![RizkiPM's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rizkipm&custom_title=Rizkipm's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
 
 ## 🐍 A Snake Eating Contributions Graph Github
 	
