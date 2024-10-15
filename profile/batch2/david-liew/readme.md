@@ -96,7 +96,7 @@
           <b>Position: Web Developer</b>
           <blockquote>Company: UTMSPACE Johor Bahru</blockquote>
           <blockquote>Address: Universiti Teknologi Malaysia, 81310 Johor Bahru, Johor.</blockquote>
-          <blockquote>The job scope is to create dynamic slideways, create whiteboard animation, create graphic designs, develop departmental website development, and develop interactive communication applications.</blockquote>
+          <blockquote>Job Scope: Create dynamic slideways, create whiteboard animation, create graphic designs, develop departmental website development, and develop interactive communication applications.</blockquote>
         </li>
       </ul>
     </td>
