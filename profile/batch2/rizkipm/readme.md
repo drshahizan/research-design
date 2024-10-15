@@ -5,8 +5,20 @@
 <p align="center">
   <a href="https://github.com/rizkipm/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%5DAB1D&size=25&center=true&vCenter=true&width=600&height=100&lines=CEO+Founder+@udacoding;Data+Science+Magister+Student+@UTM;Project+Manager;Tech+Lead;Lecturer+@+Polytechnic+State+of+Padang;Always+learning+new+things"></a>
 </p>
-<h1 align="center"> Hey, Rizki Syaputra </h1>
-<hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
+
+<br>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=rizkipm&label=Profile%20views&color=0047AB&style=plastic?" alt="rizkipm" height=25px, width=160px/> 
+	
+</p>
+
+	
+## <picture><img src = "https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
 
 
 # **Biodata Profile**
