@@ -32,7 +32,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>2. Education 🎓</h4></td>
+    <td colspan="3"><h4>2. Education (Universiti Teknologi Malaysia) 🎓</h4></td>
   </tr>
   <tr>
     <td colspan="3">
