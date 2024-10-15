@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/IMG_20180630_104657.jpg" width="650" height="400"></div>
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/IMG_20180630_104657.jpg" width="550" height="365"></div>
 <h1 align="center"> Hey, Rizki Syaputra </h1>
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
 
