@@ -8,12 +8,13 @@ Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about
 
 
 ---
-### **Personal Interests**:🌟
--Business (currently running a small business KA_ICECREAMS)
--Cooking and Baking
--Dance
+### Personal Interests 💡
+- Business
+- Cooking
+- Baking
 
 ---
+
 ### **Skills 💡
 **Technical Skills**:
 - Basic Coding
@@ -21,7 +22,6 @@ Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about
 - Digital Marketing
 - Social Media
 
----
 
 **Soft Skills**:
 - Communication
@@ -40,12 +40,13 @@ Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about
 ---
 
 
-### **Experience** 👔
-**Process Engineer** at **ATA Industrial SDN.Bhd** *(AUG 2022 - NOW 2022)*
+### **Experience**: 👔
+**Process Engineer** at **ATA Industrial SDN.Bhd** *(AUG 2022 - NOW 2022):*
 -oversee system updates 
 -input data for daily updates.
 -manually and technically monitor the system's outputs
 
+---
 ### **Publications**:📂
 - http://mjsat.com.my/index.php/mjsat/article/view/296
 - https://link.springer.com/chapter/10.1007/978-981-16-8129-5_86
