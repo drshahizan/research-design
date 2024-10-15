@@ -92,14 +92,21 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,dart" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,dart,wordpress" />
+  </a>
+</p>
+
+- Mobile
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,dart" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
   </a>
 </p>
 
