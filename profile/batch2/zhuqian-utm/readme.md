@@ -1,6 +1,8 @@
+ ![Hello](https://github.com/drshahizan/research-design/blob/main/profile/batch2/zhuqian-utm/images/icon.jpg)
+
 # 👋 Hello there! I'm Zhu Qian
 
-I'm an international student at the University of Toronto Mississauga (UTM), majoring in Data Science. I'm passionate about extracting insights from data and leveraging machine learning to solve real-world problems. 🌍📊
+> I'm an international student at the University of Toronto Mississauga (UTM), majoring in Data Science. I'm passionate about extracting insights from data and leveraging machine learning to solve real-world problems. 🌍📊
 
 ## 🌱 About Me
 - 🎓 Data Science student at UTM
