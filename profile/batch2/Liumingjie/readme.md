@@ -10,7 +10,8 @@ I am from China, and my hometown is Yibin, Sichuan, located in the southwest of 
 - Programming Languages: [Java,Css,HTML]
 - Interests: [AI, Machine Learning]
 
-Feel free to explore my repositories and reach out if you want to discuss ideas or work together!
+If you'd like to get in touch with me, please click [here](mailto:mingjie@graduate.utm.my).
+
 
 
 
