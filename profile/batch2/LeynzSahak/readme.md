@@ -46,6 +46,4 @@ I am actively working on several publications in my field of interest. You can f
 ## ☎︎ Contact Me:
 * 📩 Email: haslinda45@graduate.utm.my
 * 🔗 LinkedIn: [Leynz Sahak](https://www.linkedin.com/in/haslinda-abdul-sahak-9ab378267/)
-
-
-
+* Facebook: [Leen Sahak](https://www.facebook.com/leensahak)
