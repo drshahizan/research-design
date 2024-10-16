@@ -1,5 +1,7 @@
 <h1 align="center">Hello World!🌍 This is Leynz Sahak👋</h1>
 
+<h4 align="center">An extremely motivated person to constantly develop new skills, learn new knowledge, explore new experiences and grow professionally in the Data Science field.<br>
+  
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/184810828?s=400&u=fa200afb5040a74d8d2cfef355a485c639e180a1&v=4" alt="Me" width= "350" height="250" />
 </p>
