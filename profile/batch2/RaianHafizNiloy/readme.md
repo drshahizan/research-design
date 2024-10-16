@@ -1,8 +1,5 @@
 # Raian Hafiz Niloy
 
-
-
-
 ## About Me
 Hello! I am Raian. I am currently pursuing my Master's degree in Data Science at Universiti Teknologi Malaysia. I completed my Bachelor's degree in Electrical and Electronic Engineering from Bangladesh University of Engineering and Technology (BUET). 
 
