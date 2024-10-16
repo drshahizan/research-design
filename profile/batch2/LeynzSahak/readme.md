@@ -41,8 +41,7 @@
 My previous research area are **Inherent Safety and Health**. I am deeply fascinated by this field and exciting to explore new experiences and grow professionally in the Data Science field 
 
 ## Publication
-
-
+I am actively working on several publications in my field of interest. You can find a list of my publications on my Google Scholar Profile. https://scholar.google.com.my/citations?hl=en&view_op=list_works&gmla=ALUCkoUINEzEZvt83gIn6pluhOsGtl1JMtkGI8d-S1kkSqyntmZMUz_XqRHHf35QxIz5X-E-wiLqGa_lQfJ4jA&user=c5JhaokAAAAJ
 
 ## ☎︎ Contact Me:
 * 📩 Email: haslinda45@graduate.utm.my
