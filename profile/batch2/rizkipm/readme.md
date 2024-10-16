@@ -95,7 +95,13 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,androidstudio,apple," />
   </a>
 </p>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
+### ⚙️ &nbsp;My Profile on Google Scholars
+<div align="center">
+        <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/scholar.png" height="300" width="auto" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/>
+        
+ </div>
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
