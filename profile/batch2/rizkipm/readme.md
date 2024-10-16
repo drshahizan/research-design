@@ -98,6 +98,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 ### ⚙️ &nbsp;My Profile on Google Scholars
+<br>
+<br>
 <div align="center">
         <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/scholar.png" height="300" width="auto" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/>
         
