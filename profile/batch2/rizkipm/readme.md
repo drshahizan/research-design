@@ -97,7 +97,7 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
-### ⚙️ &nbsp;My Profile on Google Scholars
+### ⚙️ &nbsp;**My Profile on Google Scholars**
 <br>
 <br>
 <div align="center">
