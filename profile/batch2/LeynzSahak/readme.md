@@ -44,7 +44,9 @@ My previous research area are **Inherent Safety and Health**. I am deeply fascin
 
 
 
-
+## ☎︎ Contact Me:
+* 📩 Email: haslinda45@graduate.utm.my
+* 🔗 LinkedIn: [Leynz Sahak](https://www.linkedin.com/in/haslinda-abdul-sahak-9ab378267/)
 
 
 
