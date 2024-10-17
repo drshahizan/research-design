@@ -1,6 +1,14 @@
 
 <h1 align="center" border-radius: 25px;>Hi 👋, I'm Nurfatini Atiqah </h1>
-<h4 align="center">An extremely motivated person to constantly develop new skills, learn new knowledge, explore new experiences and grow professionally in the Data Science field.<br>
+
+
+
+<h4 align="center">An extremely motivated person to constantly develop new skills, learn new knowledge, explore new experiences and grow professionally in the Data Science field.
+  <br>
+  <br>
+  <p>
+  <img src="https://github.com/user-attachments/assets/70ef0dc0-e543-4d35-b582-ee8feac20d6d" alt="Me" width= "300" height="400" />
+</p>
   <a href="https://linkedin.com/in/nurfatiniatiqah" target="blank" font-size: 40px;>LinkedIn</a>&nbsp;&nbsp;
   <a href="mailto:nurfatiniatiqah@graduate.utm.my">Email</a>&nbsp;&nbsp;
   <a href="https://github.com/fatiniatiqah">Github</a>
@@ -25,9 +33,13 @@
 
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
   
-##  PROFESSIONAL EXPERIENCE:
+## 👜 PROFESSIONAL EXPERIENCE:
 * Capgemini Malaysia, Associate Consultant
-  *  to be continued...
+  * Worked as a Software Tester for the banking industry
+* Deloitte SEA, Associate
+  * Worked as a Software Tester for the insurance, retail and health industries
+* Sony EMSC, Design Engineer
+  * Designed a script to run the hardware testing
 <!--cancel<table {
     border:2px solid;
     width:300%;
