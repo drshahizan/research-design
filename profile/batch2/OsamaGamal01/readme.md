@@ -1,5 +1,5 @@
 <p align="center">
-  # **Hi, I'm Osama Gamal!** 👋
+# **Hi, I'm Osama Gamal!** 👋
 </p>
 
 <p align="right">
