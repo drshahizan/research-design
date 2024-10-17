@@ -142,12 +142,12 @@
 
 ***
 
-# Tableau
+# Rewards and Conference
 
-| Project Link | Project Description | Dashboard Link |
+| Description | Year | Documentation |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+| 🦄 Get a Reward from Tanah Datar Regency, Indonesia  For Study Banding International in Malaysia and Singapore in 2009 | 2019  | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/Screenshot%202024-10-17%20at%2022.59.07.png" height="175" width="auto" title="Profile on Academia" alt="https://itb.academia.edu/RizkiProgrammerMuslim"/> |
+| 🦠 Best Graduation Graduate Batch III Andalas University Study Program Computer Engineering 2013 | 2013 | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/Screenshot%202024-10-17%20at%2022.59.07.png" height="175" width="auto" title="Profile on Academia" alt="https://itb.academia.edu/RizkiProgrammerMuslim"/> |
 
 ***
 
