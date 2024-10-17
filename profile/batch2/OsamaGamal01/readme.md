@@ -94,7 +94,7 @@ Currently, I’m pursuing my **Master's in Data Science**, where I’m expanding
 
 I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me through the following channels:
 
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/osama-gamal-motir/)  
+- **LinkedIn**: [Osama Motir](https://www.linkedin.com/in/osama-gamal-motir/)  
 - **Email**: [os.gamal09@gmail.com](mailto:os.gamal09@gmail.com)  
 
 If you're interested in working together or just want to chat, don't hesitate to reach out. I look forward to connecting with you!
