@@ -28,11 +28,35 @@ Currently, I’m pursuing my **Master's in Data Science**, where I’m expanding
 
 ## 🔧 My Toolbox & Skills
 
-Here are some of the technologies and tools I work with:
+## 🔧 My Toolbox & Skills
 
-- **Languages**: ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)  
-- **Data Science Tools**: ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-- **Engineering Tools**: ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?style=flat&logo=simulink&logoColor=white) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-F7931E?style=flat&logo=autodesk&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
+### **Languages**:  
+- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+- ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+---
+
+### **Engineering Tools**:
+
+- **Design Software**:  
+  - ![SOLIDWORKS](https://img.shields.io/badge/-SOLIDWORKS-FFB71B?style=flat&logo=solidworks&logoColor=white)  
+  - ![Altium Designer](https://img.shields.io/badge/-Altium_Designer-0071C5?style=flat&logo=altium-designer&logoColor=white)
+
+- **Simulation Software**:  
+  - ![Multisim](https://img.shields.io/badge/-Multisim-FFA500?style=flat&logoColor=white)  
+  - ![Proteus](https://img.shields.io/badge/-Proteus-4CAF50?style=flat&logoColor=white)  
+  - ![QuartusII](https://img.shields.io/badge/-Quartus_II-0076A8?style=flat&logoColor=white)  
+  - ![LTspice](https://img.shields.io/badge/-LTspice-FF0000?style=flat&logoColor=white)  
+  - ![ETAP](https://img.shields.io/badge/-ETAP-0066CC?style=flat&logoColor=white)  
+  - ![PowerWorld](https://img.shields.io/badge/-PowerWorld-000000?style=flat&logoColor=white)
+
+- **Microcontrollers**:  
+  - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+  - ![ESP](https://img.shields.io/badge/-ESP-00979D?style=flat&logo=espressif&logoColor=white)  
+  - Atmega328, Electronic Sensors
+
+- **PLC Designing**:  
+  - Experience in designing with PLCs for automation and control systems.
 
 ---
 
