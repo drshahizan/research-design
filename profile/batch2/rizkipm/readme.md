@@ -105,6 +105,16 @@
         
  </div>
 <br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
+### ⚙️ &nbsp;**My Profile on Academia**
+<br>
+<br>
+<div align="center">
+        <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/Screenshot%202024-10-17%20at%2022.59.07.png" height="300" width="auto" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/>
+        
+ </div>
+<br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
