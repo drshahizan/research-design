@@ -153,6 +153,7 @@
 | 🦠 Android Certified Application Developer from Android ATC  | 2015 | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/android.jpg" height="175" width="auto" /> |
 | 🦠 Finalist and Top 9 Hackhanton Singapore 2019  | 2019 | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/sing.jpg" height="175" width="auto"/> |
 | 🦠 Finalist and Top 5 Hackhanton Education Ministry Indonesia  | 2015 | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/hack2015.jpg" height="175" width="auto"/> |
+| 🦠 🦄 [International Academic Studies III - Turkey ](https://youtu.be/8ziUp_SPfIE?feature=shared) | 13-16 May 2022 | Manage Product, Marketing, and Human Resources Development Using Data Science, Artificial Intelligence, And Machine Learning In Business Company |
 
 ***
 
