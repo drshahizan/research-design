@@ -114,22 +114,14 @@
 | 🦠 Mobile Interactive Bandung, Bandung | Mobile Application Developer | August - November 2014|
 
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 # Internship Experience
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 | Position | Company Name | Working Data |
 |---|---|---|
 | 🦄 PT. Pesona Khatulistiwa Nusantara, Kalimantan  | Web Developer | January - July 2014 |
 | 🦠 Jasa Programmer, Yogyakarta| Web Programmer | February - April 2013 |
-| 🦠 Coedev Technology Sdn Bhd, Kuala Lumpur, Malaysia| Co-Founder and CTO | January 2023  - August 2024|
-| 🦠 Udacoding or Koding Teknologi Asia PT| CEO & Founder | August 2018  - Present|
-| 🦠 Padang State Polytechnic, West Sumatera| Practitioner Lecturer | September 2022  - Present|
-| 🦠 Unity.sg, Singapore| Team Lead Flutter | November 2021 - December 2022|
-| 🦠 Oddbit, Bali | Mobile Application Developer | May - July 2018|
-| 🦠 Kolaka Regency Government, Sulawesi, Indonesia | Software Engineer| February - May 2018|
-| 🦠 SMK IDN Boarding School, Bogor| Software Development Teacher | June 2017 - February 2018|
-| 🦠 Indonesia Mobile-app Academy (IMASTUDIO) or IDN, Jakarta | Senior Trainer and Mobile Developer (iOS and Android) | January 2015 - February 2018|
-| 🦠 SMK TI Madinatul Qur'an, Bogor | Software Development Teacher | January 2015 - June 2017 |
-| 🦠 Mobile Interactive Bandung, Bandung | Mobile Application Developer | August - November 2014|
+
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
