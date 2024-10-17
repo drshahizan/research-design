@@ -115,13 +115,14 @@
 
 ***
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-## Working Experience
+# Internship Experience
 
 | Position | Company Name | Working Data |
 |---|---|---|
 | 🦄 PT. Pesona Khatulistiwa Nusantara, Kalimantan  | Web Developer | January - July 2014 |
 | 🌤 Jasa Programmer, Yogyakarta| Web Programmer | February - April 2013 |
+
+***
 
 # My Books or Publications
 
