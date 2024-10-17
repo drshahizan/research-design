@@ -114,8 +114,8 @@
 | 🦠 Mobile Interactive Bandung, Bandung | Mobile Application Developer | August - November 2014|
 
 <br>
-# Internship Experience
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## Working Experience
 
 | Position | Company Name | Working Data |
 |---|---|---|
