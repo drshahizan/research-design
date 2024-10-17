@@ -62,16 +62,17 @@ Currently, I’m pursuing my **Master's in Data Science**, where I’m expanding
 ### **Bachelor of Electrical Engineering**  
 **Universiti Teknologi Malaysia (UTM)**  
 
-#### *Final Year Project (FYP)*: 🌞 **DAILY FORECASTING OF SOLAR IRRADIANCE FOR PV SYSTEMS: THE HYBRIDIZATION OF NARX AND LSTM MODELS**
+#### *Final Year Project (FYP): 🌞 DAILY FORECASTING OF SOLAR IRRADIANCE FOR PV SYSTEMS: THE HYBRIDIZATION OF NARX AND LSTM MODELS*
 
 - **Objective**: Improve the accuracy of **solar irradiance forecasting** to enhance **photovoltaic (PV) system** efficiency and management.
 - **Description**: Combined **Nonlinear Auto-Regressive with Exogenous Inputs (NARX)** and **Long Short-Term Memory (LSTM)** models, employing a **Time-Series Residual correction** technique to mitigate the unpredictability of solar irradiance due to complex weather dynamics.
 - **Technologies Used**: MATLAB, NARX models, LSTM networks, meteorological data analysis.
 - **Impact**: Contributed to better **grid management** and helps with the **strategic integration of solar energy** into the power grid by enhancing the precision of solar irradiance prediction.
----
+- 
 
 ### **Master’s in Data Science**  
 **Universiti Teknologi Malaysia (UTM)** *(Currently Pursuing)*
 
+---
 
 
