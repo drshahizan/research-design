@@ -28,13 +28,10 @@ Currently, I’m pursuing my **Master's in Data Science**, where I’m expanding
 
 ## 🔧 My Toolbox & Skills
 
-## 🔧 My Toolbox & Skills
-
 ### **Languages**:  
 - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 - ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
----
 
 ### **Engineering Tools**:
 
@@ -53,10 +50,28 @@ Currently, I’m pursuing my **Master's in Data Science**, where I’m expanding
 - **Microcontrollers**:  
   - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
   - ![ESP](https://img.shields.io/badge/-ESP-00979D?style=flat&logo=espressif&logoColor=white)  
-  - Atmega328, Electronic Sensors
+  - Atmega328
 
 - **PLC Designing**:  
   - Experience in designing with PLCs for automation and control systems.
 
 ---
+
+## 🎓 Education
+
+### **Bachelor of Electrical Engineering**  
+**Universiti Teknologi Malaysia (UTM)**  
+
+### -*Final Year Project (FYP)*: 🌞 **DAILY FORECASTING OF SOLAR IRRADIANCE FOR PV SYSTEMS: THE HYBRIDIZATION OF NARX AND LSTM MODELS**
+
+- 🎯 **Objective**: Improve the accuracy of **solar irradiance forecasting** to enhance **photovoltaic (PV) system** efficiency and management.
+- 🧠 **Description**: Combined **Nonlinear Auto-Regressive with Exogenous Inputs (NARX)** and **Long Short-Term Memory (LSTM)** models, employing a **Time-Series Residual correction** technique to mitigate the unpredictability of solar irradiance due to complex weather dynamics.
+- 💻 **Technologies Used**: MATLAB, NARX models, LSTM networks, meteorological data analysis.
+- 🌍 **Impact**: Contributed to better **grid management** and helps with the **strategic integration of solar energy** into the power grid by enhancing the precision of solar irradiance prediction.
+---
+
+### **Master’s in Data Science**  
+**Universiti Teknologi Malaysia (UTM)** *(Currently Pursuing)*
+
+
 
