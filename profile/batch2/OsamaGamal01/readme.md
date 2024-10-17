@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><span style="font-size: 36px;">Hi, I'm Osama Gamal! 👋</span></strong>
+  <strong><span style="font-size: 48px;">Hi, I'm Osama Gamal! 👋</span></strong>
 </p>
 
 <p align="right">
