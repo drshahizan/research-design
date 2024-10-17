@@ -101,7 +101,7 @@
 <br>
 <br>
 <div align="center">
-        <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/scholar.png" height="300" width="auto" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/>
+        <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/scholar.png" height="300" width="auto" title="Profile Rizki on Google Scholars" alt="https://scholar.google.com/citations?user=b1vSbkwAAAAJ"/>
         
  </div>
 <br/>
@@ -111,7 +111,7 @@
 <br>
 <br>
 <div align="center">
-        <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/Screenshot%202024-10-17%20at%2022.59.07.png" height="300" width="auto" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/>
+        <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/Screenshot%202024-10-17%20at%2022.59.07.png" height="300" width="auto" title="Profile on Academia" alt="https://itb.academia.edu/RizkiProgrammerMuslim"/>
         
  </div>
 <br/>
