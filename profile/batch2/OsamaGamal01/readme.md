@@ -101,3 +101,4 @@ If you're interested in working together or just want to chat, don't hesitate to
 
 
 
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)]
