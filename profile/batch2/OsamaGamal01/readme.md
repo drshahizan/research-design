@@ -78,13 +78,13 @@ Currently, I’m pursuing my **Master's in Data Science**, where I’m expanding
 ## 💼 Internship:
   *Sustainable and Innovation Engineering Sdn Bhd, s&i ⚡️*
 
-### **Power System Study**:
+##### **Power System Study**:
 - Focus on analyzing and optimizing electrical power systems.
   
-### **Solar PV Design and Installation**:
+##### **Solar PV Design and Installation**:
 - Design and installation of photovoltaic (PV) systems for renewable energy integration for improving energy efficiency and ensuring system reliability..
 
-### **Research and Development**:
+##### **Research and Development**:
 - Contributed to the **research and development** of novel technologies, focusing on **Industrial Revolution 4.0** initiatives.
 - Participated in projects involving the enhancement of **current technologies** and the development of **innovative solutions** for future applications.
 - Explored the use of **IoT** for **advanced system control and monitoring**, aiming to optimize power consumption and enhance system efficiency.
