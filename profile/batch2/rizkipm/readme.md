@@ -148,8 +148,8 @@
 |---|---|---|
 | 🦄 [Get a Reward from Tanah Datar Regency, Indonesia  For Study Banding International in Malaysia and Singapore in 2009](https://www.linkedin.com/pulse/bermimpi-keluar-negeri-part-1-rizki-syaputra-cqngc/?trackingId=eIQDoZv6TUeOHwiETqpbeQ%3D%3D)  | 2019  | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/studi.png" height="175" width="auto" /> |
 | 🦠 Best Graduation Graduate Batch III Andalas University Study Program Computer Engineering 2013 | 2013 | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/best.jpg" height="175" width="auto" /> |
-| 🦠 Finalis Educode Hackathon Competition and Top 8 Best Applications 2015  | 2015 | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/Screenshot%202024-10-17%20at%2022.59.07.png" height="175" width="auto" /> |
-| 🦠 Udacity Nanodegree Program Scholarship 2017   | 2017 | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/Screenshot%202024-10-17%20at%2022.59.07.png" height="175" width="auto"/> |
+| 🦠 Finalis Educode Hackathon Competition and Top 8 Best Applications 2015  | 2015 | - |
+| 🦠 Udacity Nanodegree Program Scholarship 2017   | 2017 | - |
 | 🦠 Android Certified Application Developer from Android ATC  | 2015 | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/android.jpg" height="175" width="auto" /> |
 | 🦠 Finalist and Top 9 Hackhanton Singapore 2019  | 2019 | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/sing.jpg" height="175" width="auto"/> |
 | 🦠 Finalist and Top 5 Hackhanton Education Ministry Indonesia  | 2015 | <img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/rizkipm/images/hack2015.jpg" height="175" width="auto"/> |
