@@ -1,95 +1,87 @@
 
+
 <h1 align="center" border-radius: 25px;>Hi 👋, I'm Nurfatini Atiqah </h1>
 
-
-
-<h4 align="center">An extremely motivated person to constantly develop new skills, learn new knowledge, explore new experiences and grow professionally in the Data Science field.
+<h4 align="center">An extremely motivated person to constantly develop new skills, learn new knowledge, explore new experiences and grow professionally in the data science field.
   <br>
   <br>
   <p>
   <img src="https://github.com/user-attachments/assets/70ef0dc0-e543-4d35-b582-ee8feac20d6d" alt="Me" width= "300" height="400" />
 </p>
-  <a href="https://linkedin.com/in/nurfatiniatiqah" target="blank" font-size: 40px;>LinkedIn</a>&nbsp;&nbsp;
-  <a href="mailto:nurfatiniatiqah@graduate.utm.my">Email</a>&nbsp;&nbsp;
-  <a href="https://github.com/fatiniatiqah">Github</a>
 
+---
 
-<hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
-  
-## 🎓 EDUCATION:
+## 🎓 **Education**  
 * Universiti Teknologi MARA, Kuala Terengganu👨🏻‍🎓
   *  *Bachelor of Computer Science (Hons.), June 2021*
 
 * Universiti Teknologi MARA, Arau 👨🏻‍🎓
    * *Diploma in Computer Science, June 2019*
 
-<hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
+---
 
-## 🛠️ SKILLS:
+## 💼 **Professional Experience**
 
-**Programming Languange: 💻**
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  </p>
+### **Capgemini Services Malaysia Sdn. Bhd.**  
+**Associate Consultant**  
+_May 2023 – Present | Kuala Lumpur, MY_  
+- Collaborated on projects using Agile and Scrum methodologies, focusing on Digital Banking (UOB TMRW App).  
+- Executed manual testing for mobile apps (iOS and Android) with a focus on user engagement process flows.  
+- Involved in SIT, Compatibility, Regression, Sanity, and End-to-End testing.  
+- Utilized tools such as JIRA, Confluence, Figma, Microsoft SQL Server Management Studio, and AS400 core banking system.  
+ 
+
+### **Deloitte SEA Services Sdn. Bhd.**  
+**Associate Software Tester**  
+_Dec 2021 – May 2023 | Kuala Lumpur, MY_  
+- Conducted testing for various CRM and banking projects, working closely with cross-functional teams.  
+- Executed test cases, recorded defects, and ensured compliance with project requirements.  
+- Involved in the release control process and performed multiple testing types, including Smoke, Integration, and Regression Testing.  
+- Created over 70 test cases daily based on user requirement documents.  
+
+### **QR Retail Automation Asia Sdn. Bhd.**  
+**Quality Assurance Intern**  
+_Feb 2021 – July 2021 | Petaling Jaya, Selangor, MY_  
+- Conducted manual testing on retail systems, ensuring they met requirements.  
+- Collaborated with the development team to address and resolve issues.
+
+---
+
+## 🛠️ **Skills**
+
+### **Programming Languages**  
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+
+**Software Testing**:  
+- Manual & Automation Testing, Functional Testing, Mobile Testing, Test Plan & Test Cases  
+- Tools: AKIRA, Katalon Studio, Redmine, JIRA  
+
+---
+
+## 📜 **Certifications**  
+- **Certified Tester, Foundation Level (CTFL)** 
+- **Automation Specialist Level 2**   
+- **Automation Specialist Level 1**  
+
+---
+
+## 🏆 **Achievements**
+
+- **Image Processing Competition** – _Finalist, January 2020_  
+  Developed a lung cancer detection system using Convolution Neural Network (CNN) and MATLAB.
   
+- **Python Seminar** – _Participant, November 2019_  
+  Created a simple calculation algorithm and enhanced Python skills in Machine Learning.
 
-<hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
-  
-## 👜 PROFESSIONAL EXPERIENCE:
-* Capgemini Malaysia, Associate Consultant
-  * Worked as a Software Tester for the banking industry
-* Deloitte SEA, Associate
-  * Worked as a Software Tester for the insurance, retail and health industries
-* Sony EMSC, Design Engineer
-  * Designed a script to run the hardware testing
-<!--cancel<table {
-    border:2px solid;
-    width:300%;
-}​>
+- **International CPROM** – _Finalist, September 2018_  
+  Created an interactive product video using Adobe Premiere Pro.  
 
-  <!--EDUCATION
-  <tr>
-    <td>
-      <h3 align = "center">EDUCATION</h3>
-    </td>
-  </tr>--
-  <!--EDUCATION TEXT
-  <tr><td>
-    <p><b>Universiti Teknologi Mara, Kuala Terengganu</b></p>
-  <p><i>Bachelor of Computer Science (Hons.), June 2021</i></p>
-  <br>
-  <p><b>Universiti Teknologi Mara, Arau</b></p>
-  <p><i>Diploma in Computer Science, Arau, May 2021</i></p>
-  </td>
-</tr>
-<!--SKILLS
-<tr>
-    <td>
-      <h3 align = "center">SKILLS</h3>
-    </td>
-  </tr>
-<!--SKILLS TEXT
-<tr>
+---
 
-  <td>
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"   width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a   href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-  </td>
-</tr>
-<!--EXPERIENCES
-<tr>
-    <td>
-      <h3 align = "center">PROFESSIONAL EXPERIENCE</h3>
-    </td>
-  </tr>
-  <!--EXPERIENCES TEXT
-  <tr><td>
-    <p><b>Capgemini  Kuala Lumpur, Malaysia</b></p>
-  <p><i>Bachelor of Computer Science (Hons.), June 2021</i></p>
-  <br>
-  <p><b>Deloitte SEA Kuala Lumpur, Malaysia</b></p>
-  <p><i>Diploma in Computer Science, Arau, May 2021</i></p>
-    <br>
-  <p><b>Sony EMCS Selangor, Malaysia</b></p>
-  <p><i>Diploma in Computer Science, Arau, May 2021</i></p>
-  </td>
-</tr>
-</table>//
+## 👥 **Contact**
+✉️ [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurfatini163@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurfatiniatiqah/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/fatiniatiqah)  
