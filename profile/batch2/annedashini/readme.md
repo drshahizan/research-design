@@ -35,6 +35,7 @@ Hi, I'm Anne Dashini Kannan, a student at UTM Johor with a strong passion for co
 ### **Education** 🎓
 **Foundation** in **Science**
 - Manipal International University (MARCH 2019)
+  
 **Degree** in **Computer Engineering**
 - Manipal International University (DEC 2023)
 
