@@ -1,3 +1,8 @@
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Albaagari10&&style=flat-square" align="center" />
+</div> 
+
 <h1 align="center"> Hey, This is Omar Mohammed Albaagari👋🌍</h1>
 
 <h4 align="center">A highly motivated individual dedicated to continually learning new skills,exploring diverse experiences, gaining knowledge.<br>
