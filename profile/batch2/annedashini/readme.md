@@ -4,14 +4,14 @@
 
 
 ### **Introduction** 👋
-Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about computing and coding and currently pursuing my goal of earning my Master's and PhD. In my free time, I enjoy sharing updates about my small business on social media. I’m eager to learn, grow, and eventually fulfill my aspirations.
+Hi, I'm Anne Dashini Kannan, a student at UTM Johor with a strong passion for computing and coding. I'm currently working towards my Master's and PhD. When I'm not hitting the books, I love learning new things about computers through hands-on experience. Additionally, I enjoy sharing updates about my new small business on social media. While coding and computing are my professional pursuits, running my small business is my personal passion.
 
 
 ---
 ### Personal Interests 💡
-- Business
-- Cooking
-- Baking
+- Business Ideas
+- Learn new things in Internet
+- Baking & cooking
 
 ---
 
@@ -33,18 +33,24 @@ Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about
 ---
 
 ### **Education** 🎓
+**Foundation** in **Science**
+- Manipal International University (MARCH 2019)
 **Degree** in **Computer Engineering**
-- Manipal International University
-- DEC 2023
+- Manipal International University (DEC 2023)
 
 ---
 
 
-### **Experience**: 👔
-**Process Engineer** at **ATA Industrial SDN.Bhd** *(AUG 2022 - NOW 2022):*
+### **Working Experience**: 👔
+**Process Engineer** at **ATA Industrial SDN.Bhd** *(AUG 2022 - NOW 2022)*:
 -oversee system updates 
 -input data for daily updates.
 -manually and technically monitor the system's outputs
+
+**Telemarketer** at **Manipal International University** *(APRIL 2019 - JUNE 2023)*:
+-Update student data in to the system
+-input data for daily updates.
+-update students status
 
 ---
 ### **Publications**:📂
@@ -62,10 +68,10 @@ Hello! I’m Anne Dashini Kannan, a student at UTM Johor. I’m passionate about
 ---
 
 
-### **Contact Information** 📧
-- Email: [dashinianne@gmail.com]
-- LinkedIn: [Anne Dashini Kannan]
-- GitHub: [annedashini] *(if applicable)*
+### **To Know More About Me** 📧
+- Email: dashinianne@gmail.com
+- LinkedIn: Anne Dashini Kannan
+- GitHub: annedashini
 
 
 
