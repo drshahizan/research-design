@@ -44,11 +44,13 @@ Hi, I'm Anne Dashini Kannan, a student at UTM Johor with a strong passion for co
 
 ### **Working Experience**: 👔
 **Process Engineer** at **ATA Industrial SDN.Bhd** *(AUG 2022 - NOW 2022)*:
+
 -oversee system updates 
 -input data for daily updates.
 -manually and technically monitor the system's outputs
 
 **Telemarketer** at **Manipal International University** *(APRIL 2019 - JUNE 2023)*:
+
 -Update student data in to the system
 -input data for daily updates.
 -update students status
