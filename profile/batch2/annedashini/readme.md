@@ -17,7 +17,7 @@ Hi, I'm Anne Dashini Kannan, a student at UTM Johor with a strong passion for co
 
 ### Skills 💡
 **Technical Skills**:
-- Basic Coding
+- Basic Programming Language
 - Project Management
 - Digital Marketing
 - Social Media
