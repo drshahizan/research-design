@@ -39,10 +39,13 @@ _Quantity Surveyor (Apprenticeship) , Jabatan Kerja Raya (JKR) Negeri Kedah_
 Diploma of Quantity Surveying | *Universiti Teknologi MARA (UiTM), Kampus Seri Iskandar, Perak*
 
 ## 🛠️**Hands-On Skills**
-Phyton | SQL
+[![My Skills](https://skillicons.dev/icons?i=py,github,ps,notion,r,sql)](https://skillicons.dev)
 
-## 📧📞**Contact**
+## 👥**Connect**
 
+<p align="center">
+<a href="https://www.linkedin.com/in/wsyazanaaa/"><img src="https://img.shields.io/badge/-LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 
 
