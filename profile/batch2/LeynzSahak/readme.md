@@ -1,6 +1,10 @@
-<h1 align="center">Hello World!🌍 This is Leynz Sahak👋</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=haslindaabdulsahak&label=Profile%20views&color=0e75b6&style=flat" alt="haslindaabdulsahak" /> </p>
 
-<h4 align="center">An extremely motivated person to constantly develop new skills, learn new knowledge, explore new experiences and grow professionally in the Data Science field.<br>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+World!+This+is+Leynz+Sahak" />
+</h2>
+
+<h4 align="center">An extremely motivated person to learn new knowledge, learn new skills, explore new experiences and wants to grow professionally in the field of Data Science<br>
 <br>  
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/184810828?s=400&u=fa200afb5040a74d8d2cfef355a485c639e180a1&v=4" alt="Me" width= "450" height="300" />
