@@ -28,7 +28,7 @@ _Quantity Surveyor (Apprenticeship) , Jabatan Kerja Raya (JKR) Negeri Kedah_
 - wnxjcjbscj
 - jcbdjsdbcdbcs
 
-## 🎓**Education**
+## 🎓**Education Background**
 
 2019 - 2022 |
  Bachelor of Quantity Surveying (Honours) | *Universiti Teknologi MARA, Kampus Seri Iskandar, Perak*
