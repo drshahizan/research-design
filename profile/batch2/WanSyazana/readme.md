@@ -14,19 +14,18 @@ Domain Knowledge : Construction Cost Data Analysis 📈💸🏗️, Computer-Aid
 🌾 Kedah, Malaysia 
 </p>
 
+Data Community
+Skills
+
 
 ## 💼 **Professional Experience**
 Mac 2024 - Present |
 _Freelancer, Quantity Surveyor_
-- Work as
-- wnxjcjbscj
-- jcbdjsdbcdbcs
 
 Aug 2022 - Mac 2024 |
 _Quantity Surveyor (Apprenticeship) , Jabatan Kerja Raya (JKR) Negeri Kedah_
 - Work as
-- wnxjcjbscj
-- jcbdjsdbcdbcs
+
 
 ## 🎓**Education Background**
 
@@ -35,5 +34,7 @@ _Quantity Surveyor (Apprenticeship) , Jabatan Kerja Raya (JKR) Negeri Kedah_
 
 2016 - 2019 |
 Diploma of Quantity Surveying | *Universiti Teknologi MARA, Kampus Seri Iskandar, Perak*
+
+Contact
 
 
