@@ -3,7 +3,7 @@ Wan Nur Syazana Binti Wan Ruslan
 </p>
 
 <p align="center">  
-Postgraduate Master in Data Science at Universiti Teknologi Malaysia (UTM), Johor Bahru
+Postgraduate Master in Data Science at _Universiti Teknologi Malaysia (UTM), Johor Bahru_
 </p>
 
  <p align="center">   
