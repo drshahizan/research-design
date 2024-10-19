@@ -3,12 +3,10 @@
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
 
 ## 👩‍💻 About Me
-**Passionate about learning and growth.** 🌱💻
-* I love to push my limits and explore new horizons. 📚🧠 
-* I'm driven by curiosity and a desire to continuously expand my knowledge. 🚀💡
-* Exploring new technology trends excites me because they offer endless possibilities for innovation and creativity. 🌍👨‍💻  
-
-*Let's create something amazing together!*
+**Be better, be stronger.** 🌱💻
+* I'm from Hohhot, Inner Mongolia Autonomous Region, China. 📚🧠 
+* I have three years of front-end development experience. 🚀💡
+* I enjoy sports, reading, and exploring new things.. 🌍👨‍💻  
 
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
 
@@ -24,18 +22,14 @@
 <br>
 
 **Languages: ✍🏻**
-* English
 * Chinese
+* English
 
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
   
 ## 🎓 Education: 
-Bachelor's Degree of Computer Science (Bioinformatics), Universiti Teknologi Malaysia 👨🏻‍🎓
-* *FYP: Identification of Potential Biomarkers for Esophageal Cancer From Gene Expression and Interaction Using Biclustering Algorithm*
-  * Biclustering, a powerful tool: effectively identify groups of genes and samples with similar patterns 📊
-  * The importance of data preprocessing for accurate and meaningful results. 🧹
-  * The effectiveness of SVM for classification: evaluate the identified biomarkers and assess their potential as predictors. 🤖
-  * The value of biological validation: Verifying biomarkers with biological knowledge bases helps to confirm their relevance and significance. 🧬
+Master's Degree of Data Science (Bioinformatics), Universiti Teknologi Malaysia 👨🏻‍🎓
+
 
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
 
