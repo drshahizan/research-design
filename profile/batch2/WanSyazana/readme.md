@@ -15,7 +15,7 @@ Domain Knowledge : Construction Cost Data Analysis 📈💸🏗️, Computer-Aid
 </p>
 
 ## 👾 **Fun Fact**
-- Have deep interest to uncover the world of data, programming and analytics as data-driven can give massive impact to someone's life.
+- Have deep interest to discover the world of data, programming and analytics as data-driven can give massive impact to someone's life.
 - Keen to brush up current high demand tech skills.
 - Pursuing Master in Data Science, Universiti Teknologi Malaysia (UTM), Johor Bahru. 
 
