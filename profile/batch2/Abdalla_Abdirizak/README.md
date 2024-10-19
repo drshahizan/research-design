@@ -4,8 +4,8 @@
 
 ---
 
-![Profile Picture](https://github.com/drshahizan/research-design/upload/main/profile/batch2/Abdalla_Abdirizak/images/IMG_0881.png) <!-- Replace with your profile image -->
-
+![Profile Picture]() <!-- Replace with your profile image -->
+<img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/Abdalla_Abdirizak/images/IMG_0881.png" alt="Me" width= "500" height="450" />
 ## About Me
 I am a **Master of Data Science** student at **UTM** with a passion for software development and data analysis. I specialize in building scalable software solutions and enjoy working on projects that combine creativity with technology.
 
