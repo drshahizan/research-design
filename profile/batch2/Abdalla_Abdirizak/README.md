@@ -1,77 +1,50 @@
-# Abdalla Abdirizak
+<h1 align="center">My Portfolio</h1>
 
-### Master of Data Science Student at UTM | Software Developer
+This repository serves as a template to easily construct, customize, and publicize a personal portfolio using Markdown. Though it is always fun and impressive to design and deploy a gorgeous personal website, one need not do so in order to show off their portfolio. Simplicity is often just as effective as complexity, if not more so. Hence, this template utilizes Markdown for clean portfolio design, with the intent of being located in a GitHub repository for ease of access.
 
----
+Below resides the template for the README file, which acts as the main page of your portfolio. Linked within the main page are paths to various other named files in the repository that serve as their own respective pages. These pages may provide examples on what to include. To take one example, the main page suggests providing a headshot of yourself.
 
-![Profile Picture]() <!-- Replace with your profile image -->
-<img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/Abdalla_Abdirizak/images/IMG_0881.png" alt="Me" width= "500" height="450" />
-## About Me
-I am a **Master of Data Science** student at **UTM** with a passion for software development and data analysis. I specialize in building scalable software solutions and enjoy working on projects that combine creativity with technology.
+Everyone is encouraged to fork, copy, or reference this repository and customize it to their own liking. You need not adhere to everything provided in this template, as the contents presented in this template are merely creative suggestions. You may add, modify, or remove anything as you see fit. Your portfolio is yours to own and customize. Get creative and share your portfolio with the world! 
 
----
+If you are interested in seeing what a Markdown portfolio may look like, you are welcome to reference [my portfolio](https://github.com/thoresonjd/markdown-portfolio).
 
-## Education
-
-**University:** UTM (Universiti Teknologi Malaysia)  
-**Program:** Master of Data Science  
-**Year:** Current Student (1st Year Completed)
+If you need help with Markdown, reference the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet).
 
 ---
-
-## Skills
-
-- **Programming Languages:** Python, JavaScript, C++, Java
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js
-- **Data Analysis:** Pandas, NumPy, Matplotlib, SQL, Power BI
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Jupyter Notebooks
-- **Languages:** English, Arabic, Somali, Turkish
-
+---
 ---
 
-## Projects
-
-### 1. **AirAsia Flight Analysis Dashboard**
-   - Developed an interactive dashboard to analyze flight prices, durations, and performance metrics.
-   - Technologies used: Power BI, Python, Pandas, SQL  
-   ![AirAsia Dashboard](https://via.placeholder.com/500x300) <!-- Replace with your project image -->
-
-### 2. **E-Commerce Website**
-   - Built a full-stack e-commerce platform with payment integration and user authentication.
-   - Technologies used: React, Node.js, MongoDB, Stripe  
-   ![E-Commerce Website](https://via.placeholder.com/500x300) <!-- Replace with your project image -->
-
-### 3. **Accident Death and Injury Analysis**
-   - Conducted data analysis on accident statistics to understand trends and provide insights.
-   - Technologies used: Excel, Python, Power BI  
-   ![Accident Analysis](https://via.placeholder.com/500x300) <!-- Replace with your project image -->
-
----
-
-## Experience
-
-### Interpreter and Translator  
-_Freelance_  
-**Duration:** 5+ years  
-- Facilitated accurate communication in multiple languages (English, Arabic, Somali, Turkish).
-- Specialized in translating documents and spoken word for various industries.
-
----
-
-## Certifications
-
-- **Certified Python Developer** – Issued by [Institute Name]
-- **Power BI Data Analyst Associate** – Issued by Microsoft
-
----
-
-## Contact Me
-
-- **Email:** your-email@example.com
-- **GitHub:** [GitHub Profile](#)
-- **LinkedIn:** [LinkedIn Profile](#)
-
----
-
-![Footer Image](https://via.placeholder.com/800x200) <!-- Optional footer image -->
+<h1 align="center">Your name here</h1>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Information</b></td>
+      <td width="50%" rowspan="4">
+        <img alt="Photo" src="./images/Abdalla.jpg" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>your@email.com</li>
+          <li><a href="https://www.linkedin.com">LinkedIn</a></li>
+          <li><a href="https://github.com">GitHub</a></li>
+          <li>. . .</li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td><b>Showcase</b></td></tr>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li><a href="./Pages/education.md">Education</a></li>
+          <li><a href="./Pages/experience.md">Experience</a></li>
+          <li><a href="./Pages/projects.md">Projects</a></li>
+          <li><a href="./Pages/qualifications.md">Skills & Qualifications</a></li>
+          <li><a href="./Pages/extracurriculars.md">Honors & Extracurriculars</a></li>
+          <li>. . .</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
