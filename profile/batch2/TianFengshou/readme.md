@@ -7,21 +7,15 @@
 
 ## 🚀About me
 
+  My full name is Tian Fengshou, you can also call me Aaron De Tian.  
 
+  The world is concrete and complex, so we need to capture its essence with abstract and concise data.  
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>  My full name is Tian Fengshou, you can also call me Aaron De Tian. </p>
-    <p>  The world is concrete and complex, so we need to capture its essence with abstract and concise data.</p>
-    <p>  Then, using a hunting technique called mathematics and statistics, a spear called computer science, hunting prey called the world.</p>
-    <p>  Sometimes, we collectively refer to it as data science.</p>
-    <p>  Now there is a little assistant called AI who can also help (or possibly replace) us.</p>
-  </div>
-  <div style="flex: 1;">
-    <img src="img/TianFengshou_LeatherRobe_Shirt_Tie_RedBackground.png" alt="田丰收_写真_皮衣_衬衫_领带_红色背景" style="max-width: 100%;">
-  </div>
-</div>
+  Then, using a hunting technique called mathematics and statistics, a spear called computer science, hunting prey called the world.  
 
+  Sometimes, we collectively refer to it as data science.  
+
+  Now there is a little assistant called AI who can also help (or possibly replace) us.
 
 
 - :cn:  I come from Jinan City, Shandong Province, China. My Chinese name is 田丰收.
