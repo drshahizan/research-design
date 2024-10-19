@@ -1,13 +1,13 @@
-# My Portfolio
+<h1 align="center">My Portfolio</h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+I'm!+Abdalla+Abdirizak" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello!+I'm+Abdalla+Abdirizak" />
 </h1>
 <table>
   <tbody>
     <tr>
       <td>
-          <h1>About Me</h1>
+          <h1 align="center">About Me</h1>
           <p> I am Abdalla Abdirizak, a passionate software developer and data science enthusiast currently pursuing a Master's in Data Science at UTM University. With over five years of experience in software development and interpreting, I enjoy solving real-world problems using technology. I also have a keen interest in data analysis and business intelligence, focusing on enhancing efficiency and performance through data-driven insights.</p>
       </td>
       <td width="50%" rowspan="4">
