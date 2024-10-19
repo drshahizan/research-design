@@ -14,7 +14,9 @@ If you need help with Markdown, reference the [Markdown Cheat Sheet](https://www
 ---
 ---
 
-<h1 align="center">Your name here</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+I'm!+Abdullahi+Abdirizak" />
+</h1>
 <table>
   <tbody>
     <tr>
