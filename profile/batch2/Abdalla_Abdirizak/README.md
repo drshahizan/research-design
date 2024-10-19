@@ -40,7 +40,7 @@
 
 ## Skills
 - **Programming Languages:** HTML, CSS, Andriod, React, Flutter, Python, R, SQL, JavaScript, PHP, ASP, 
-- **Tools & Technologies:** Power BI, Tableau, Excel, Git
+- **Tools & Technologies:** Power BI, Excel, Git
 - **Data Science:** Machine Learning, Data Visualization, Statistical Analysis
 - **Languages:** English, Somali
 
