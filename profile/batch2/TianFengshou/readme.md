@@ -4,12 +4,27 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tianfengshou&label=Profile%20views&color=0e75b6&style=flat" alt="tianfengshou" /> </p>
 
 -----
+
 ## 🚀About me
 
-  My full name is Tian Fengshou or Aaron De Tian.  
-  The first name is directly spelled in Chinese Pinyin, while the second name is more westernized.  
 
-- :cn:  I come from Heze City, Shandong Province, China. My Chinese name is 田丰收.
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>  My full name is Tian Fengshou, you can also call me Aaron De Tian. </p>
+    <p>  The world is concrete and complex, so we need to capture its essence with abstract and concise data.</p>
+    <p>  Then, using a hunting technique called mathematics and statistics, a spear called computer science, hunting prey called the world.</p>
+    <p>  Sometimes, we collectively refer to it as data science.</p>
+    <p>  Now there is a little assistant called AI who can also help (or possibly replace) us.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="img/TianFengshou_LeatherRobe_Shirt_Tie_RedBackground.png" alt="田丰收_写真_皮衣_衬衫_领带_红色背景" style="max-width: 100%;">
+  </div>
+</div>
+
+
+
+- :cn:  I come from Jinan City, Shandong Province, China. My Chinese name is 田丰收.
 - 🔭 I’m currently working on GXZY, a Chinese technology company. I established and managed the East China R&D Center.
 - 🌱 I’m currently learning data science at UTM.
 - :black_nib: I write blogs on multiple Chinese websites and have multiple columns. If you are interested, I suggest visiting my blog on [CSDN](https://fonttian.blog.csdn.net/?type=blog) or [Zhihu](https://www.zhihu.com/people/fonttian).
@@ -24,7 +39,31 @@
 
 ### :hammer:Framework and Tool
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-0053F4?style=for-the-badge&logo=paddlepaddle&logoColor=white)![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apache-echarts&logoColor=white)![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)![HBase](https://img.shields.io/badge/HBase-EB0000?style=for-the-badge&logo=apache-hbase&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)![Scrapy](https://img.shields.io/badge/Scrapy-50A14F?style=for-the-badge&logo=scrapy&logoColor=white)![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)![ComfyUI](https://img.shields.io/badge/ComfyUI-DAA520?style=for-the-badge&logo=comfyui&logoColor=white)
+#### AI
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-0053F4?style=for-the-badge&logo=paddlepaddle&logoColor=white)![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)![ComfyUI](https://img.shields.io/badge/ComfyUI-DAA520?style=for-the-badge&logo=comfyui&logoColor=white)
+
+
+#### DS 
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apache-echarts&logoColor=white)
+
+#### Big Data
+
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)![HBase](https://img.shields.io/badge/HBase-EB0000?style=for-the-badge&logo=apache-hbase&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)![Scrapy](https://img.shields.io/badge/Scrapy-50A14F?style=for-the-badge&logo=scrapy&logoColor=white)![Flume](https://img.shields.io/badge/Flume-0A9AB0?style=for-the-badge&logo=apache-flume&logoColor=white)![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)![Sqoop](https://img.shields.io/badge/Sqoop-1F679A?style=for-the-badge&logo=apache-sqoop&logoColor=white)
+
+
+### Software Development
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+#### Cloud Computing
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+
+#### Others
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ## :calendar:Experience
 
@@ -35,7 +74,7 @@
 
 ### 💼Work
 
-- **Big Data Engineer, R&D Supervisor and Data Scientist**: Gaoxunzhenyuan Technology Co., Ltd (GXZY).
+- **Big Data Engineer, R&D Supervisor and Data Scientist**: Gaoxunzhenyuan Technology Co., Ltd (2019，2020-now).
 - **Graduate Internship Teacher**: School of Mathematics and Statistics, Shandong Normal University (2020-2023).
 - **Graduate industry instructor**: School of Artificial Intelligence, Taishan University (2022-2027).
 
