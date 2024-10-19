@@ -3,7 +3,7 @@ Wan Nur Syazana Binti Wan Ruslan
 </p>
 
 <p align="center">  
-Postgraduate Master in Data Science at _Universiti Teknologi Malaysia (UTM), Johor Bahru_
+Postgraduate Student, Master in Data Science , Universiti Teknologi Malaysia (UTM), Johor Bahru
 </p>
 
  <p align="center">   
@@ -30,10 +30,10 @@ _Quantity Surveyor (Apprenticeship) , Jabatan Kerja Raya (JKR) Negeri Kedah_
 ## 🎓**Education Background**
 
 2019 - 2022 |
- Bachelor of Quantity Surveying (Honours) | *Universiti Teknologi MARA, Kampus Seri Iskandar, Perak*
+ Bachelor of Quantity Surveying (Honours) | *Universiti Teknologi MARA (UiTM), Kampus Seri Iskandar, Perak*
 
 2016 - 2019 |
-Diploma of Quantity Surveying | *Universiti Teknologi MARA, Kampus Seri Iskandar, Perak*
+Diploma of Quantity Surveying | *Universiti Teknologi MARA (UiTM), Kampus Seri Iskandar, Perak*
 
 Contact
 
