@@ -22,7 +22,7 @@ Additionally, I am a highly motivated Safety and Health Trainer with over 15 yea
 
 ## Educations
 currently pursuing a **Master in Data Science** at Universiti Teknologi Malaysia,  Johor Bahru to deepen my understanding and expertise in this field.
-(<br>
+<br>
 
 - 🎓 **Doctor of Philosophy in Chemical Engineering**, Universiti Teknologi Malaysia,  Johor Bahru
 - 🎓 **Master in Science (Health, Safety & Environment)**, Universiti Teknologi Malaysia,  Johor Bahru
@@ -41,7 +41,7 @@ currently pursuing a **Master in Data Science** at Universiti Teknologi Malaysia
 - **2011** Malaysia Marine & Heavy Engineering Sdn Bhd
 - **2007** Ramunia Fabricator Sdn Bhd
 - **2005** Sime Darby Engineering Sdn Bhd
-- <br>
+<br>
 
 - 💼 **Freelance Safety and Health Trainer**
 - **2017** UTM Unbox Resources Sdn Bhd
