@@ -11,11 +11,9 @@
 
   The world is concrete and complex, so we need to capture its essence with abstract and concise data.  
 
-  Then, using a hunting technique called mathematics and statistics, a spear called computer science, hunting prey called the world.  
+  I am a data scientist and geek, passionate about using knowledge and action to change the world.  
 
-  Sometimes, we collectively refer to it as data science.  
-
-  Now there is a little assistant called AI who can also help (or possibly replace) us.
+  I believe that technology and artificial intelligence are transformative forces driving innovation, enabling us to solve real-world problems more effectively and ethically, and break through the possible boundaries of every field.  
 
 
 - :cn:  I come from Jinan City, Shandong Province, China. My Chinese name is 田丰收.
