@@ -48,8 +48,8 @@ Before attending the first lecture, make sure you've [**completed all the essent
 
 ### 🧠 GitHub Repository
 - **GitHub Repository**: Access the repository for practical work and literature review exercises.
-  - [Literature Review](./materials/gh.md)
-  - [Data Science](./materials/gh.md)
+  - [Literature Review](./materials/lr.md)
+  - [Data Science](./materials/ds.md)
 ### 📝 Additional Resources
 - **[Additional Notes](./materials/add-notes.md)**: Additional reading materials and lecture notes.
 - **[Data Science Resources](./materials/ds-resource.md)**: Useful resources for data science research.
