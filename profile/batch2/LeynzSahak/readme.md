@@ -41,6 +41,11 @@ Currently pursuing a **Master in Data Science** at Universiti Teknologi Malaysia
 - **2011** Malaysia Marine & Heavy Engineering Sdn Bhd
 - **2007** Ramunia Fabricator Sdn Bhd
 - **2005** Sime Darby Engineering Sdn Bhd
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3DXc96ci0zc4xLjZmtzXtU8h5b1jWKXA35LQHUdaBo8DXOpeY1b_kvFTYSQz9EWAzMcQAf3mbOw5p6BliIKqeCwxK9se4JrEHoEvhEz_H2QWWyDVhrLuferZxhHw0aVKh4Lz4cmWMpeh/s1600/D1.jpg" alt="D1" width= "450" height="300" />
+</p>
+
 <br>
 
 - 💼 **Freelance Safety and Health Trainer**
