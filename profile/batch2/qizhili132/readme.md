@@ -1,6 +1,6 @@
 
 
-# 👋 Hello there! I'm LI QIZHI
+# 👋 Hello! I'm LI QIZHI
 
 > I'm an international student at the University of Technology Malaysia (UTM)
 ## 🌱 About Me
