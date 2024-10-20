@@ -1,3 +1,4 @@
+<div align="center"><img src="" height="400" widht="300"  alt="I'm XU ZHUANGZHUANG"/></div>
 # 🚀 Hello My name is LIUMINGJIE
 
 ## ✨ About Me
