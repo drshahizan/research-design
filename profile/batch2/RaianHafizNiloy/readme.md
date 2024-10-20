@@ -5,7 +5,7 @@ Hello! I am Raian. I am currently pursuing my Master's degree in Data Science at
 
 With a strong foundation in engineering principles, I am passionate about leveraging data to solve complex problems and drive informed decision-making. My academic journey has equipped me with a comprehensive skill set allowing me to approach challenges from a multidisciplinary perspective.
 
-During my undergraduate thesis, I developed a keen interest in how data can transform industries and improve efficiencies. This led me to pursue a Master's in Data Science, where I am eyeing to skill up myself in dat analysis, advanced data modeling, machine learning and data visualization.
+During my undergraduate thesis, I developed a keen interest in how data can transform industries and improve efficiencies. This led me to pursue a Master's in Data Science, where I am eyeing to skill up myself in data analytics, advanced data modeling, machine learning and data visualization.
 
 Beyond academics, I have participated in various projects and competitions that have honed my practical skills and teamwork abilities. I am excited to apply my knowledge to real-world scenarios, contributing to innovative solutions and continuous learning in the rapidly evolving field of data science.
 
@@ -19,7 +19,14 @@ Engineering: Circuit Design, Signal Processing, Control Systems
 
 [Detection of Bengali sign language digits using image processing and CNN]
 
-[Digital logic design circuit for detection of smoke and fire emergency]
+[Digital logic design circuit for detection of smoke and fire emergency] 
+
+## Hobby
+
+** Watching movies
+** Writing movie reviews
+** Reading books
+
 
 ## Contact
 GitHub: [https://github.com/RaianHafizNiloy]
