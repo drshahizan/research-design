@@ -7,8 +7,6 @@
 </p>
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/nurfarahin-amir-hamzah-2138391bb/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:farah.farahin399@gmail.com)
-
 
 # BIO
 - 💻 Master student of Data Science in Universiti Technology Malaysia (UTM) with Bachelor Degree of Science in Geology at Universiti Malaya (UM). 
@@ -48,6 +46,10 @@
  2. 2021-2022 : Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ Kemboja 
  3. 2020-2021 : Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ International Volunteering Conference.
  4. 2019: Program Titian Kasih Kuala Sat Negeri Pahang
+
+# Social
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/nurfarahin-amir-hamzah-2138391bb/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:farah.farahin399@gmail.com)
+
 
 <div align="center" style="background-image: url('https://your-image-url.com'); background-size: cover; padding: 20px;">
   <h1>'You are what you <span style="color: #ff69b4;">Thinking</span> of'</h1>
