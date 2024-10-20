@@ -11,7 +11,7 @@
       <blockquote>Email :</blockquote>
       <div align="right"><b>liewjeng@graduate.utm.my</b></div>
       <blockquote>Hometown :</blockquote>
-      <div align="right"><b>Kluang, Johor, Malaysia</b></div>
+      <div align="right"><b>Johor, Malaysia</b></div>
       <blockquote>Language :</blockquote>
       <div align="right"><b>Malay, English, Mandarin, and Cantonese</b></div>
       <blockquote>About Me :</blockquote>
@@ -20,36 +20,22 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>1. Hobby 🔥</h4></td>
+    <td colspan="3"><h4>1. Education (Universiti Teknologi Malaysia) 🎓</h4></td>
   </tr>
   <tr>
     <td colspan="3">
       <br>
-      <div align="center">
-        <img src="image/genshin.png" height="100" width="auto" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/><b>Video Game(Genshin Impact)</b>
-        <img src="image/chess.png" height="100" width="auto" title="Chess" alt="Chess"/><b>Chess</b>
-        <img src="image/bmt.png" height="100" width="auto" title="Badminton" alt="Badminton"/><b>Badminton</b>
-      </div>
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3"><h4>2. Education (Universiti Teknologi Malaysia) 🎓</h4></td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <br>
-      <blockquote>
-        <pre>Bachelor of Computer Science (Software Engineering) with Honours</pre>
-      </blockquote>
       <blockquote>
         <pre>Master in Data Science</pre>
       </blockquote>
+      <blockquote>
+        <pre>Bachelor of Computer Science (Software Engineering) with Honours</pre>
+      </blockquote>
       <br>
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>3. Hard Skills 💻</h4></td>
+    <td colspan="3"><h4>2. Hard Skills 💻</h4></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -66,7 +52,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>4. University Activity Achievement 🏆</h4></td>
+    <td colspan="3"><h4>3. University Activity Achievement 🏆</h4></td>
   </tr>
   <tr align="center">
     <td>
@@ -83,7 +69,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3"><h4>5. Internship Experience 💼</h4></td>
+    <td colspan="3"><h4>4. Internship Experience 💼</h4></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -101,6 +87,20 @@
           <blockquote>Job Scope: Create dynamic slideways, create whiteboard animation, create graphic designs, develop departmental website development, and develop interactive communication applications.</blockquote>
         </li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><h4>5. Hobby 🔥</h4></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <br>
+      <div align="center">
+        <img src="image/genshin.png" height="100" width="auto" title="Video Game(Genshin Impact)" alt="Video Game(Genshin Impact)"/><b>Video Game(Genshin Impact)</b>
+        <img src="image/chess.png" height="100" width="auto" title="Chess" alt="Chess"/><b>Chess</b>
+        <img src="image/bmt.png" height="100" width="auto" title="Badminton" alt="Badminton"/><b>Badminton</b>
+      </div>
+      <br>
     </td>
   </tr>
 </table>
