@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Adriana👋" />
 </h2>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17bdf936-c0ad-4b88-a0e3-2b004b83d06c" alt="Me" width= "300" height="400" />
+</p>
+
+
 <h4 align="center">Currently diving into the world of data science 🧠📊 Let's explore together! 🚀</h4>
 
 
