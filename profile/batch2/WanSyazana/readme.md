@@ -1,4 +1,7 @@
 <h2 align="center">Wan Nur Syazana Binti Wan Ruslan</h2>
+<p align="center">
+<img src = "https://github.com/user-attachments/assets/4261e104-0a98-490b-b4d5-e63a31add712")>
+</p>
 
 <h4 align="center">A Longlife Learner📚</h4> 
 
