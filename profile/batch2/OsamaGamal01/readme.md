@@ -28,7 +28,7 @@ Currently, I’m pursuing my **Master's in Data Science**, where I’m expanding
 
 ## 🔧 My Toolbox & Skills
 
-### **Languages**:  
+### **Programming Languages**:  
 - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 - ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
