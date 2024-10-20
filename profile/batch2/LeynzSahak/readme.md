@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=haslindaabdulsahak&label=Profile%20views&color=0e75b6&style=flat" alt="haslindaabdulsahak" /> </p>
 
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+World!+This+is+Leynz+Sahak" />
@@ -51,3 +50,5 @@ I am actively working on several publications in my field of interest. You can f
 * 📩 Email: haslinda45@graduate.utm.my
 * 🔗 LinkedIn: [Leynz Sahak](https://www.linkedin.com/in/haslinda-abdul-sahak-9ab378267/)
 * Facebook: [Leen Sahak](https://www.facebook.com/leensahak)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=haslindaabdulsahak&label=Profile%20views&color=0e75b6&style=flat" alt="haslindaabdulsahak" /> </p>
