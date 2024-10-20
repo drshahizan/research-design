@@ -6,8 +6,6 @@
   <img src="https://github.com/user-attachments/assets/55098868-6c1c-4b20-96e9-4165204dcc35" alt="Me" width= "300" height="400" />
 </p>
 
-
-
 # BIO
 - 💻 Master student of Data Science in Universiti Technology Malaysia (UTM) with Bachelor Degree of Science in Geology at Universiti Malaya (UM). 
 - 🤔 Passionate learner with a strong analytical mindset, eager to leverage my skills in data sciences, computing, and geology to contribute to innovative solutions in various fields and to discover new knowledge and apply it to real-world challenges.
