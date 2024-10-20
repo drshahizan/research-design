@@ -7,6 +7,7 @@
 - 📫 How to reach me :  sitisyahirahmohdyunus@gmail.com<br>
 🔭 I’m currently working on balancing works, studies plus mental and physical health <br>👯🤝 I’m looking for help with focus tehniques <br>💬 Ask me about new perspective <br>⚡ Fun fact : love to drive manual transmission
 
+**EDUCATION**
 **2012-2017 UNIVERSITI TEKNIKAL MALAYSIA MELAKA (UTEM)**
 Bachelor's of Mechanical Engineering (Thermal Fluids) with Hons.
 
@@ -19,10 +20,10 @@ Bachelor's of Mechanical Engineering (Thermal Fluids) with Hons.
 
 **2017-2020 SICK SENSOR INTELLIGENCE SDN. BHD** 
 **Production Engineer**
--Managed to increase Worker Productivity from 90% to 98%
--Managed to achieve Shipping goods target output on time JIT from 80% to 100%
--Working with other department to reduce rejection from 30% to 1% (Yield 70% to 99%)
--Assist to drive 6 Sigma project in workshop and Lean activities implement
+-Managed to increase Worker Productivity from 90% to 98%<br>
+-Managed to achieve Shipping goods target output on time JIT from 80% to 100%<br>
+-Working with other department to reduce rejection from 30% to 1% (Yield 70% to 99%)<br>
+-Assist to drive 6 Sigma project in workshop and Lean activities implement<br>
 -Assist with the implementation of continuous improvement processes for efficiency to create aLean Manufacturing environment
 -Develop and monitor process improvements
 -Develops and executes the Annual Operating Plan for operations
