@@ -1,5 +1,4 @@
-<img src="" alt="-" style="max-width: 100%;">
-</div>
+
 
 # 👋 Hello! I'm LI QIZHI
 
