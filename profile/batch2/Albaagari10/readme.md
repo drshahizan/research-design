@@ -17,7 +17,7 @@
 As a Chemical Engineer with a deep passion for data, I am driven by a desire to develop meaningful and efficient solutions that have a tangible, positive impact on people's lives. My background in engineering has provided me with a solid foundation in problem-solving and analytical thinking, which I am now focused on enhancing through the field of Data Science. My goal is to refine and expand my data science skills while integrating them with my engineering knowledge to tackle complex challenges, create innovative solutions, and contribute to significant advancements in technology and society.
 
 ## Education 
-### **Bachelor of Electrical Engineering**  
+### **Bachelor of Chemical Engineering**  
 **Universiti Teknologi Malaysia (UTM)**  
 #### *Final Year Project: MODELLING AND SIMULATING THE PROTON EXCHANGE MEMBRANE ELECTROLYZER CELL USING MATLAB* 
 - **Objective**: is to investigate the influence of temperature on membrane layer degradation in a PEM electrolyzer cell and develop a mathematical model that accurately captures this effect. The model will be implemented using MATLAB to analyze how membrane thickness impacts the overall efficiency of the system.
