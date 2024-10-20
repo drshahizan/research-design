@@ -21,7 +21,7 @@ As a dedicated Safety and Health Officer, to maintain up-to-date HSE programs, r
 Additionally, I am a highly motivated Safety and Health Trainer with over 15 years of experience conducting in-house training, developing training modules, and performing training assessments. As a Freelance Trainer with more than 8 years of experience, I have developed and conducted training for certified training providers, demonstrating adaptability to different learning styles based on the subject matter.
 
 ## Educations
-currently pursuing a **Master in Data Science** at Universiti Teknologi Malaysia,  Johor Bahru to deepen my understanding and expertise in this field.
+Currently pursuing a **Master in Data Science** at Universiti Teknologi Malaysia,  Johor Bahru to deepen my understanding and expertise in this field.
 <br>
 
 - 🎓 **Doctor of Philosophy in Chemical Engineering**, Universiti Teknologi Malaysia,  Johor Bahru
