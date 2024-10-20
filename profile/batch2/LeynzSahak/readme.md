@@ -43,7 +43,10 @@ Currently pursuing a **Master in Data Science** at Universiti Teknologi Malaysia
 - **2005** Sime Darby Engineering Sdn Bhd
 
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3DXc96ci0zc4xLjZmtzXtU8h5b1jWKXA35LQHUdaBo8DXOpeY1b_kvFTYSQz9EWAzMcQAf3mbOw5p6BliIKqeCwxK9se4JrEHoEvhEz_H2QWWyDVhrLuferZxhHw0aVKh4Lz4cmWMpeh/s1600/D1.jpg" alt="D1" width= "450" height="300" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3DXc96ci0zc4xLjZmtzXtU8h5b1jWKXA35LQHUdaBo8DXOpeY1b_kvFTYSQz9EWAzMcQAf3mbOw5p6BliIKqeCwxK9se4JrEHoEvhEz_H2QWWyDVhrLuferZxhHw0aVKh4Lz4cmWMpeh/s1600/D1.jpg" alt="D1" width= "250" height="280" />
+8<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDd2TmFnH87GbqMASq01gc153xVQOOfv612xtWqdZKayrgzJPNJInBMriPoM_l54KuF8S_mBVljry333WLmQECLNfLWCrnuWFT8Rus3WnXLv5CNGXIAY-3ZiMwaM3v-mpEwN3PfrJb_6fl/s1600/TR.jpg" alt="TR" width= "250" height="280" />
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP2t4f8dmPpeWeeYH6EY9FEGyDd7EHQNY5Ips54iJ-epHDtH16syQXC0oWO4V4MVCwEPolC0aXWZqD-SgdYE-eruim4tAXxnQmJ5SMaM1E8l3mw3LO0lw_CDM1G_y1VJgEciSXcvBrdQRl/s1600/mmhe.jpg" alt="MMHE" width= "250" height="280" />
 </p>
 
 <br>
