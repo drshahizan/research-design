@@ -52,7 +52,7 @@ Currently, I'm a student at *Universiti Teknologi Malaysia (UTM)* pursuing  **Ma
 - 🎖️[Analyzing and Visualizing Data with PowerBI](https://www.credential.net/a33549f9-193e-4faa-9ff2-f06bedadc9fe)
 
 #### 2) Data Star Program | Junior Data Scientist
- - <img src="https://github.com/user-attachments/assets/5f6dabaf-3456-4684-8f2a-613e2980e564" alt="cads" width="300" height="200" >
+ - <img src="https://github.com/user-attachments/assets/5f6dabaf-3456-4684-8f2a-613e2980e564" alt="cads" width="400" height="300" >
 
 
 
