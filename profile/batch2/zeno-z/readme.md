@@ -5,20 +5,20 @@
 My chinese name is Xu Zhuangzhuang and english name is Zeno. I come from Henan Province, China. I'm a student in UTM (Universiti Teknologi Malaysia), My major is Mater of Date Science. Before that I was a java engineer.
 
 ## ⌨️ Skills
-* JAVA *
-* SQL *
-* JAVASCRIPT*
-* SPRING *
+* JAVA 
+* SQL 
+* JAVASCRIPT
+* SPRING 
 
 ## 🎤 Language
-* Chinese *
-* English *
+* Chinese 
+* English 
 
 ## 🏀 Hobby
-* running *
+* running 
 
 ## ☎️ contact me
-* 📨 xuzhuangzhuang@graduate.utm.my *
+* 📨 xuzhuangzhuang@graduate.utm.my 
   
 Go forward together! 🏃‍➡️
 
