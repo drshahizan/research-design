@@ -15,7 +15,7 @@ This course covers the fundamental steps and implementation of developing initia
 
 ## 📘 Project Handbook
 - **📄 [Master Data Science Project Handbook](./images/Project%20Handbook.pdf)** 
-- **📝 [Template: Project Proposal](./materials/proposal.md)** 
+- **📝 [Data Science Project](./materials/proposal.md)** 
 - **📑 [Sample Proposal](./materials/sample.md)** 
 - **🗒️ [Project Proposal Form MCSD 6215](https://github.com/drshahizan/research-design/blob/main/images/MCSD%206215%20Project%201%20Proposal%20Form.docx)** 
 
