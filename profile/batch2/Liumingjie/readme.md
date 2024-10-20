@@ -1,4 +1,4 @@
-<div align="center"><img src="" height="400" widht="300"  alt="I'm XU ZHUANGZHUANG"/></div>
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/Liumingjie/IMG_0283(20241014-130532).jpg" height="400" widht="300"  alt="I'm XU ZHUANGZHUANG"/></div>
 # 🚀 Hello My name is LIUMINGJIE
 
 ## ✨ About Me
