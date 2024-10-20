@@ -1,4 +1,4 @@
-  <img src="https://github.com/user-attachments/assets/17bdf936-c0ad-4b88-a0e3-2b004b83d06c" alt="Me" width= "300" height="400" />
+  <img src="[https://github.com/drshahizan/research-design/blob/main/profile/batch2/qizhili132/7f410e3abdb8b673c25621f04ebf5c0.jpg]" alt="Me" width= "300" height="400" />
 
 # 👋 Hello! I'm LI QIZHI
 
