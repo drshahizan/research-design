@@ -8,7 +8,7 @@
     <tr>
       <td>
           <h1 align="center">About Me</h1>
-          <p> I am Abdalla Abdirizak, a passionate software developer and data science enthusiast currently pursuing a Master's in Data Science at UTM University. With over five years of experience in software development and interpreting, I enjoy solving real-world problems using technology. I also have a keen interest in data analysis and business intelligence, focusing on enhancing efficiency and performance through data-driven insights.</p>
+          <p> I am Abdalla Abdirizak, a passionate software developer and data science enthusiast currently pursuing a Master's in Data Science at UTM University. With over One year of experience in software development, I enjoy solving real-world problems using technology. I also have a keen interest in data analysis and business intelligence, focusing on enhancing efficiency and performance through data-driven insights.</p>
       </td>
       <td width="50%" rowspan="4">
         <img alt="Photo" src="./images/me.png" />
