@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Xu Zhuangzhuang </h1>
 
 ## 🧑‍💼 about me
-My chinese name is Xu Zhuangzhuang and english name is Zeno. I come from Henan Province, China. I'm a student in UTM (Universiti Teknologi Malaysia), My major is Mater of Date Science. Before that I was a java engineer.
+My chinese name is Xu Zhuangzhuang and english name is Zeno. I come from Henan Province, China. I'm a student in UTM (Universiti Teknologi Malaysia), My major is Mater of Data Science. Before that I was a java engineer.
 
 ## ⌨️ Skills
 * JAVA 
