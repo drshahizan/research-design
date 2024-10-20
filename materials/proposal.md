@@ -5,88 +5,33 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Data Science Project Proposal
+# Data Science Project (2023/2024 Sem 2)
 
-## Front Page Cover
-(Include project title, your name, and date)
+## Project 2
 
-## Abstract
-(Provide a brief summary of the project)
+| No. | Name of Student                           | Title of Thesis                                                                                   |
+|-----|-------------------------------------------|---------------------------------------------------------------------------------------------------|
+| 1   | Nabila Husna Binti Rosli                  | Sentiment Analysis on Skincare Product Reviews in Amazon Platform                                 |
+| 2   | Abdisalan Abdullahi Mohamed               | Prediction of Transaction Time in Remittance                                                      |
+| 3   | Mohammad Ali Bin Afarin                  | Enhancing Real Estate Price Predictions with Long Short Term Memory Networks: A Case Study on Pakistan's Property Market |
+| 4   | Alaa Alrhman Mohammed Raweh Al-Shaibani   | Predicting Higher Student Dropout Using Convolutional Neural Network Algorithm                    |
+| 5   | Zhang Qiwei                               | Prediction of Food Delivery Satisfaction Based on Support Vector Machine and Decision Tree        |
+| 6   | Siti Nurainna Binti Wahid                 | Sentiment Analysis on Social Media Posts for Depression Detection Using Recurrent Neural Network and Long Short-Term Memory |
+| 7   | Nur Kauthar Binti Apandi                  | LightGBM Ranker and LightGBM Classifier for Fashion Recommendation System                         |
+| 8   | Fan Chin Wei                              | Travel Insurance Purchase Behavior Prediction Using Machine Learning                              |
+| 9   | Ismail Maeen Fateh Allah Yaqot Alawami    | Fake News Detection Using Word Embedding and Convolutional Neural Network                         |
+| 10  | Mohammad Iqbal                            | Machine Learning-Based Prediction of Flight Delay                                                 |
+| 11  | Nur Afrina Binti Mohamad Abdul Ghafar     | Cooking Oil Price Forecasting Using SARIMA and LTSM in Malaysia                                   |
+| 12  | Syeinrita Devi A/P Anbealagan             | Unemployment Trends: A Time Series Analysis Approach Using Statistical and Machine Learning Techniques |
+| 13  | Asurumuni Pasindu Manishka De Silva       | Research Paper Recommendation System                                                              |
+| 14  | Nurul Huda Binti Aminuddin                | Comparative Analysis for Disease Prediction Using Age, Gender, and Symptoms: Evaluating Individual Classifiers and Ensemble Algorithms |
+| 15  | Haarsini A/P Chandran                     | Sentiment Analysis of Restaurant Reviews Using Ensemble Machine Learning and DistilBERT Model     |
+| 16  | Muhamad Afiq Asyraf Bin Md Ishak          | Development of Healthcare Dashboard for Length of Stay of Heart Surgery Patients                  |
+| 17  | Hannah Najwa Binti Yahaya                 | Flood Forecasting Model Using Regression Analysis and Artificial Neural Network at Sungai Klang, Malaysia |
+| 18  | Muhammad Abubakar Sadiq                   | Sentiment Analysis and Rating Prediction for an E-Commerce Platform in Malaysia Using CNN and LSTM|
+| 19  | Siti Nurul Arisya Binti Mohd Hanifah      | Forecasting of Malaysia Petrol Prices and Factor Influencing It                                   |
+| 20  | Fariha Anis Binti Suhaimi                 | An IoT Intrusion Detection and Classification System with XGBoost                                 |
 
-## Table of Contents
-- Abstract
-- List of Figures
-- List of Tables
-- List of Abbreviations
-- Appendices
-- Chapter 1: Introduction
-- Chapter 2: Literature Review/Problem Background
-- Chapter 3: Methodology
-- Chapter 4: EDA/Initial Results
-- Chapter 5: Discussion and Future Work
-
-## List of Figures
-(If necessary)
-
-## List of Tables
-(If necessary)
-
-## List of Abbreviations
-(If necessary)
-
-## Appendices
-(Include Gantt Chart here)
-
-## Chapter 1: Introduction
-### Introduction
-(Background information and context of the project)
-
-### Objective
-(Main objectives or goals of the project)
-
-### Scope
-(Boundaries and constraints of the project)
-
-## Chapter 2: Literature Review/Problem Background
-(Review of relevant literature and research)
-
-## Chapter 3: Methodology
-### Data Science Project Life Cycle
-(Description of the life cycle followed)
-
-### Data Sources and Collection Methods
-(How and where the data was sourced)
-
-### Data Pre-processing
-(Cleaning, transformation, and feature engineering steps)
-
-## Chapter 4: EDA/Initial Results
-### Case 1: Primary Data
-#### Exploratory Data Analysis (EDA)
-- Visualizations
-- Descriptive statistics
-- Initial insights
-- Feature engineering
-
-### Case 2: Secondary Data
-#### Exploratory Data Analysis (EDA)
-- Visualizations
-- Descriptive statistics
-- Initial insights
-- Feature engineering
-
-#### Machine Learning (Initial Result)
-(Description of initial machine learning results)
-
-## Chapter 5: Discussion and Future Work
-### Interpretation of Results
-(Interpretation in the context of the research question)
-
-### Implications of Findings
-(Discussion on the implications)
-
-### Comparison to Previous Research
-(If applicable)
 
 
 ## Contribution 🛠️
