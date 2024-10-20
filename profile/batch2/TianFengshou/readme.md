@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning data science at UTM.
 - :black_nib: I write blogs on multiple Chinese websites and have multiple columns. If you are interested, I suggest visiting my blog on [CSDN](https://fonttian.blog.csdn.net/?type=blog) or [Zhihu](https://www.zhihu.com/people/fonttian).
 - 💬 Ask me anything that you are interested about me.
-- 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-田丰收-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E4%B8%B0%E6%94%B6-%E7%94%B0-892097114/) <a href="mailto:fonttian@gmail.com"><img src="https://img.shields.io/badge/fonttian@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+- 📫 How to reach me : [![GitHub Badge](https://img.shields.io/badge/-TianFengshou-black?style=flat&logo=github&logoColor=white)](https://github.com/TianFengshou) | [![Linkedin Badge](https://img.shields.io/badge/-田丰收-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E4%B8%B0%E6%94%B6-%E7%94%B0-892097114/) | <a href="mailto:fonttian@gmail.com"><img src="https://img.shields.io/badge/fonttian@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
 
 ## 🛠️Skill
 
