@@ -15,7 +15,7 @@ This course covers the fundamental steps and implementation of developing initia
 
 ## 📘 Project Handbook
 - **📄 [Master Data Science Project Handbook](./images/Project%20Handbook.pdf)** 
-- **📝 Data Science Project**
+- **📝 Data Science Project: (2023/2024 Sem 2)**
   - [Project 2](./materials/project2.md)
   - [Project 1](./materials/project1.md)
 - **📑 [Sample Proposal](./materials/sample.md)** 
