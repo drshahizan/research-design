@@ -8,22 +8,44 @@
   <img src="https://avatars.githubusercontent.com/u/184810828?s=400&u=fa200afb5040a74d8d2cfef355a485c639e180a1&v=4" alt="Me" width= "450" height="300" />
 </p>
 
-
 ## About Me
-- Born and raised in Johor, Labis is my hometown & now i'm staying at Pasir Gudang
-- Love to read a Novel; Ramlee Awang Murshid was my favourate novalist
+Hello, I am Leynz as a Safety and Health Practitioner with over 18 years of progressive experience across the oil and gas, construction, and manufacturing industries. My expertise lies in engagement, communication, and training, enabling me to effectively collaborate with employees at all levels within cross-functional teams. Renowned for my leadership skills, I have successfully led Safety and Health departments for over six years, focusing on strategic planning, development, implement, and analyse the individual career progression and HSE department within organizational frameworks. 
+<br>
+
+Safety and Health Practitioner with over 18 years of progressive experience across the oil and gas, construction, and manufacturing industries. My expertise lies in engagement, communication, and training, enabling me to effectively collaborate with employees at all levels within cross-functional teams. Renowned for my leadership skills, I have successfully led Safety and Health departments for over six years, focusing on strategic planning, development, implement, and analyse the individual career progression and HSE department within organizational frameworks.
+<br>
+
+As a dedicated Safety and Health Officer, to maintain up-to-date HSE programs, regularly reviewing them based on legal recommendations such as CHRA, NRA, LEV, and ERA report, to ensure ongoing compliance and continuous improvement. My experience is further enhanced by involvement in SHASSIC, ISO 45001 (TUV), WAFEW Programs, and DOSH Audits for OSH Awards. I have a proven track record of planning, developing, implementing, and enhancing safety and health protocols, consistently achieving exceptional results in SHASSIC assessments in construction and OSHWA checklist in manufacturing.
+<br>
+
+Additionally, I am a highly motivated Safety and Health Trainer with over 15 years of experience conducting in-house training, developing training modules, and performing training assessments. As a Freelance Trainer with more than 8 years of experience, I have developed and conducted training for certified training providers, demonstrating adaptability to different learning styles based on the subject matter.
 
 ## Educations
+currently pursuing a **Master in Data Science** at Universiti Teknologi Malaysia,  Johor Bahru to deepen my understanding and expertise in this field.
+(<br>
+
 - 🎓 **Doctor of Philosophy in Chemical Engineering**, Universiti Teknologi Malaysia,  Johor Bahru
-- 🎓 **Master in Data Science**, Universiti Teknologi Malaysia,  Johor Bahru
 - 🎓 **Master in Science (Health, Safety & Environment)**, Universiti Teknologi Malaysia,  Johor Bahru
 - 🎓 **Bachelor Degree in Science (Computer)**, Universiti Teknologi Malaysia, Johor Bahru
 - 🎓 **Diploma in Science Computer**, Universiti Teknologi MARA, Shah Alam
 - 🎓 **Certificate in Safety & Health Officer**, Johor Skill Development Center, Pasir Gudang, Johor
 
 ## Working Experiences
-- Safety and Health Officer
-- Safety and Health Trainer for SHO and OSHC
+- 💼 **Safety and Health Officer**
+- **2024** Wan Lin Realth Sdn Bhd
+- **2023** Carotino Sdn Bhd
+- **2022** Huashi (Malaysia) Sdn Bhd
+- **2021** Knusford Construction Sdn Bhd
+- **2019** Port Tanjung Pelepas Sdn Bhd
+- **2017** Siemens Malaysia Sdn Bhd
+- **2011** Malaysia Marine & Heavy Engineering Sdn Bhd
+- **2007** Ramunia Fabricator Sdn Bhd
+- **2005** Sime Darby Engineering Sdn Bhd
+- <br>
+
+- 💼 **Freelance Safety and Health Trainer**
+- **2017** UTM Unbox Resources Sdn Bhd
+- **2015** National Institute of Occupational Safety and Health (NIOSH) – Johor, Melaka, Kuantan and Bintulu
 
 ## Proficiency and Skill
 - Internal Auditor in OSH Management System for ISO 45001:2018 
