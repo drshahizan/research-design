@@ -28,8 +28,8 @@
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
   
 ## 🎓 Education: 
-Master's Degree of Data Science (Bioinformatics), Universiti Teknologi Malaysia 👨🏻‍🎓
-
+Master's Degree of Data Science, Universiti Teknologi Malaysia 👨🏻‍🎓
+Bachelor's Degree of Computer Science, Inner Mongolia Agricultural University 👨🏻‍🎓
 
 <hr style="height:5px;border-width:0;background-color:#e8d6d2; border-radius: 25px;">
 
