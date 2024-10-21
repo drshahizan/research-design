@@ -1,4 +1,7 @@
- ![WhatsApp Image 2024-08-29 at 17 07 05](https://github.com/user-attachments/assets/fbc59c17-6ff8-4348-8250-fc18d0c4b3e4)
+
+<img src="https://github.com/user-attachments/assets/fbc59c17-6ff8-4348-8250-fc18d0c4b3e4" alt="About Me" width="300" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+
+
 # About Me  
 Hi there! 👋 I’m Laiba, a self-proclaimed tech geek and a master’s student in Data Science at Universiti Teknologi Malaysia. I hold a bachelor’s degree in Artificial Intelligence from Air University, Islamabad, where I worked on several AI projects, further fueling my passion for AI and machine learning. I’m always eager to learn new things about the latest technologies!
 
