@@ -1,6 +1,6 @@
-<img src="profile/batch2/Laib00/me.jpg" width="500">
+ ![WhatsApp Image 2024-08-29 at 17 07 05](https://github.com/user-attachments/assets/fbc59c17-6ff8-4348-8250-fc18d0c4b3e4)
 # About Me  
-Hi there! 👋 I’m Laiba, a self-proclaimed tech geek and a master’s student in Data Science at Universiti Teknologi Malaysia. I hold a bachelor’s degree in Artificial Intelligence from Air University, Islamabad, where I had the opportunity to work on several AI projects, further fueling my passion for AI and machine learning. I’m always eager to learn new things about the latest technologies!
+Hi there! 👋 I’m Laiba, a self-proclaimed tech geek and a master’s student in Data Science at Universiti Teknologi Malaysia. I hold a bachelor’s degree in Artificial Intelligence from Air University, Islamabad, where I worked on several AI projects, further fueling my passion for AI and machine learning. I’m always eager to learn new things about the latest technologies!
 
 ## Projects  
 For my final year project, I developed a user authentication system using behavior and biometrics, which won **first prize** for its innovation. This system verified whether a user’s signature was genuine or forged. I also created a Q-learning chatbot, gaining deeper insights into AI and reinforcement learning.
