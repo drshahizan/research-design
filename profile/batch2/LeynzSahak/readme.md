@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+World!+This+is+Leynz+Sahak" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&color=black&duration=4000&lines=Hello+World!+This+is+Leynz+Sahak" />
 </h2>
 
 <h4 align="center">An extremely motivated person to learn new knowledge, learn new skills, explore new experiences and wants to grow professionally in the field of Data Science<br>
