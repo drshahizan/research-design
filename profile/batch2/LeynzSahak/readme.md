@@ -68,7 +68,7 @@ Currently pursuing a **Master in Data Science** at Universiti Teknologi Malaysia
 - Qualified trainer under Niosh Train the Trainer program Level 2 (Certificate No. BTT2143-O)
 
 ## Research Interest
-My previous research area are **Inherent Safety and Health**. I am deeply fascinated by this field and exciting to explore new experiences and grow professionally in the Data Science field 
+My previous research area are **Inherent Safety and Health** in **process development and design** at **chemical plant industry**. I am deeply fascinated by this field and exciting to explore new experiences and grow professionally in the Data Science field. 
 
 ## Publication
 I am actively working on several publications in my field of interest. You can find a list of my publications on my Google Scholar Profile. https://scholar.google.com.my/citations?hl=en&view_op=list_works&gmla=ALUCkoUINEzEZvt83gIn6pluhOsGtl1JMtkGI8d-S1kkSqyntmZMUz_XqRHHf35QxIz5X-E-wiLqGa_lQfJ4jA&user=c5JhaokAAAAJ
