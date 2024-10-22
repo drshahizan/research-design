@@ -61,7 +61,7 @@ Currently pursuing a **Master in Data Science** at Universiti Teknologi Malaysia
 - Developing and executing teaching, learning and assessment
 
 ## Professional Membership
-- Safety and Health Officer: [HQ/19/SHO/00/02276] (https://mykkp.dosh.gov.my/surat/suratPembaharuan.aspx?permohonanOYKID=479009)
+- Safety and Health Officer: [HQ/19/SHO/00/02276](https://mykkp.dosh.gov.my/surat/suratPembaharuan.aspx?permohonanOYKID=479009)
 - Construction Safety & Health Officer (CSHO)
 - Construction Safety and Health Trainer (CSHT)
 - SHASSICTM assessor: ASR-SHASSIC 752/2022	
