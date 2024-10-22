@@ -13,9 +13,6 @@
 Hello, I am Leynz as a Safety and Health Practitioner with over 18 years of progressive experience across the oil and gas, construction, and manufacturing industries. My expertise lies in engagement, communication, and training, enabling me to effectively collaborate with employees at all levels within cross-functional teams. Renowned for my leadership skills, I have successfully led Safety and Health departments for over six years, focusing on strategic planning, development, implement, and analyse the individual career progression and HSE department within organizational frameworks. 
 <br>
 
-Safety and Health Practitioner with over 18 years of progressive experience across the oil and gas, construction, and manufacturing industries. My expertise lies in engagement, communication, and training, enabling me to effectively collaborate with employees at all levels within cross-functional teams. Renowned for my leadership skills, I have successfully led Safety and Health departments for over six years, focusing on strategic planning, development, implement, and analyse the individual career progression and HSE department within organizational frameworks.
-<br>
-
 As a dedicated Safety and Health Officer, to maintain up-to-date HSE programs, regularly reviewing them based on legal recommendations such as CHRA, NRA, LEV, and ERA report, to ensure ongoing compliance and continuous improvement. My experience is further enhanced by involvement in SHASSIC, ISO 45001 (TUV), WAFEW Programs, and DOSH Audits for OSH Awards. I have a proven track record of planning, developing, implementing, and enhancing safety and health protocols, consistently achieving exceptional results in SHASSIC assessments in construction and OSHWA checklist in manufacturing.
 <br>
 
