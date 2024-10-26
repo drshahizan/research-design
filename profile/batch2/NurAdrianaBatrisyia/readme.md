@@ -45,14 +45,16 @@ Currently, I'm a student at *Universiti Teknologi Malaysia (UTM)* pursuing  **Ma
 
 ---
 ### 🏆 Certifications 🏆
-#### 1) Digital Skills for Tomorrow's Jobs Program | Data Analysis Career Track
-- 🎖️[Data Analysis: A Practical Introduction for Absolute Beginners](https://www.credential.net/ecf84bf5-7a6e-49a6-a526-8bd42996a2de)
-- 🎖️[Introduction to Data Analysis Using Excel](https://www.credential.net/d629c881-a3e0-4a6f-a922-6379fc300df8)
-- 🎖️[Data Visualization: A Practical Approach for Absolute Beginners](https://www.credential.net/b4068645-b48b-4cc9-8044-cb4cb52b19cb)
-- 🎖️[Analyzing and Visualizing Data with PowerBI](https://www.credential.net/a33549f9-193e-4faa-9ff2-f06bedadc9fe)
+#### 1) Microsoft Global Skills Initiatives: Digital Skills for Tomorrow's Jobs Program [Data Analysis]
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/user-attachments/assets/c51881c1-ee8b-4a0e-9fdc-847c49c8b7ec" alt="Badge 1" width="200">
+    <img src="https://github.com/user-attachments/assets/c29687f8-fb8b-4aca-8d93-c04500293e1f" alt="Badge 2" width="200">
+    <img src="https://github.com/user-attachments/assets/d5b470de-ebc8-407c-ab59-53c772f55c65" alt="Badge 3" width="200">
+    <img src="https://github.com/user-attachments/assets/84bf719b-9dbd-4f5e-b169-b915a1d23686" alt="Badge 4" width="200">
+</div>
 
 #### 2) Data Star Program | Junior Data Scientist
- - <img src="https://github.com/user-attachments/assets/5f6dabaf-3456-4684-8f2a-613e2980e564" alt="cads" width="400" height="300" >
+<img src="https://github.com/user-attachments/assets/5f6dabaf-3456-4684-8f2a-613e2980e564" alt="cads" width="300" height="200" >
 
 
 
