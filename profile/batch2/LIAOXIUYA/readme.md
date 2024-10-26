@@ -3,12 +3,31 @@
 #
 ### I'm Alex.
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: liaoxiuya@graduate.utm.my
-  #
+
+
+
+<div style="width: 300px; height: 200px;">
+<p align="right">
+    <img src="https://github.com/LIAOXIUYA/LIAOXIUYA/blob/main/image/b1d37031b7d37d607c14196d815032f.jpg" width="30%" height="30%" align="left" style="margin-right: 10px;">
   
+    - 🔭 I’m currently working on something cool.
+  
+    - 🌱 I’m currently learning Everything I like.
+    
+    - 💬 Ask me about anything related to Java/Python.
+    
+    - 📫 How to reach me: liaoxiuya@graduate.utm.my
+</p>
+</div>
+
+#
+#
+#
+#
+#
+#
+#
+#
 You are my ![Visitor Count](https://profile-counter.glitch.me/你的Github用户名/count.svg) visitor,Thank You! :heart: :heart: :heart:
 #
 
