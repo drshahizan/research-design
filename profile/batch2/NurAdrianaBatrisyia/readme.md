@@ -22,10 +22,10 @@ Currently, I'm a student at *Universiti Teknologi Malaysia (UTM)* pursuing  **Ma
   
 ---
 ### 💼 Experiences 💼
-#### 1) Internship (March-July 2021) | PERKESO
+#### 1) Internship | 📆 March-July 2021 | 📍 PERKESO
 - Assisted with data entry, case management, performed work site assessments, and occassionally interacted with insured person to gather updates on their progress and return-to-work plans.
 
-#### 2) Graduate Programme (April 2022-March 2024) | PETRONAS Digital
+#### 2) Data Analyst (Graduate Programme) | 📆 April 2022-March 2024 | 📍 PETRONAS Digital
 - Assisted with the development and implementation of data standards, validated data quality rules, analyzed data, documented data governance processes and policies, developed and managed dashboards, and collaborated with other business units to ensure smooth execution of strategic initiatives.
 
 ---
