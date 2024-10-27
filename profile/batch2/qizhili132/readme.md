@@ -1,5 +1,5 @@
-https://github.com/drshahizan/research-design/blob/main/profile/batch2/qizhili132/1%E5%AF%B8.jpg
 
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/profile/batch2/qizhili132/1%E5%AF%B8.jpg" height="400" widht="300"  alt="I'm LIQIZHI"/></div>
 # 👋 Hello! I'm LI QIZHI
 
 > I'm an international student at the University of Technology Malaysia (UTM)
