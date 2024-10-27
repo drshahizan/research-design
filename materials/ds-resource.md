@@ -7,6 +7,12 @@
 
 ## Data Science Case Study
 - [Case study 1](../images/1case_study.pdf)
+- [Case study 2](../images/2case_study.pdf)
+- [Case study 3](../images/3case_study.pdf)
+- [Case study 4](../images/4case_study.pdf)
+- [Case study 5](../images/5case_study.pdf)
+- [Case study 6](../images/6case_study.pdf)
+
 
 ## Data Science Resources
 
