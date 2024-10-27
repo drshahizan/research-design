@@ -7,8 +7,7 @@
 
 ## MCQ Set:1
 
-**Name:** T
-Zhu Qian
+**Name:** Zhu Qian
 
 **Matrix No:** MCS241017
 
