@@ -34,13 +34,36 @@
 | 4.   | Part 4: Review + Experimental Paper |<a href="https://youtu.be/MRiwIoEE9PI?si=cjBipxaeT2LgXHsn" ><img src="../images/youtube.png" width="30px" height="30px" ></a> |
 | 5.   | Part 5: Using AI Tools & ChatGPT to help writing review papers |<a href="https://youtu.be/6GFe1q2g11Q?si=sRgU03C78RJ77FGW" ><img src="../images/youtube.png" width="30px" height="30px" ></a> |
 
-### Module 4: Research Methodology
+### Module 4: Research Methodology & Design
 
-| No. | Topic | File|
-|----: |------|------|
-| 1.   | Research Methodology |<a href="https://github.com/drshahizan/research-design/blob/main/images/Module%205_%20Research%20Methodology_%201.pdf" ><img src="../images/pdf.svg" width="30px" height="30px" ></a> |
+| No. | Topic | File |
+|----:|-------|------|
+| 1.  | Introduction to Research Design and Approaches (4.1) | <a href="https://youtu.be/PKD4tGvTO1M"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 2.  | Research Methodology Design (4.2) | <a href="https://youtu.be/WC1H9zfs4YM"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 3.  | Experiment Design (4.3) | <a href="https://youtu.be/N4fbrN51Ji0"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 4.  | Data Collection Methods (4.4) | <a href="https://youtu.be/uBXgB8MGvGA"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 5.  | Sampling (4.5) | <a href="https://youtu.be/g1DSqrZK6cA"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 6.  | Data Analysis Method (4.6) | <a href="https://youtu.be/aGKAf4aZ2xY"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 7.  | Statistical Analysis Method (4.7) | <a href="https://youtu.be/7EaYxqcMkiM"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 8.  | Research Significance Analysis & Validation (4.8) | <a href="https://youtu.be/qeoIpHNefBs"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 9.  | Research Framework & Research Operational Framework (4.9) | <a href="https://youtu.be/hxlCVRlRzQs"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 10. | Overview of SmartPLS Software (4.10) | <a href="https://www.youtube.com/watch?v=J6jYC4E_IoI"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 11. | Design Science Research (4.11) | <a href="https://www.youtube.com/watch?v=kuss45T0m10"><img src="../images/youtube.png" width="30px" height="30px"></a> |
 
+### Module 5: Thesis and Paper Writing
 
+| No. | Topic | File |
+|----:|-------|------|
+| 1.  | Introduction to Thesis Writing (5.1) | <a href="https://youtu.be/hFeHACRMPVI"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 2.  | Writing Introduction and Literature Review (5.2) | <a href="https://youtu.be/EXA53jaH0kI"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 3.  | Writing Methodology & Middle (Experimental) (5.3) | <a href="https://youtu.be/8Zqve-BjBnI"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 4.  | Writing Results, Discussion and Conclusion (5.4) | <a href="https://www.youtube.com/watch?v=QXm-xDXAWj4"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 5.  | Writing Reference and Appendices (5.5) | <a href="https://www.youtube.com/watch?v=rHzVOEcyGKg"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 6.  | Publication Tips (5.8) | <a href="https://www.youtube.com/watch?v=xmVLkpkvxNc"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 7.  | Review & Experimental Paper, System Paper (5.9) | <a href="https://www.youtube.com/watch?v=fNMahBT8hoM"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 8.  | Experimental Paper (5.10) | <a href="https://www.youtube.com/watch?v=a6FbpB9Acco"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 9.  | Theoretical Paper (5.11) | <a href="https://www.youtube.com/watch?v=c4sGcOTqIzM"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| 10. | PhD by Publication (5.12) | <a href="https://www.youtube.com/watch?v=VhkDOW0ff_U"><img src="../images/youtube.png" width="30px" height="30px"></a> |
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
