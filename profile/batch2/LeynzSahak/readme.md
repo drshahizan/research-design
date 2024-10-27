@@ -79,4 +79,12 @@ I am actively working on several publications in my field of interest. You can f
 * Facebook: [Leen Sahak](https://www.facebook.com/leensahak)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haslindaabdulsahak&label=Profile%20views&color=0e75b6&style=flat" alt="haslindaabdulsahak" /> </p>
+https://github.com/LeynzSahak
+
+<a href="https://github.com/LeynzSahak/research-design/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/research-design" alt="Stars Badge"/></a>
+<a href="https://github.com/LeynzSahak/research-design/network/members"><img src="https://img.shields.io/github/forks/drshahizan/research-design" alt="Forks Badge"/></a>
+<a href="https://github.com/LeynzSahak/research-design/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-design" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/LeynzSahak/research-design"><img src="https://img.shields.io/github/issues/drshahizan/research-design" alt="Issues Badge"/></a>
+<a href="https://github.com/LeynzSahak/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/LeynzSahak/research-design?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeynzSahak%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
