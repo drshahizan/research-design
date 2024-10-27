@@ -79,11 +79,3 @@ I am actively working on several publications in my field of interest. You can f
 * Facebook: [Leen Sahak](https://www.facebook.com/leensahak)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haslindaabdulsahak&label=Profile%20views&color=0e75b6&style=flat" alt="haslindaabdulsahak" /> </p>
-
-<a href="https://github.com/LeynzSahak/stargazers"><img src="https://img.shields.io/github/stars/LeynzSahak" alt="Stars Badge"/></a>
-<a href="https://github.com/LeynzSahak/network/members"><img src="https://img.shields.io/github/forks/LeynzSahak" alt="Forks Badge"/></a>
-<a href="https://github.com/LeynzSahak/pulls"><img src="https://img.shields.io/github/issues-pr/LeynzSahak" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/LeynzSahak"><img src="https://img.shields.io/github/issues/LeynzSahak" alt="Issues Badge"/></a>
-<a href="https://github.com/LeynzSahak/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/LeynzSahak?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeynzSahak%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
-
