@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 ## Data Science Case Study
-- [Case study 1]()
+- [Case study 1](../images/1case_study.pdf)
 
 ## Data Science Resources
 
