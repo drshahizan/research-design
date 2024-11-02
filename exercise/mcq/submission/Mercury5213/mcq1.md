@@ -7,7 +7,7 @@
 
 ## MCQ Set:1
 
-**Name:** T
+**Name:** 
 SunQi
 
 **Matrix No:** 
