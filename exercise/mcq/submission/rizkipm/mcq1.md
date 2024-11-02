@@ -7,7 +7,7 @@
 
 ## MCQ Set:1
 
-**Name:** T
+**Name:** 
 RIZKI SYAPUTRA
 
 **Matrix No:** MCS211051
