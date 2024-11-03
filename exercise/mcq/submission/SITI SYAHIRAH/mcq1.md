@@ -16,7 +16,7 @@
 16. B) Its contribution to improving internet security
 17. C) Follow a logical progression from introduction to conclusion
 18. B) Recap the main points and set the stage for the next chapter
-19.A) Explain what big data is
+19. A) Explain what big data is
 20. B) Outline the evolution of cloud computing technologies
 
 
