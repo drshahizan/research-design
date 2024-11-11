@@ -55,6 +55,7 @@ Before attending the first lecture, make sure you've [**completed all the essent
 - **[Data Science Resources](./materials/ds-resource.md)**: Useful resources for data science research.
 - **[Articles](./materials/article.md)**: Selected academic articles to support your research.
 - **[Thesis Formatting](./materials/thesis.md)**: Guidelines and templates for formatting your thesis.
+- **[Plagiarism Policy](./materials/plagiat.md)**
 
 ### 🎓 Online Learning
 - **[Top 11 Online Courses for Postgraduate Students and Researchers](https://github.com/drshahizan/research-design/blob/main/materials/course.md)**: A curated list of the best online courses covering research methods, writing and publishing papers, conducting systematic reviews, and exploring different research techniques.
