@@ -42,6 +42,8 @@ To submit your report in Turnitin:
 5. **Resubmissions**:
    - You may resubmit up to three times and get instant feedback 🔄
    - After the third attempt, there will be a 24-hour delay before you can receive a new Similarity Report ⏳
+## Important Note 📧
+Only submissions from your official postgraduate email are accepted; other emails will not be allowed.
 
 Please follow these instructions carefully to ensure a smooth submission process. If you have any questions, feel free to ask! 😊
 
