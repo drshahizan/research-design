@@ -34,7 +34,7 @@ To submit your report in Turnitin:
    - **Enrollment Key**: (refer e-learning) 🔐
 3. **Submit**:
    - Go to the **Assignments** tab, select **View/Complete** 👀
-   - Choose the appropriate **Assignment** based on your project topic and group number 🔢
+   - Choose the appropriate **Assignment** based on your project proposal 🔢
    - Upload your file with a clear file name, e.g., `Chap1_Shahizan.pdf` 📎
 4. **Check Submission**:
    - Wait for the confirmation message and save your digital receipt 🧾
