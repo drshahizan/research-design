@@ -18,7 +18,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 3   | ALEXANDER TAN KA JIN                    | lunari21           | Analysis of AI content within short term video content on social media |
 | 4   | ANNE DASHINI A/P KANNAN                 | annedashini        | PERSONALIZED DIET RECOMMENDATION SYSTEM |
 | 5   | GUI YU XUAN                             | wyu04              | Identifying Patterns in Drug Efficacy by Analyzing Drug Reviews through A Clustering Approach |
-| 6   | HASLINDA BINTI ABDUL SAHAK              | LeynzSahak         |                               |
+| 6   | HASLINDA BINTI ABDUL SAHAK              | LeynzSahak         | Machine Learning and Prediction for Accident-base Data-driven Analysis for Inherent Safety and Health Design throughout the Process Design Life Cycle |
 | 7   | LAIBA NADEEM                            | Laib00             |                               |
 | 8   | LI QIZHI                                | qizhili132         |                               |
 | 9   | LIAO XIUYA                              | LIAOXIUYA          |                               |
