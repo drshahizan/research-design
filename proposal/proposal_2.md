@@ -31,8 +31,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 16  | OSAMA GAMAL MAHMOUD IBRAHIM MOTIR       | OsamaGamal01       | Multivariate Time Series Analysis for Solar Energy and Weather Forecasting |
 | 17  | RAIAN HAFIZ NILOY                       | RaianHafizNiloy    | SENTIMENT ANALYSIS FOR SMARTER INVESTMENTS: A DATA-DRIVEN APPROACH FOR PORTFOLIO MANAGEMENT|
 | 18  | SAFIRA NURUL IZZA                       | sfzza              | Exploring How Achievements Influence Player Engagement Through Sentiment Analysis of Steam Game Reviews|
-| 19  | SITI SYAHIRAH BINTI MOHD YUNUS          | haerasha           | Predictive Maintenance and Performance Optimization for Jet Engines Based on Rolls-Royce
-Engine Manufacturer and Services Within the Aerospace Sector |
+| 19  | SITI SYAHIRAH BINTI MOHD YUNUS          | haerasha           | Predictive Maintenance and Performance Optimization for Jet Engines Based on Rolls-Royce Engine Manufacturer and Services Within the Aerospace Sector |
 | 20  | SUN QI                                  | Mercury5213        | Customer Behavior Analysis & Market Segmentation: E-commerce Consumption Patterns |
 | 21  | TIAN FENGSHOU                           | TianFengshou       | Acquisition of Social Media Data and Sentiment Analysis |
 | 22  | WAN NUR SYAZANA BINTI WAN RUSLAN        | WanSyazana         | Malaysia Towards Ageing Nation: Comparative Analysis of Fertility Rate in Malaysia and Japan |
