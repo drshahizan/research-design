@@ -41,6 +41,8 @@ Before attending the first lecture, make sure you've [**completed all the essent
 ### 🗃️ Assignments
 - **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
   - **[Proposal](./proposal/readme.md)** 📃
+    - [Batch 2024-25/01](profile/batch2.md) 
+    - [Batch 2023-24/02](profile/batch1.md) 
   - **[Systematic Literature Review](./SLR/readme.md)** 📚
 
 ### 💻 Exercises
