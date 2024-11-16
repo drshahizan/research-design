@@ -37,7 +37,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 22  | WAN NUR SYAZANA BINTI WAN RUSLAN        | WanSyazana         |                               |
 | 23  | XU ZHUANGZHUANG                         | zeno-z             |                               |
 | 24  | YANG YUEFEI                             | donmind29          |                               |
-| 25  | ZHU QIAN                                | zhuqian-utm        |                               |
+| 25  | ZHU QIAN                                | zhuqian-utm        | Topic-Based Analysis of Social Media Posts Using RNN and LSTM |
 | 26  | RIZKI SYAPUTRA                          | rizkipm            |                               |
 
 ## Contribution 🛠️
