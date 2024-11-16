@@ -23,7 +23,7 @@ Approach |
 | 7   | LAIBA NADEEM                            | Laib00             |                               |
 | 8   | LI QIZHI                                | qizhili132         |                               |
 | 9   | LIAO XIUYA                              | LIAOXIUYA          |                               |
-| 10  | LIEW YNG JENG                           | david-liew         |                               |
+| 10  | LIEW YNG JENG                           | david-liew         | Predictive Sales and Demand Analytics for Supply Chain Planning |
 | 11  | LIU MINGJIE                             | Liumingjie-bot     |                               |
 | 12  | NUR ADRIANA BATRISYIA BINTI MOHD SUBRI  | NurAdrianaBatrisyia| Money Laundering Detection using Clustering and Anomaly Analysis |
 | 13  | NURFARAHIN BINTI AMIR HAMZAH            | farahinamir        |                               |
