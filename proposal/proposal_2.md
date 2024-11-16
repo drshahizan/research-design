@@ -30,7 +30,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 15  | OMAR MOHAMMED ALI AL-BAAGARI            | Albaagari10        |                               |
 | 16  | OSAMA GAMAL MAHMOUD IBRAHIM MOTIR       | OsamaGamal01       |                               |
 | 17  | RAIAN HAFIZ NILOY                       | RaianHafizNiloy    |                               |
-| 18  | SAFIRA NURUL IZZA                       | sfzza              |                               |
+| 18  | SAFIRA NURUL IZZA                       | sfzza              | Exploring How Achievements Influence Player Engagement Through Sentiment Analysis of Steam Game Reviews|
 | 19  | SITI SYAHIRAH BINTI MOHD YUNUS          | haerasha           |                               |
 | 20  | SUN QI                                  | Mercury5213        |                               |
 | 21  | TIAN FENGSHOU                           | TianFengshou       |                               |
