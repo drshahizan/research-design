@@ -33,7 +33,7 @@ Approach |
 | 17  | RAIAN HAFIZ NILOY                       | RaianHafizNiloy    |                               |
 | 18  | SAFIRA NURUL IZZA                       | sfzza              | Exploring How Achievements Influence Player Engagement Through Sentiment Analysis of Steam Game Reviews|
 | 19  | SITI SYAHIRAH BINTI MOHD YUNUS          | haerasha           |                               |
-| 20  | SUN QI                                  | Mercury5213        |                               |
+| 20  | SUN QI                                  | Mercury5213        | Customer Behavior Analysis & Market Segmentation: E-commerce Consumption Patterns |
 | 21  | TIAN FENGSHOU                           | TianFengshou       |                               |
 | 22  | WAN NUR SYAZANA BINTI WAN RUSLAN        | WanSyazana         |                               |
 | 23  | XU ZHUANGZHUANG                         | zeno-z             |                               |
