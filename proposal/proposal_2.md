@@ -11,36 +11,34 @@ Research proposal writing is a systematic and structured way of presenting a res
 
 # Proposal
 
-| No. | Name                                       | ID                | Github                                  | Linkedin                                                         | Portfolio |
-|-----|--------------------------------------------|-------------------|:---------------------------------------:|:----------------------------------------------------------------:|:-------------:|
-| 1   | ABDULLAHI ABDIRIZAK ADAM                   | AbdallaAbdirizak| [:octocat:](https://github.com/AbdallaAbdirizak)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/AbdallaAbdirizak"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 2   | ABUBAKAR SADIQ SADIQ                      |                   | [:octocat:](https://github.com/)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 3   | ALEXANDER TAN KA JIN                      | lunari21 | [:octocat:](https://github.com/lunari21)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/lunari21"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 4   | ANNE DASHINI A/P KANNAN                    | annedashini       | [:octocat:](https://github.com/annedashini) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/annedashini"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 5   | GUI YU XUAN                                | wyu04             | [:octocat:](https://github.com/wyu04)    | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/wyu04"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 6   | HASLINDA BINTI ABDUL SAHAK                 | LeynzSahak                  | [:octocat:](https://github.com/LeynzSahak)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/LeynzSahak"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 7   | LAIBA NADEEM                               | Laib00            | [:octocat:](https://github.com/Laib00)   | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/Laib00"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 8   | LI QIZHI                                   | 	qizhili132 | [:octocat:](https://github.com/qizhili132)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/qizhili132"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 9   | LIAO XIUYA                                 | LIAOXIUYA | [:octocat:](https://github.com/LIAOXIUYA)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/LIAOXIUYA"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 10  | LIEW YNG JENG                              | david-liew| [:octocat:](https://github.com/david-liew)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/david-liew"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 11  | LIU MINGJIE                                | Liumingjie-bot    | [:octocat:](https://github.com/Liumingjie-bot) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/Liumingjie-bot"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 12  | NUR ADRIANA BATRISYIA BINTI MOHD SUBRI     | NurAdrianaBatrisyia | [:octocat:](https://github.com/NurAdrianaBatrisyia) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/NurAdrianaBatrisyia"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 13  | NURFARAHIN BINTI AMIR HAMZAH               | farahinamir | [:octocat:](https://github.com/farahinamir)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/farahinamir"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 14  | NURFATINI ATIQAH BINTI HAMIDI              | fatiniatiqah      | [:octocat:](https://github.com/fatiniatiqah) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/fatiniatiqah"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 15  | OMAR MOHAMMED ALI AL-BAAGARI               | Albaagari10       | [:octocat:](https://github.com/Albaagari10) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/Albaagari10"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 16  | OSAMA GAMAL MAHMOUD IBRAHIM MOTIR          | OsamaGamal01      | [:octocat:](https://github.com/OsamaGamal01) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/OsamaGamal01"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 17  | RAIAN HAFIZ NILOY                         | RaianHafizNiloy   | [:octocat:](https://github.com/RaianHafizNiloy) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/RaianHafizNiloy"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 18  | SAFIRA NURUL IZZA                         | sfzza             | [:octocat:](https://github.com/sfzza)   | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/sfzza"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 19  | SITI SYAHIRAH BINTI MOHD YUNUS            | haerasha                  | [:octocat:](https://github.com/haerasha)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/haerasha"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 20  | SUN QI                                    | Mercury5213 | [:octocat:](https://github.com/Mercury5213)        | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/Mercury5213"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 21  | TIAN FENGSHOU                             | TianFengshou      | [:octocat:](https://github.com/TianFengshou) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/TianFengshou"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 22  | WAN NUR SYAZANA BINTI WAN RUSLAN          | WanSyazana | [:octocat:](https://github.com/WanSyazana)        | <a href="https://www.linkedin.com/in/wsyazanaaa/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/WanSyazana"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 23  | XU ZHUANGZHUANG                           | zeno-z            | [:octocat:](https://github.com/zeno-z)  | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/zeno-z"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 24  | YANG YUEFEI                               | donmind29         | [:octocat:](https://github.com/donmind29) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/donmind29"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 25  | ZHU QIAN                                  | zhuqian-utm       | [:octocat:](https://github.com/zhuqian-utm) | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/zhuqian-utm"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 26  | RIZKI SYAPUTRA | zhuqian-utm       | [:octocat:](https://github.com/rizkipm) | <a href="https://www.linkedin.com/in/rizki-syaputra-082b2a7b/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/rizkipm"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 27  | APRI JUNAIDI |   aprijunaidi             | [:octocat:](https://github.com/aprijunaidi)       | <a href="https://www.linkedin.com/in/apri-junaidi-38b20217/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch1/aprijunaidi"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-
+| No. | Name                                    | ID                 | Proposal Title                |
+|-----|-----------------------------------------|--------------------|-------------------------------|
+| 1   | ABDULLAHI ABDIRIZAK ADAM                | AbdallaAbdirizak   |                               |
+| 2   | ABUBAKAR SADIQ SADIQ                    |                    |                               |
+| 3   | ALEXANDER TAN KA JIN                    | lunari21           |                               |
+| 4   | ANNE DASHINI A/P KANNAN                 | annedashini        |                               |
+| 5   | GUI YU XUAN                             | wyu04              |                               |
+| 6   | HASLINDA BINTI ABDUL SAHAK              | LeynzSahak         |                               |
+| 7   | LAIBA NADEEM                            | Laib00             |                               |
+| 8   | LI QIZHI                                | qizhili132         |                               |
+| 9   | LIAO XIUYA                              | LIAOXIUYA          |                               |
+| 10  | LIEW YNG JENG                           | david-liew         |                               |
+| 11  | LIU MINGJIE                             | Liumingjie-bot     |                               |
+| 12  | NUR ADRIANA BATRISYIA BINTI MOHD SUBRI  | NurAdrianaBatrisyia|                               |
+| 13  | NURFARAHIN BINTI AMIR HAMZAH            | farahinamir        |                               |
+| 14  | NURFATINI ATIQAH BINTI HAMIDI           | fatiniatiqah       |                               |
+| 15  | OMAR MOHAMMED ALI AL-BAAGARI            | Albaagari10        |                               |
+| 16  | OSAMA GAMAL MAHMOUD IBRAHIM MOTIR       | OsamaGamal01       |                               |
+| 17  | RAIAN HAFIZ NILOY                       | RaianHafizNiloy    |                               |
+| 18  | SAFIRA NURUL IZZA                       | sfzza              |                               |
+| 19  | SITI SYAHIRAH BINTI MOHD YUNUS          | haerasha           |                               |
+| 20  | SUN QI                                  | Mercury5213        |                               |
+| 21  | TIAN FENGSHOU                           | TianFengshou       |                               |
+| 22  | WAN NUR SYAZANA BINTI WAN RUSLAN        | WanSyazana         |                               |
+| 23  | XU ZHUANGZHUANG                         | zeno-z             |                               |
+| 24  | YANG YUEFEI                             | donmind29          |                               |
+| 25  | ZHU QIAN                                | zhuqian-utm        |                               |
+| 26  | RIZKI SYAPUTRA                          | rizkipm            |                               |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
