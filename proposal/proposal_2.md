@@ -23,7 +23,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 8   | LI QIZHI                                | qizhili132         |                               |
 | 9   | LIAO XIUYA                              | LIAOXIUYA          |                               |
 | 10  | LIEW YNG JENG                           | david-liew         | Predictive Sales and Demand Analytics for Supply Chain Planning |
-| 11  | LIU MINGJIE                             | Liumingjie-bot     |                               |
+| 11  | LIU MINGJIE                             | Liumingjie-bot     | Sentiment Analysis and User Behavior Prediction in Social Networks |
 | 12  | NUR ADRIANA BATRISYIA BINTI MOHD SUBRI  | NurAdrianaBatrisyia| Money Laundering Detection using Clustering and Anomaly Analysis |
 | 13  | NURFARAHIN BINTI AMIR HAMZAH            | farahinamir        | Big Management and Intelligence Decision- Making System for Mining industry in Malaysia Based on Digital Visualization|
 | 14  | NURFATINI ATIQAH BINTI HAMIDI           | fatiniatiqah       | Sentiment Analysis on Hotel Review using Machine Learning |
