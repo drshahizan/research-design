@@ -28,7 +28,7 @@ Approach |
 | 12  | NUR ADRIANA BATRISYIA BINTI MOHD SUBRI  | NurAdrianaBatrisyia|                               |
 | 13  | NURFARAHIN BINTI AMIR HAMZAH            | farahinamir        |                               |
 | 14  | NURFATINI ATIQAH BINTI HAMIDI           | fatiniatiqah       |                               |
-| 15  | OMAR MOHAMMED ALI AL-BAAGARI            | Albaagari10        |                               |
+| 15  | OMAR MOHAMMED ALI AL-BAAGARI            | Albaagari10        | Sentiment Analysis on smart devices Product reviews in Amazon Platform |
 | 16  | OSAMA GAMAL MAHMOUD IBRAHIM MOTIR       | OsamaGamal01       |                               |
 | 17  | RAIAN HAFIZ NILOY                       | RaianHafizNiloy    |                               |
 | 18  | SAFIRA NURUL IZZA                       | sfzza              | Exploring How Achievements Influence Player Engagement Through Sentiment Analysis of Steam Game Reviews|
