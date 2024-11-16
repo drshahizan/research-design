@@ -16,7 +16,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 1   | ABDULLAHI ABDIRIZAK ADAM                | AbdallaAbdirizak   |                               |
 | 2   | ABUBAKAR SADIQ SADIQ                    |                    |                               |
 | 3   | ALEXANDER TAN KA JIN                    | lunari21           |                               |
-| 4   | ANNE DASHINI A/P KANNAN                 | annedashini        |                               |
+| 4   | ANNE DASHINI A/P KANNAN                 | annedashini        | PERSONALIZED DIET RECOMMENDATION SYSTEM |
 | 5   | GUI YU XUAN                             | wyu04              | Identifying Patterns in Drug Efficacy by Analyzing Drug Reviews through A Clustering
 Approach |
 | 6   | HASLINDA BINTI ABDUL SAHAK              | LeynzSahak         |                               |
