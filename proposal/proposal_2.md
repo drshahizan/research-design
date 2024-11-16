@@ -29,7 +29,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 14  | NURFATINI ATIQAH BINTI HAMIDI           | fatiniatiqah       | Sentiment Analysis on Hotel Review using Machine Learning |
 | 15  | OMAR MOHAMMED ALI AL-BAAGARI            | Albaagari10        | Sentiment Analysis on smart devices Product reviews in Amazon Platform |
 | 16  | OSAMA GAMAL MAHMOUD IBRAHIM MOTIR       | OsamaGamal01       | Multivariate Time Series Analysis for Solar Energy and Weather Forecasting |
-| 17  | RAIAN HAFIZ NILOY                       | RaianHafizNiloy    |                               |
+| 17  | RAIAN HAFIZ NILOY                       | RaianHafizNiloy    | SENTIMENT ANALYSIS FOR SMARTER INVESTMENTS: A DATA-DRIVEN APPROACH FOR PORTFOLIO MANAGEMENT|
 | 18  | SAFIRA NURUL IZZA                       | sfzza              | Exploring How Achievements Influence Player Engagement Through Sentiment Analysis of Steam Game Reviews|
 | 19  | SITI SYAHIRAH BINTI MOHD YUNUS          | haerasha           |                               |
 | 20  | SUN QI                                  | Mercury5213        | Customer Behavior Analysis & Market Segmentation: E-commerce Consumption Patterns |
