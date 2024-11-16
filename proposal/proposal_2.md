@@ -38,7 +38,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 23  | XU ZHUANGZHUANG                         | zeno-z             | Using data technology to predict and recommend online shopping for contemporary populations|
 | 24  | YANG YUEFEI                             | donmind29          | Optimization of urban traffic in Malaysia using machine learning algorithm |
 | 25  | ZHU QIAN                                | zhuqian-utm        | Topic-Based Analysis of Social Media Posts Using RNN and LSTM |
-| 26  | RIZKI SYAPUTRA                          | rizkipm            |                               |
+| 26  | RIZKI SYAPUTRA                          | rizkipm            |Sentiment Analysis of Social Media Reactions to Indonesia's Free Meal School Program |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
