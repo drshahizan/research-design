@@ -20,7 +20,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 5   | GUI YU XUAN                             | wyu04              | Identifying Patterns in Drug Efficacy by Analyzing Drug Reviews through A Clustering Approach |
 | 6   | HASLINDA BINTI ABDUL SAHAK              | LeynzSahak         | Machine Learning and Prediction for Accident-base Data-driven Analysis for Inherent Safety and Health Design throughout the Process Design Life Cycle |
 | 7   | LAIBA NADEEM                            | Laib00             |                               |
-| 8   | LI QIZHI                                | qizhili132         |                               |
+| 8   | LI QIZHI                                | qizhili132         | Market Analysis - Utilizing Time Series Analysis to Forecast Future Market Trends|
 | 9   | LIAO XIUYA                              | LIAOXIUYA          |                               |
 | 10  | LIEW YNG JENG                           | david-liew         | Predictive Sales and Demand Analytics for Supply Chain Planning |
 | 11  | LIU MINGJIE                             | Liumingjie-bot     | Sentiment Analysis and User Behavior Prediction in Social Networks |
