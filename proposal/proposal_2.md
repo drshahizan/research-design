@@ -15,7 +15,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 |-----|-----------------------------------------|--------------------|-------------------------------|
 | 1   | ABDULLAHI ABDIRIZAK ADAM                | AbdallaAbdirizak   |                               |
 | 2   | ABUBAKAR SADIQ SADIQ                    |                    |                               |
-| 3   | ALEXANDER TAN KA JIN                    | lunari21           |                               |
+| 3   | ALEXANDER TAN KA JIN                    | lunari21           | Analysis of AI content within short term video content on social media |
 | 4   | ANNE DASHINI A/P KANNAN                 | annedashini        | PERSONALIZED DIET RECOMMENDATION SYSTEM |
 | 5   | GUI YU XUAN                             | wyu04              | Identifying Patterns in Drug Efficacy by Analyzing Drug Reviews through A Clustering Approach |
 | 6   | HASLINDA BINTI ABDUL SAHAK              | LeynzSahak         |                               |
@@ -26,17 +26,17 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 11  | LIU MINGJIE                             | Liumingjie-bot     |                               |
 | 12  | NUR ADRIANA BATRISYIA BINTI MOHD SUBRI  | NurAdrianaBatrisyia| Money Laundering Detection using Clustering and Anomaly Analysis |
 | 13  | NURFARAHIN BINTI AMIR HAMZAH            | farahinamir        |                               |
-| 14  | NURFATINI ATIQAH BINTI HAMIDI           | fatiniatiqah       |                               |
+| 14  | NURFATINI ATIQAH BINTI HAMIDI           | fatiniatiqah       | Sentiment Analysis on Hotel Review using Machine Learning |
 | 15  | OMAR MOHAMMED ALI AL-BAAGARI            | Albaagari10        | Sentiment Analysis on smart devices Product reviews in Amazon Platform |
-| 16  | OSAMA GAMAL MAHMOUD IBRAHIM MOTIR       | OsamaGamal01       |                               |
+| 16  | OSAMA GAMAL MAHMOUD IBRAHIM MOTIR       | OsamaGamal01       | Multivariate Time Series Analysis for Solar Energy and Weather Forecasting |
 | 17  | RAIAN HAFIZ NILOY                       | RaianHafizNiloy    |                               |
 | 18  | SAFIRA NURUL IZZA                       | sfzza              | Exploring How Achievements Influence Player Engagement Through Sentiment Analysis of Steam Game Reviews|
 | 19  | SITI SYAHIRAH BINTI MOHD YUNUS          | haerasha           |                               |
 | 20  | SUN QI                                  | Mercury5213        | Customer Behavior Analysis & Market Segmentation: E-commerce Consumption Patterns |
 | 21  | TIAN FENGSHOU                           | TianFengshou       | Acquisition of Social Media Data and Sentiment Analysis |
-| 22  | WAN NUR SYAZANA BINTI WAN RUSLAN        | WanSyazana         |                               |
+| 22  | WAN NUR SYAZANA BINTI WAN RUSLAN        | WanSyazana         | Malaysia Towards Ageing Nation: Comparative Analysis of Fertility Rate in Malaysia and Japan |
 | 23  | XU ZHUANGZHUANG                         | zeno-z             |                               |
-| 24  | YANG YUEFEI                             | donmind29          |                               |
+| 24  | YANG YUEFEI                             | donmind29          | Optimization of urban traffic in Malaysia using machine learning algorithm |
 | 25  | ZHU QIAN                                | zhuqian-utm        | Topic-Based Analysis of Social Media Posts Using RNN and LSTM |
 | 26  | RIZKI SYAPUTRA                          | rizkipm            |                               |
 
