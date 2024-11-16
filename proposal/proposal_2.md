@@ -35,7 +35,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 20  | SUN QI                                  | Mercury5213        | Customer Behavior Analysis & Market Segmentation: E-commerce Consumption Patterns |
 | 21  | TIAN FENGSHOU                           | TianFengshou       | Acquisition of Social Media Data and Sentiment Analysis |
 | 22  | WAN NUR SYAZANA BINTI WAN RUSLAN        | WanSyazana         | Malaysia Towards Ageing Nation: Comparative Analysis of Fertility Rate in Malaysia and Japan |
-| 23  | XU ZHUANGZHUANG                         | zeno-z             |                               |
+| 23  | XU ZHUANGZHUANG                         | zeno-z             | Using data technology to predict and recommend online shopping for contemporary populations|
 | 24  | YANG YUEFEI                             | donmind29          | Optimization of urban traffic in Malaysia using machine learning algorithm |
 | 25  | ZHU QIAN                                | zhuqian-utm        | Topic-Based Analysis of Social Media Posts Using RNN and LSTM |
 | 26  | RIZKI SYAPUTRA                          | rizkipm            |                               |
