@@ -11,8 +11,8 @@ Research proposal writing is a systematic and structured way of presenting a res
 
 # Proposal
 
-| No. | Name                                    | ID                 | Proposal Title                |
-|-----|-----------------------------------------|--------------------|-------------------------------|
+| No. | Name                                    | ID                 | Proposal Title                | Proposal | AI % |
+|-----|-----------------------------------------|--------------------|-------------------------------|:----------:|----------:|
 | 1   | ABDULLAHI ABDIRIZAK ADAM                | AbdallaAbdirizak   | Developing a Dashboard for Somali University Students' Academic Performance |
 | 2   | ABUBAKAR SADIQ SADIQ                    |                    |                               |
 | 3   | ALEXANDER TAN KA JIN                    | lunari21           | Analysis of AI content within short term video content on social media |
