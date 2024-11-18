@@ -13,33 +13,33 @@ Research proposal writing is a systematic and structured way of presenting a res
 
 | No. | Name                                    | ID                 | Proposal Title                | Proposal | AI % |
 |-----|-----------------------------------------|--------------------|-------------------------------|:----------:|----------:|
-| 1   | ABDULLAHI ABDIRIZAK ADAM                | AbdallaAbdirizak   | Developing a Dashboard for Somali University Students' Academic Performance |<a href="drshahizan"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
-| 2   | ABUBAKAR SADIQ SADIQ                    |                    |                               |
-| 3   | ALEXANDER TAN KA JIN                    | lunari21           | Analysis of AI content within short term video content on social media |
-| 4   | ANNE DASHINI A/P KANNAN                 | annedashini        | PERSONALIZED DIET RECOMMENDATION SYSTEM |
-| 5   | GUI YU XUAN                             | wyu04              | Identifying Patterns in Drug Efficacy by Analyzing Drug Reviews through A Clustering Approach |
-| 6   | HASLINDA BINTI ABDUL SAHAK              | LeynzSahak         | Machine Learning and Prediction for Accident-base Data-driven Analysis for Inherent Safety and Health Design throughout the Process Design Life Cycle |
-| 7   | LAIBA NADEEM                            | Laib00             | AI Resume Analyser - using Machine learning and NLP techniques to automate and optimize resume screening, providing insights for smarter, data-driven hiring decisions|
-| 8   | LI QIZHI                                | qizhili132         | Market Analysis - Utilizing Time Series Analysis to Forecast Future Market Trends|
-| 9   | LIAO XIUYA                              | LIAOXIUYA          | Global Electric Vehicle Market: Historical Analysis and Future Predictions (2010-2030) |
-| 10  | LIEW YNG JENG                           | david-liew         | Predictive Sales and Demand Analytics for Supply Chain Planning |
-| 11  | LIU MINGJIE                             | Liumingjie-bot     | Sentiment Analysis and User Behavior Prediction in Social Networks |
-| 12  | NUR ADRIANA BATRISYIA BINTI MOHD SUBRI  | NurAdrianaBatrisyia| Money Laundering Detection using Clustering and Anomaly Analysis |
-| 13  | NURFARAHIN BINTI AMIR HAMZAH            | farahinamir        | Big Management and Intelligence Decision- Making System for Mining industry in Malaysia Based on Digital Visualization|
-| 14  | NURFATINI ATIQAH BINTI HAMIDI           | fatiniatiqah       | Sentiment Analysis on Hotel Review using Machine Learning |
-| 15  | OMAR MOHAMMED ALI AL-BAAGARI            | Albaagari10        | Sentiment Analysis on smart devices Product reviews in Amazon Platform |
-| 16  | OSAMA GAMAL MAHMOUD IBRAHIM MOTIR       | OsamaGamal01       | Multivariate Time Series Analysis for Solar Energy and Weather Forecasting |
-| 17  | RAIAN HAFIZ NILOY                       | RaianHafizNiloy    | SENTIMENT ANALYSIS FOR SMARTER INVESTMENTS: A DATA-DRIVEN APPROACH FOR PORTFOLIO MANAGEMENT|
-| 18  | SAFIRA NURUL IZZA                       | sfzza              | Exploring How Achievements Influence Player Engagement Through Sentiment Analysis of Steam Game Reviews|
-| 19  | SITI SYAHIRAH BINTI MOHD YUNUS          | haerasha           | Predictive Maintenance and Performance Optimization for Jet Engines Based on Rolls-Royce Engine Manufacturer and Services Within the Aerospace Sector |
-| 20  | SUN QI                                  | Mercury5213        | Customer Behavior Analysis & Market Segmentation: E-commerce Consumption Patterns |
-| 21  | TIAN FENGSHOU                           | TianFengshou       | Acquisition of Social Media Data and Sentiment Analysis |
-| 22  | WAN NUR SYAZANA BINTI WAN RUSLAN        | WanSyazana         | Malaysia Towards Ageing Nation: Comparative Analysis of Fertility Rate in Malaysia and Japan |
-| 23  | XU ZHUANGZHUANG                         | zeno-z             | Using data technology to predict and recommend online shopping for contemporary populations|
-| 24  | YANG YUEFEI                             | donmind29          | Optimization of urban traffic in Malaysia using machine learning algorithm |
-| 25  | ZHU QIAN                                | zhuqian-utm        | Topic-Based Analysis of Social Media Posts Using RNN and LSTM |
-| 26  | RIZKI SYAPUTRA                          | rizkipm            |Sentiment Analysis of Social Media Reactions to Indonesia's Free Meal School Program |
-| 27  | Cheng Yun                         |chengyun           |Analysing and predicting the foreign exchange rate basing on the Chinese Yuan (CNY) and the U.S. Dollar (USD) |
+| 1   | ABDULLAHI ABDIRIZAK ADAM                | AbdallaAbdirizak   | Developing a Dashboard for Somali University Students' Academic Performance |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 2   | ABUBAKAR SADIQ SADIQ                    |                    |                               |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 3   | ALEXANDER TAN KA JIN                    | lunari21           | Analysis of AI content within short term video content on social media |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 4   | ANNE DASHINI A/P KANNAN                 | annedashini        | PERSONALIZED DIET RECOMMENDATION SYSTEM |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 5   | GUI YU XUAN                             | wyu04              | Identifying Patterns in Drug Efficacy by Analyzing Drug Reviews through A Clustering Approach |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 6   | HASLINDA BINTI ABDUL SAHAK              | LeynzSahak         | Machine Learning and Prediction for Accident-base Data-driven Analysis for Inherent Safety and Health Design throughout the Process Design Life Cycle |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 7   | LAIBA NADEEM                            | Laib00             | AI Resume Analyser - using Machine learning and NLP techniques to automate and optimize resume screening, providing insights for smarter, data-driven hiring decisions|<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 8   | LI QIZHI                                | qizhili132         | Market Analysis - Utilizing Time Series Analysis to Forecast Future Market Trends|<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 9   | LIAO XIUYA                              | LIAOXIUYA          | Global Electric Vehicle Market: Historical Analysis and Future Predictions (2010-2030) |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 10  | LIEW YNG JENG                           | david-liew         | Predictive Sales and Demand Analytics for Supply Chain Planning |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 11  | LIU MINGJIE                             | Liumingjie-bot     | Sentiment Analysis and User Behavior Prediction in Social Networks |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 12  | NUR ADRIANA BATRISYIA BINTI MOHD SUBRI  | NurAdrianaBatrisyia| Money Laundering Detection using Clustering and Anomaly Analysis |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 13  | NURFARAHIN BINTI AMIR HAMZAH            | farahinamir        | Big Management and Intelligence Decision- Making System for Mining industry in Malaysia Based on Digital Visualization|<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 14  | NURFATINI ATIQAH BINTI HAMIDI           | fatiniatiqah       | Sentiment Analysis on Hotel Review using Machine Learning |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 15  | OMAR MOHAMMED ALI AL-BAAGARI            | Albaagari10        | Sentiment Analysis on smart devices Product reviews in Amazon Platform |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 16  | OSAMA GAMAL MAHMOUD IBRAHIM MOTIR       | OsamaGamal01       | Multivariate Time Series Analysis for Solar Energy and Weather Forecasting |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 17  | RAIAN HAFIZ NILOY                       | RaianHafizNiloy    | SENTIMENT ANALYSIS FOR SMARTER INVESTMENTS: A DATA-DRIVEN APPROACH FOR PORTFOLIO MANAGEMENT|<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 18  | SAFIRA NURUL IZZA                       | sfzza              | Exploring How Achievements Influence Player Engagement Through Sentiment Analysis of Steam Game Reviews|<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 19  | SITI SYAHIRAH BINTI MOHD YUNUS          | haerasha           | Predictive Maintenance and Performance Optimization for Jet Engines Based on Rolls-Royce Engine Manufacturer and Services Within the Aerospace Sector |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 20  | SUN QI                                  | Mercury5213        | Customer Behavior Analysis & Market Segmentation: E-commerce Consumption Patterns |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 21  | TIAN FENGSHOU                           | TianFengshou       | Acquisition of Social Media Data and Sentiment Analysis |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 22  | WAN NUR SYAZANA BINTI WAN RUSLAN        | WanSyazana         | Malaysia Towards Ageing Nation: Comparative Analysis of Fertility Rate in Malaysia and Japan |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 23  | XU ZHUANGZHUANG                         | zeno-z             | Using data technology to predict and recommend online shopping for contemporary populations|<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 24  | YANG YUEFEI                             | donmind29          | Optimization of urban traffic in Malaysia using machine learning algorithm |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 25  | ZHU QIAN                                | zhuqian-utm        | Topic-Based Analysis of Social Media Posts Using RNN and LSTM |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 26  | RIZKI SYAPUTRA                          | rizkipm            |Sentiment Analysis of Social Media Reactions to Indonesia's Free Meal School Program |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 27  | Cheng Yun                         |chengyun           |Analysing and predicting the foreign exchange rate basing on the Chinese Yuan (CNY) and the U.S. Dollar (USD) |<a href=""><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
