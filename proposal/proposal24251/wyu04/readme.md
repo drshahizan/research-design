@@ -5,6 +5,11 @@
 
 <br>
 
+**Notes:** <br>
+* Chapter 1: Introduction to the Research
+* Chapter 2: Literature Review on the Current Issues and Methodologies
+* Chapter 3: Research Methodologies - Overall Research Framework
+
 # MDS Project
 **Title:** 
 Identifying Patterns in Drug Efficacy by Analyzing Drug Reviews through A Clustering Approach
