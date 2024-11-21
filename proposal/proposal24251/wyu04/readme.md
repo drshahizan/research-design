@@ -1,6 +1,6 @@
 # Personal Information
-**Name:** Gui Yu Xuan
-**Matric No:** MCS241003
+**Name:** Gui Yu Xuan <br>
+**Matric No:** MCS241003 <br>
 **Supervisor:** Dr Chan Weng Howe
 
 <br>
@@ -29,6 +29,9 @@ The aim of the project is to identify patterns in drug efficacy to enhance the u
 2. **Clustering Approach:** DBSCAN
 
 <br>
-# **LLM**
-# **DBSCAN**
 
+# **LLM**
+<div align="center"><img src="https://github.com/drshahizan/research-design/edit/main/proposal/proposal24251/wyu04/images/Picture2.png)"></div>
+
+# **DBSCAN**
+<div align="center"><img src="https://github.com/drshahizan/research-design/edit/main/proposal/proposal24251/wyu04/images/Picture1.png)"></div>
