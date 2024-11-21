@@ -15,7 +15,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 |-----|-----------------------------------------|--------------------|-------------------------------|:----------:|----------:|
 | 1   | ABDULLAHI ABDIRIZAK ADAM                | AbdallaAbdirizak   | Developing a Dashboard for Somali University Students' Academic Performance |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
 | 2   | ABUBAKAR SADIQ SADIQ                    |                    |                               |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
-| 3   | ALEXANDER TAN KA JIN                    | lunari21           | Analysis of AI content within short term video content on social media |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 3   | ALEXANDER TAN KA JIN                    | lunari21           | Analysis of AI content within short term video content on social media |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> |0|
 | 4   | ANNE DASHINI A/P KANNAN                 | annedashini        | PERSONALIZED DIET RECOMMENDATION SYSTEM |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
 | 5   | GUI YU XUAN                             | wyu04              | Identifying Patterns in Drug Efficacy by Analyzing Drug Reviews through A Clustering Approach |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> |77|
 | 6   | HASLINDA BINTI ABDUL SAHAK              | LeynzSahak         | Machine Learning and Prediction for Accident-base Data-driven Analysis for Inherent Safety and Health Design throughout the Process Design Life Cycle |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
@@ -38,7 +38,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 23  | XU ZHUANGZHUANG                         | zeno-z             | Using data technology to predict and recommend online shopping for contemporary populations|<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
 | 24  | YANG YUEFEI                             | donmind29          | Optimization of urban traffic in Malaysia using machine learning algorithm |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
 | 25  | ZHU QIAN                                | zhuqian-utm        | Topic-Based Analysis of Social Media Posts Using RNN and LSTM |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> |0|
-| 26  | RIZKI SYAPUTRA                          | rizkipm            |Sentiment Analysis of Social Media Reactions to Indonesia's Free Meal School Program |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 26  | RIZKI SYAPUTRA                          | rizkipm            |Sentiment Analysis of Social Media Reactions to Indonesia's Free Meal School Program |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> |0|
 | 27  | Cheng Yun                         |chengyun           |Analysing and predicting the foreign exchange rate basing on the Chinese Yuan (CNY) and the U.S. Dollar (USD) |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> |0|
 
 ## Contribution 🛠️
