@@ -58,6 +58,7 @@ Before attending the first lecture, make sure you've [**completed all the essent
 - **[Articles](./materials/article.md)**: Selected academic articles to support your research.
 - **[Thesis Formatting](./materials/thesis.md)**: Guidelines and templates for formatting your thesis.
 - **[Plagiarism Policy & Turnitin](./materials/plagiat.md)**
+- [Others](https://humanities.utm.my/languageacademy/wp-content/uploads/sites/7/2022/09/STANDARDS-FOR-PHD-AND-MASTER-THESIS.edited.docx-1.pdf)
 
 ### 🎓 Online Learning
 - **[Top 11 Online Courses for Postgraduate Students and Researchers](https://github.com/drshahizan/research-design/blob/main/materials/course.md)**: A curated list of the best online courses covering research methods, writing and publishing papers, conducting systematic reviews, and exploring different research techniques.
