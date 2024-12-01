@@ -5,7 +5,7 @@
 * Student Name: Alexander Tan Ka Jin
 * Metric Number:	MCST1
 * Student Email & Phone: tanka@graduate.utm.my, 016-7778810
-* Project Title:	Metamorphosis from Conspiracy: Analysis of how users break free from information cocoons
+* Project Title:	Simulation and Analysis of how TikTok users break free from information cocoons
 
 ## Introduction
 Misinformation is a prevalent effect on social media sites. Often, scientific misinformation and political misinformation is spread through various channels and sites such as X (formerly Twitter), Facebook, Youtube and Tiktok. Engagement with such videos and content from prominent superspreaders of misinformation may lead to recommender algorithms suggesting more content from the same or similar superspreaders a phenomenon known as information cocoons. This proposal focuses on TikTok, a platform that allows users to quickly engage in short, minute long videos and how engagement in misinformative videos leads to recommender algorithms sculpting a personalized environment that reinforces more radical forms of misinformation.
