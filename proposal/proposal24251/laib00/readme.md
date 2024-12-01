@@ -22,3 +22,12 @@ Expected Contribution of the Project:
 The project is expected to contribute to the field of cricket by analyzing vast amounts of data and getting useful insights to make better and improved decisions.
 This system will reduce the reliance on intuitiveness and pass experience for team formation, minimizing the error of judgment that it brings.
 Apart from cricket, this project can be the framework for other sports, widening the scope of analytics in the sport and leading to better strategic decisions.
+
+# Applications:
+<ol>
+<li>Live Match Analytics for Teams and Coaches</li>
+<li>Live Match Prediction</li>
+<li>In-Match Fan Engagement (Live Scores and Stats)</li>
+<li>Fantasy Cricket Live Data and Predictions</li>
+<li>Match Commentary and Insights for Broadcasters</li>
+</ol>
