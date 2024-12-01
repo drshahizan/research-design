@@ -38,5 +38,12 @@ The aim of the project is to identify patterns in drug efficacy to enhance the u
 # **LLM**
 <div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/Picture2.png"></div>
 
+<br>
+
 # **DBSCAN**
 <div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/Picture1.png"></div>
+
+<br>
+
+# **Research Framework**
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/Research Framework.png"></div>
