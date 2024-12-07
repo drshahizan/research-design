@@ -43,7 +43,7 @@ drug reviews, clustering, LLMs
 <br>
 
 # **Research Framework**
-<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/Research Framework (2).png"></div>
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/Research Framework (1).png"></div>
 
 ## Contribution 🛠️
 
