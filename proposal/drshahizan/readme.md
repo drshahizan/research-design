@@ -12,8 +12,6 @@
   <img height="200px" src="https://github.com/drshahizan/SECP3843/blob/b258210aaed9fc156dcd7236a012e9a37acff947/submission/Jokeryde/img/img001.jpg" />
 </p>
 
-## Title: ABC
-
 <table align="center">
   <tr>
     <th>Name</th>
@@ -25,7 +23,10 @@
   </tr>
 
 </table>
-<br>
+
+## Title: ABC
+
+## Abstract:
 
 
 ## Submission
@@ -38,6 +39,8 @@
 |  4  | Chapter 3 | <a href="./chapter3/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
 |  5  | Chapter 4 | <a href="./chapter4/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
 |  6  | Chapter 5 | <a href="./chapter5/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7  | Complete Chapter | <a href="./chapter5/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
+
 
 ## Contribution 🛠️
 
