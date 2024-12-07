@@ -11,8 +11,8 @@ Research proposal writing is a systematic and structured way of presenting a res
 
 # Proposal
 
-| No. | Name                                    | ID                 | Proposal Title | Proposal | Proposal AI % | Chapter 1 AI%|
-|-----|-----------------------------------------|--------------------|--------------------------------------------------------------------------|:---------------------:|------:|------:|
+| No. | Name                                    | ID                 | Proposal Title | Proposal | Presentation | 
+|-----|-----------------------------------------|--------------------|--------------------------------------------------------------------------|:---------------------:|:------:|
 | 0  | MOHD SHAHIZAN OTHMAN                      | drshahizan   |   Proposal template   | <a href="drshahizan"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="drshahizan"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
 | 1   | ABDULLAHI ABDIRIZAK ADAM               | AbdallaAbdirizak   | Fake News detection Using Machine Learning                                      | <a href="proposal24251/AbdullahiAbdirizak/"><img src="../images/folder.png" width="24px" height="24px"></a>                     |   0   | 0  |
 | 2   | ABUBAKAR SADIQ SADIQ                 |  sadiqsadiq404  |         Optimizing Delivery Routers For E-commerce Using Linear Programming                | <a href="proposal24251/SadiqSadiq404"><img src="../images/folder.png" width="24px" height="24px"></a>                     |      ||
