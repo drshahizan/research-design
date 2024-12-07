@@ -9,14 +9,20 @@ why<a href="https://github.com/drshahizan/research-design/stargazers"><img src="
 
 Research proposal writing is a systematic and structured way of presenting a research idea or question, where the writer outlines the intended study's background, objectives, methods, and potential impact. It begins with an introduction that sets the context and significance of the research, followed by a literature review that situates the work within existing scholarship and identifies gaps. The methodology section details the proposed approach for data collection and analysis, ensuring scientific rigor and validity. The proposal concludes with a summary of the research's anticipated contributions to knowledge and practice in the field, often suggesting further areas for investigation.
 
+# Sample Proposal & Template
+
+| No. | Name                                    | ID                 |  Title | Proposal | Presentation | 
+|-----|-----------------------------------------|--------------------|--------------------------------------------------------------------------|:---------------------:|:------:|
+| 1  | MOHD SHAHIZAN OTHMAN                      | drshahizan   |   Proposal template   | <a href="drshahizan"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="drshahizan"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
+| 2   | NURAMIRA SHAFINAZ BINTI ZULAILEE  | amyrafynaz     | Time Series Forecasting for Energy Consumption in Malaysia Using Regression Technique | <a href="amyrafynaz"><img src="../images/pdf.svg" width="24px" height="24px"></a> | <a href="amyrafynaz/ppt"><img src="../images/pdf.svg" width="24px" height="24px"></a> |
+| 3   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah| Topic-Based Sentiment Analysis using BERTopic and Deep Learning | <a href="solehahnajiihah"><img src="../images/pdf.svg" width="24px" height="24px"></a> | <a href="solehahnajiihah"><img src="../images/pdf.svg" width="24px" height="24px"></a> |
+| 4   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      |  Modelling The Impact of Oil Price and Stock Market Price on Gold Price using Long Short Term Memory (LSTM) and Vector Autoregression (VAR) Model    | <a href="UmmiWahid"><img src="../images/pdf.svg" width="24px" height="24px"></a> | <a href="UmmiWahid/ppt"><img src="../images/pdf.svg" width="24px" height="24px"></a> |
+
+
 # Proposal
 
-| No. | Name                                    | ID                 | Proposal Title | Proposal | Presentation | 
+| No. | Name                                    | ID                 |  Title | Proposal | Presentation | 
 |-----|-----------------------------------------|--------------------|--------------------------------------------------------------------------|:---------------------:|:------:|
-| 0  | MOHD SHAHIZAN OTHMAN                      | drshahizan   |   Proposal template   | <a href="drshahizan"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="drshahizan"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
-| a   | NURAMIRA SHAFINAZ BINTI ZULAILEE  | amyrafynaz     | Time Series Forecasting for Energy Consumption in Malaysia Using Regression Technique | <a href="amyrafynaz"><img src="../images/pdf.svg" width="24px" height="24px"></a> | <a href="amyrafynaz/ppt"><img src="../images/pdf.svg" width="24px" height="24px"></a> |
-| b   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah| Topic-Based Sentiment Analysis using BERTopic and Deep Learning | <a href="solehahnajiihah"><img src="../images/pdf.svg" width="24px" height="24px"></a> | <a href="solehahnajiihah"><img src="../images/pdf.svg" width="24px" height="24px"></a> |
-| c   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      |  Modelling The Impact of Oil Price and Stock Market Price on Gold Price using Long Short Term Memory (LSTM) and Vector Autoregression (VAR) Model    | <a href="UmmiWahid"><img src="../images/pdf.svg" width="24px" height="24px"></a> | <a href="UmmiWahid/ppt"><img src="../images/pdf.svg" width="24px" height="24px"></a> |
 | 1   | ABDULLAHI ABDIRIZAK ADAM               | AbdallaAbdirizak   | Fake News detection Using Machine Learning | <a href="proposal24251/AbdullahiAbdirizak/"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="drshahizan"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
 | 2   | ABUBAKAR SADIQ SADIQ                 |  sadiqsadiq404  |         Optimizing Delivery Routers For E-commerce Using Linear Programming                | <a href="proposal24251/SadiqSadiq404"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="drshahizan"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
 | 3   | ALEXANDER TAN KA JIN                   | lunari21           | Simulation and Analysis of how TikTok users break free from information cocoons       | <a href="proposal24251/lunari21"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="drshahizan"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
