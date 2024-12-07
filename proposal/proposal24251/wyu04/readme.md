@@ -1,5 +1,5 @@
 # Personal Information
-<p align="center"><img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/My Passport Photo.png">/></p>
+<p align="center"><img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/My Passport Photo.png"></p>
 
 <table align="center">
   <tr>
