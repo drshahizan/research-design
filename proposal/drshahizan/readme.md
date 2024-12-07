@@ -27,7 +27,11 @@
 ## Title: ABC
 
 ## Abstract:
-abc def....
+The successful integration of AI in education hinges on the preparedness of instructors to navigate and leverage these advanced technologies
+into their practices. How prepared are instructors to effectively implement AI into their practices? This study investigates instructors' confidence and challenges in integrating AI tools into their practices. Utilizing a mixed-method approach, the study employed both questionnaires and interviews for data collection. In the first phase, 260 instructors from public universities in Klang Valley, Malaysia, participated, followed by interviews with five respondents. The quantitative analyses reveal that approximately three-fifths of the respondents have yet to join the bandwagon of AI. It depicted that just 30.0% of respondents regularly use AI, with a moderate confidence level of 6.42 (SD=2.01) among instructors towards the usage of AI. In the second phase, findings suggest that multiple factors, including training and experience, perceptions of AI, integration challenges, ethical considerations, and institutional support, influence the confidence levels of instructors in integrating AI tools into their practices. Addressing these challenges requires extensive training programmes, more detailed guidelines, and strong support networks. Instructors must acquire technical and pedagogical knowledge to integrate AI effectively, understanding its functionalities and limitations to avoid negatively impacting student learning. Embracing AI is crucial for educators to remain relevant in the evolving educational landscape.
+
+## Keywords: 
+AI, ChatGPT, Teaching and Learning.
 
 ## Submission
 
