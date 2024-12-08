@@ -1,15 +1,56 @@
-# ANALYZING PLAYER FEEDBACK IN STEAM REVIEW ACROSS GAME GENRES
+<a href="https://github.com/drshahizan/research-design/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/research-design" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/network/members"><img src="https://img.shields.io/github/forks/drshahizan/research-design" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-design" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/research-design"><img src="https://img.shields.io/github/issues/drshahizan/research-design" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-## INTRODUCTION
-Steam is one of the largest gaming platforms with millions of users use it to play and interact. It provides features like purchasing games, playing multiplayer and communication with other players. Players can leave their experiences for the games they have played as a review. With this, they can share and discuss about the in-game features, such as achievements, character customizations,  quests, and many more. However, Steam review system labels the players’ reviews into “recommended” and “not recommended”, which limit the understanding of game developers of what the players truly feel about their games.
 
-Game genre is a classification based on gameplay characteristic and how the players interact with the game. Each genre received different feedback and level of acceptance from the players. Some genres get more critiques on the storyline, while others received praises even with low resolution. With the simplification in the Steam review system, game developers cannot grasps such details in players feedback. Using trends and sentiment analysis, this study will compare the number of positive and negative review and provide deeper details of the review labels by different genres.
+# Proposal
 
-## PROBLEM STATEMENT
-The Steam review system's positive and negative labels oversimplify feedback, providing only a broad idea of players' attitudes toward games. There hasn't been much research into the differences in review patterns between game genres. As a result, developers risk losing out on important variances between what players prefer in various genres. This study seeks to solve this by investigating how positive and negative reviews change by genre.
+<p align="center">
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/sfzza/images/" />
+</p>
 
-## SCOPE OF STUDY
-Sentiment analysis will be used in this project to analyse the emotional tone and feedback in Steam review across different genres. This study will focus on five genres: Action, RPG (Role-Playing Game), FPS (First-Person Shooters), Strategy (Real-Time / Turn-Based) and Indie. There will be five games for each genre which have large player communities. A total of 100 reviews in English for each game will be selected for the process of analysis.
+<table align="center">
+  <tr>
+    <th>Name</th>
+    <th>Matric No.</th>
+  </tr>
+  <tr>
+    <td>SAFIRA NURUL IZZA</td>
+    <td>MCS241009</td>
+  </tr>
 
-## SIGNIFICANT OF PROJECT
-This study addresses the gap in understanding how different game genres are perceived by players through reviews. Current methods used by Steam review system oversimplified feedback, and there is limited research on how genres influences sentiment. More detailed feedback is a valuable resource for game developers to enhance the quality of their games. For example, after knowing that players are more evaluative about graphics and resolution more than storyline in FPS games, developers can prioritise improving the graphics over the story.
+</table>
+
+## Title: ANALYZING PLAYER FEEDBACK IN STEAM REVIEW ACROSS GAME GENRES
+
+## Abstract:
+Steam, one of the largest gaming platforms, allows players to share their experiences through reviews labeled as "recommended" or "not recommended." However, these labels oversimplify feedback, limiting developers' understanding of players' preferences and criticisms across different game genres. This study explores the relationship between game genres and player feedback by analyzing sentiment in reviews for five genres: Action, RPG, FPS, Strategy, and Indie. Using sentiment analysis on 100 English reviews per game across 25 games, the research identifies trends and nuances in player sentiment beyond the binary labels. The findings aim to provide valuable insights for developers, enabling them to refine their games by focusing on aspects most valued within specific genres, such as graphics in FPS or storyline in RPGs.
+
+## Keywords: 
+Game genres, sentiment analysis, player feedback
+
+## Submission
+
+| No  | Chapter     |                                                 File |
+| :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
+|  1.  | Proposal | <a href="./chapter1/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="./chapter1/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="./chapter2/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="./chapter3/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="./chapter4/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="./chapter5/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="./chapter5/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
+
+
+## Contribution 🛠️
+
+Please create an [Issue](https://github.com/drshahizan/special-topic-data-engineering/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
