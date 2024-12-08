@@ -13,7 +13,7 @@ Matric No: MCS241019
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://avatars.githubusercontent.com/u/165741276?v=4" />
+  <img height="200px" src="[https://avatars.githubusercontent.com/u/165741276?v=4](https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/Liu%20MingJie/IMG_0283(20241014-130532).jpg)" />
 </p>
 
 ## Title: ABC
