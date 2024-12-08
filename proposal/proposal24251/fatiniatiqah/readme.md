@@ -30,13 +30,13 @@
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/fatiniatiqah/Nurfatini%20Atiqah_Proposal.pdf"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/fatiniatiqah/Chapter%201/Nurfatini%20Atiqah_Chapter1.pdf"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="./chapter2/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="./chapter3/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="./chapter4/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="./chapter5/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="./chapter5/"><img src="../../images/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/fatiniatiqah/Nurfatini%20Atiqah_Proposal.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/fatiniatiqah/Chapter%201/Nurfatini%20Atiqah_Chapter1.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="./chapter2/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="./chapter3/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="./chapter4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="./chapter5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="./chapter5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
 
 ## Contribution 🛠️
