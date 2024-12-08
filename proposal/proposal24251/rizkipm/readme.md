@@ -33,7 +33,22 @@
 
 This study analysis public sentiment towards the free school meal program organized by the Indonesian Government using data from social media. This program aims to improve students' nutritional intake and help ease the burden on low-income families. However, this policy has drawn mixed reactions on social media, both in the form of support and criticism. Data was collected from various social media platforms and processed through data cleaning and modelling stages using machine learning algorithms, namely Support Vector Machine (SVM), K-Nearest Neighbours (KNN), and Naive Bayes. The results of the analysis show that the SVM and Naive Bayes methods have a higher level of accuracy in classifying positive and negative sentiments than KNN. Overall, the majority of public sentiment towards this program is positive, reflecting support for the policy that is considered beneficial for students in need. However, there are also a number of negative sentiments that highlight issues of distribution and quality of service. These findings can provide insights for the government to evaluate and improve the effectiveness of the program, as well as identify areas that need improvement.
 
-Keywords : Sentiment Analysis, Social Media, Free Meal Program, Indonesian Government, Public Reaction
+## Keywords: 
+
+Sentiment Analysis, Social Media, Free Meal Program, Indonesian Government, Public Reaction
+
+---
+## Submission
+
+| No  | Chapter     |                                                 File |
+| :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
+|  1.  | Proposal | <a href=""><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="Chapter 1/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="Chapter 2/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter 3/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="Chapter 4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter 5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
 ---
 
