@@ -42,7 +42,7 @@ Sentiment Analysis, Social Media, Free Meal Program, Indonesian Government, Publ
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="proposal/proposal24251/rizkipm/RIZKI SYAPUTRA_MCSD 6215 Project 1 Proposal Form Update 29 Nov.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="RIZKI SYAPUTRA_MCSD 6215 Project 1 Proposal Form Update 29 Nov.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 | <a href="Chapter 1/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="Chapter 2/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href="Chapter 3/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
