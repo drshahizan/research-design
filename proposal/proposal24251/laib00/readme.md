@@ -9,7 +9,7 @@ The project aims to perform data analysis techniques on the cricket data that wi
 
 Welcome to my proposal. Below is an outline of the chapters. You can click on each chapter to access the PDF.
 
-# Proposal Chapters
+# Project Chapters
 
 Below is an outline of the chapters with links to the corresponding PDFs.
 
