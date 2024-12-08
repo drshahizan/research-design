@@ -1,6 +1,7 @@
 # Proposal
 
-<pre>
+<pre>Name: <b>Liew Yng Jeng</b>
+Matric No: <b>MCS241003</b>
 Title: <b>Delay Prediction On Inventory Shortages In Sports Equipment Supply Chain</b>
 Supervisor: <b>Dr Nor Erne Nazira Binti Bazin</b></pre>
 <hr> 
