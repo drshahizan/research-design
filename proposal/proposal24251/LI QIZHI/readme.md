@@ -1,5 +1,5 @@
 # Personal Information
-<p align="center"><img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/My Passport Photo.png"></p>
+<p align="center"><img height="200px" src="[https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/My Passport Photo.png](https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LI%20QIZHI/1%E5%AF%B8.jpg)"></p>
 
 <table align="center">
   <tr>
@@ -7,8 +7,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>GUI YU XUAN</td>
-    <td>MCS241003</td>
+    <td>LI QI ZHI</td>
+    <td>MCS241026</td>
   </tr>
 </table>
 
