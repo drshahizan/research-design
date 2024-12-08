@@ -1,24 +1,33 @@
-# Nutritional Deficiency Prediction by Region Using Machine Learning
+# Personal Information
+<p align="center"><img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/annedashini/images/_DSC0015.JPG"></p>
 
-Nutritional deficiencies remain a significant global health concern, with regions differing drastically in the prevalence and types of deficiencies. Identifying and addressing these deficiencies is essential for improving health outcomes, yet traditional methods of prediction and intervention often rely on resource-intensive surveys and analysis. Machine learning (ML) provides a powerful, scalable alternative to predict nutritional deficiencies across regions by analyzing diverse datasets efficiently.
+<table align="center">
+  <tr>
+    <th>Name</th>
+    <th>Matric No.</th>
+  </tr>
+  <tr>
+    <td>ANNE DASHINI KANNAN</td>
+    <td>MCS241013</td>
+  </tr>
+</table>
 
-## Why Machine Learning?
-Machine learning leverages large volumes of data from multiple sources, such as demographic statistics, dietary patterns, environmental factors, and healthcare records. It enables the identification of complex patterns and relationships between factors contributing to nutritional deficiencies. By utilizing supervised learning, unsupervised learning, and ensemble methods, ML models can predict regional risks with high accuracy and speed.
+## Title: Nutritional Deficiency Prediction by Region Using Machine Learning
 
-## Key Components of the Approach
-1. **Data Collection**: Aggregating data from regional surveys, health records, socioeconomic databases, and geospatial information.
-2. **Feature Engineering**: Extracting relevant features such as age, gender, dietary intake, healthcare access, and socioeconomic status to train predictive models.
-3. **Model Training and Validation**: Employing algorithms such as random forests, support vector machines, and neural networks to train and validate models.
-4. **Prediction and Visualization**: Generating regional predictions for deficiencies (e.g., iron, vitamin D) and visualizing results through interactive maps or dashboards for decision-making.
+## Abstract:
+Nutritional deficiencies are one of the major global issue in human health growth especially on specific reasons like low and middle income areas, where thousands of people, mainly kids and pregnant woman who suffer from insufficient intake of proper diet with full of vital micro nutrients.These nutrition deficiency are linked to various serious health issues such as stunted growth, health impairments, weak immune systems and high mortality rates. The usual traditional approaches to detect and identify nutritional deficiency, including surveys and interventions, tend to be expensive and inefficient.Consequently, there is a more pressure needed for more targeted, data-driven solutions to analyze regions and populations that are most harmful.This paper explains the application of machine learning (ML) techniques to predict and analyze nutritional deficiencies in different areas. By combining various data sets on health conditions, socioeconomic, environmental and dietary factors this paper goals to build model predictive models that can list out regions that are at high risk for deficiencies.Machine learning has the potential to define complex, non-linear patterns within large datasets,which been using often in traditional methods.These insights could help improve public health outcomes.
 
-## Applications
-- **Policy Making**: Informing government and health organizations about high-risk regions for targeted interventions.
-- **Resource Allocation**: Optimizing the distribution of supplements and healthcare resources.
-- **Early Detection**: Enabling proactive healthcare measures to prevent deficiencies before they escalate.
+## Keywords: 
+Nutrition Deficiency, Machine Learning, Clustering
 
-## Challenges and Future Directions
-While machine learning offers immense potential, challenges such as data quality, model interpretability, and ethical concerns must be addressed. Future research can focus on integrating real-time data streams, improving model generalizability across regions, and developing explainable AI systems to gain trust among stakeholders.
+## Submission
 
-Machine learning is transforming how we predict and address nutritional deficiencies, offering data-driven insights that were previously unattainable. With continuous advancements in ML techniques and data availability, this approach has the potential to significantly enhance global health outcomes.
-
-
+| No  | Chapter     |                                                 File |
+| :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
+|  1.  | Proposal | <a href="AnneDashini_Proposal.pdf/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="Chapter 1/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="Chapter 2/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter 3/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="Chapter 4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter 5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
