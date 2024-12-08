@@ -9,7 +9,7 @@ The project aims to perform data analysis techniques on the cricket data that wi
 
 Welcome to my proposal. Below is an outline of the chapters. You can click on each chapter to access the PDF.
 
-- [Chapter 1: Introduction (PDF)](proposal/proposal24251/laib00/Chapter 1/LaibaNadeem_Chapter1.pdf)
+- [Chapter 1: Introduction (PDF)](https://github.com/laib00/proposal/proposal24251/laib00/Chapter 1/LaibaNadeem_Chapter1.pdf)
 - [Chapter 2: Literature Review (PDF)](docs/chapter2.pdf)
 - [Chapter 3: Methodology (PDF)](docs/chapter3.pdf)
 - [Data Collection (PDF)](docs/chapter3_1.pdf)
