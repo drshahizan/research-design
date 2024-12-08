@@ -19,8 +19,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>SOLEHAH NAJIIHAH BINTI ABD JAMAL</td>
-    <td>MCS231035</td>
+    <td>Sadiq Sadiq Abubakar</td>
+    <td>MCS241001</td>
   </tr>
 
 </table>
