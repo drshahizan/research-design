@@ -8,7 +8,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/assets/165742522/6eab9f34-f949-4849-8fc3-8bfaa6dd81cb">
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/sadiqsadiq404/image/_DSC1147.JPG.jpg">
 </p>
 
 ## Title: Optimizing Delivery Routers for E-commerce Using Linear Programming
