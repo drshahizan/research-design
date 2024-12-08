@@ -1,5 +1,5 @@
 # Title: Cricket Data scraping and Analysis for Robust Data-Driven Decisions
-<img src="cric.png" alt="Alt text" width="400"/>
+<img src="cric.png" alt="Alt text" width="600"/>
 
 # Introduction:
 Cricket is a sport enriched in data. With every match played, we get loads of data that can be used to make beneficial insights to increase performance or strengthen the team. This project aims to do Cricket Data Analysis to form a team 11 in the given match scenarios: chasing a specific score or defending the score against a strong batting lineup.
