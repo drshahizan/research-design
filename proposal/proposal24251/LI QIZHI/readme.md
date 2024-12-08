@@ -12,13 +12,15 @@
   </tr>
 </table>
 
-## Title: Identifying Patterns in Drug Efficacy by Analyzing Drug Reviews through A Clustering Approach
+## Title: Market Analysis Utilizing Time Series Analysis to Forecast Future Market Trends
 
 ## Abstract:
-The randomization process in randomized controlled trials (RCTs) restrict the involvement of diverse population with various health status and demographic information. Even though RCTs able to provide a reliable outcome of the drug performance, but it failed to represent the drug performance in real-world scenarios. The increase in the use of social media lead to the increase in the people to share their experience or opinion regarding the services and products that they had utilized on the Internet. Therefore, the drug efficacy from various perspectives can be derived from the drug reviews. This project aims to identify patterns in drug efficacy to enhance the understanding of drug performance across diverse patient populations by utilizing large language models (LLMs) and clustering techniques in patient drug reviews. In this research, the drug reviews will be undergoing the data preparation process to handle the irrelevant information, duplicates and missing values that present in the dataset. Then, LLMs such as ChatGPT 4o mini will be called to run the data derivation process. The information of side effects and effectiveness of drugs will be identified from the reviews made by consumers. Then, clustering techniques such as densitybased spatial clustering of applications with noise (DBSCAN) will be implemented to cluster the retrieved features. Lastly, the performance of the model will be evaluated by silhouette coefficients. The insights of clustering results will then be further visualized by dashboard. In conclusion, the used of LLMs and clustering techniques in this research tends to narrow the gap between RCTs and real-world scenarios. The important features obtained from the drug reviews allowed the healthcare professionals to have a better understanding of drug performance in a diverse population. Therefore, the treatment strategies can be further improved due to the valuable insights derived from the drug reviews. 
+This project incorporates time series analysis in making projections for future financial markets. Building a model based on historical market data, with the unique determinants, we will construct a predictive model explaining the market trends, which gives useful information to decision-makers and investors. We will surpass the challenges of the regular market analysis by mental labs of the trends in the financial market and using fore-developed time series models.
 
-## Keywords: 
-drug reviews, clustering, LLMs
+The project will involve several key steps: Data collection and cleaning: To this end, we will obtain historical market data, clean and preprocess these data to ensure data quality during the analysis process. Determinant analysis: We are going to explore key economic indicators, company performance indicators, as well as investor sentiment indicators, to determine the factors most influential on market movements. Model selection and development: We will apply several time series models, such as Arima, SARIMA, and Exponential Smoothing, to predict market trends and choose the best one based on the results. Model evaluation: Evaluating the fact of predicting the market with historical data for backtesting will be done as well as the use of different indicators to determine the accuracy of the prediction. Actionable insights and advice: The model results, trends, and risk factors will be monitored to give advice and recommendations for the businesses and investors in the market.
+
+Through the project work, a chronological dynamics will be analyzed in spoiling the gamble. Thus, better investment options will be made basing on established knowledge. 
+
 
 ## Submission
 
