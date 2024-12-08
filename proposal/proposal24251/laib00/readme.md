@@ -9,13 +9,17 @@ The project aims to perform data analysis techniques on the cricket data that wi
 
 Welcome to my proposal. Below is an outline of the chapters. You can click on each chapter to access the PDF.
 
-- [Chapter 1: Introduction (PDF)](Chapter%201/LaibaNadeem_Chapter1.pdf)
-- [Chapter 2: Literature Review (PDF)](docs/chapter2.pdf)
-- [Chapter 3: Methodology (PDF)](docs/chapter3.pdf)
-- [Data Collection (PDF)](docs/chapter3_1.pdf)
-- [Data Analysis (PDF)](docs/chapter3_2.pdf)
-- [Chapter 4: Results and Discussion (PDF)](docs/chapter4.pdf)
-- [Chapter 5: Conclusion (PDF)](docs/chapter5.pdf)
+# Proposal Chapters
+
+Below is an outline of the chapters with links to the corresponding PDFs.
+
+| Chapter Name               | PDF Link                                      |
+|----------------------------|-----------------------------------------------|
+| **Chapter 1: Introduction** | [📄](Chapter%201/LaibaNadeem_Chapter1.pdf) |
+| **Chapter 2: Literature Review** | [📄](https://github.com/laib00/proposal/raw/main/proposal24251/laib00/Chapter%202/LaibaNadeem_Chapter2.pdf) |
+| **Chapter 3: Methodology**  | [📄](https://github.com/laib00/proposal/raw/main/proposal24251/laib00/Chapter%203/LaibaNadeem_Chapter3.pdf) |
+| **Chapter 4: Results and Discussion** | [📄](https://github.com/laib00/proposal/raw/main/proposal24251/laib00/Chapter%204/LaibaNadeem_Chapter4.pdf) |
+| **Chapter 5: Conclusion**   | [📄](https://github.com/laib00/proposal/raw/main/proposal24251/laib00/Chapter%205/LaibaNadeem_Chapter5.pdf) |
 
 
 # Objectives of the Project:
