@@ -36,13 +36,13 @@ Game genres, sentiment analysis, player feedback
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="Proposal/Safira Nurul Izza_Proposal Form.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="Safira Nurul Izza_Proposal Form.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 | <a href="Chapter 1/Chapter1_Safira Nurul Izza.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="./chapter2/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="./chapter3/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="./chapter4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="./chapter5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="./chapter5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="Chapter 2"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter 3"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="Chapter 4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter 5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Complete Chapter"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
 
 ## Contribution 🛠️
