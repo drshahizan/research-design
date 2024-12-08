@@ -28,11 +28,11 @@ Delay Prediction, Inventory Shortage, Sports Equipment Supply Chain, ARIMA, SARI
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1.  | Proposal | <a href="Proposal/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="Chapter1/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="Chapter2/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="Chapter3/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="Chapter4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="Chapter5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="Chapter 1/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="Chapter 2/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter 3/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="Chapter 4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter 5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Full Chapter/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
 
