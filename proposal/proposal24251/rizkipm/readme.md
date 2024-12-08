@@ -1,8 +1,12 @@
-
-# Project Briefing: [Sentiment Analysis of Social Media Reactions to Indonesia's Free Meal School Program]
+#Profile
+<p align="center"><img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/rizkipm/images/rizki.png"></p>
 
 Name: Rizki Syaputra
 Matric No: MCS211051
+
+
+# Project Briefing: [Sentiment Analysis of Social Media Reactions to Indonesia's Free Meal School Program]
+
 
 
 ## Table of Contents
