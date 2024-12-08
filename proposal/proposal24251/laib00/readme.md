@@ -31,14 +31,8 @@ in the field.
 3. To provide visualization of the important insights gathered from the data using visualization tools,
 like Power BI.
 
-# Flowchart
+# Process
 ![Alt text](diafinal.png)
-# Scopes of the Project:
-This cricket data analysis project involves data analytics techniques, python, and data visualization tools such as Power BI to form data-based strategies for team formulation. It includes data scrapping from different sources that include different important metrics of player performances like strike rates, bowling economy, match reports, wicket-taking or six-hitting abilities against different opponents, pitches, and weather conditions. This will help in making data-based decision for better team performance and positive outcomes.
-Expected Contribution of the Project:
-The project is expected to contribute to the field of cricket by analyzing vast amounts of data and getting useful insights to make better and improved decisions.
-This system will reduce the reliance on intuitiveness and pass experience for team formation, minimizing the error of judgment that it brings.
-Apart from cricket, this project can be the framework for other sports, widening the scope of analytics in the sport and leading to better strategic decisions.
 
 # Applications:
 <ol>
