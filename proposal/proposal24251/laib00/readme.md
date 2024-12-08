@@ -7,6 +7,17 @@ By using web scrapping, python libraries, and Power BI, the project will provide
 # Aim of the Project:
 The project aims to perform data analysis techniques on the cricket data that will recommend data-driven solutions for team selection. By utilizing web scrapping to collect the data, advanced data analysis techniques, machine learning models, and Power BI visualization tools, the project will aim to provide robust data-driven solutions for team management to for a team to improve match outcomes in different scenarios.
 
+Welcome to my proposal. Below is an outline of the chapters. You can click on each chapter to access the PDF.
+
+- [Chapter 1: Introduction (PDF)](proposal/proposal24251/laib00/Chapter 1/LaibaNadeem_Chapter1.pdf)
+- [Chapter 2: Literature Review (PDF)](docs/chapter2.pdf)
+- [Chapter 3: Methodology (PDF)](docs/chapter3.pdf)
+- [Data Collection (PDF)](docs/chapter3_1.pdf)
+- [Data Analysis (PDF)](docs/chapter3_2.pdf)
+- [Chapter 4: Results and Discussion (PDF)](docs/chapter4.pdf)
+- [Chapter 5: Conclusion (PDF)](docs/chapter5.pdf)
+
+
 # Objectives of the Project:
 1. To collect and preprocess the cricket data from various sources that include insights and players
 statistics. To analyze different metrics of the players like their strike rates, batting average, wicket-
