@@ -31,11 +31,15 @@
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1  | Chapter 1 | <a href="./Chapter 1/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  2  | Chapter 2 | <a href="./Chapter 2/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  3  | Chapter 3 | <a href="./Chapter 3/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  4  | Chapter 4 | <a href="./Chapter 4/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  5  | Chapter 5 | <a href="./Chapter 5/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="RIZKI SYAPUTRA_MCSD 6215 Project 1 Proposal Form Update 29 Nov.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="Chapter 1/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="Chapter 2/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter 3/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="Chapter 4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter 5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+
+---
 
 ## Contribution 🛠️
 
