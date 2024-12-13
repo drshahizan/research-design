@@ -19,16 +19,36 @@
 </table>
 <br>
 
+## Abstract:
+xxxxxx
+
+## Keywords: 
+Accident, Inherent Safety Design, 
 
 ## Submission
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1  | Chapter 1 | <a href="./chapter1/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  2  | Chapter 2 | <a href="./chapter2/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  3  | Chapter 3 | <a href="./chapter3/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  4  | Chapter 4 | <a href="./chapter4/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
-|  5  | Chapter 5 | <a href="./chapter5/"><img src="../../images/answer.png" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="Gui Yu Xuan_Proposal.pdf/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="Chapter 1/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="Chapter 2/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter 3/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="Chapter 4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter 5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+
+# **LLM**
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSshak/images/Picture2.png"></div>
+
+<br>
+
+# **DBSCAN**
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSahak/images/Picture1.png"></div>
+
+<br>
+
+# **Research Framework**
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSahak/images/"></div>
 
 ## Contribution 🛠️
 
@@ -38,6 +58,5 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
 
 
