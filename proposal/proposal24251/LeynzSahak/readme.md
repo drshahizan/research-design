@@ -9,7 +9,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal24251/LeynzSahak/images/me.jpg" />
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal24251/LeynzSahak/images/Me.jpg"/>
 </p>
 
 ## Title: Accident Prediction for Enhancing Inherent Safety Design throughout Process Design Lifecycle by using Machine Learning .
