@@ -9,10 +9,10 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal24251/LeynzSahak/image/me.jpg" />
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal24251/LeynzSahak/images/me.jpg" />
 </p>
 
-## Title: Modelling The Impact of Oil Price and Stock Market Price on Gold Price using Long Short-Term Memory (LSTM) and Vector Autoregression (VAR) Model.
+## Title: Accident Prediction for Enhancing Inherent Safety Design throughout Process Design Lifecycle by using Machine Learning .
 
 <table align="center">
   <tr>
@@ -20,8 +20,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>UMMI FARIHAH BINTI ABD WAHID</td>
-    <td>MCS231032</td>
+    <td>HASLINDA BINTI ABDUL SAHAK</td>
+    <td>MCS241004</td>
   </tr>
 
 </table>
