@@ -1,5 +1,4 @@
-
-# Proposal
+# Personal Information
 
 <p align="center">
   <p align="center"><img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSahak/images/Me.jpg">
