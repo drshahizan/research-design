@@ -1,5 +1,4 @@
-## charter2
-## LITERATURE REVIEW
+## charter2：LITERATURE REVIEW
 ### 1. Introduction
 Collaborative filtering is a method that uses your past choices to predict what you might want in the future. There are two main approaches to this: item-based filtering looks at what other items you have liked, while user-based filtering looks at what other people who have similar tastes have liked.
 In recent years, with the rapid development of e-commerce, the system's personalized recommendation demand for users is also increasing. These requirements can not only improve user satisfaction, but also achieve rapid business growth of the company. However, CF faces several challenges, including sparse data, the integration of contextual factors, and the cold start problem.
