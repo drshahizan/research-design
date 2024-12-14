@@ -23,8 +23,8 @@ Game genres, sentiment analysis, player feedback
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href=""><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href=""><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/Liao%20Xiuya_MCS241025.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/Chapter%201.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="Chapter 2"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href="Chapter 3"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  5.  | Chapter 4 | <a href="Chapter 4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
