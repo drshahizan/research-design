@@ -40,7 +40,7 @@ Bachelor's of Mechanical Engineering (Thermal Fluids) with Hons.
 
 **2020-2024 SICK SENSOR INTELLIGENCE ASIA SINGAPORE **
 **Industrial Engineer**
--Involved with Project Integration team from Germany, China, Singapore to Production Plantin Malaysia
+-Involved with Project Integration team from Germany, China, Singapore to Production Plant in Malaysia
 -Work directly and closely on daily basis with Project Manager & all engineer and Executive (R&D, Electrical, Mechanical & Design, IT) 
  from Germany, China, Singapore, USA, Pakistan,India, Myanmar, Malaysia, Philippines, Taiwan
 - Provide cross-functional guidance and expertise and train and develop manufacturingengineers and operation teams with the Industrial 
