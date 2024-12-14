@@ -41,8 +41,13 @@ Inherent Safety Design, Accident Prediction, Machine Learning, Process Design Li
 |  7.  | Complete Chapter | <a href="Full Chapter/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
 # **Accident Prediction**
-<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSshak/images/Picture2.png"></div>
+<div align="justify"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSshak/images/Picture2.png"></div>
 
+Accident prediction is made by machine learning by analyzing earlier accident data. It will consider factors like process conditions, equipment details, environmental factors, and human behaviors to identify patterns that may lead to accidents. Such data is used for training machine learning models to get the likelihood of occurrence of an accident by specific conditions or designs.
+
+In practice, this method of prediction allows the engineers to design safe processes devoid of hazardous materials, make better equipment selection, and build safer operational limits. It also contributes to safety improvement through early detection of the problem and preventing accidents from happening. With the addition of data, machine learning models would continuously develop and improve safety predictions.
+
+In reality, factory information could be historical on specific equipment under stated conditions. Then, machine learning could collaborate with that information to predict possible occurrences of future failure along those same conditions. This would allow managers to make more intelligent decisions when designing processes and equipment, which could lead to improved safety improvements.
 <br>
 
 # **Machine Learning**
