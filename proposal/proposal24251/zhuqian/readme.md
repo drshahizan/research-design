@@ -36,12 +36,12 @@ Social media, machine learning, LSTM
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="Proposal"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="Chapter 1/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="Chapter 2"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="Chapter 3"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="Chapter 4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="Chapter 5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="Proposal/Proposal.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="Chapter 1/Chapter 1.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="Chapter 2/Chapter 2.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter 3/Chapter 3.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="Chapter 4/Chapter 4.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter 5/Chapter 5.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Full Chapter"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
 
