@@ -42,33 +42,28 @@ Inherent Safety Design, Accident Prediction, Machine Learning, Process Design Li
 
 # **Accident Prediction**
 <div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSshak/images/Picture2.png"></div>
+
 <p align="justify">
 Accident prediction is made by machine learning by analyzing earlier accident data. It will consider factors like process conditions, equipment details, environmental factors, and human behaviors to identify patterns that may lead to accidents. Such data is used for training machine learning models to get the likelihood of occurrence of an accident by specific conditions or designs.
 
 In practice, this method of prediction allows the engineers to design safe processes devoid of hazardous materials, make better equipment selection, and build safer operational limits. It also contributes to safety improvement through early detection of the problem and preventing accidents from happening. With the addition of data, machine learning models would continuously develop and improve safety predictions.
 
 In reality, factory information could be historical on specific equipment under stated conditions. Then, machine learning could collaborate with that information to predict possible occurrences of future failure along those same conditions. This would allow managers to make more intelligent decisions when designing processes and equipment, which could lead to improved safety improvements.
-<br></p>
+</p>
 
 # **Machine Learning**
 <div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSahak/images/Picture1.png"></div>
 
-Machine learning (ML) studies the past limitations of accident data to develop the conditions under which future accidents may occur. Learning from past events helps machines detect the pattern and causes of accidents leading plant engineers to design safer processes.
-
-It means retrieving information on accidents, equipment failures, and relevant operating conditions in the past. The information goes to train a machine-learning model to detect the patterns that will indicate some risks. It will predict further the occurrence of accidents in designs or processes for future operations once the education is over. The engineer will utilize this prediction during the early phase of design risk assessments in making changes as necessary when the use of safer materials is anticipated or modifying operating conditions. With the accumulation of further data in the future, predictions through the machine learning model will tend to improve.
-
-Machine learning technologies help design improvements in-built security by evaluating the possibility of threats short before these exist, making it possible to design and conduct processes more safely and effectively in the early phase of design.
-<br>
-
-# **Research Framework**
-<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSahak/images/"></div>
 <p align="justify">
 Machine learning (ML) studies the past limitations of accident data to develop the conditions under which future accidents may occur. Learning from past events helps machines detect the pattern and causes of accidents leading plant engineers to design safer processes.
 
 It means retrieving information on accidents, equipment failures, and relevant operating conditions in the past. The information goes to train a machine-learning model to detect the patterns that will indicate some risks. It will predict further the occurrence of accidents in designs or processes for future operations once the education is over. The engineer will utilize this prediction during the early phase of design risk assessments in making changes as necessary when the use of safer materials is anticipated or modifying operating conditions. With the accumulation of further data in the future, predictions through the machine learning model will tend to improve.
 
 Machine learning technologies help design improvements in-built security by evaluating the possibility of threats short before these exist, making it possible to design and conduct processes more safely and effectively in the early phase of design.
-</p><br>
+</p>
+
+# **Research Framework**
+
   
 ## Contribution 🛠️
 
