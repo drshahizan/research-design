@@ -1,6 +1,7 @@
 
 ### WELCOME 👋
-#
+### Name:       Liao Xiuya                                                                            
+### Matric no.: MCS241025            
 <p align="center">
 <img src="https://github.com/LIAOXIUYA/LIAOXIUYA/blob/main/image/b1d37031b7d37d607c14196d815032f.jpg#pic_center" width="350px">
 </p>
