@@ -20,11 +20,14 @@
 <br>
 
 ## Abstract:
+
 <p align="justify">
 Poor dissemination of incident knowledge and imbalance in the better practices of risk management hinder learning from earlier accidents, which has hitherto contributed to high accident rates in the chemical process industry (CPI). As a result, similar accidents keep occurring due to dependence on the outer protection layer for risk reduction strategies. The inherent safety design (ISD) principles remain under implementation in chemical plant design due to their discrete application. The integration of the topics in this study aims to close the gap by introducing IS into a systematic approach based on accidents for deployment throughout the entire process design lifecycle. At least 500,000 incident investigation reports will be retrieved from various reputable sources, including the US Chemical Safety and Hazard Investigation Board (CSB), the US National Transportation Safety Board (NTSB), the US Environmental Protection Agency (EPA), Japan's Science, and Technology Failure Knowledge Database (FKD), and the EU Major Accident Reporting System (e-MARS). The accident reports span from 1990 to 2024. Accident contributors will be classified into design, technical, human, organizational, and external errors. Root causes will be further classified into process design life cycles of research and development (R&D), preliminary engineering, basic engineering, detailed engineering, procurement, fabrication, commissioning start-up, and operation/plant modification. Recommendations within the reports will be classified based on preventive, protective, mitigative, and corrective actions. These safety actions are further categorized by inherent safety, passive-engineered, and active-engineered measures. Inherent safety recommendations will focus on ISD (Inherently Safer Design) principles: minimization, substitution, moderation, and simplification. Case studies such as that of Bhopal, BP Texas City, and BP Deepwater Horizon accidents will serve as applications for machine learning (ML) techniques, with the intent to average the case predictions for validating the framework's effectiveness. Findings will demonstrate that ML accident prediction-based analysis can provide a strong guideline for ISD principles incorporation in design reviews for improved accident prevention in new chemical plants.
 </p>
+
 ## Keywords: 
 Inherent Safety Design, Accident Prediction, Machine Learning, Process Design Lifecycle, Chemical Process Industry
+<br>
 ## Submission
 
 | No  | Chapter     |                                                 File |
