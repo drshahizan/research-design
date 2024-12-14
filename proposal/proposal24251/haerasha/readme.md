@@ -2,7 +2,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://github.com/user-attachments/assets/" />
+  <img height="200px" src="https://github.com/user-attachments/assets/"IMG_2294.jpg" />
 
 
 
