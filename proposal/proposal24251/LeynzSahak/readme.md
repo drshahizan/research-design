@@ -40,12 +40,12 @@ Inherent Safety Design, Accident Prediction, Machine Learning, Process Design Li
 |  6.  | Chapter 5 | <a href="Chapter 5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Full Chapter/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
-# **LLM**
+# **Accident Prediction**
 <div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSshak/images/Picture2.png"></div>
 
 <br>
 
-# **DBSCAN**
+# **Machine Learning**
 <div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSahak/images/Picture1.png"></div>
 
 <br>
