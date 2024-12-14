@@ -1,5 +1,7 @@
 
 
+
+
 - # 💫 About Me:
 -  👋 Hi, I’m Syera
 - 👀 I’m interested on working from any part of the world
@@ -18,7 +20,7 @@ Bachelor's of Mechanical Engineering (Thermal Fluids) with Hons.
 -IBM Data analytics : Ongoing
 -Microsoft Power BI Data Analyst : Ongoing
 
-**2017-2020 SICK SENSOR INTELLIGENCE SDN. BHD** 
+**2017-2020 
 **Production Engineer**
 -Managed to increase Worker Productivity from 90% to 98%
 -Managed to achieve Shipping goods target output on time JIT from 80% to 100%
@@ -38,7 +40,7 @@ Bachelor's of Mechanical Engineering (Thermal Fluids) with Hons.
 -To provide managerial support to production manager on daily department operation, such as5S,output and continuous improvement
 -Translating Proofread Germany Technical report into English to use in Asia's branch
 
-**2020-2024 SICK SENSOR INTELLIGENCE ASIA SINGAPORE **
+**2020-2024 ASIA SINGAPORE **
 **Industrial Engineer**
 -Involved with Project Integration team from Germany, China, Singapore to Production Plant in Malaysia
 -Work directly and closely on daily basis with Project Manager & all engineer and Executive (R&D, Electrical, Mechanical & Design, IT) 
