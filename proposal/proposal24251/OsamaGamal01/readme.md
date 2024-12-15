@@ -41,7 +41,7 @@ Solar Irradiance Forecasting, Photovoltaic Systems (PV), Hybrid Machine Learning
 
 1. To develop a hybrid machine learning model combining LSTM and NARX neural networks
 2. To analyze the influence of various weather parameters, determining their individual and collective impact on the forecasting model’s performance.
-3. 3.	To develop a dashboard to display forecasts and analyze trends
+3. To develop a dashboard to display forecasts and analyze trends
 
 ---
 
