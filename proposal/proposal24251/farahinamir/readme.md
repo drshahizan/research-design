@@ -2,7 +2,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://github.com/farahinamir/photo/blob/main/WhatsApp%20Image%202024-12-15%20at%2011.49.03%20AM.jpeg" />
+  <img height="200px" src="https://github.com/farahinamir/photo/blob/main/photo.md/photo%20me.jpeg" />
 
 
 <table align="center">
