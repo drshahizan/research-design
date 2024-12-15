@@ -30,7 +30,7 @@ Landslides, ArGIS, Machine Learning.
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1.  | Proposal | <a href="Nurfarahin_MCST1033_Proposal Form.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="CHAPTER 1/CHAPTER 1_proposal (Nurfarahin).pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="(https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/farahinamir/Chapter%202/CHAPTER%202%20(farahin).pdf)"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="CHAPTER 2 (farahin).pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href="Chapter 3/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  5.  | Chapter 4 | <a href="Chapter 4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
