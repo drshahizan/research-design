@@ -22,7 +22,7 @@
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href=""><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/Albaagari10/Proposal/Proposal_%20Omar%20Mohammed%20Ali%20Albaagari.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/Albaagari10/Chapter%201/Chapter%201_%20Omar%20Mohammed%20Ali%20Albaagari.pdf.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/Albaagari10/Chapter%202/Chapter%202%20_%20Omar%20Mohammed%20Ali%20Albaagari.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href=""><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
