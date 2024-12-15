@@ -1,7 +1,7 @@
 # Title: Cricket Data scraping and Analysis for Robust Data-Driven Decisions
 
 <div align="center">
-  <img src="cric.png" alt="Alt text" width="400"/>
+  <img src="WhatsApp Image 2024-12-15 at 14.15.10.jpeg" alt="Alt text" width="400"/>
 </div>
 
 <div align="center">
