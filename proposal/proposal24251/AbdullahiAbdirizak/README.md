@@ -20,8 +20,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>UMMI FARIHAH BINTI ABD WAHID</td>
-    <td>MCS231032</td>
+    <td>Abdullahi Abdirizak Adam</td>
+    <td>MCS231037</td>
   </tr>
 
 </table>
