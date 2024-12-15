@@ -1,5 +1,5 @@
 
-<p align="center"><img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/haerasha/images/IMG_2294.jpg"></p>
+<p align="center"><img height="900px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/haerasha/images/IMG_2294.jpg"></p>
 
 
 
