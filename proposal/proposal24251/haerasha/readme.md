@@ -1,5 +1,5 @@
 
-<p align="center"><img height="300px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/haerasha/images/IMG_2294.jpg"></p>
+<p align="center"><img height="400px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/haerasha/images/IMG_2294.jpg"></p>
 
 
 
@@ -16,8 +16,8 @@
 </table>
 
 ## Title: Predictive Maintenance And Performance Optimization For Jet Engines Based On Rolls-Royce Engine Manufacturer and Services Within The Aerospace Sector
-##Abstract: 
-## Keyword:
+**##Abstract:** 
+## Keyword: Aerospace, Roll's Royce Aircraft engine, Predictive Modelling, Engine optimization
 ## Submission
 
 | No  | Chapter     |                                                 File |
