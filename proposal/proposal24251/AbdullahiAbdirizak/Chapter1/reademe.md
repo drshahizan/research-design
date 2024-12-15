@@ -1,6 +1,6 @@
-#CHAPTER 1
-##INTRODUCTION
-###1.1 Introduction
+# CHAPTER 1
+## INTRODUCTION
+### 1.1 Introduction
 As digital news platforms continue to grow in number and influence, this has brought forth not just 
 the possibility of more options for us to consume content from, but from content we never knew 
 existed. Yet alongside this digital revolution, the emergence of various challenges has been 
