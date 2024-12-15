@@ -1,5 +1,5 @@
 
-### WELCOME 👋        
+### Proposal       
 <p align="center">
 <img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/image/5659d70a669c983e8f21b5af4d2a9a6.jpg" width="350px">
 </p>
