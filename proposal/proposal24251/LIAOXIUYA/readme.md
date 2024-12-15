@@ -3,7 +3,7 @@
 ### Name:       Liao Xiuya                                                                            
 ### Matric no.: MCS241025            
 <p align="center">
-<img src="https://github.com/LIAOXIUYA/LIAOXIUYA/blob/main/image/b1d37031b7d37d607c14196d815032f.jpg#pic_center" width="350px">
+<img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/image/5659d70a669c983e8f21b5af4d2a9a6.jpg" width="350px">
 </p>
 
 
