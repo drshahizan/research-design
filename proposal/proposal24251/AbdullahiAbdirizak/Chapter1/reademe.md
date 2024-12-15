@@ -1,7 +1,5 @@
 # CHAPTER 1
-<p align="center">
- INTRODUCTION
-</p>
+## INTRODUCTION
 ### 1.1 Introduction
 As digital news platforms continue to grow in number and influence, this has brought forth not just 
 the possibility of more options for us to consume content from, but from content we never knew 
@@ -17,7 +15,7 @@ algorithms along with natural language processing (NLP) techniques for the formu
 automated system capable of detecting and classifying fake news articles. This type of model could 
 help reduce the harmful impacts of misinformation by providing a scalable and rapid way to address 
 this widespread problem.
-1.2 Background of the Problem
+### 1.2 Background of the Problem
 The proliferation of fake news is inextricably linked to the advent of digital communication. Fake 
 news articles designed to pass as real news are warping public perception by using fantasy as 
 substantiated information. This miscalculation is not only limited to individual cases; it has wideranging consequences that damage society by undermining the credibility of media organizations, 
@@ -33,7 +31,7 @@ current systems often fail to provide the accuracy, flexibility, and scalability
 the complex and dynamic challenge presented by fake news comprehensively. That is why we need 
 to use machine learning and NLP approaches to solve these problems in a novel way and in real 
 time.
-1.3 Statement of the Problem
+### 1.3 Statement of the Problem
 Fake news has become a pressing social problem due to the growing number of digital platforms. 
 Although efforts are made to curb its impact, current detection approaches cannot verify its 
 presence. In the putative names of the 'great', the limitation of manual fact-checking strategies can 
@@ -45,18 +43,18 @@ goal is to create a model built on machine learning, which takes as input news a
 determines whether they are fake or real depending on their textual content and some metadata. 
 Focusing on real time applicability, scalability, and accuracy, this study seeks to address the 
 limitations of existing approaches and overcome the criteria of a good fake news detection system.
-1.4 Research Questions
+### 1.4 Research Questions
 1. How can fake news articles be textually distinguished from real ones?
 2. What machine learning algorithms could be leveraged to potentially classify news articles as 
 fake or not?
 3. What approaches are used to build a scalable, for real-time fake news detection?
-1.5 Research Objectives
+### 1.5 Research Objectives
 1. To perform pre-processing and analysis on a given set of datasets to gain insights on the 
 features that differentiate fake news from real news.
 2. To Create a classification model with high-level Machine learning algorithms to detect fake 
 news.
 3. We aim to develop and test a timely system that can act in detecting fake news in textual data
-1.6 Scope of the Study
+### 1.6 Scope of the Study
 This study was limited to English-language news articles using labeled datasets (True. csv and Fake. 
 csv). For a more in-depth analysis of linguistic correlations, the study analyzes textual information 
 only, avoiding multimedia like imagery and video content. This study utilizes state-of-the-art natural 
@@ -64,7 +62,7 @@ language processing methods and machine learning approaches to build and deploy 
 news detection system. The focus here is intentional, because it means we can explore the nuances 
 and systematic approaches to text-based techniques for identifying fake news without the 
 complications of multimedia analysis.
-1.7 Significance of the Research 
+### 1.7 Significance of the Research 
 This has practical as well as societal implications. We can avoid manual term search and thus provide 
 a scalability for real-time applications by automating the process of fake news detection which the 
 manual fact-checking methods are not able to do and brings a lot of inefficiencies. Their findings 
