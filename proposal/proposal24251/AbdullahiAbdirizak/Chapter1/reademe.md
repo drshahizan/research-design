@@ -1,5 +1,7 @@
 # CHAPTER 1
-## INTRODUCTION
+<p align="center">
+ INTRODUCTION
+</p>
 ### 1.1 Introduction
 As digital news platforms continue to grow in number and influence, this has brought forth not just 
 the possibility of more options for us to consume content from, but from content we never knew 
