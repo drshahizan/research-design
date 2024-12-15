@@ -27,10 +27,14 @@ In recent years, the rapid development of the automotive industry and the global
 The goal of this study is to use the data sets of Kaggle and IEA Global EV Data Explorer to focus on major countries with high electric vehicle penetration and market influence in the world, so as to fully understand the dynamics of the electric vehicle market and effectively analyze and predict the future development of the electric vehicle industry.
 
 ## Objectives of the Project:
-1.	Analyze historical trends: Examine the sales data of various types of electric vehicles in major countries around the world from 2010 to 2020 to identify and analyze the main trend characteristics.
-2.	Forecasting future sales: Leverage machine learning and time series analysis to develop forecasting models to forecast EV sales trends through 2030.
-3.	Evaluate influencing factors: Evaluate the impact of technological advances, government policies, market dynamics, and consumer preferences on all types of electric vehicles.
-4.	Deliver strategic insights: Advise automakers, policymakers, and investors to support informed decision-making and strategic planning.
+1. To Analyze historical trends: Examine the sales data of various types of electric vehicles in major countries around 
+the world from 2010 to 2020 to identify and analyze the main trend characteristics.
+2. To Forecasting future sales: Leverage machine learning and time series analysis to develop forecasting models to 
+forecast EV sales trends through 2030.
+3. To Evaluate influencing factors: Evaluate the impact of technological advances, government policies, market 
+dynamics, and consumer preferences on all types of electric vehicles.
+4. To Deliver strategic insights: Advise automakers, policymakers, and investors to support informed decision-making 
+and strategic planning.
 
 ## Scopes of the Project:
 1.	Historical sales data: Analyze global EV sales from 2010 to 2020, with a focus on key country markets.
@@ -49,7 +53,7 @@ The goal of this study is to use the data sets of Kaggle and IEA Global EV Data 
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/proposal/proposal.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/proposal/Proposal.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/chapter%201/Chapter%201.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="Chapter 2"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href="Chapter 3"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
