@@ -21,10 +21,10 @@
 ## Title: Sentiment Analysis on Hotel Review Using Machine Learning
 
 ## Abstract:
-
+Sentiment analysis also known as “opinion mining” or “emotion AI” is a technique used to gather and examine user thoughts, opinions, and responses to a particular topic. Sentiment analysis is frequently performed using text mining with Natural Language Processing (NLP) tools to examine evaluations and reactions. It involves analysing the review in form of text to determine whether it expresses positive, negative, or neutral sentiment.As a traveller, booking a hotel is part of the planning. Usually, other people’s review will influence a user’s decision to find and book the best hotel to stay. Reviews available on the internet are more relevant, actual and detailed than the reviews found in hotel brochures. There are various sources of online platform to find the reviews to get a better insight about the hotel’s reputation. For example, Google Review, Agoda and Booking.com. So, customer’s reviews play an important part for both user and business owner for decision making and improvement for the services. 
 
 ## Keywords: 
-
+Sentiment Analysis, Hotel Review, Machine Learning
 
 ## Submission
 
