@@ -18,7 +18,7 @@
 
 
 
-## Title: Historical Analysis and Future Predictions With Global Electric Vehicle Market
+## Title: Predictions With Global Electric Vehicle Market
 
 
 
