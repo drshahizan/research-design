@@ -18,10 +18,10 @@
 </table>
 <br>
 
-## Title: Acquisition of Social Media Data and Sentiment Analysis
+## Title: Cross-platform public opinion tracking and analysis on Chinese social media
 
 ## Abstract:
-  With the advancement of Internet technology and the popularity of smart mobile devices, social media has become an indispensable part of people's daily lives.The short text content such as tweets, microblogs, comments, replies, etc. posted by users on social media platforms not only reflects their immediate emotions and attitudes, but also has great research value. Whether it is for the business activities of enterprises (such as public relations) or the social governance of the government, the discovery and tracking of public opinion is very important. The core algorithm in public opinion analysis is the sentiment analysis algorithm.
+  With the advancement of Internet technology and the popularity of smart mobile devices, social media has become an indispensable part of people's daily lives. The short text content such as tweets, microblogs, comments, replies, etc. posted by users on social media platforms not only reflects their immediate emotions and attitudes, but also has great research value. Whether it is for the business activities of enterprises (such as public relations) or the social governance of the government, the discovery and tracking of public opinion is very important. The core algorithm in public opinion analysis is the sentiment analysis algorithm.
 
   The main creators of data on social networks are ordinary people. When they create content spontaneously, the content is diverse, including but not limited to short videos, short texts, pictures, emoticons, long texts or long videos. These are different from the traditional language environment. Therefore, this study will focus on the special language environment of social networks, collect and analyze data on online short texts on multiple social media in China, build a new word discovery system based on the language environment, track and collect data on multiple platforms for the same event at the same time, and use natural language processing technology and deep learning models for sentiment analysis.
 
