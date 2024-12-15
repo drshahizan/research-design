@@ -1,7 +1,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/sfzza/picture.jpg/" />
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/RaianHafizNiloy/picture.jpg/" />
 </p>
 
 <table align="center">
