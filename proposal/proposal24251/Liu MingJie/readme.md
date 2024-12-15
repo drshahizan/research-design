@@ -13,8 +13,6 @@
   <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/Liu%20MingJie/IMG_0283(20241014-130532).jpg" />
 </p>
 
-## Title: Sentiment Analysis and User Behavior Prediction in Social Networks
-
 <table align="center">
   <tr>
     <th>Name</th>
@@ -28,6 +26,7 @@
 </table>
 <br>
 
+## Title: Sentiment Analysis and User Behavior Prediction in Social Networks
 ## Abstract:
 The popularity of social media generates a huge amount of user-generated content, which is rich in data resources and is useful for applications like targeted advertising, content recommendation, and social network analysis. However, it remains challenging to conduct sentiment analysis and user behavior prediction because human languages and behaviors are so complex and diverse. In view of this, the research aims to develop effective models and methods to cope with the challenges in sentiment analysis and user behavior prediction in social networks. Focusing on specific social network platforms and target user groups, the study will employ natural language processing and machine learning techniques to analyze user-generated content and user behavior data. The study will then establish models for sentiment analysis and user behavior prediction and assess their effectiveness through a set of indicators while pinpointing major factors affecting user behavior through feature analysis and model interpretation. The research outcomes will contribute to effective ways of sentiment analysis and user behavior prediction in social networks and will enable enterprises, researchers, and policymakers to better understand user behaviors and develop marketing strategies targeting these behaviors.
 
