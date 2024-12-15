@@ -1,10 +1,18 @@
 
-### WELCOME 👋
-### Name:       Liao Xiuya                                                                            
-### Matric no.: MCS241025            
+### Proposal       
 <p align="center">
 <img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/image/5659d70a669c983e8f21b5af4d2a9a6.jpg" width="350px">
 </p>
+<table align="center">
+  <tr>
+    <th>Name</th>
+    <th>Matric No.</th>
+  </tr>
+  <tr>
+    <td>Liao Xiuya</td>    
+    <td>MCS241025</td>
+  </tr>
+</table>
 
 
 

@@ -29,10 +29,10 @@ Below is an outline of the chapters with links to the corresponding PDFs.
 
 | Chapter Name               | PDF Link                                      |
 |----------------------------|-----------------------------------------------|
-| **Chapter 1: Introduction** | [📄](Chapter%201/LaibaNadeem_Chapter1.pdf) |
-| **Chapter 2: Literature Review** | [📄](Chapter%202/Chapter2_LaibaNadeem_MCS241005.pdf) |
-| **Chapter 3: Methodology**  | [📄](https://github.com/laib00/proposal/raw/main/proposal24251/laib00/Chapter%203/LaibaNadeem_Chapter3.pdf) |
-| **Chapter 4: Results and Discussion** | [📄](https://github.com/laib00/proposal/raw/main/proposal24251/laib00/Chapter%204/LaibaNadeem_Chapter4.pdf) |
+| **Chapter 1** | [📄](Chapter%201/LaibaNadeem_Chapter1.pdf) |
+| **Chapter 2** | [📄](Chapter%202/Chapter2_LaibaNadeem_MCS241005.pdf) |
+| **Chapter 3**  | [📄](https://github.com/laib00/proposal/raw/main/proposal24251/laib00/Chapter%203/LaibaNadeem_Chapter3.pdf) |
+| **Chapter 4** | [📄](https://github.com/laib00/proposal/raw/main/proposal24251/laib00/Chapter%204/LaibaNadeem_Chapter4.pdf) |
 | **Chapter 5: Conclusion**   | [📄](https://github.com/laib00/proposal/raw/main/proposal24251/laib00/Chapter%205/LaibaNadeem_Chapter5.pdf) |
 
 # Objectives of the Project:
