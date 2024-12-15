@@ -9,7 +9,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/UmmiWahid/Gambar%20Ummi.png" />
+  <img height="200px" src="../images/me.png" />
 </p>
 
 ## Title: Fake News detection Using Machine Learning.
