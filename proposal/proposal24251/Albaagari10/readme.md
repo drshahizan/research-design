@@ -1,1 +1,18 @@
+# Proposal
 
+<p align="center">
+
+
+<table align="center">
+  <tr>
+    <th>Name</th>
+    <th>Matric No.</th>
+  </tr>
+  <tr>
+    <td>Omar Mohammed Ali Albaagari</td>
+    <td>MCS241021</td>
+  </tr>
+
+</table>
+
+## Title: A Sentiment Analysis of Amazon Reviews Using Machine Learning Model
