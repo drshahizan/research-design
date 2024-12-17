@@ -4,7 +4,7 @@
   <p align="center"><img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSahak/images/Me.jpg">
 </p>
 
-## Title: Machine Learning-Driven Accident Prediction to Enhance Inherent Safety Design Throughout Process Design Lifecycle
+## Title: Predictive Modeling of Pollution in River Basins Using Machine Learning Techniques
 
 <table align="center">
   <tr>
@@ -22,11 +22,11 @@
 ## Abstract:
 
 <p align="justify">
-Poor dissemination of incident knowledge and imbalance in the better practices of risk management hinder learning from earlier accidents, which has hitherto contributed to high accident rates in the chemical process industry (CPI). As a result, similar accidents keep occurring due to dependence on the outer protection layer for risk reduction strategies. The inherent safety design (ISD) principles remain under implementation in chemical plant design due to their discrete application. The integration of the topics in this study aims to close the gap by introducing IS into a systematic approach based on accidents for deployment throughout the entire process design lifecycle. At least 500,000 incident investigation reports will be retrieved from various reputable sources, including the US Chemical Safety and Hazard Investigation Board (CSB), the US National Transportation Safety Board (NTSB), the US Environmental Protection Agency (EPA), Japan's Science, and Technology Failure Knowledge Database (FKD), and the EU Major Accident Reporting System (e-MARS). The accident reports span from 1990 to 2024. Accident contributors will be classified into design, technical, human, organizational, and external errors. Root causes will be further classified into process design life cycles of research and development (R&D), preliminary engineering, basic engineering, detailed engineering, procurement, fabrication, commissioning start-up, and operation/plant modification. Recommendations within the reports will be classified based on preventive, protective, mitigative, and corrective actions. These safety actions are further categorized by inherent safety, passive-engineered, and active-engineered measures. Inherent safety recommendations will focus on ISD (Inherently Safer Design) principles: minimization, substitution, moderation, and simplification. Case studies such as that of Bhopal, BP Texas City, and BP Deepwater Horizon accidents will serve as applications for machine learning (ML) techniques, with the intent to average the case predictions for validating the framework's effectiveness. Findings will demonstrate that ML accident prediction-based analysis can provide a strong guideline for ISD principles incorporation in design reviews for improved accident prevention in new chemical plants.
+The major reason for the pollution in river basins is that those are becoming dangerous threats to sustainability as well as health. This paper presents an attempt to develop a prediction model for the forecasting of pollution levels in the river basins of Malaysia using efficient machine learning techniques. The model would use historical water quality data, weather data, and other relevant factors for future trends. It shall assist in providing insightful recommendations for efficient pollution management and mitigation measures. This project is intended to pave the way for sustainable management of water resources by trying to enable proactive approaches to protecting water quality and public health.
 </p>
 
 ## Keywords: 
-Inherent Safety Design, Accident Prediction, Machine Learning, Process Design Lifecycle, Chemical Process Industry
+Machine learning, river basin pollution, predictive modeling, water quality, environmental monitoring
 <br>
 ## Submission
 
@@ -40,30 +40,30 @@ Inherent Safety Design, Accident Prediction, Machine Learning, Process Design Li
 |  6.  | Chapter 5 | <a href="Chapter 5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Full Chapter/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
-# **Accident Prediction**
+# **Predictive Modeling**
 <div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSshak/images/Picture2.png"></div>
 
 <p align="justify">
-Accident prediction is made by machine learning by analyzing earlier accident data. It will consider factors like process conditions, equipment details, environmental factors, and human behaviors to identify patterns that may lead to accidents. Such data is used for training machine learning models to get the likelihood of occurrence of an accident by specific conditions or designs.
+
   
 <p align="justify">
-In practice, this method of prediction allows the engineers to design safe processes devoid of hazardous materials, make better equipment selection, and build safer operational limits. It also contributes to safety improvement through early detection of the problem and preventing accidents from happening. With the addition of data, machine learning models would continuously develop and improve safety predictions.
+
 
 <p align="justify">
-In reality, factory information could be historical on specific equipment under stated conditions. Then, machine learning could collaborate with that information to predict possible occurrences of future failure along those same conditions. This would allow managers to make more intelligent decisions when designing processes and equipment, which could lead to improved safety improvements.
+
 </p></br>
 
 # **Machine Learning**
 <div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LeynzSahak/images/Picture1.png"></div>
 
 <p align="justify">
-Machine learning (ML) studies the past limitations of accident data to develop the conditions under which future accidents may occur. Learning from past events helps machines detect the pattern and causes of accidents leading plant engineers to design safer processes.
+
   
 <p align="justify">
-It means retrieving information on accidents, equipment failures, and relevant operating conditions in the past. The information goes to train a machine-learning model to detect the patterns that will indicate some risks. It will predict further the occurrence of accidents in designs or processes for future operations once the education is over. The engineer will utilize this prediction during the early phase of design risk assessments in making changes as necessary when the use of safer materials is anticipated or modifying operating conditions. With the accumulation of further data in the future, predictions through the machine learning model will tend to improve.
+
 
 <p align="justify">
-Machine learning technologies help design improvements in-built security by evaluating the possibility of threats short before these exist, making it possible to design and conduct processes more safely and effectively in the early phase of design.
+
 </p></br>
 
 # **Research Framework**
