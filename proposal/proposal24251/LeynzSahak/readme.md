@@ -68,9 +68,4 @@ Machine learning, river basin pollution, predictive modeling, water quality, env
 
 # **Research Framework**
 
-</br> 
-## Contribution 🛠️
 
-Please create an [Issue](https://github.com/drshahizan/special-topic-data-engineering/issues) for any improvements, suggestions or errors in the content.
-
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
