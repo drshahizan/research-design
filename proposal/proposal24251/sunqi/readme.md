@@ -1,5 +1,5 @@
 # Personal Information
-<p align="center"><img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/sunqi/IMG_4713.jpg"></p>
+<p align="center"><img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/sunqi/IMG_4981.jpg"></p>
 
 <table align="center">
   <tr>
