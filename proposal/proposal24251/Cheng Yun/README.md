@@ -9,7 +9,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="proposal/proposal24251/Cheng Yun/Image/image.png" />
+  <img height="200px" src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/Cheng%20Yun/Image/image.png" />
 </p>
 
 <table align="center">
@@ -24,7 +24,7 @@
 
 </table>
 
-## Title: ABC
+## Title: Hybrid Machine Learning Models Optimise FOREX Prediction Accuracy
 
 ## Abstract:
 The 
