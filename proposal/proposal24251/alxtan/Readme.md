@@ -1,5 +1,5 @@
 # Personal Information
-<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/alxtan/img/photo.png"></div>
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/alxtan/img/photo.jpg"></div>
 <table align="center">
   <tr>
     <th>Name</th>
