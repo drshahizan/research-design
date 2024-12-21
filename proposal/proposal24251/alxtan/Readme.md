@@ -13,7 +13,7 @@
 
 ## Title: Sentiment Analysis of journalistic news articles using BiLSTM
 
-## Abstract:
+### Abstract:
 Sentiment analysis, also known as Opinion Mining has been proven to have many promising applications with extracting and analysing the opinions of users on social media. Most of sentiment analysis is able to uncover hidden trends with how users react by assigning semantic associations on units of language such as words and sentences. With the use of deep learning, the accuracy and potential for pattern recognition increased. There is now a potential for sentiment analysis to be applied to more subtle forms of sentiment such as more objective and neutral articles of text like journalism. This study uses sentiment anlaysis to analyze the underlying opinions and biases within journalism and analyzes the relationship between media outlets, their bias and popularity, and the potential use of narratives and propaganda to within their articles.
 
 ## Keywords: 
