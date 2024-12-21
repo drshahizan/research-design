@@ -1,4 +1,5 @@
 # Personal Information
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/alxtan/img/photo.png"></div>
 <table align="center">
   <tr>
     <th>Name</th>
@@ -30,18 +31,8 @@ Sentiment Analysis, BiLSTMs, Deep Learning, News Bias, Media Bias
 |  6.  | Chapter 5 | <a href="chapter5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="full/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
-# **LLM**
-<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/Picture2.png"></div>
-
-<br>
-
-# **DBSCAN**
-<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/Picture1.png"></div>
-
-<br>
-
 # **Research Framework**
-<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/wyu04/images/Research Framework (1).png"></div>
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/alxtan/img/diagram.png"></div>
 
 ## Contribution 🛠️
 
