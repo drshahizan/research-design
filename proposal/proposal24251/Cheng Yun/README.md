@@ -36,13 +36,13 @@ Predictable, FOREX, machine learning.
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="./Proposal/"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="./chapter1/"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="./chapter2/"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="./chapter3/"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="./chapter4/"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="./chapter5/"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="./chapter5/"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Propsal/"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Chapter1"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Chapter2"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Chapter3"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Chapter4"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Chapter5"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Full%20Chapter"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
 
 
 ## Contribution 🛠️
