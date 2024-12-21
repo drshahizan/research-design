@@ -9,7 +9,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Image/Image.png" />
+  <img height="200px" src="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Image/image.png" />
 </p>
 
 <table align="center">
