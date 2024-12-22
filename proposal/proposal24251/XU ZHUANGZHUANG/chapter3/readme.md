@@ -3,11 +3,7 @@
 Objective: Build a collaborative filtering recommendation system to predict user preferences and suggest products in an online shopping platform.
 Problem Statement: Improve user experience and sales conversion rates by recommending relevant products to users based on their behavior and preferences.
 ## 📚 2. Data Sources and Data Collection Methods
-a. Data Sources
-You can use publicly available datasets or collect your own data:
-
 Public Datasets:
-
 Amazon Product Reviews Dataset: Contains user reviews, ratings, and metadata.
 RetailRocket Dataset: Includes user interactions like clicks, purchases, and add-to-cart actions.
 Instacart Dataset: Contains grocery shopping patterns.
