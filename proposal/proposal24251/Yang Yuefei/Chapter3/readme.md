@@ -7,7 +7,8 @@ The research problem investigated in this study is predicting traffic congestion
 
 ## 3.2. Data Collection: 
 
-### 3.2.1. Accessing Traffic Data from Xmap.ai: API Registration: Registered for an API key on the Xmap.ai platform API Requests: Utilizing the API key, perform HTTP GET requests to the Xmap.ai endpoints to get traffic data. The data get in JSON format and contains various traffic metrics. Data Storage: Stored the collected data in CSV , to process it in the analysis step. 
+### 3.2.1. data acquisition
+1. Accessing Traffic Data from Xmap.ai: API Registration: Registered for an API key on the Xmap.ai platform API Requests: Utilizing the API key, perform HTTP GET requests to the Xmap.ai endpoints to get traffic data. The data get in JSON format and contains various traffic metrics. Data Storage: Stored the collected data in CSV , to process it in the analysis step. 
 2. Fetching Weather Data from OpenWeatherMap: API Registration: Signed up for an API key on the OpenWeatherMap website API Requests: Use the API key to make requests to the OpenWeatherMap historical weather data endpoint. 
 
 ### 3.2.2 Obtaining Public Transport Ridership and Vehicle Registration Data: Data Download: Navigate to the Ministry of Transport, Malaysia's open data portal and acquire the datasets. These are dataset files in CSV format. Data Import: Import the downloaded CSV files into an analysis environment using a variety of data manipulation libraries. Data Cleaning: The dataset will prospectively require cleaning to account for incomplete data and inconsistencies, all of which can influence the accuracy of any further data handling.
