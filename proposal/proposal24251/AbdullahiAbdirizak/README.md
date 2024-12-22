@@ -34,6 +34,7 @@
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1  | Chapter 1 | <a href="Chapter1/"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 |  2  | Chapter 2 | <a href="Chapter2/"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
+|  2  | Chapter 3 | <a href="Chapter3/"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 
 
 ## Contribution 🛠️
