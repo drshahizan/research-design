@@ -56,7 +56,7 @@ Solar Irradiance Forecasting, Photovoltaic Systems (PV), Hybrid Machine Learning
 
 ## RESEARCH METHODOLOGY 
 
-<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/OsamaGamal01/images/RESEARCH METHODOLOGY.png"></div>
+<div align="center"><img src="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/OsamaGamal01/images/FC.png"></div>
 
 
 ## Nonlinear Autoregressive with External Input, NARX Model:
