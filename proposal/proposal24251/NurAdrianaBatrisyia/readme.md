@@ -19,6 +19,12 @@
 
 ## Title: Money Laundering Detection of Suspicious Transaction using Machine Learning Algorithm
 
+## Abstract:
+Money laundering is a serious financial crime where criminals disguise the origins of illegal money through complex transactions. This project focuses on using data science method to detect suspicious transactions that may indicate money laundering. Using the Synthetic Anti-Money Laundering dataset, the project applies supervised machine learning to find unusual patterns in transactions. This study identifies transactional anomalies through feature engineering, classification and graph-based methodologies. By focusing on common money laundering typologies such as fan-in, fan-out, mutual,and cycle, this project aims to develop models that can flag risky accounts and transactions, helping to improve Anti-Money Laundering (AML) systems and combat financial crime.
+
+## Keywords: 
+Money Laundering Detection, Anti-Money Laundering, Transactional Anomalies, Supervised Machine Learning, Transactions Typologies, Classification Algorithms
+
 ## Submission
 
 | No  | Chapter     |                                                 File |
