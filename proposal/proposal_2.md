@@ -11,8 +11,8 @@ Research proposal writing is a systematic and structured way of presenting a res
 
 ## Sample Proposal & Template
 
-| No. | Name                                    | ID                 |  Title | Proposal | Presentation | Video |
-|-----|-----------------------------------------|--------------------|--------------------------------------------------------------------------|:---------------------:|:------:| :------:|
+| No. | Name                                    | ID                 |  Title | Proposal | Presentation | 
+|-----|-----------------------------------------|--------------------|--------------------------------------------------------------------------|:---------------------:|:------:| 
 | 1  | MOHD SHAHIZAN OTHMAN                      | drshahizan   |   Proposal template   | <a href="drshahizan"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="drshahizan"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
 | 2   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      |  Modelling The Impact of Oil Price and Stock Market Price on Gold Price using Long Short Term Memory (LSTM) and Vector Autoregression (VAR) Model    | <a href="UmmiWahid"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="UmmiWahid/ppt"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
 | 3   | NURAMIRA SHAFINAZ BINTI ZULAILEE  | amyrafynaz     | Time Series Forecasting for Energy Consumption in Malaysia Using Regression Technique | <a href="amyrafynaz"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="amyrafynaz/ppt"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
@@ -22,8 +22,8 @@ Research proposal writing is a systematic and structured way of presenting a res
 
 ## Proposal
 
-| No. | Name                                    | ID                 |  Title | Proposal | Presentation | 
-|-----|-----------------------------------------|--------------------|--------------------------------------------------------------------------|:---------------------:|:------:|
+| No. | Name                                    | ID                 |  Title | Proposal | Presentation | Video |
+|-----|-----------------------------------------|--------------------|--------------------------------------------------------------------------|:---------------------:|:------:|:------:|
 | 1   | ABDULLAHI ABDIRIZAK ADAM               | AbdallaAbdirizak   | Fake News detection Using Machine Learning | <a href="proposal24251/AbdullahiAbdirizak/"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="drshahizan"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
 | 2   | ABUBAKAR SADIQ SADIQ                 |  sadiqsadiq404  |         Optimizing Delivery Routers For E-commerce Using Linear Programming                | <a href="proposal24251/sadiqsadiq404"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="drshahizan"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
 | 3   | ALEXANDER TAN KA JIN                   | alxtan12           | Sentiment Analysis of journalistic news articles using BiLSTM      | <a href="proposal24251/alxtan"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="drshahizan"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
