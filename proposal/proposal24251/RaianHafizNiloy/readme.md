@@ -35,8 +35,8 @@ sentiment analysis, stock market prediction
 |  1.  | Proposal | <a href="Raian Hafiz Niloy_Proposal Form.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 | <a href="Chapter1_RaianHafizNiloy.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="Chapter2_RaianHafizNiloy.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="research method.docx"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="Chapter 4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter3_RaianHafizNiloy.docx"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="Chapter4_RaianHafizNiloy.docx"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="Chapter 5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Complete Chapter"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
