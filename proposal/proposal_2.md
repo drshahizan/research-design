@@ -17,7 +17,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | 2   | UMMI FARIHAH BINTI ABD WAHID      | UmmiWahid      |  Modelling The Impact of Oil Price and Stock Market Price on Gold Price using Long Short Term Memory (LSTM) and Vector Autoregression (VAR) Model    | <a href="UmmiWahid"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="UmmiWahid/ppt"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
 | 3   | NURAMIRA SHAFINAZ BINTI ZULAILEE  | amyrafynaz     | Time Series Forecasting for Energy Consumption in Malaysia Using Regression Technique | <a href="amyrafynaz"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="amyrafynaz/ppt"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
 | 4   | SOLEHAH NAJIIHAH BINTI ABD JAMAL  | solehahnajiihah| Topic-Based Sentiment Analysis using BERT and Deep Learning | <a href="solehahnajiihah"><img src="../images/folder.png" width="24px" height="24px"></a> | <a href="solehahnajiihah"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
-| 5   | GRACE LING KIAN HWAI  | GraceLKH | TEMPORAL ANALYSIS OF CLIMATIC-FOREST FIRE CORRELATION IN PENINSULAR MALAYSIA USING ARIMA AND MACHINE LEARNING |  | <a href="solehahnajiihah"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
+| 5   | GRACE LING KIAN HWAI  | GraceLKH | TEMPORAL ANALYSIS OF CLIMATIC-FOREST FIRE CORRELATION IN PENINSULAR MALAYSIA USING ARIMA AND MACHINE LEARNING |  | <a href="https://github.com/drshahizan/research-design/blob/main/images/Slide_Grace_MSC230126.pdf"><img src="../images/powerpoint.svg" width="24px" height="24px"></a> |
 
 ## Proposal
 
