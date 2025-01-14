@@ -26,6 +26,13 @@
 </table>
 <br>
 
+---
+
+## Abstract
+
+Rapid growth in domain of last mile delivery due to rapid growth in e-commerce has led to a rapidly evolving retail landscape with an urgent need for efficient and cost-effective logistics solutions. In this project we address the use of linear programming (LP) to optimize delivery routes in e-commerce logistics based on the challenges such as high delivery cost, environmental sustainability and dynamic demand fluctuations. The developed optimization model minimizes operational costs, delivery times, and environmental impacts, incorporating constraints like vehicle capacity, delivery time windows, and changeable renewables.
+
+This research uses an LP model formulation, integration of real-world constraints and validation with synthetic and real-world datasets. Sound tools like Gurobi and PuLP were then used to solve the optimization problem, providing scalability and real time adaptability. Initial results show this model is capable of reducing delivery costs by 22 percent, reducing delivery times by 18% and cutting emissions by 15 percent, which are promising for operational efficiency and green logistics practices. Through offering a scalable framework for e-commerce delivery route optimization, this project is useful for academia, industry, and society. Overall, it provides some actionable insights for logistics companies, or policymakers, or researchers, particularly around how they can integrate advanced technologies across smart IoT, AI and blockchain to LP models. The findings support the transformative potential of data driven optimization in modern logistics and show the way to more sustainable and efficient delivery systems.
 
 ## Submission
 
