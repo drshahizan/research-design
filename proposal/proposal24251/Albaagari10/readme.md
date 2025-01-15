@@ -29,3 +29,4 @@
 |  5.  | Chapter 4 | <a href=""><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href=""><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | FULL CHAPTER | <a href=""><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  8.  | Slides Presentation | <a href=""><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
