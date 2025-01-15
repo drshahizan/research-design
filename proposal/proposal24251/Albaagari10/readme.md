@@ -29,4 +29,4 @@
 |  5.  | Chapter 4 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/Albaagari10/Chapter%204/chapter%204%20_%20Omar%20Mohammed%20Ali%20Albaagari.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/Albaagari10/Chapter%205/Chapter%205_%20Omar%20Mohammed%20Ali%20Albaagari.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | FULL CHAPTER | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/Albaagari10/Full%20Chapters/Thesis_Omar%20Mohammed%20Ali%20Albaagari.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Slides Presentation | <a href=""><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  8.  | Slides Presentation | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/Albaagari10/Slides%20Presentation/Slides%20_%20Omar%20Mohammed%20Ali%20Albaagari.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
