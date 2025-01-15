@@ -18,6 +18,32 @@
 ## Title: A Sentiment Analysis of Amazon Reviews Using Machine Learning Model
 
 
+## Abstract:
+Recently, Amazon has seen swift advancement. Consequently, online purchasing has increased, resulting in a rise in online customer reviews of products. The implicit sentiments in customer reviews significantly impact purchasing decisions, as consumers' perceptions of a product are shaped by the recommendations or grievances of other buyers. This research analyses the Amazon Reviews dataset and examines sentiment classification using several machine learning methodologies. Initially, the reviews were sanitised and subsequently reprocessed, followed by the execution of exploratory data analysis in this research. Ultimately, the VADER and Roberta models were created for sentiment analysis. The data frame for each model has been obtained. 
+## Keywords: 
+Sentiment Analysis, Machine Learning, VADER, Roberta
+
+## Research Objectives
+
+(a)	To conduct a preprocessing of the office products reviews datasets for sentiment analysis.
+(b)	To train a machine learningimodel that is capable of sorting customer evaluations into three unique sentimenticategories, namely positive, neutral, and negativeicategories
+(c)	To develop a dashboard that summarize the analysis and making conclusion of their behaviour.
+
+---
+
+## Scope of Work
+
+(a)	The data will be collected from Amazon reviews’2023 Repository.
+(b)	The programming language that is chosen is Python.
+(c)	Implementing the VADER and Roberta models for the sentiment analysis
+(d)	Sorting the customer reviews into positive, neutral, and negative categories.
+(e)	Building a dashboard using PowerBi for the behaviour of the customers.
+
+---
+
+
+
+
 ## Submission
 
 | No  | Chapter     |                                                 File |
