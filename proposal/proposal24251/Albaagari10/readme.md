@@ -33,11 +33,11 @@ Sentiment Analysis, Machine Learning, VADER, Roberta
 
 ## Scope of Work
 
-(a)	The data will be collected from Amazon reviews’2023 Repository.
-(b)	The programming language that is chosen is Python.
-(c)	Implementing the VADER and Roberta models for the sentiment analysis
-(d)	Sorting the customer reviews into positive, neutral, and negative categories.
-(e)	Building a dashboard using PowerBi for the behaviour of the customers.
+- The data will be collected from Amazon reviews’2023 Repository.
+- The programming language that is chosen is Python.
+- Implementing the VADER and Roberta models for the sentiment analysis
+- Sorting the customer reviews into positive, neutral, and negative categories.
+- Building a dashboard using PowerBi for the behaviour of the customers.
 
 ---
 
