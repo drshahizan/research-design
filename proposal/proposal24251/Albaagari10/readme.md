@@ -25,9 +25,9 @@ Sentiment Analysis, Machine Learning, VADER, Roberta
 
 ## Research Objectives
 
-(a)	To conduct a preprocessing of the office products reviews datasets for sentiment analysis.
-(b)	To train a machine learningimodel that is capable of sorting customer evaluations into three unique sentimenticategories, namely positive, neutral, and negativeicategories
-(c)	To develop a dashboard that summarize the analysis and making conclusion of their behaviour.
+-	To conduct a preprocessing of the office products reviews datasets for sentiment analysis.
+- To train a machine learningimodel that is capable of sorting customer evaluations into three unique sentimenticategories, namely positive, neutral, and negativeicategories
+- To develop a dashboard that summarize the analysis and making conclusion of their behaviour.
 
 ---
 
