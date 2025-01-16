@@ -70,7 +70,7 @@ and strategic planning.
 |  4.  | Chapter 3 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/chapter%203/CHAPTER%203.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  5.  | Chapter 4 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/chapter%204/Chapter%204.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/chapter%205/Chapter%205.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="Complete Chapter"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/full%20chapter/all%20chapter.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
 
 
