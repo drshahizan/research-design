@@ -64,7 +64,7 @@ and strategic planning.
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/proposal/Proposal.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/proposal/Proposal%20.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/chapter%201/Chapter%201.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/chapter%202/chapter%202.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/LIAOXIUYA/chapter%203/CHAPTER%203.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
