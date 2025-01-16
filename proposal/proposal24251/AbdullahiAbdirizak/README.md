@@ -34,9 +34,9 @@
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1  | Chapter 1 | <a href="Chapter1/"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 |  2  | Chapter 2 | <a href="Chapter2/"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
-|  2  | Chapter 3 | <a href="Chapter3/"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
-
-
+|  3  | Chapter 3 | <a href="Chapter3/"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
+|  4  | Chapter 4 | <a href="Chapter4/"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
+|  5  | Chapter 5 | <a href="Chapter5/"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 ## Contribution 🛠️
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
