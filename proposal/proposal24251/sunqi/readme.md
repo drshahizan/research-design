@@ -25,3 +25,4 @@
 |  4  | Chapter 3 | <a href="./chapter3/Chapter3_SunQi.pdf"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 |  5  | Chapter 4 | <a href="./chapter4/Chapter4_SunQi.pdf"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 |  6  | Chapter 5 | <a href="./chapter5/Chapter5_SunQi.pdf"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
+|  7  | Complete chapter | <a href="./Complete chapter/Thesis_SunQi.pdf"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
