@@ -42,7 +42,7 @@ Social media, machine learning, LSTM
 |  4.  | Chapter 3 | <a href="Chapter 3/Chapter3_ZhuQian.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  5.  | Chapter 4 | <a href="Chapter 4/Chapter4_ZhuQian.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="Chapter 5/Chapter5_ZhuQian.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Full Chapter | <a href="Full Chapter/Thesis_ZhuQian"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Full Chapter | <a href="Full Chapter/Thesis_ZhuQian.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
 
 ## Contribution 🛠️
