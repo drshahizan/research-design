@@ -42,7 +42,7 @@ Game genres, sentiment analysis, player feedback
 |  4.  | Chapter 3 | <a href="Chapter 3/Chapter3_Safira Nurul Izza.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  5.  | Chapter 4 | <a href="Chapter 4/Chapter4_Safira Nurul Izza.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="Chapter 5/Chapter5_Safira Nurul Izza.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="Complete Chapter/Thesis_Safira.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Complete Chapter/Thesis_Safira Nurul Izza.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 
 
 ## Contribution 🛠️
