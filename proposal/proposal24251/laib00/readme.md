@@ -34,7 +34,7 @@ Below is an outline of the chapters with links to the corresponding PDFs.
 | **Chapter 3**  | [📄](Chapter%203/Chapter3_LaibaNadeem.pdf) |
 | **Chapter 4** | [📄](Chapter%204/Chapter4_LaibaNadeem.pdf) |
 | **Chapter 5:**  | [📄](Chapter%205/Chapter5_LaibaNadeem.pdf) |
-| **Full Chapter:** |[📄](Ful%Chapters/LaibaNadeem_AllChapters.pdf) 
+| **Full Chapter:** |[📄](Ful%2Chapters/LaibaNadeem_AllChapters.pdf) 
 
 # Objectives of the Project:
 1. To collect and preprocess the cricket data from various sources that include insights and players statistics. To analyze different metrics of the players like their strike rates, batting average, wicket-taking ability, and bowling economy to check their suitability for different matches.
