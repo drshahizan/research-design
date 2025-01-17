@@ -37,7 +37,10 @@ Web crawler, NLP, sentiment analysis, transform
 |  2  | Chapter 2 | <a href="./chapter2/Chapter2_TianFengshou_MCS231029.pdf"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 |  3  | Chapter 3 | <a href="./chapter3/Chapter3_TianFengshou_MCS231029.pdf"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 |  4  | Chapter 4 | <a href="./chapter4/Chapter4_TianFengshou_MCS231029.pdf"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
-|  5  | Chapter 5 | <a href="./chapter5/Chapter4_TianFengshou_MCS231029.pdf"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
+|  5  | Chapter 5 | <a href="./chapter5/Chapter5_TianFengshou_MCS231029.pdf"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
+| 6 | All | <a href="./All_Chapter_TianFengshou_EN.docx"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
+| 7 | PPT | <a href="./Data+Science+Research+Presentation TianFengshou.pptx"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
+| 8 | Video | <a href="https://youtu.be/1QGKDYxZt1k"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 
 ## Contact Me if you encounter any problems 📫
 
