@@ -40,7 +40,7 @@ Web crawler, NLP, sentiment analysis, transform
 |  5  | Chapter 5 | <a href="./chapter5/Chapter5_TianFengshou_MCS231029.pdf"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 | 6 | All | <a href="./All_Chapter_TianFengshou_EN.docx"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 | 7 | PPT | <a href="./Data+Science+Research+Presentation TianFengshou.pptx"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
-| 8 | Video | <a href="https://youtu.be/1QGKDYxZt1k"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
+| 8 | Video | <a href="https://youtu.be/zEVeKPWI4XQ"><img src="../../../images/answer.png" width="24px" height="24px"></a> |
 
 ## Contact Me if you encounter any problems 📫
 
