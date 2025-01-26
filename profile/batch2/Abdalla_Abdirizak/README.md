@@ -30,7 +30,7 @@
     - Developing scalable applications and systems.
     - Collaborated with cross-functional teams to improve performance.
 - **Interpreter and Translator**, Various Clients - *2017 – 2019*
-    - Provided interpretation and translation services in multiple languages (English, Arabic, Somali, Turkish).
+    - Provided interpretation and translation services in multiple languages (English, Arabic, Somali).
 
 ### Projects
 - **AirAsia Data Dashboard**
