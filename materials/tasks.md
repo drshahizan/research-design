@@ -14,16 +14,23 @@ Before attending the first lecture, ensure you've completed all the essential ta
 1. **Fill in Your Information** 📝  
    Please provide your details in the **Google Sheets** document [here](https://liveutm-my.sharepoint.com/:x:/g/personal/shahizan_live_utm_my/EaSdz8QuZKJHqMxXLxMDZ2UBSKCN_qS763jU0xb7PBtPaw?e=Wsf9FO).  
 
-2. **Star the GitHub Repository** ⭐  
+2. 💻 Create a GitHub Account
+You must have a GitHub account to participate in this class. If you don’t have one yet, please create it before the class begins.  
+[**How to Create a GitHub Account**](https://youtu.be/h5cKAd94QNo?si=FXiW-INgWM_-Au3M) (Video Guide)
+
+3. ✅ Follow Me on GitHub
+Go to [**My GitHub**](https://github.com/drshahizan) and click ‘Follow’. This is necessary so I can review your GitHub account.
+
+4. **Star the GitHub Repository** ⭐  
    As part of our course setup, please **star** the course repository available [here](https://github.com/drshahizan/HPDP). This repository will be our primary resource throughout the course. You will also be added as a collaborator.  
 
-3. **Access Teaching Materials** 📚  
+5. **Access Teaching Materials** 📚  
    All teaching materials will be hosted on **GitHub**. Please follow [this link](https://github.com/drshahizan/HPDP) to access them.  
 
-4. **Update Your GitHub Profile** 👨‍💻  
+6. **Update Your GitHub Profile** 👨‍💻  
    Ensure your **GitHub profile** is up to date with relevant information.  
 
-5. **Student Information Submission** 🔗  
+7. **Student Information Submission** 🔗  
    Once you have been added as a **collaborator** on the GitHub repository, please update your student information:  
    - **Edit** the student information file at: [HPDP Student Information](https://github.com/drshahizan/HPDP/blob/main/2425/student/readme.md)  
    - Refer to this **example**: [Student Info Sample](https://github.com/drshahizan/HPDP/blob/main/student.md)  
