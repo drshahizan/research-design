@@ -16,7 +16,7 @@ Before attending the first lecture, ensure you've completed all the essential ta
 
 2. 💻 Create a GitHub Account
 You must have a GitHub account to participate in this class. If you don’t have one yet, please create it before the class begins.  
-[**How to Create a GitHub Account**](https://youtu.be/h5cKAd94QNo?si=FXiW-INgWM_-Au3M) (Video Guide)
+[**How to Create a GitHub Account**](https://youtu.be/Gn3w1UvTx0A?si=z6VQXN94KiRXMHWN) (Video Guide)
 
 3. ✅ Follow Me on GitHub
 Go to [**My GitHub**](https://github.com/drshahizan) and click ‘Follow’. This is necessary so I can review your GitHub account.
