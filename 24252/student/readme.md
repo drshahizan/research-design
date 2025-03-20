@@ -12,7 +12,7 @@
 
 | No. | Name                                     | ID          | Github                         | Linked in | Portfolio |
 |-----:|------------------------------------------|-------------|:--------------------------------:| :--------------------------------:|:--------------------------------:|
-| 0  | RIZKI SYAPUTRA | rizkipm       | [:octocat:](https://github.com/rizkipm) | <a href="https://www.linkedin.com/in/rizki-syaputra-082b2a7b/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/rizkipm"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 0  | RIZKI SYAPUTRA | rizkipm       | [:octocat:](https://github.com/rizkipm) | <a href="https://www.linkedin.com/in/rizki-syaputra-082b2a7b/"><img src="../../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/rizkipm"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 
 
 ## Contribution 🛠️
