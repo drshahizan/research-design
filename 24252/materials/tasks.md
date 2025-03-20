@@ -11,23 +11,20 @@ To ensure a smooth start to the course, please complete the following essential 
 
 ## Pre-Class Requirements
 
-1. **Submit Your Information** 📝  
-Fill in your details in the **Google Sheets** document: [Submit Here](https://liveutm-my.sharepoint.com/:x:/g/personal/shahizan_live_utm_my/EaSdz8QuZKJHqMxXLxMDZ2UBSKCN_qS763jU0xb7PBtPaw?e=Wsf9FO).  
+1. **Fill in Your Information** 📝  
+Fill in your details in the **Google Sheets** document: [Click Here](https://liveutm-my.sharepoint.com/:x:/g/personal/shahizan_live_utm_my/EaSdz8QuZKJHqMxXLxMDZ2UBSKCN_qS763jU0xb7PBtPaw?e=Wsf9FO).  
 
 2. **Create a GitHub Account** 💻  
-A **GitHub account** is required for this class. If you don’t have one, create it before the first session.  
-🔗 [**How to Create a GitHub Account (Video Guide)**](https://youtu.be/Gn3w1UvTx0A?si=z6VQXN94KiRXMHWN)  
+A **GitHub account** is required for this class. If you don’t have one, create it before the first session. 🔗 [**(Video Guide)**](https://youtu.be/Gn3w1UvTx0A?si=z6VQXN94KiRXMHWN)  
 
 3. **Follow the Instructor on GitHub** ✅  
 Visit [**My GitHub Profile**](https://github.com/drshahizan) and click **‘Follow’** so I can review your GitHub account.  
 
 4. **Learn the Basics of GitHub** 📖  
-To familiarize yourself with GitHub, explore this guide:  
-🔗 [**Learn GitHub**](https://github.com/drshahizan/learn-github)  
+To familiarize yourself with GitHub, explore this guide: 🔗 [**Learn GitHub**](https://github.com/drshahizan/learn-github)  
 
 5. **Star the Course Repository** ⭐  
-Mark the **course repository** as a favorite by starring it:  
-🔗 [**Course Repository**](https://github.com/drshahizan/research-design)  
+As part of our course setup, please **star** the course repository available: 🔗 [**Course Repository**](https://github.com/drshahizan/research-design)  
 You will also be added as a **collaborator** to this repository.  
 
 6. **Access Course Materials** 📚  
