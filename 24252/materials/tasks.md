@@ -11,34 +11,34 @@ To ensure a smooth start to the course, please complete the following essential 
 
 ## Pre-Class Requirements
 
-### 1. **Submit Your Information** 📝  
+1. **Submit Your Information** 📝  
 Fill in your details in the **Google Sheets** document: [Submit Here](https://liveutm-my.sharepoint.com/:x:/g/personal/shahizan_live_utm_my/EaSdz8QuZKJHqMxXLxMDZ2UBSKCN_qS763jU0xb7PBtPaw?e=Wsf9FO).  
 
-### 2. **Create a GitHub Account** 💻  
+2. **Create a GitHub Account** 💻  
 A **GitHub account** is required for this class. If you don’t have one, create it before the first session.  
 🔗 [**How to Create a GitHub Account (Video Guide)**](https://youtu.be/Gn3w1UvTx0A?si=z6VQXN94KiRXMHWN)  
 
-### 3. **Follow the Instructor on GitHub** ✅  
+3. **Follow the Instructor on GitHub** ✅  
 Visit [**My GitHub Profile**](https://github.com/drshahizan) and click **‘Follow’** so I can review your GitHub account.  
 
-### 4. **Learn the Basics of GitHub** 📖  
+4. **Learn the Basics of GitHub** 📖  
 To familiarize yourself with GitHub, explore this guide:  
 🔗 [**Learn GitHub**](https://github.com/drshahizan/learn-github)  
 
-### 5. **Star the Course Repository** ⭐  
+5. **Star the Course Repository** ⭐  
 Mark the **course repository** as a favorite by starring it:  
 🔗 [**Course Repository**](https://github.com/drshahizan/research-design)  
 You will also be added as a **collaborator** to this repository.  
 
-### 6. **Access Course Materials** 📚  
+6. **Access Course Materials** 📚  
 All course materials will be hosted on GitHub.  
 🔗 [**Access Course Materials**](https://github.com/drshahizan/research-design)  
 
-### 7. **Update Your GitHub Profile** 👨‍💻  
+7. **Update Your GitHub Profile** 👨‍💻  
 Ensure your **GitHub profile** is up to date with relevant details.  
 🔗 [**How to Create a Professional GitHub README Profile (Step-by-Step Guide)**](https://youtu.be/rCt9DatF63I?si=C87MQhJGllyAe4zR)  
 
-### 8. **Submit Your Student Information** 🔗  
+8. **Submit Your Student Information** 🔗  
 Once added as a **collaborator**, update your student details as follows:  
 - **Edit** the student information file: [Student Information](../student/)  
 - Reference these **examples**: [Batch 1](https://github.com/drshahizan/research-design/blob/main/profile/batch1.md) | [Batch 2](https://github.com/drshahizan/research-design/blob/main/profile/batch2.md)  
@@ -50,7 +50,7 @@ Once added as a **collaborator**, update your student details as follows:
 - **Create a personal folder** in the directory: [Student Directory](../student/)  
   - Name the folder using your **GitHub ID** and include your **personal details & portfolio link** inside.  
 
-### 9. **Download GitHub Desktop** 🖥️  
+9. **Download GitHub Desktop** 🖥️  
 For easier version control, install GitHub Desktop. It will be essential for assignments and collaboration.  
 🔗 [**Download GitHub Desktop**](https://desktop.github.com/download/)  
 
