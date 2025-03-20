@@ -11,6 +11,24 @@
 ## 📖 Course Synopsis
 This course covers the fundamental steps and implementation of developing initial ideas into formal academic writing. Students will learn mechanisms to transform and digest literature reviews leading to a proposed title. The theoretical and practical aspects of drafting a project proposal will be the course milestone, emphasizing ordered, critical, and reasoned exposition of knowledge through student efforts.
 
+
+## 🔥 Important Things
+
+- ✅ **[Tasks to Complete Before the First Lecture](./24251/materials/essentials.md)**:
+Before attending the first lecture, make sure you've completed all the essential tasks. These include setting up your learning environment, accessing the course materials, and preparing to fully engage in the class from day one. 📝💻
+
+- 🧑‍🎓 **[Student Information](./2425/student/)**: Access personal and academic information relevant to your student profile.
+  
+- 📚 **[Course Information](./images/CI_HPDP_SCSP3133%2024252.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
+
+- 📅 **[Weekly Schedule](./2425/materials/schedule.md)**: A week-by-week breakdown of course topics.
+
+- 📝 **[Assignment](./2425/assignment)**: View and download current assignments, submission guidelines, and deadlines.
+  
+- 💡 **[Lab Exercise](./2425/lab)**: Engage with exercises designed to complement your coursework and enhance learning.
+
+- ❓ **[Quiz](./2425/quiz)**: Test your knowledge and track your progress through quizzes.
+
 ---
 
 ## 📘 Project Handbook
