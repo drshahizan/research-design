@@ -24,7 +24,7 @@ Visit [**My GitHub Profile**](https://github.com/drshahizan) and click **‘Foll
 To familiarize yourself with GitHub, explore this guide: 🔗 [**Learn GitHub**](https://github.com/drshahizan/learn-github)  
 
 5. **Star the Course Repository** ⭐  
-As part of our course setup, please **star** the course repository available: 🔗 [**Course Repository**](https://github.com/drshahizan/research-design)  
+As part of our course setup, please **star** ⭐ the course repository available: 🔗 [**Course Repository**](https://github.com/drshahizan/research-design)  
 You will also be added as a **collaborator** to this repository.  
 
 6. **Access Course Materials** 📚  
