@@ -18,7 +18,7 @@ Stay organized and well-prepared for the course by accessing the essential resou
 ### ✅ **[Tasks to Complete Before the First Lecture](./24252/materials/tasks.md)**  
 Ensure you complete all essential tasks before attending the first lecture. These include setting up your learning environment, accessing course materials, and preparing to actively participate in class. 📝💻  
 
-### 🧑‍🎓 **[Student Information](./2425/student/)**  
+### 🧑‍🎓 **[Student Information](./24252/student/)**  
 Find your personal and academic details relevant to your student profile, including records and participation information.  
 
 ### 📚 **[Course Information](./images/CI_HPDP_SCSP3133%2024252.pdf)**  
