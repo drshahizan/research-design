@@ -28,7 +28,8 @@ Go to [**My GitHub**](https://github.com/drshahizan) and click ‘Follow’. Thi
    All teaching materials will be hosted on **GitHub**. Please follow [this link](https://github.com/drshahizan/research-design) to access them.  
 
 6. **Update Your GitHub Profile** 👨‍💻  
-   Ensure your **GitHub profile** is up to date with relevant information.  
+   Ensure your **GitHub profile** is up to date with relevant information. [Tutorial: How to create Professional Github Readme Profile (Step By Step)](https://youtu.be/rCt9DatF63I?si=C87MQhJGllyAe4zR)
+
 
 7. **Student Information Submission** 🔗  
    Once you have been added as a **collaborator** on the GitHub repository, please update your student information:  
