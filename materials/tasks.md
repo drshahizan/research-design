@@ -9,7 +9,38 @@
 
 Before attending the first lecture, ensure you've completed all the essential tasks. These tasks will help you set up your learning environment, access the course materials, and be fully prepared to engage in class from day one.
 
+## ✅ **Pre-Class Requirements**  
 
+1. **Fill in Your Information** 📝  
+   Please provide your details in the **Google Sheets** document [here](https://liveutm-my.sharepoint.com/:x:/g/personal/shahizan_live_utm_my/EaSdz8QuZKJHqMxXLxMDZ2UBSKCN_qS763jU0xb7PBtPaw?e=Wsf9FO).  
+
+2. **Star the GitHub Repository** ⭐  
+   As part of our course setup, please **star** the course repository available [here](https://github.com/drshahizan/HPDP). This repository will be our primary resource throughout the course. You will also be added as a collaborator.  
+
+3. **Access Teaching Materials** 📚  
+   All teaching materials will be hosted on **GitHub**. Please follow [this link](https://github.com/drshahizan/HPDP) to access them.  
+
+4. **Update Your GitHub Profile** 👨‍💻  
+   Ensure your **GitHub profile** is up to date with relevant information.  
+
+5. **Student Information Submission** 🔗  
+   Once you have been added as a **collaborator** on the GitHub repository, please update your student information:  
+   - **Edit** the student information file at: [HPDP Student Information](https://github.com/drshahizan/HPDP/blob/main/2425/student/readme.md)  
+   - Refer to this **example**: [Student Info Sample](https://github.com/drshahizan/HPDP/blob/main/student.md)  
+   - Provide the following details:  
+     - **GitHub ID**  
+     - **GitHub Profile Link**  
+     - **LinkedIn Profile Link**  
+     - **Portfolio Link**  
+   - **Create a personal folder** in the directory: [Student Directory](https://github.com/drshahizan/HPDP/tree/main/2425/student).  
+   - Name the folder using your **GitHub ID** and include your **personal details & portfolio link** inside.  
+
+## 🎯 **Final Reminder**  
+Please **complete these tasks before our first class**, as they are crucial for effective collaboration and learning.  
+
+We look forward to an exciting and insightful semester ahead! 🚀 
+
+---
 ### 1. 📝 Fill in Your Personal Information
 Please provide your details by filling out the form at the following link: [**SharePoint Form**](https://liveutm-my.sharepoint.com/:x:/g/personal/shahizan_live_utm_my/EU2ITNriLIJErsDnnlYNrQMBOC4rd1uQx06CwuRDZL2z-w?e=ErW8LM)
 
