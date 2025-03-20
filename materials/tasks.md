@@ -22,10 +22,10 @@ You must have a GitHub account to participate in this class. If you don’t have
 Go to [**My GitHub**](https://github.com/drshahizan) and click ‘Follow’. This is necessary so I can review your GitHub account.
 
 4. **Star the GitHub Repository** ⭐  
-   As part of our course setup, please **star** the course repository available [here](https://github.com/drshahizan/HPDP). This repository will be our primary resource throughout the course. You will also be added as a collaborator.  
+   As part of our course setup, please **star** the course repository available [here](https://github.com/drshahizan/research-design). This repository will be our primary resource throughout the course. You will also be added as a collaborator.  
 
 5. **Access Teaching Materials** 📚  
-   All teaching materials will be hosted on **GitHub**. Please follow [this link](https://github.com/drshahizan/HPDP) to access them.  
+   All teaching materials will be hosted on **GitHub**. Please follow [this link](https://github.com/drshahizan/research-design) to access them.  
 
 6. **Update Your GitHub Profile** 👨‍💻  
    Ensure your **GitHub profile** is up to date with relevant information.  
