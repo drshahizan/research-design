@@ -12,7 +12,8 @@
 
 | No. | Name                                     | ID          | Github                         | Linked in | Portfolio |
 |-----:|------------------------------------------|-------------|:--------------------------------:| :--------------------------------:|:--------------------------------:|
-| 0   | Abdul Muhaimin Bin Abdul Razak          |Muhaimin005             | [:octocat:](https://github.com/Muhaimin005) |<a href="https://www.linkedin.com/in/abdul-muhaimin-65390b23b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href="Muhaimin005"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 0   | LAIBA NADEEM                               | Laib00            | [:octocat:](https://github.com/Laib00)   | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="batch2/Laib00"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+
 
 
 ## Contribution 🛠️
