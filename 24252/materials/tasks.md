@@ -33,7 +33,7 @@ Go to [**My GitHub**](https://github.com/drshahizan) and click ‘Follow’. Thi
 
 7. **Student Information Submission** 🔗  
    Once you have been added as a **collaborator** on the GitHub repository, please update your student information:  
-   - **Edit** the student information file at: [HPDP Student Information](https://github.com/drshahizan/HPDP/blob/main/2425/student/readme.md)  
+   - **Edit** the student information file at: [Student Information](../student/)  
    - Refer to this **example**: [Student Info Sample](https://github.com/drshahizan/HPDP/blob/main/student.md)  
    - Provide the following details:  
      - **GitHub ID**  
