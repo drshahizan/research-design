@@ -1,5 +1,3 @@
-# lihonglin
-hello, this is my profile!
 <h1 align="center">Hi 👋, I'm lihonglin</h1>
 <h3 align="center">A beginner passionate about data science.</h3>
 
@@ -9,12 +7,15 @@ hello, this is my profile!
 
 - 📚 I am studying for **a Master's in Data Science at UTM**
 
+- ☕ Others **Music enthusiast, drummer, animal lover.**
+
 - 📫 How to reach me **LHL2024Admit@126.com**
 
-- ⚡ Fun fact **I want to be a witty data analyst.**
+- ⚡  **I Want to discover interesting things in life through data.╰(*°▽°*)╯**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/zhiyijiujiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhiyijiujiu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
