@@ -1,5 +1,9 @@
 <h1 align="center"> Hi there 👋 I'm Lee Hong Jian 👨‍🔬
 
+<p align="center">
+<img src="https://github.com/ZeolatJian/ZeolatJian2/blob/main/69081526_2190805724362973_4173417213262299136_n.jpg"  height="300" />
+</p>
+
 ## About me 📑
 
 I'm pursuing a Master degree in Data Science @ UTM. My degree as the chemical engineering with honour @ Univiersiti Malaysia Pahang (UMP). In addition to my engineering background, I am newly venturing into the field of data science. I am eager to leverage data-driven insights to enhance and optimize my performance capitability in further career. This is my first attempt at showcasing my work on GitHub, where I aim to enhance learning, boost collaboration skills, and improve coding practices. 
