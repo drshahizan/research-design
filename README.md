@@ -24,13 +24,13 @@ Find your personal and academic details relevant to your student profile, includ
 ### 📚 **[Course Information](./images/CI_HPDP_SCSP3133%2024252.pdf)**  
 Get comprehensive details about the course, including learning objectives, syllabus, policies, and requirements for the current semester.  
 
-### 📅 **[Weekly Schedule](./2425/materials/schedule.md)**  
+### 📅 **[Weekly Schedule](./24252/materials/schedule.md)**  
 Review the structured week-by-week breakdown of topics, activities, and key deadlines to keep up with the coursework effectively.  
 
 ### 📂 **[Teaching Module](./materials/slides.md)**  
 Access all lecture slides, notes, and other instructional materials that will be used throughout the course.  
 
-### 📝 **[Assignment](./2425/assignment)**  
+### 📝 **[Assignment](./24252/assignment)**  
 Find assignment details, submission guidelines, deadlines, and evaluation criteria to manage your coursework efficiently.  
 
 ### 📄 **[Master Data Science Project Handbook](./images/Project%20Handbook.pdf)**  
