@@ -25,8 +25,6 @@
 | **Revision Week**| *No revision activities scheduled* |
 | **Final Exam**   | *No final exam for this course* |
 
-Jika anda ingin versi dalam bentuk Word atau PDF, beritahu sahaja ya!
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
