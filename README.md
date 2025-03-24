@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# 🧪 Research Design and Analysis in Data Science (MCST1043)
+# Research Design and Analysis in Data Science (MCST1043)
 
 ## 📖 Course Synopsis
 This course covers the fundamental steps and implementation of developing initial ideas into formal academic writing. Students will learn mechanisms to transform and digest literature reviews leading to a proposed title. The theoretical and practical aspects of drafting a project proposal will be the course milestone, emphasizing ordered, critical, and reasoned exposition of knowledge through student efforts.
