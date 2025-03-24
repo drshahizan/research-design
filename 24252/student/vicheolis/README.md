@@ -1,6 +1,6 @@
 ## Hi there! I'm Aina 👋
 
-![Anime Girl Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo1b3NwZndtOTFxMG5ndG9sbGJ6Z2ZiamR6Zzk2azI0MnludWNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTGVpr7ejMfP0c/giphy.gif)
+![Girl Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo1b3NwZndtOTFxMG5ndG9sbGJ6Z2ZiamR6Zzk2azI0MnludWNudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTGVpr7ejMfP0c/giphy.gif)
 
 **Master's Student in Data Science | Aspiring Data Scientist**
 
@@ -34,8 +34,19 @@ I’m currently pursuing my Master’s degree in Data Science at **Universiti Te
 - Data Science for social good
 - Financial analytics
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AinaGithub&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+</p>
+
 ### 🌐 Connect with me:
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/nur-aina-farraain-zahanizam-0ab686223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Email**: [Email Me](mailto:ainafarraainn@gmail.com)
+<div align="left">
+   <a href="mailto:ainafarraainn@gmail.com" target="_blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  /> 
+   </a>
+   <a href="https://www.linkedin.com/in/nur-aina-farraain-zahanizam-0ab686223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+   </a>
+ </div>
 <!--
 **vicheolis/vicheolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
