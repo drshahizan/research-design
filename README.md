@@ -27,14 +27,14 @@ Get comprehensive details about the course, including learning objectives, sylla
 ### 📅 **[Weekly Schedule](./24252/materials/schedule.md)**  
 Review the structured week-by-week breakdown of topics, activities, and key deadlines to keep up with the coursework effectively.  
 
+### 📄 **[Master Data Science Project Handbook](./images/Project%20Handbook.pdf)**  
+A comprehensive guide outlining key methodologies, best practices, and expectations for data science projects.  
+
 ### 📂 **[Teaching Module](./materials/slides.md)**  
 Access all lecture slides, notes, and other instructional materials that will be used throughout the course.  
 
 ### 📝 **[Assignment](./24252/assignment)**  
 Find assignment details, submission guidelines, deadlines, and evaluation criteria to manage your coursework efficiently.  
-
-### 📄 **[Master Data Science Project Handbook](./images/Project%20Handbook.pdf)**  
-A comprehensive guide outlining key methodologies, best practices, and expectations for data science projects.  
 
 ### 📝 **[Data Science Project]()**  
 Access project guidelines, datasets, and collaboration tools for hands-on data science experience.  
