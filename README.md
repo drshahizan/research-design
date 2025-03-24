@@ -21,7 +21,7 @@ Ensure you complete all essential tasks before attending the first lecture. Thes
 ### 🧑‍🎓 **[Student Information](./24252/student/)**  
 Find your personal and academic details relevant to your student profile, including records and participation information.  
 
-### 📚 **[Course Information](./images/CI_HPDP_SCSP3133%2024252.pdf)**  
+### 📚 **[Course Information](./images/CI%20MCSD1043%20RM%20Data%20Science%20Sem24252.pdf)**  
 Get comprehensive details about the course, including learning objectives, syllabus, policies, and requirements for the current semester.  
 
 ### 📅 **[Weekly Schedule](./24252/materials/schedule.md)**  
