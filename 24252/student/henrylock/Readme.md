@@ -6,11 +6,16 @@
 </p>
 
 <p align="center">
-  With a solid foundation in pharmacy👨‍🔬, I'm diving deeper into data science to innovate and contribute to the healthcare industry.
+  
 </p>
 
 <p align="center">
-  🎓 Current Master's student in Data Science at Universiti Teknologi Malaysia.
+  💊 Pharmacist transitioning into Data Science to drive healthcare innovation 👨‍🔬 
+</p>
+
+<p align="center">
+  🎓 Current Master Student in Data Science at Universiti Teknologi Malaysia 🏫
+</p>
 
 <br> 
 <br> 
@@ -35,6 +40,14 @@
 | Fully Registered Pharmacist   | Health Clinic Kahang Timur    | Aug 2022 - Mac 2025|
 | Provisional Registered Pharmacist     | Hospital Sultanah Nora Ismail       | Apr 2021- Aug 2022    |
 | Sales Assistant    | Farmasi Murni Marketing Sdn Bhd       | Feb 2021- Apr 2021    |
+
+
+
+## 🏫 **Education**
+| Degree                  | Institution                     | Year         | 
+|-------------------------|--------------------------------|-------------|
+| Master in Data Science | Universiti Teknologi Malaysia | Mac 2025 - Present | 
+| Bachelor in Pharmacy (Hons)   | Monash University Malaysia  | Feb 2017 - Dec 2020  |
 
 ## 📫 How to reach me 
 - Drop me an [Email](mailto:henrylock.ch2@gmail.com)
