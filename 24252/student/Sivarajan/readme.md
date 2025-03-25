@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivarajan</h1>
-<h3 align="center">A passionate beginner eager to dive into the world of Data Science..</h3>
+<h3 align="center">A passionate beginner eager to dive into the world of Data Science..</h3>  
 
 - 👋 I’m a Test Engineer with over six years of experience working in the Plastic Manufacturing industry near Senai, Johor.
 
