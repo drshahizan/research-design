@@ -35,7 +35,7 @@
 | 23  | Gao Jingkai | Dis-Tant | [:octocat:](https://github.com/Dis-Tant) | <a href="https://www.linkedin.com/in/jingkai-gao-456a31323/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 24  | Guo Yachao | MSC241039 | [:octocat:](https://github.com/MCS241039) | <a href="https://www.linkedin.com/in/亚超-郭-33a180358"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 25  | Shahizan | MSC241039 | [:octocat:](https://github.com/MCS241039) | <a href="https://www.linkedin.com/in/亚超-郭-33a180358"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="shahizan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-
+| 25  | Yang Mu | MSC241045 | [:octocat:](https://github.com/MCS241045) | <a href="https://www.linkedin.com/in/%E9%9C%82-%E6%9D%A8-924247358/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="Yang Mu"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
