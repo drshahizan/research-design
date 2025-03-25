@@ -20,7 +20,7 @@ Hello! I'm **Muhammad Haziq**, a passionate and driven individual with a backgro
 - **Fitness**: Jogging 🏃, Strength Training 💪
 
 ## Contact 📩
-- **GitHub**: [github.com/muhammadhaziq](#)
-- **LinkedIn**: [linkedin.com/in/muhammadhaziq](#)
-- **Email**: muhammadhaziq@example.com
+- **GitHub**: [github.com/Hzqmo]
+- **LinkedIn**: [www.linkedin.com/in/muhammad-haziq-bin-mohamad-235924213]
+- **Email**: muhammadhaziqmohamad@graduate.utm.my
 
