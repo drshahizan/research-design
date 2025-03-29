@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm LI XINYA </h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm YI XINDIE </h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/LIXINYA02/" target="_blank" rel="noreferrer">LIX INYA</a> is currently studying for a master's degree in data science at Universiti Teknologi Malaysia.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
