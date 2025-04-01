@@ -1,3 +1,6 @@
+
+![gambar muka (1)](https://github.com/user-attachments/assets/d0193dc1-babd-466f-b701-1b8d36836768)
+
 # Hello, I'm Nurhafizah 👋
 
 Welcome to my GitHub profile! I'm Nurhafizah binti Mohd Yunos, a Computer Science (Software Engineering) graduate and currently pursuing a Master of Data Science from Universiti Teknologi Malaysia. I'm passionate about learning, analyzing data, and uncovering insights 📊. I love transforming raw data into meaningful visualizations and actionable results using different tools and techniques. 🌱
