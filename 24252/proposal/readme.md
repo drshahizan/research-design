@@ -10,29 +10,29 @@
 | No. | Name                                     | Title | Portfolio |
 |-----|------------------------------------------|-----------| :-----------:|
 | 1 | Chang Zi Yin | |<a href="file/ziyiinn"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 2 | Chau Ai Vin | |<a href="https://github.com/chauaivin/chauaivin/blob/main/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 3 | Chen Junhao | |<a href="https://github.com/HideInInk312/HideInInk312"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 2 | Chau Ai Vin | |<a href="file/chauaivin"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 3 | Chen Junhao | |<a href="file/HideInInk312"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 4 | Choong Zi Xuan | |<a href="file/ZXChoong"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 5 | Cui Zhiwen | |<a href="file/ROSSscience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 6 | Gao Jingkai | |<a href="Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 7 | Guo Yachao | |<a href="MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 8 | Lee Hong Jian | |<a href="ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 9 | Li Honglin | |<a href="https://github.com/lihonglin007/lihonglin/blob/main/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 10 | Li Xinya | |<a href="file/LIXINYA02/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 11 | Lock Chun Hern | |<a href="henrylock"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 12 | Mohamed Azlan Ameer Oli | |<a href="lanazlan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 13 | Mohamed Tarek Elsayed Mohamed Yousef Mohamed Torky | |<a href="https://mohamedtorky.online/"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 14 | Muhammad Haziq Bin Mohamad | |<a href="Hzqmo"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 6 | Gao Jingkai | |<a href="file/Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 7 | Guo Yachao | |<a href="file/MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 8 | Lee Hong Jian | |<a href="file/ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 9 | Li Honglin | |<a href="file/lihonglin007"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 10 | Li Xinya | |<a href="file/LIXINYA02"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 11 | Lock Chun Hern | |<a href="file/henrylock"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 12 | Mohamed Azlan Ameer Oli | |<a href="file/lanazlan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 13 | Mohamed Tarek Elsayed Mohamed Yousef Mohamed Torky | |<a href="file/mohamedtorky"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 14 | Muhammad Haziq Bin Mohamad | |<a href="file/Hzqmo"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 15 | Nur Aina Farraain Binti Zahanizam | |<a href="file/vicheolis"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 16 | Nurhafizah Binti Mohd Yunos | |<a href="nurhafizah99"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 17 | Siti Nur Elisya Aqmar Binti Mohamad Kamal | |<a href="file/elisyaqmarr/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 18 | Sivarajan A/L S.Esvaran | |<a href="https://github.com/C-VA17/Siva"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 19 | Soh Joen Shiuan | |<a href="file/edwardjacksonmy/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 16 | Nurhafizah Binti Mohd Yunos | |<a href="file/nurhafizah99"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 17 | Siti Nur Elisya Aqmar Binti Mohamad Kamal | |<a href="file/elisyaqmarr"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 18 | Sivarajan A/L S.Esvaran | |<a href="file/C-VA17"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 19 | Soh Joen Shiuan | |<a href="file/edwardjacksonmy"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 20 | Wang Tong | |<a href="file/tong920"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 21 | Wang Zhengqiu | |<a href="https://github.com/zqwangutm/"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 22 | Yang Mu | |<a href="Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 23 | Zhang Long | |<a href="file/DragonDateScience/readme.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 24 | Zhao Zhihan | |<a href="https://github.com/zzhhzz123/zhaozhihan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 21 | Wang Zhengqiu | |<a href="file/zqwangutm"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 22 | Yang Mu | |<a href="file/Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 23 | Zhang Long | |<a href="file/DragonDateScience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 24 | Zhao Zhihan | |<a href="file/zzhhzz123"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
