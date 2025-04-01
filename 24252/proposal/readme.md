@@ -9,7 +9,7 @@
 
 📌 [**Project Proposal Submission Guide**](instruction.md)
 
-| No. | Name                                     | Title | Portfolio |
+| No. | Name                                     | Title | Proposal |
 |-----|------------------------------------------|-----------| :-----------:|
 | 1 | Chang Zi Yin | |<a href="file/ziyiinn"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 2 | Chau Ai Vin | |<a href="file/chauaivin"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
