@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📘 **Exercise: Problem Formulation Based on a Case Study in Data Science**
+# 📘 **Exercise: Problem Formulation**
 
 **Module 2: Problem Formulation**  
 **Level:** Applied Research Preparation  
