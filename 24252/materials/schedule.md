@@ -9,7 +9,8 @@
 
 | **Week**        | **Description** |
 |:-----------------:|-----------------|
-| **Week 1–2**     | **[1.0 INTRODUCTION TO RESEARCH PROJECT](w1.md)**<br>1.1 Definition of Research<br>1.2 Research Projects in Computing<br>1.3 How to choose research titles<br>1.4 Potential Research Titles |
+| **Week 1**     | **[1.0 INTRODUCTION TO RESEARCH PROJECT](w1.md)**<br>1.1 Definition of Research<br>1.2 Research Projects in Computing<br>1.3 How to choose research titles<br>1.4 Potential Research Titles |
+| **Week 2**     | **[1.0 INTRODUCTION TO RESEARCH PROJECT](w2.md)**<br>1.1 Definition of Research<br>1.2 Research Projects in Computing<br>1.3 How to choose research titles<br>1.4 Potential Research Titles |
 | **Week 3**       | **2.0 LITERATURE REVIEW Part 1**<br>2.1 Literature Review on the areas to be researched<br>2.2 Narrowing down the proposed research by identifying the keywords<br>2.3 A strategy to elaborate LR |
 | **Week 4**       | **3.0 LITERATURE REVIEW Part 2**<br>3.1 What should be included in LR?<br>3.2 How to read research paper statements<br>3.3 How to cite and write references<br>3.4 Writing abstract |
 | **Week 5**       | **4.0 PROBLEM FORMULATION**<br>4.1 Problem Background Analysis<br>4.2 Formulating Problem Statement based on Problem Background<br>4.3 Writing research objectives and scopes based on problem background and problem statement |
