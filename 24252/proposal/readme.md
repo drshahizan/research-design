@@ -7,32 +7,32 @@
 
 # Initial Proposal
 
-| No. | Name                                     | ID          | Github                         | Linked in | Portfolio |
-|-----:|------------------------------------------|-------------|:--------------------------------:| :--------------------------------:|:--------------------------------:|
- 1 | Chang Zi Yin | ziyiinn | [:octocat:](https://github.com/ziyiinn) | <a href="https://www.linkedin.com/in/chang-zi-yin/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/drshahizan/research-design/blob/main/24252/student/ziyiinn/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 2 | Chau Ai Vin | chauaivin | [:octocat:](https://github.com/chauaivin) | <a href="https://www.linkedin.com/in/chau-ai-vin-b12429232/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/chauaivin/chauaivin/blob/main/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 3 | Chen Junhao | HideInInk312 | [:octocat:](https://github.com/HideInInk312) | <a href="https://www.linkedin.com/in/junhaochen312/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/HideInInk312/HideInInk312"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 4 | Choong Zi Xuan | ZXChoong | [:octocat:](https://github.com/zxchoong) | <a href="https://www.linkedin.com/in/zi-xuan-choong-3a7a48223"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/drshahizan/research-design/tree/main/24252/student/ZXChoong"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 5 | Cui Zhiwen | ROSSscience | [:octocat:](https://github.com/ROSSscience) | <a href="https://www.linkedin.com/in/zhiwen-cui-855727358/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/drshahizan/research-design/tree/main/24252/student/ROSSscience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 6 | Gao Jingkai | Dis-Tant | [:octocat:](https://github.com/Dis-Tant) | <a href="https://www.linkedin.com/in/jingkai-gao-456a31323/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 7 | Guo Yachao | MCS241039 | [:octocat:](https://github.com/MCS241039) | <a href="https://www.linkedin.com/in/亚超-郭-33a180358"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 8 | Lee Hong Jian | ZeolatJian | [:octocat:](https://github.com/ZeolatJian) | <a href="https://www.linkedin.com/in/hong-jian-lee-71a1371a4/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 9 | Li Honglin | lihonglin007 | [:octocat:](https://github.com//lihonglin007) | <a href="https://www.linkedin.com/in/yi-zhi-247152355/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/lihonglin007/lihonglin/blob/main/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 10 | Li Xinya | LIXINYA02 | [:octocat:](https://github.com/LIXINYA02) | <a href="https://www.linkedin.com/in/60553a358"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/drshahizan/research-design/blob/main/24252/student/LIXINYA02/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 11 | Lock Chun Hern | henrylock | [:octocat:](https://github.com/henrylock) | <a href="https://www.linkedin.com/in/lock-chun-hern-868506260/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="henrylock"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 12 | Mohamed Azlan Ameer Oli | lanazlan | [:octocat:](https://github.com/lanazlan) | <a href="https://www.linkedin.com/in/mohamed-azlan-lan/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="lanazlan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 13 | Mohamed Tarek Elsayed Mohamed Yousef Mohamed Torky | MdTorky | [:octocat:](https://github.com/MdTorky) | <a href="https://www.linkedin.com/in/mdtorky"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://mohamedtorky.online/"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 14 | Muhammad Haziq Bin Mohamad | Hzqmo | [:octocat:](https://github.com/Hzqmo) | <a href="https://www.linkedin.com/in/muhammad-haziq-bin-mohamad-235924213"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="Hzqmo"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 15 | Nur Aina Farraain Binti Zahanizam | vicheolis | [:octocat:](https://github.com/vicheolis) |  <a href="https://www.linkedin.com/in/nur-aina-farraain-zahanizam-0ab686223/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/drshahizan/research-design/tree/main/24252/student/vicheolis"><img src="../../images/portfolio.png" width="24px" height="24px"></a>|
-| 16 | Nurhafizah Binti Mohd Yunos | nurhafizah99 | [:octocat:](https://github.com/nurhafizah99) | <a href="https://www.linkedin.com/in/nurhafizah-mohd-yunos-753719182/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="nurhafizah99"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 17 | Siti Nur Elisya Aqmar Binti Mohamad Kamal | elisyaqmarr | [:octocat:](https://github.com/elisyaqmarr) | <a href="https://www.linkedin.com/in/elisyaaqmar"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/drshahizan/research-design/blob/main/24252/student/elisyaqmarr/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 18 | Sivarajan A/L S.Esvaran | C-VA17 | [:octocat:](https://github.com/C-VA17) |  | <a href="https://github.com/C-VA17/Siva"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 19 | Soh Joen Shiuan | edwardjacksonmy | [:octocat:](https://github.com/edwardjacksonmy) | <a href="https://www.linkedin.com/in/soh-joen-shiuan-b52570227/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/drshahizan/research-design/blob/main/24252/student/edwardjacksonmy/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 20 | Wang Tong | tong920 | [:octocat:](https://github.com//tong920) | <a href="https://www.linkedin.com/in/xiaoxiao-wang-b6953b358/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/drshahizan/research-design/tree/main/24252/student/tong920"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 21 | Wang Zhengqiu | zqwangutm | [:octocat:](https://github.com/zqwangutm) |  | <a href="https://github.com/zqwangutm/"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 22 | Yang Mu | Yang743 | [:octocat:](https://github.com/Yang743) | <a href="https://www.linkedin.com/in/%E9%9C%82-%E6%9D%A8-924247358/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 23 | Zhang Long | DragonDateScience | [:octocat:](https://github.com/DragonDateScience) |  | <a href="https://github.com/drshahizan/research-design/blob/main/24252/student/DragonDateScience/readme.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 24 | Zhao Zhihan | zzhhzz123 | [:octocat:](https://github.com/zzhhzz123) |  | <a href="https://github.com/zzhhzz123/zhaozhihan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| No. | Name                                     | Title | Proposal |
+|-----|------------------------------------------|-------|----------|
+| 1 | Chang Zi Yin |  |  |
+| 2 | Chau Ai Vin |  |  |
+| 3 | Chen Junhao |  |  |
+| 4 | Choong Zi Xuan |  |  |
+| 5 | Cui Zhiwen |  |  |
+| 6 | Gao Jingkai |  |  |
+| 7 | Guo Yachao |  |  |
+| 8 | Lee Hong Jian |  |  |
+| 9 | Li Honglin |  |  |
+| 10 | Li Xinya |  |  |
+| 11 | Lock Chun Hern |  |  |
+| 12 | Mohamed Azlan Ameer Oli |  |  |
+| 13 | Mohamed Tarek Elsayed Mohamed Yousef Mohamed Torky |  |  |
+| 14 | Muhammad Haziq Bin Mohamad |  |  |
+| 15 | Nur Aina Farraain Binti Zahanizam |  |  |
+| 16 | Nurhafizah Binti Mohd Yunos |  |  |
+| 17 | Siti Nur Elisya Aqmar Binti Mohamad Kamal |  |  |
+| 18 | Sivarajan A/L S.Esvaran |  |  |
+| 19 | Soh Joen Shiuan |  |  |
+| 20 | Wang Tong |  |  |
+| 21 | Wang Zhengqiu |  |  |
+| 22 | Yang Mu |  |  |
+| 23 | Zhang Long |  |  |
+| 24 | Zhao Zhihan |  |  |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
