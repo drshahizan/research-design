@@ -14,13 +14,13 @@
 
 ## 🔍 **Exercise Objective**
 
-This exercise aims to strengthen students’ ability to formulate a data science research problem by analyzing a real-world case study from a reputable academic source. The case must include a **research study published in the last 5 years** from a **Scopus- or Web of Science (WoS)-indexed journal**, and must involve a **real dataset**.
+This exercise aims to strengthen students’ ability to formulate a data science research problem by analyzing a real-world case study from a reputable academic source. The case must include a **research study published in the last 5 years** from a **Scopus or Web of Science (WoS) indexed journal**, and must involve a **real dataset**.
 
 ## 📂 **Instructions**
 
 ### 🟦 STEP 1: Case Study Selection
 
-- Select a **peer-reviewed journal article** (published between 2020–2025) from a **Scopus- or WoS-indexed source**.
+- Select a **peer-reviewed journal article** (published between 2020–2025) from a **Scopus or WoS indexed source**.
 - The article must:
   - Be relevant to **Data Science** (e.g., machine learning, predictive analytics, big data, data mining, etc.).
   - Contain or reference the use of a **public or proprietary dataset**.
