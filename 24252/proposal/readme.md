@@ -9,7 +9,7 @@
 
 | No. | Name                                     | Title | Portfolio |
 |-----|------------------------------------------|-----------| :-----------:|
-| 1 | Chang Zi Yin | |<a href="file/ziyiinn/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 1 | Chang Zi Yin | |<a href="file/ziyiinn"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 2 | Chau Ai Vin | |<a href="https://github.com/chauaivin/chauaivin/blob/main/README.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 3 | Chen Junhao | |<a href="https://github.com/HideInInk312/HideInInk312"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 4 | Choong Zi Xuan | |<a href="file/ZXChoong"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
