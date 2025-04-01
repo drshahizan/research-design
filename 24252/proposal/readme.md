@@ -7,7 +7,7 @@
 
 # Initial Proposal
 
-[Proposal Form](file/MCST1043%20Proposal%20Form.docx)
+📌[**Project Proposal Submission Guide**](instruction.md)
 
 | No. | Name                                     | Title | Portfolio |
 |-----|------------------------------------------|-----------| :-----------:|
