@@ -9,7 +9,7 @@
 
 **Module 2: Problem Formulation**  
 **Level:** Applied Research Preparation  
-**Duration:** 1–2 weeks  
+**Duration:** 1 week  
 **Deliverable:** Structured report (maximum 3 pages)
 
 ## 🔍 **Exercise Objective**
