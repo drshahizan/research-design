@@ -1,9 +1,34 @@
-<h1 align="center">Hi 👋, I'm Gao Jingkai</h1>
-<h3 align="center">A passionate Large Language Model (LLM) explorer from China</h3>
+<h1 align="center">Hi 👋, I'm 高靖凯 (Gao Jingkai)</h1>
+<h3 align="center">A passionate Large Language Models (LLMs) explorer from China.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dis-tant&label=Profile%20views&color=0e75b6&style=flat" alt="dis-tant" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+Welcome to My World~
+
+## 📚 About Me
+I'm currently pursuing a **Master of Science in Data Science** at **Universiti Teknologi Malaysia (UTM)**, where I focus on research design, analytics methodologies, and data-driven problem solving. I firmly believe my ongoing academic journey will further sharpen my skills in academic writing, systematic programming, data management, machine learning, deep learning and artificial intelligence.
+
+## 💻 My Skills and Interests
+- **Machine Learning & AI**: I'm passionate about exploring and applying algorithms such as regression, clustering, PCA, factor analysis, and neural networks to real-world problems.
+- **Natural Language Processing (NLP)**: I have a keen interest in large language models, text analysis, and generative AI.
+- **Research & Analytics**: Skilled in constructing research frameworks, problem formulation, and designing rigorous research methodologies.
+
+## 🚀 Achievements
+- Awarded the **First Prize** in the **China Undergraduate Mathematical Contest in Modeling (Shanxi Province)**.
+- Received the **Finalist** (F Prize) in the **Mathematical Contest in Modeling & Interdisciplinary Contest In Modeling (MCM/ICM)** organized by COMAP, USA.
+
+## 🎓 Education
+- **Shanxi Institute of Technology, July 2022 : B.Eng. GPA: 83.98/100**
+
+## 📫 How to Reach Me
+Feel free to connect or collaborate!
+- LinkedIn: https://linkedin.com/in/jingkai-gao-456a31323
+
+---
+
+Looking forward to connecting and sharing exciting projects in Data Science and AI!
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
