@@ -7,6 +7,8 @@
 
 # Initial Proposal
 
+[Proposal Form]()
+
 | No. | Name                                     | Title | Portfolio |
 |-----|------------------------------------------|-----------| :-----------:|
 | 1 | Chang Zi Yin | |<a href="file/ziyiinn"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
