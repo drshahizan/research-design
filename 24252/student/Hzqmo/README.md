@@ -1,5 +1,7 @@
 # Muhammad Haziq's Portfolio 🚀
 
+![My picture](image_url_or_path)
+
 ## About Me 💡
 Hello! I'm **Muhammad Haziq**, a passionate and driven individual with a background in **Law & Commerce** and a strong interest in **Data Science**. I recently completed my Bachelor's degree and am now pursuing a **Master's in Data Science**. I enjoy solving problems, analyzing data, and exploring the intersection of technology and business.
 
@@ -12,11 +14,14 @@ Hello! I'm **Muhammad Haziq**, a passionate and driven individual with a backgro
 - **Legal & Business Knowledge**: Conveyancing, Contract Law ⚖️, Financial Analysis 💰
 
 ## Experience 💼
-### **Internship at Fatin Rosle & Partners (Law Firm)** ⚖️
+### # Legal Intern | Fatin Rosle & Partners  
+**March 2024 – October 2024**  
+- Assisted in **conveyancing procedures**, including meticulous document editing and form preparation.  
+- Handled **statutory declarations** by stamping documents via the LHDN system and preparing related certificates.
+- Drafted and organized letters for **various legal matters**, ensuring accuracy and professionalism.  
 
 ## Interests & Hobbies 🎮🚗
 - **Gaming**: Elden Ring ⚔️, Valorant 🔫, Ninja Gaiden 🎭
-- **Automobiles**: Dreaming of owning a **Audi TTs* 🚗💨
 - **Fitness**: Jogging 🏃, Strength Training 💪
 
 ## Contact 📩
