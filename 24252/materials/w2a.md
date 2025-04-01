@@ -5,9 +5,16 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 1.0 INTRODUCTION TO RESEARCH PROJECT
+# 1.0 Introduction to Research Project 
 
 Master’s level research in Data Science involves more than just applying existing techniques – it requires a systematic investigation that contributes new insights or solutions. This introductory section lays the groundwork for understanding what research is and how to embark on a research project. It defines the concept of research in an academic context, discusses the nature of research projects in computing (with an emphasis on Data Science), provides guidance on choosing a research topic/title, and offers examples of potential research titles in various subfields of Data Science.
+
+| No. | Topic | File|
+|----: |------|------|
+| 1.   | Part 1: Introduction to Research |<a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD" ><img src="../../images/youtube.png" width="30px" height="30px" ></a> |
+| 2.   | Part 2: Research in Computing |<a href="https://youtu.be/_wY_HfWA7LI?si=Lv6NOX_FCIqPB7qp" ><img src="../../images/youtube.png" width="30px" height="30px" ></a> |
+| 3.   | Part 3: Expectation of Research for an Academic Degree |<a href="https://youtu.be/jWy38T4gV9M?si=0ACv2X__cYhMauM_" ><img src="../../images/youtube.png" width="30px" height="30px" ></a> |
+
 
 ## 1.1 Definition of Research
 
