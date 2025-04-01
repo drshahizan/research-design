@@ -1,6 +1,6 @@
 # Muhammad Haziq's Portfolio 🚀
 
-![My picture](image_url_or_path)
+![My picture](hziq.jpg)
 
 ## About Me 💡
 Hello! I'm **Muhammad Haziq**, a passionate and driven individual with a background in **Law & Commerce** and a strong interest in **Data Science**. I recently completed my Bachelor's degree and am now pursuing a **Master's in Data Science**. I enjoy solving problems, analyzing data, and exploring the intersection of technology and business.
