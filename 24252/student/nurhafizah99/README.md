@@ -1,56 +1,31 @@
-<h1 align="center">Hi there, I'm Nurhafizah 👋</h1>
+# Hello, I'm Nurhafizah 👋
 
-###
+Welcome to my GitHub profile! I'm Nurhafizah binti Mohd Yunos, a Computer Science (Software Engineering) graduate and currently pursuing a Master of Data Science from Universiti Teknologi Malaysia. I'm passionate about learning, analyzing data, and uncovering insights 📊. I love transforming raw data into meaningful visualizations and actionable results using different tools and techniques. 🌱
 
-<p align="left">Welcome to my GitHub! I'm currently pursuing a Master's in Data Science, and I'm passionate about leveraging data to solve complex problems and make data-driven decisions. My goal is to become a data scientist, using my skills to create meaningful insights that can drive innovation and improve business outcomes.</p>
+## 🧰 Tools & Technologies
+- **Programming Languages**: Java, C#, C++, PHP 💻
+- **Database**: MySQL, PostgreSQL 🗃️
+- **Integradted Development Enviroments (IDE)**: Visual Studio Code, Eclipse 🌑
 
-###
+## 📚 Currently Learning
+- **Programming Languages**: Python 🐍, R 💻
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn 📊
+- **Machine Learning**: Scikit-learn, TensorFlow 🤖
+- **Database**: MongoDB 🗃️
+- **Data Visualization**: Tableau, Power BI 📈
+- **Version Control**: Git & GitHub ⚙️
 
-<h4 align="left">🎓 About Me</h4>
+## 🎓 Education
+- **Johor Matriculation College**: Year 2017-2018
+- **Universiti Tun Hussein Onn Malaysia**: Bachelor of Computer Science (Software Engineering) with Honours, Year 2018-2022
 
-###
+## 🌱 Fun Facts
+- I enjoy playing brain games like Sudoku, crosswords, jigsaw puzzles, and checkers 💡.
+- I enjoy cooking and baking 🍪.
+- I enjoy reading about the latest trends in AI and technology 🤓.
 
-<p align="left">💼 Aspiring Data Scientist.<br>🎓 Currently working on a Master’s in Data Science and continuously improving my skills in various domains.<br>📊 I enjoy solving real-world problems using data. <br>🧠 I am passionate about continuous learning, and I am always exploring new topics.</p>
+## 📫 How to reach me:
+- Email: [nurhafizah@graduate.utm.my](mailto:nurhafizah99@graduate.utm.my)
+- LinkedIn: https://www.linkedin.com/in/nurhafizah-mohd-yunos-753719182/
 
-###
-
-<h4 align="left">🔧 Skills and Tools</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-
-###
-
-<h4 align="left">🧑‍💻 Let's Connect</h4>
-
-###
-
-<div align="left">
-  <a href="nurhafizah99@graduate.utm.my" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nurhafizah-mohd-yunos-753719182/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-
-
-###
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nurhafizah99&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=nurhafizah99&theme=onedark" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-
+Thanks for visiting my profile! Let's connect! 👨‍💻✨
