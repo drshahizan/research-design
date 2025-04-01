@@ -14,11 +14,12 @@ This course covers the fundamental steps and implementation of developing initia
 ## 🔥 Important Things
 Stay organized and well-prepared for the course by accessing the essential resources below. These materials will help you navigate the course efficiently and maximize your learning experience.  
 
-
 ### ✅ **[Tasks to Complete Before the First Lecture](./24252/materials/tasks.md)**  
 Ensure you complete all essential tasks before attending the first lecture. These include setting up your learning environment, accessing course materials, and preparing to actively participate in class. 📝💻  
 
 ### 🧑‍🎓 **[Student Information](./24252/student/)**  
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/Unama%20SLR.jpeg" alt="Dr Shahizan SLR"  height="400">
+
 Find your personal and academic details relevant to your student profile, including records and participation information.  
 
 ### 📚 **[Course Information](./images/CI%20MCSD1043%20RM%20Data%20Science%20Sem24252.pdf)**  
