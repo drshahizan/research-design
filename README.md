@@ -18,9 +18,9 @@ Stay organized and well-prepared for the course by accessing the essential resou
 Ensure you complete all essential tasks before attending the first lecture. These include setting up your learning environment, accessing course materials, and preparing to actively participate in class. 📝💻  
 
 ### 🧑‍🎓 **[Student Information](./24252/student/)**  
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/Unama%20SLR.jpeg" alt="Dr Shahizan SLR"  height="400">
-
 Find your personal and academic details relevant to your student profile, including records and participation information.  
+ <img src="images/RD.jpg" alt="Dr Shahizan SLR"  height="400">
+
 
 ### 📚 **[Course Information](./images/CI%20MCSD1043%20RM%20Data%20Science%20Sem24252.pdf)**  
 Get comprehensive details about the course, including learning objectives, syllabus, policies, and requirements for the current semester.  
