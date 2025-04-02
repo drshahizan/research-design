@@ -34,7 +34,7 @@ A comprehensive guide outlining key methodologies, best practices, and expectati
 ### 📂 **[Teaching Module](./materials/slides.md)**  
 Access all lecture slides, notes, and other instructional materials that will be used throughout the course.  
  
-### 📝 **Assignment Overview**
+### 📝 **[Assignment Overview](./24252/assignment)**
 Access essential documents to guide you through your coursework, including assignment details, submission guidelines, deadlines, and evaluation criteria. Proposal submissions by Batch
 - [Batch 2024-25/02](./24252/proposal/readme.md)
 - [Batch 2024-25/01](./proposal/proposal_2.md)  
