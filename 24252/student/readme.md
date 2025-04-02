@@ -32,7 +32,7 @@
 | 21 | Wang Zhengqiu | zqwangutm | [:octocat:](https://github.com/zqwangutm) | <a href="https://www.linkedin.com/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/zqwangutm/"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 22 | Yang Mu | Yang743 | [:octocat:](https://github.com/Yang743) | <a href="https://www.linkedin.com/in/%E9%9C%82-%E6%9D%A8-924247358/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 23 | Zhang Long | DragonDateScience | [:octocat:](https://github.com/DragonDateScience) |  | <a href="https://github.com/drshahizan/research-design/blob/main/24252/student/DragonDateScience/readme.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 24 | Zhao Zhihan | zzhhzz123 | [:octocat:](https://github.com/zzhhzz123) |  | <a href="https://github.com/zzhhzz123/zhaozhihan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 24 | Zhao Zhihan | zzhhzz123 | [:octocat:](https://github.com/zzhhzz123) | <a href="https://www.linkedin.com/in/%E6%99%BA%E6%B6%B5-%E8%B5%B5-069a72359/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/zzhhzz123/zhaozhihan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
