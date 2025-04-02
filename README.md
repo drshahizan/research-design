@@ -37,7 +37,7 @@ Access all lecture slides, notes, and other instructional materials that will be
 ### 📝 **[Assignment](./24252/assignment)**  
 Find assignment details, submission guidelines, deadlines, and evaluation criteria to manage your coursework efficiently.  
 - **Proposal** 📃
-    - [Batch 2024-25/02](./proposal/proposal_2.md) 
+    - [Batch 2024-25/02](./24252/proposal/readme.md) 
     - [Batch 2024-25/01](./proposal/proposal_2.md) 
     - [Batch 2023-24/02](./proposal/readme.md)
       
