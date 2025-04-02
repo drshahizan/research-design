@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Choong Zi Xuan</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
+- 🔭 I’m study **Bachelor of Information Technology (Hons.) Business Intelligence and Analytics at MMU**
+
 - 🔭 I’m currently studying for **Master in Data Science at UTM**
 
 - 📫 How to reach me **choongzixuan@gmail.com**
