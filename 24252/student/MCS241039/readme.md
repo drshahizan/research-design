@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guo Yachao</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-- 🔭 I’m currently working on [China railway Construction Corporotion](August 2019-presnt)
+- 🔭 I’m currently working on [China railway Construction Corporotion]
 
 - 🌱 I’m currently learning **python**
 
