@@ -22,7 +22,8 @@
 | 9 | Li Honglin | |<a href="file/lihonglin007"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 10 | Li Xinya | |<a href="file/LIXINYA02"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 11 | Lock Chun Hern | |<a href="file/henrylock"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 12 | Mohamed Azlan Ameer Oli | |<a href="file/lanazlan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 12 | Mohamed Azlan Ameer Oli | Deep Learning Approaches for Fraud Detection in Transactions for E-Commerce by 
+using Convolutional Neural Network (CNN) & Recurrent Neural Network (RNN).|<a href="file/lanazlan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 13 | Mohamed Tarek Elsayed Mohamed Yousef Mohamed Torky | Sentiment Analysis on Islamic-Related Text Data |<a href="file/mdTorky"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 14 | Muhammad Haziq Bin Mohamad | Identifying Patterns in Salary Disparities Among Malaysians Using Machine Learning |<a href="file/Hzqmo"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 15 | Nur Aina Farraain Binti Zahanizam | |<a href="file/vicheolis"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
