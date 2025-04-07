@@ -28,7 +28,7 @@
 | 15 | Nur Aina Farraain Binti Zahanizam | |<a href="file/vicheolis"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 16 | Nurhafizah Binti Mohd Yunos | |<a href="file/nurhafizah99"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 17 | Siti Nur Elisya Aqmar Binti Mohamad Kamal | |<a href="file/elisyaqmarr"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 18 | Sivarajan A/L S.Esvaran | |<a href="file/C-VA17"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 18 | Sivarajan A/L S.Esvaran |Unleashing Potential Sales Opportunities in Direct Selling through Data Analysis and Data Visualization Strategy for Amway Distributors |<a href="file/C-VA17"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 19 | Soh Joen Shiuan | Customer churn prediction in e-commerce industry |<a href="file/edwardjacksonmy"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 20 | Wang Tong | |<a href="file/tong920"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 21 | Wang Zhengqiu | |<a href="file/zqwangutm"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
