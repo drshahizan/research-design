@@ -20,7 +20,7 @@
 | 7 | Guo Yachao |Data analytics of patients with sepsis |<a href="file/MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 8 | Lee Hong Jian | Reinforcement learning for automated trading in stock markets |<a href="file/ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 9 | Li Honglin |Re-employment Analysis of Older Adults Aged 50–70 Using Kaggle Data |<a href="file/lihonglin007"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 10 | Li Xinya | |<a href="file/LIXINYA02"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 10 | Li Xinya | Prediction and Tracking of Plastic Pollution in Rivers of Malaysia Based on Machine Learning |<a href="file/LIXINYA02"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 11 | Lock Chun Hern | |<a href="file/henrylock"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 12 | Mohamed Azlan Ameer Oli |Deep Learning Approaches for Fraud Detection in Transactions for E-Commerce by using Convolutional Neural Network (CNN) & Recurrent Neural Network (RNN).|<a href="file/lanazlan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 13 | Mohamed Tarek Elsayed Mohamed Yousef Mohamed Torky | Sentiment Analysis on Islamic-Related Text Data |<a href="file/mdTorky"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
