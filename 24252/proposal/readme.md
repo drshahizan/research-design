@@ -35,7 +35,7 @@
 | 22 | Yang Mu | |<a href="file/Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 23 | Zhang Long | |<a href="file/DragonDateScience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 24 | Zhao Zhihan | Quantitative prediction of mineral resources through data science |<a href="file/zzhhzz123"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 25 | Mira Edora binti Yunos| Detecting Depression in Twitter Text Posts Using BERT-Based NLP Models|<a href="file/MiraEl7"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 25 | Mira Edora binti Yunos| Enhanced Depression Detection in Twitter Posts Using Fine-Tuned BERT NLP Models|<a href="file/MiraEl7"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
