@@ -29,7 +29,7 @@
 | 16 | Nurhafizah Binti Mohd Yunos |Machine Learning for Early Detection of Cancer |<a href="file/nurhafizah99"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 17 | Siti Nur Elisya Aqmar Binti Mohamad Kamal | |<a href="file/elisyaqmarr"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 18 | Sivarajan A/L S.Esvaran |Unleashing Potential Sales Opportunities in Direct Selling through Data Analysis and Data Visualization Strategy for Amway Distributors |<a href="file/C-VA17"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 19 | Soh Joen Shiuan | Customer churn prediction in e-commerce industry |<a href="file/edwardjacksonmy"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 19 | Soh Joen Shiuan | Customer Churn Prediction in E-commerce Industry using Classification Approach |<a href="file/edwardjacksonmy"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 20 | Wang Tong | The prediction and analysis of typhoon landing points by employing random forest regression |<a href="file/tong920"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 21 | Wang Zhengqiu | Enhancing E-commerce recommendations with sentiment analysis using MLA-EDTCNet and collaborative filtering |<a href="file/zqwangutm"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 22 | Yang Mu |Constructing a Metadata Framework for COVID-19 Scientific Based Datasets and Investigating Visualization Techniques: A Case Study on Re3data.org |<a href="file/Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
