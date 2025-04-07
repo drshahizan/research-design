@@ -34,6 +34,9 @@
 | 23 | Zhang Long | DragonDateScience | [:octocat:](https://github.com/DragonDateScience) |  | <a href="https://github.com/drshahizan/research-design/blob/main/24252/student/DragonDateScience/readme.md"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 24 | Zhao Zhihan | zzhhzz123 | [:octocat:](https://github.com/zzhhzz123) | <a href="https://www.linkedin.com/in/%E6%99%BA%E6%B6%B5-%E8%B5%B5-069a72359/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/zzhhzz123/zhaozhihan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 25 | Mira Edora Binti Yunos | MiraEl7 | [:octocat:](https://github.com/MiraEl7) | <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BXfN41NjGTnC%2Fqz83vUdvjw%3D%3D"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/MiraEl7/MiraEl7"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+
+| 26 | Sun Yihui | JasonSun-UTM | [:octocat:](https://github.com/JasonSun-UTM) | <a href="https://www.linkedin.com/in/sun-yihui-954313270/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/JasonSun-UTM/Sun-Yihui"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
 
