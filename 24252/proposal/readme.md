@@ -26,7 +26,7 @@
 | 13 | Mohamed Tarek Elsayed Mohamed Yousef Mohamed Torky | Sentiment Analysis on Islamic-Related Text Data |<a href="file/mdTorky"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 14 | Muhammad Haziq Bin Mohamad | Identifying Patterns in Salary Disparities Among Malaysians Using Machine Learning |<a href="file/Hzqmo"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 15 | Nur Aina Farraain Binti Zahanizam | |<a href="file/vicheolis"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 16 | Nurhafizah Binti Mohd Yunos |Machine Learning for Early Detection of Cancer |<a href="file/nurhafizah99"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 16 | Nurhafizah Binti Mohd Yunos |Air Quality Prediction: Forecasting Pollutant Levels for Improved Environmental Monitoring |<a href="file/nurhafizah99"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 17 | Siti Nur Elisya Aqmar Binti Mohamad Kamal | |<a href="file/elisyaqmarr"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 18 | Sivarajan A/L S.Esvaran |Unleashing Potential Sales Opportunities in Direct Selling through Data Analysis and Data Visualization Strategy for Amway Distributors |<a href="file/C-VA17"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 19 | Soh Joen Shiuan | Customer Churn Prediction in E-commerce Industry using Classification Approach |<a href="file/edwardjacksonmy"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
