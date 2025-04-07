@@ -34,7 +34,7 @@
 | 21 | Wang Zhengqiu | |<a href="file/zqwangutm"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 22 | Yang Mu | |<a href="file/Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 23 | Zhang Long | |<a href="file/DragonDateScience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 24 | Zhao Zhihan | |<a href="file/zzhhzz123"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 24 | Zhao Zhihan | Quantitative prediction of mineral resources through data science |<a href="file/zzhhzz123"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 25 | Mira Edora binti Yunos| |<a href="file/MiraEl7"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
