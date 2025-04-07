@@ -32,8 +32,7 @@
 | 19 | Soh Joen Shiuan | Customer churn prediction in e-commerce industry |<a href="file/edwardjacksonmy"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 20 | Wang Tong | The prediction and analysis of typhoon landing points by employing random forest regression |<a href="file/tong920"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 21 | Wang Zhengqiu | |<a href="file/zqwangutm"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 22 | Yang Mu |Constructing a Metadata Framework for COVID-19 Scientific Based Datasets and Investigating Visualization Techniques: A Case Study
-on Re3data.org |<a href="file/Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 22 | Yang Mu |Constructing a Metadata Framework for COVID-19 Scientific Based Datasets and Investigating Visualization Techniques: A Case Study on Re3data.org |<a href="file/Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 23 | Zhang Long | |<a href="file/DragonDateScience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 24 | Zhao Zhihan | Quantitative prediction of mineral resources through data science |<a href="file/zzhhzz123"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 25 | Mira Edora Binti Yunos| Leveraging Natural Language Processing Models for Depression Detection in X(Twitter) Posts |<a href="file/MiraEl7"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
