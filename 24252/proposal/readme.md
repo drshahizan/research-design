@@ -13,7 +13,7 @@
 |-----|------------------------------------------|-----------| :-----------:|
 | 1 | Chang Zi Yin | |<a href="file/ziyiinn"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 2 | Chau Ai Vin | |<a href="file/chauaivin"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 3 | Chen Junhao | |<a href="file/HideInInk312"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 3 | Chen Junhao | Amazon Best Seller Rank Prediction Using Machine Learning |<a href="file/HideInInk312"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 4 | Choong Zi Xuan | |<a href="file/ZXChoong"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 5 | Cui Zhiwen | |<a href="file/ROSSscience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 6 | Gao Jingkai | Knowing our choices: unveiling true voting patterns through machine learning (ML) and natural language processing (NLP) in European Parliament |<a href="file/Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
