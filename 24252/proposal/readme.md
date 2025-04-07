@@ -24,7 +24,7 @@
 | 11 | Lock Chun Hern | |<a href="file/henrylock"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 12 | Mohamed Azlan Ameer Oli | |<a href="file/lanazlan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 13 | Mohamed Tarek Elsayed Mohamed Yousef Mohamed Torky | |<a href="file/mohamedtorky"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 14 | Muhammad Haziq Bin Mohamad | |<a href="file/Hzqmo"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 14 | Muhammad Haziq Bin Mohamad | Identifying Patterns in Salary Disparities Among Malaysians Using Machine Learning |<a href="file/Hzqmo"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 15 | Nur Aina Farraain Binti Zahanizam | |<a href="file/vicheolis"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 16 | Nurhafizah Binti Mohd Yunos | |<a href="file/nurhafizah99"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 17 | Siti Nur Elisya Aqmar Binti Mohamad Kamal | |<a href="file/elisyaqmarr"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
