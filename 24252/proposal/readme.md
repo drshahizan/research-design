@@ -18,7 +18,7 @@
 | 5 | Cui Zhiwen | |<a href="file/ROSSscience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 6 | Gao Jingkai | Knowing our choices: unveiling true voting patterns through machine learning (ML) and natural language processing (NLP) in European Parliament |<a href="file/Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 7 | Guo Yachao | |<a href="file/MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 8 | Lee Hong Jian | |<a href="file/ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 8 | Lee Hong Jian | Reinforcement learning for automated trading in stock markets |<a href="file/ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 9 | Li Honglin | |<a href="file/lihonglin007"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 10 | Li Xinya | |<a href="file/LIXINYA02"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 11 | Lock Chun Hern | |<a href="file/henrylock"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
