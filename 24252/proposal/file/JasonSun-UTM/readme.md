@@ -6,7 +6,7 @@ A data science project to analyze public sentiment towards Ethereum (ETH) using 
 
 The cryptocurrency market is highly sensitive to social media sentiment.  
 This project focuses on analyzing tweets related to Ethereum (ETH) to understand how public opinion influences market dynamics.  
-We apply Natural Language Processing (NLP) techniques to perform sentiment analysis and visualize the relationship between Twitter sentiment and ETH price trends.
+I apply Natural Language Processing (NLP) techniques to perform sentiment analysis and visualize the relationship between Twitter sentiment and ETH price trends.
 
 ---
 
