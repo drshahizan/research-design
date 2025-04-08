@@ -37,7 +37,7 @@
 | 24 | Zhao Zhihan | Quantitative prediction of mineral resources through data science |<a href="file/zzhhzz123"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 25 | Mira Edora Binti Yunos| Leveraging Natural Language Processing Models for Depression Detection in X(Twitter) Posts |<a href="file/MiraEl7"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 26 | Sun Yihui| Sentiment Analysis of Ethereum (ETH) on Twitter: Insights from Social Media Trends |<a href="file/JasonSun-UTM"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 27 | Yi Xindie| A Multidimensional Analysis of California's Decadal Wildfires Based on Data Science: From Data Mining to the Construction of Risk Management Models |<a href="file/YIXINDIE"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 27 | Yi Xindie| An Analysis of California's Decadal Wildfires: From Data Mining to the Construction of Risk Management Models |<a href="file/YIXINDIE"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
