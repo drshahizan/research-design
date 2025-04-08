@@ -110,6 +110,6 @@ Feel free to open issues or submit pull requests to improve this project.
 
 If you have any questions or suggestions, feel free to reach out!
 
-> [JasonSun] — [sunyihui@gradurate.utm.my]  
+> [JasonSun] — [sunyihui@graduate.utm.my]  
 
 ---
