@@ -17,7 +17,7 @@
 | 4 | Choong Zi Xuan | Understanding the impact of demographics on the travel mode choices of urban residents |<a href="file/ZXChoong"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 5 | Cui Zhiwen |Analyze the current security issues of AI based on data security |<a href="file/ROSSscience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 6 | Gao Jingkai | Knowing our choices: unveiling true voting patterns through machine learning (ML) and natural language processing (NLP) in European Parliament |<a href="file/Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 7 | Guo Yachao |Data analytics of patients with sepsis |<a href="file/MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 7 | Guo Yachao |  Data analysis of medical  of sepsis patients |<a href="file/MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 8 | Lee Hong Jian | Reinforcement learning for automated trading in stock markets |<a href="file/ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 9 | Li Honglin |Re-employment Analysis of Older Adults Aged 50–70 Using Kaggle Data |<a href="file/lihonglin007"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 10 | Li Xinya | Prediction and Tracking of Plastic Pollution in Rivers of Malaysia Based on Machine Learning |<a href="file/LIXINYA02"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
