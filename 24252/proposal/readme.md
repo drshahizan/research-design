@@ -36,7 +36,7 @@
 | 23 | Zhang Long | Prediction of Electric Vehicle Charging Behavior Using Deep Learning|<a href="file/DragonDateScience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 24 | Zhao Zhihan | Quantitative prediction of mineral resources through data science |<a href="file/zzhhzz123"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 25 | Mira Edora Binti Yunos| Leveraging Natural Language Processing Models for Depression Detection in X(Twitter) Posts |<a href="file/MiraEl7"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 26 | Sun Yihui| Sentiment Analysis of Crypto Markets Using Social Media and News Data |<a href="file/JasonSun-UTM"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 26 | Sun Yihui| Sentiment Analysis of Ethereum (ETH) on Twitter: Insights from Social Media Trends |<a href="file/JasonSun-UTM"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 27 | Yi Xindie| A Multidimensional Analysis of California's Decadal Wildfires Based on Data Science: From Data Mining to the Construction of Risk Management Models |<a href="file/YIXINDIE"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
