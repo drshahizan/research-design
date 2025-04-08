@@ -15,7 +15,7 @@
 | 2 | Chau Ai Vin | Sentiment Analysis of Online Customer Reviews to Predict Product Success in E-Commerce Platforms |<a href="file/chauaivin"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 3 | Chen Junhao | Amazon Best Seller Rank Prediction Using Machine Learning |<a href="file/HideInInk312"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 4 | Choong Zi Xuan | Understanding the impact of demographics on the travel mode choices of urban residents |<a href="file/ZXChoong"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 5 | Cui Zhiwen |Environmental emotion detection |<a href="file/ROSSscience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 5 | Cui Zhiwen |About environmental emotion data detection |<a href="file/ROSSscience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 6 | Gao Jingkai | Knowing our choices: unveiling true voting patterns through machine learning (ML) and natural language processing (NLP) in European Parliament |<a href="file/Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 7 | Guo Yachao |Data analytics of patients with sepsis |<a href="file/MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 8 | Lee Hong Jian | Reinforcement learning for automated trading in stock markets |<a href="file/ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
