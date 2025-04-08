@@ -1,16 +1,47 @@
-<h1 align="center">Hi 👋, I'm Choong Zi Xuan</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+# 👋 Hello, I'm Choong Zi Xuan!
 
-- 🔭 I study **Bachelor of Information Technology (Hons.) Business Intelligence and Analytics at MMU (2020 - 2024)**
+Aspiring data scientist with a strong foundation in business intelligence and analytics. Passionate about turning data into actionable insights and creating impactful digital experiences.
 
-- 🔭 I’m currently studying for **Master in Data Science at UTM**
+---
 
-- 📫 How to reach me **choongzixuan@gmail.com**
+## 🎓 Education
+- **Master’s in Data Science** *(Ongoing)*  
+  Universiti Teknologi Malaysia (UTM)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zi xuan choong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zi xuan choong" height="30" width="40" /></a>
-</p>
+- **Bachelor of Information Technology (Hons.)** in Business Intelligence and Analytics *(2020 - 2024)*  
+  Multimedia University (MMU)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 💻 Technical Skills
+- **Programming Languages:** C++, Python, Java, HTML, JavaScript, CSS, PHP, MySQL  
+- **Web Development:** Proficient in WordPress  
+- **Data Science & Analytics:** Data visualization, predictive modeling, statistical analysis  
+
+---
+
+## 💼 Professional Experience
+### **Project M - Marketing Company**  
+- **Website Development Intern** *(July – October 2024)*  
+  - Designed and developed responsive websites using WordPress.  
+  - Collaborated with the marketing team to enhance user experience.  
+
+- **Social Media Marketing Specialist** *(October 2024 – February 2025)*  
+  - Ideated and curated content for social media platforms.  
+  - Wrote engaging captions to drive audience interaction and brand presence.  
+
+---
+
+## 🌟 Personal Highlights
+- **Passion for Problem-Solving:** I thrive on crafting data-driven solutions to tackle real-world challenges.  
+- **Team Player:** Proven ability to collaborate effectively in diverse teams.  
+- **Lifelong Learner:** Constantly exploring new tools, frameworks, and methodologies in tech and data science.  
+
+---
+
+## 🌐 Connect with Me
+- **LinkedIn:** [Choong Zi Xuan](https://www.linkedin.com/uas/login-submit)  
+---
+
+### 🚀 Let's Collaborate!  
+I'm open to collaborations on data science projects, web development, or anything tech-related. Feel free to explore my repositories and reach out. Let's build something amazing together!  
