@@ -13,7 +13,7 @@ Please follow the instructions below carefully to complete and submit your **Pro
 
 #### 📥 **Step 1: Download the Proposal Form**
 Click the link below to download the official proposal form:
-👉 [**Download MCST1043 Proposal Form**](file/MCST1043%20Proposal%20Form.docx)
+👉 [**Download MCST1043 Proposal Form**](https://github.com/drshahizan/research-design/blob/main/24252/proposal/MCS241051-C-VA17.docx)
 
 #### ✍️ **Step 2: Fill in the Proposal Form**
 Complete all sections of the form:
