@@ -19,7 +19,7 @@
 | 6 | Gao Jingkai | An Interpretable Hybrid BERT-ML Framework for Twitter Sentiment Classification |<a href="file/Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 7 | Guo Yachao | Analysis of the medical data of sepsis patients |<a href="file/MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 8 | Lee Hong Jian | Reinforcement learning for automated trading in stock markets |<a href="file/ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 9 | Li Honglin |Re-employment Analysis of Older Adults Aged 50–70  |<a href="file/lihonglin007"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 9 | Li Honglin |Sentiment Analysis of Public Opinion on Trump's 2025 Tariff Policy on Twitter |<a href="file/lihonglin007"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 10 | Li Xinya | Prediction and Tracking of Plastic Pollution in Rivers of Malaysia Based on Machine Learning |<a href="file/LIXINYA02"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 11 | Lock Chun Hern |Prediction of Health Expenditure in Malaysia using Machine Learning |<a href="file/henrylock"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 12 | Mohamed Azlan Ameer Oli |Deep Learning Approaches for Fraud Detection in Transactions for E-Commerce by using Convolutional Neural Network (CNN) & Recurrent Neural Network (RNN).|<a href="file/lanazlan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
