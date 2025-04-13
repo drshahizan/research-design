@@ -34,7 +34,7 @@
 | 21 | Wang Zhengqiu | Enhancing E-commerce recommendations with sentiment analysis using MLA-EDTCNet and collaborative filtering |<a href="file/zqwangutm"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 22 | Yang Mu |Construction and visualization of metadata framework of COVID-19 scientific dataset- Re3data.org|<a href="file/Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 23 | Zhang Long | Prediction of Electric Vehicle Charging Behavior Using Deep Learning|<a href="file/DragonDateScience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 24 | Zhao Zhihan |Research on Spatial Analysis of Soil Environment and Health Risks Based on Machine Learning |<a href="file/zzhhzz123"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 24 | Zhao Zhihan |Research on Soil Environmental and Health Risk Analysis Based on Machine Learning|<a href="file/zzhhzz123"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 25 | Mira Edora Binti Yunos| Real-Time Dynamic Pricing Engine for Shopee with Customer Segmentation and Demand Forecasting|<a href="file/MiraEl7"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 26 | Sun Yihui| Sentiment Analysis of Ethereum (ETH) on Twitter: Insights from Social Media Trends |<a href="file/JasonSun-UTM"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 27 | Yi Xindie| An Analysis of California's Decadal Wildfires: From Data Mining to the Construction of Risk Management Models |<a href="file/YIXINDIE"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
