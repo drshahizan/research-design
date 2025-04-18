@@ -32,7 +32,7 @@
 | 19 | Soh Joen Shiuan | Customer Churn Prediction in E-commerce Industry using Classification Approach |<a href="file/edwardjacksonmy"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 20 | Wang Tong | Prediction and Analysis of Tropical Cyclones Landfall Points Based on Random Forest |<a href="file/tong920"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 21 | Wang Zhengqiu | Enhancing E-commerce recommendations with sentiment analysis using MLA-EDTCNet and collaborative filtering |<a href="file/zqwangutm"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 22 | Yang Mu |Construction and visualization of metadata framework of COVID-19 scientific dataset- Re3data.org|<a href="file/Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 22 | Yang Mu |Big data driven: Forecast of global real estate market ups and downs in some regions|<a href="file/Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 23 | Zhang Long | Prediction of Electric Vehicle Charging Behavior Using Deep Learning|<a href="file/DragonDateScience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 24 | Zhao Zhihan |Research on Soil Environmental and Health Risk Analysis Based on Machine Learning|<a href="file/zzhhzz123"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 25 | Mira Edora Binti Yunos| Analyzing Operational and Regulatory Issues in TikTok Shop Using Text and Behavioral Data|<a href="file/MiraEl7"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
