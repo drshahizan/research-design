@@ -17,7 +17,7 @@
 | 4 | Choong Zi Xuan | Understanding the impact of demographics on the travel mode choices of urban residents |<a href="file/ZXChoong"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 5 | Cui Zhiwen |Discover common methods of corporate network attacks through data analysis |<a href="file/ROSSscience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 6 | Gao Jingkai | An Interpretable Hybrid BERT-ML Framework for Twitter Sentiment Classification |<a href="file/Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 7 | Guo Yachao |  IoT Network Anomaly Detection in Smart Homes Using Machine Learning |<a href="file/MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 7 | Guo Yachao |Detection of network anomalies in smart home Internet of Things |<a href="file/MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 8 | Lee Hong Jian | Reinforcement learning for automated trading in stock markets |<a href="file/ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 9 | Li Honglin |Sentiment Analysis of Public Opinion on Trump's 2025 Tariff Policy on Twitter |<a href="file/lihonglin007"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 10 | Li Xinya | Intelligent Prediction of University Course Satisfaction Using Text Mining and Machine Learning |<a href="file/LIXINYA02"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
