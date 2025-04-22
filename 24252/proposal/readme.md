@@ -33,7 +33,7 @@
 | 20 | Wang Tong | Prediction and Analysis of Tropical Cyclones Landfall Points Based on Random Forest |<a href="file/tong920"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 21 | Wang Zhengqiu | Enhancing E-commerce recommendations with sentiment analysis using MLA-EDTCNet and collaborative filtering |<a href="file/zqwangutm"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 22 | Yang Mu |Big data driven: Forecast of global real estate market ups and downs in some regions|<a href="file/Yang743"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 23 | Zhang Long | Prediction of Electric Vehicle Charging Behavior Using Deep Learning|<a href="file/DragonDateScience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 23 | Zhang Long | A Data-Driven Analysis of Low State-of-Charge Charging Behavior in Electric Vehicles|<a href="file/DragonDateScience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 24 | Zhao Zhihan |Research on Soil Environmental and Health Risk Analysis Based on Machine Learning|<a href="file/zzhhzz123"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 25 | Mira Edora Binti Yunos| Analyzing Operational and Regulatory Issues in TikTok Shop Using Text and Behavioral Data|<a href="file/MiraEl7"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 26 | Sun Yihui| Sentiment Analysis of Ethereum (ETH) on Twitter: Insights from Social Media Trends |<a href="file/JasonSun-UTM"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
