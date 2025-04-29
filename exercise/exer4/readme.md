@@ -40,7 +40,7 @@ You are required to complete the following tasks divided into **three main parts
 - Use one of the following tools:
   - [Connected Papers](https://www.connectedpapers.com)
   - [ResearchRabbit](https://www.researchrabbit.ai)
-  - [Semantic Scholar](https://www.semanticscholar.org)
+  - [Open Knowledge Maps](https://openknowledgemaps.org/)
 
 - Upload or search one of your key articles and generate a citation or connection map.
 
