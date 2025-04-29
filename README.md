@@ -40,7 +40,7 @@ Access essential documents to guide you through your coursework, including assig
 - [Batch 2024-25/01](./proposal/proposal_2.md)  
 - [Batch 2023-24/02](./proposal/readme.md)
       
-### 📝 **[Data Science Project]()**  
+### 📝 **[Exercise](./exercise)**  
 Access project guidelines, datasets, and collaboration tools for hands-on data science experience.  
 
 ### 🧠 **[GitHub Repository]()**  
