@@ -10,13 +10,9 @@
 ## 🧾 Objective:
 This practical exercise aims to help you **develop critical skills in searching, evaluating, and synthesizing literature** relevant to your research topic. The exercises are designed to simulate the steps in writing a high-quality literature review chapter for your research proposal or thesis.
 
----
-
 ## ✅ TASK INSTRUCTION
 
 You are required to complete the following tasks divided into **three main parts (A, B, C)**. Please read the description for each task carefully and submit your work in a structured format using headings and tables where necessary.
-
----
 
 ### 🧪 PART A: IDENTIFYING AND ORGANIZING LITERATURE
 
@@ -33,16 +29,12 @@ You are required to complete the following tasks divided into **three main parts
 - List of selected articles with metadata:
   - Title, Author(s), Year, Journal, Abstract.
 
----
-
 #### 📌 **Exercise 2: Literature Classification Table**
 - Classify the selected 5 articles using the table below:
 
 | No | Author(s), Year | Article Type | Domain Focus | Methodology | Recency | Relevance to Your Study |
 |----|------------------|--------------|---------------|-------------|---------|--------------------------|
 | 1  | e.g., Smith et al., 2022 | Empirical / Review / Theoretical | Machine Learning / Big Data etc. | Qualitative / Quantitative | 2022 | Clearly explain the relevance |
-
----
 
 #### 📌 **Exercise 3: Citation Mapping**
 - Use one of the following tools:
@@ -56,8 +48,6 @@ You are required to complete the following tasks divided into **three main parts
 - Screenshot of the citation map.
 - Identify and briefly explain the contribution of 2 influential or highly cited papers related to your topic (~150 words).
 
----
-
 ### 🧪 PART B: REVIEWING AND SYNTHESIZING LITERATURE
 
 #### 📌 **Exercise 4: Literature Review Matrix/Table**
@@ -66,7 +56,6 @@ Create a literature review summary matrix:
 | Author(s) | Year | Title | Research Objective / Problem | Methodology | Key Findings | Limitations | Relevance to Your Study |
 |-----------|------|--------|-------------------------------|-------------|---------------|--------------|--------------------------|
 
----
 
 #### 📌 **Exercise 5: Research Gap Identification**
 Analyze your literature review matrix and identify:
@@ -77,16 +66,12 @@ Analyze your literature review matrix and identify:
 **Deliverable:**
 - A paragraph (150–200 words) explaining the **research gap** and **how your study addresses it**.
 
----
-
 #### 📌 **Exercise 6: Comparative Critical Analysis**
 Select **2 articles** with different methodologies but addressing a similar issue.
 
 **Write a critical comparison (200–250 words)**:
 - Describe each approach and its strengths.
 - Discuss which approach is more suitable for your research and why.
-
----
 
 ### 🧪 PART C: TOOLS AND DOCUMENTATION
 
@@ -99,8 +84,6 @@ Select **2 articles** with different methodologies but addressing a similar issu
 - APA-formatted reference list.
 - Evidence of reference manager use (e.g., screenshot or exported file).
 
----
-
 #### 📌 **Exercise 8: Literature Review Quality Evaluation**
 Choose **one article** and evaluate its literature review section. Discuss:
 - Is the literature review well-organized?
@@ -111,9 +94,6 @@ Choose **one article** and evaluate its literature review section. Discuss:
 **Deliverable:**
 - A 150-word written evaluation.
 
----
-
-### ⭐ BONUS TASK (Strongly Recommended)
 #### 📌 **Exercise 9: Mini Literature Review Writing**
 - Write a **300-word literature review** based on the 5 articles.
 - Use **in-text citations** and APA 7th reference style.
