@@ -54,7 +54,10 @@
 
 ## 🔢 Exercise 3: Citation Mapping
 
-**Tool Used:** [ ] Connected Papers [ ] ResearchRabbit [ ] Open Knowledge Maps
+**Tool Used:** 
+- [ ] Connected Papers 
+- [ ] ResearchRabbit 
+- [ ] Open Knowledge Maps
 
 **Snapshot of Citation Map:**
 (Attach here)
