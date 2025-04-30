@@ -12,7 +12,9 @@ This practical exercise aims to help you **develop critical skills in searching,
 
 ## ✅ TASK INSTRUCTION
 
-You are required to complete the following tasks divided into **three main parts (A, B, C)**. Please read the description for each task carefully and submit your work in a structured format using headings and tables where necessary. **[Template](template.md)**
+You are required to complete the following tasks divided into **three main parts (A, B, C)**. Please read the description for each task carefully and submit your work in a structured format using headings and tables where necessary. 
+
+📌 **[Template](template.md)**
 
 ### 🧪 PART A: IDENTIFYING AND ORGANIZING LITERATURE
 
