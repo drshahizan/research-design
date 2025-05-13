@@ -28,8 +28,7 @@
 | 15 | Nur Aina Farraain Binti Zahanizam | Flood Risk Assessment for Real Estate in West Malaysia Using Machine Learning |<a href="file/vicheolis"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 16 | Nurhafizah Binti Mohd Yunos |Early Prediction of Stroke Risk Using Machine Learning for Preventive Healthcare |<a href="file/nurhafizah99"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 17 | Siti Nur Elisya Aqmar Binti Mohamad Kamal | A Comparative Analysis of Public Gold and Local Jewelers Using Machine Learning to Assess Price|<a href="file/elisyaqmarr"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 18 | Sivarajan A/L S.Esvaran |Enhancing Sales Decision-Making in Direct Selling Businesses Through Exploratory Data Analysis and Visualization |![image](https://github.com/user-attachments/assets/c67519ad-9fbf-4ed8-9c92-0b4a5a4872e4)
- | <a href="file/C-VA17"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 18 | Sivarajan A/L S.Esvaran |Enhancing Sales Decision-Making in Direct Selling Businesses Through Exploratory Data Analysis and Visualization | <a href="file/C-VA17"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 19 | Soh Joen Shiuan | Customer Churn Prediction in E-commerce Industry using Classification Approach |<a href="file/edwardjacksonmy"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 20 | Wang Tong | Prediction and Analysis of Tropical Cyclones Landfall Points Based on Random Forest |<a href="file/tong920"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 21 | Wang Zhengqiu | Enhancing E-commerce recommendations with sentiment analysis using MLA-EDTCNet and collaborative filtering |<a href="file/zqwangutm"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
