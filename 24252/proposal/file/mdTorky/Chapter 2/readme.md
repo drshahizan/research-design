@@ -47,7 +47,7 @@ X serves as a real-time diary and opinion outlet during the Hajj season. Pilgrim
 
 The openness of X’s API facilitates large-scale data extraction and analysis. Tweets can be geotagged, allowing researchers to understand sentiments by region. For example, tweets from Southeast Asia may reflect logistical feedback, while those from the Middle East may focus more on religious significance. Using time-series data, we can also track sentiment fluctuations during the five days of Hajj.
 
-![image](https://github.com/user-attachments/assets/7671a431-f6d2-430c-a183-a97713935a0b)
+<img width="460" height="300" src="https://github.com/user-attachments/assets/7671a431-f6d2-430c-a183-a97713935a0b">
 
 ## 2.6 Challenges and Opportunities in Hajj Sentiment Analysis
 One of the primary challenges in Hajj sentiment analysis is multilingualism. Tweets may switch between Arabic, English, Urdu, and local dialects. Properly training models to understand religious vocabulary across languages is essential. Additionally, sentiments during Hajj are often subtle or symbolic tweets might contain Quranic verses or religious metaphors that are difficult to classify using conventional models.
