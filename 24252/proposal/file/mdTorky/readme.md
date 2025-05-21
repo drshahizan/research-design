@@ -9,7 +9,7 @@
 # Proposal
 
 <p align="center">
-  <img height="200px" src="https://drive.google.com/file/d/1x-kA1DMPAvlUwUfJr7WKJHx9OsPVc0cb/preview" />
+  <img height="200px" src="https://github.com/user-attachments/assets/e9d581aa-1e36-4f20-99d0-9f39217ed500" />
 </p>
 
 ## Title: Sentiment Analysis of Hajj-Related Content on X
@@ -49,3 +49,4 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/mdtorky/) f
 
 
 
+![photo_2024-11-25_02-53-19](https://github.com/user-attachments/assets/e9d581aa-1e36-4f20-99d0-9f39217ed500)
