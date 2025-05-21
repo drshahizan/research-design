@@ -23,7 +23,7 @@
 | 10 | Li Xinya | Intelligent Prediction of University Course Satisfaction Using Text Mining and Machine Learning |<a href="file/LIXINYA02"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 11 | Lock Chun Hern |Prediction of Health Expenditure in Malaysia using Machine Learning |<a href="file/henrylock"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 12 | Mohamed Azlan Ameer Oli |Deep Learning Approaches for Fraud Detection in Transactions for E-Commerce.|<a href="file/lanazlan"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 13 | Mohamed Tarek Elsayed Mohamed Yousef Mohamed Torky | Sentiment Analysis on Islamic-Related Text Data |<a href="file/mdTorky"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 13 | Mohamed Tarek Elsayed Mohamed Yousef Mohamed Torky | Sentiment Analysis of Hajj-Related Content on X |<a href="file/mdTorky"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 14 | Muhammad Haziq Bin Mohamad | BERT-based Semantic Similarity of Malaysian Legal Precedents |<a href="file/Hzqmo"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 15 | Nur Aina Farraain Binti Zahanizam | Flood Risk Assessment for Real Estate in West Malaysia Using Machine Learning |<a href="file/vicheolis"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 16 | Nurhafizah Binti Mohd Yunos |Early Prediction of Stroke Risk Using Machine Learning for Preventive Healthcare |<a href="file/nurhafizah99"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
