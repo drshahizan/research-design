@@ -46,7 +46,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/mdtorky/) f
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
-![photo_2024-11-25_02-53-19](https://github.com/user-attachments/assets/e9d581aa-1e36-4f20-99d0-9f39217ed500)
