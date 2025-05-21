@@ -32,6 +32,10 @@ Raw tweet data is often messy. Preprocessing is crucial to transforming this dat
 
 For instance, a tweet saying, "Alhamdulillah for the chance to perform Hajj this year! #Hajj2025" would need to be cleaned by removing emojis and the hashtag while preserving the emotional tone of gratitude. Figure 2.3 below shows how the text preprocess.
 
+<div align="center">
+<img width="460" height="300" src="https://github.com/user-attachments/assets/a32b2999-339f-4814-bbe4-8ba8272dc831">
+</div>
+
 ### 2.3.3 Feature Extraction
 Features are the backbone of machine learning. In sentiment analysis, they capture patterns in text that models use to make predictions. Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF) are standard methods that convert text into numerical vectors. However, for Hajj-related content, richer representations like word embeddings (Word2Vec, GloVe) and contextual embeddings (BERT) are more effective.
 
