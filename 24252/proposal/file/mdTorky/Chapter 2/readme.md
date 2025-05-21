@@ -33,7 +33,7 @@ Raw tweet data is often messy. Preprocessing is crucial to transforming this dat
 For instance, a tweet saying, "Alhamdulillah for the chance to perform Hajj this year! #Hajj2025" would need to be cleaned by removing emojis and the hashtag while preserving the emotional tone of gratitude. Figure 2.3 below shows how the text preprocess.
 
 <div align="center">
-<img width="460" height="300" src="https://github.com/user-attachments/assets/a32b2999-339f-4814-bbe4-8ba8272dc831">
+<img src="https://github.com/user-attachments/assets/a32b2999-339f-4814-bbe4-8ba8272dc831">
 </div>
 
 ### 2.3.3 Feature Extraction
@@ -52,7 +52,7 @@ X serves as a real-time diary and opinion outlet during the Hajj season. Pilgrim
 The openness of X’s API facilitates large-scale data extraction and analysis. Tweets can be geotagged, allowing researchers to understand sentiments by region. For example, tweets from Southeast Asia may reflect logistical feedback, while those from the Middle East may focus more on religious significance. Using time-series data, we can also track sentiment fluctuations during the five days of Hajj.
 
 <div align="center">
-<img width="460" height="300" src="https://github.com/user-attachments/assets/7671a431-f6d2-430c-a183-a97713935a0b">
+<img src="https://github.com/user-attachments/assets/7671a431-f6d2-430c-a183-a97713935a0b">
 </div>
 
 ## 2.6 Challenges and Opportunities in Hajj Sentiment Analysis
