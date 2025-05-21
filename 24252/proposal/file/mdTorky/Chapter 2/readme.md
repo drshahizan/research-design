@@ -19,6 +19,11 @@ In the case of Hajj, ML models can be trained on datasets containing tweets from
 ### 2.2.3 Machine Learning-Based Approach
 Hybrid models combine the interpretability of rule-based systems with the adaptability of machine learning. For instance, a system might first scan a tweet for sentiment-indicative words using a lexicon and then refine the sentiment using a machine learning classifier that considers context. This approach is particularly useful for Hajj tweets, where cultural nuances and emotional depth vary significantly by language and location.
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/94b85d5c-13ed-4884-874d-484de68353aa">
+</div>
+
+
 ## 2.3 Data Collection and Feature Selection for Hajj Sentiment
 Extracting meaningful insights from tweets about Hajj begins with strategic data collection and robust feature selection. The relevance and accuracy of the analysis depend heavily on the quality of data and how it's represented for model training.
 
@@ -26,6 +31,10 @@ Extracting meaningful insights from tweets about Hajj begins with strategic data
 X is a highly valuable source for Hajj-related content due to its public nature, widespread use, and real-time communication model. Millions of pilgrims and observers tweet about their experiences, reflections, and observations during the Hajj season. These tweets contain hashtags like #Hajj2025, #Mecca, #Mina, and #Islam, making them easily searchable.
 
 Using tools such as the Twitter API (via Tweepy or snscrape in Python), researchers can extract tweets that match specific keywords within defined time frames. This allows for the creation of datasets from different Hajj seasons, offering comparative insights across years and global regions. Tweets can also be filtered by language, allowing for multilingual sentiment analysis across Arabic, English, Urdu, and Malay.
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/b716a078-4d05-4fe3-bac1-10842be686ac">
+</div>
 
 ### 2.3.2 Preprocessing and Cleaning
 Raw tweet data is often messy. Preprocessing is crucial to transforming this data into a usable form. In the case of Hajj tweets, special attention is needed to handle Arabic diacritics, remove hashtags and mentions, convert emojis, and eliminate duplicated tweets.
