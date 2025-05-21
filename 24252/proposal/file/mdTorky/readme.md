@@ -33,10 +33,10 @@
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1  | Chapter 1 | <a href="./Chapter 1/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
-|  2  | Chapter 2 | <a href="./chapter2/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
-|  3  | Chapter 3 | <a href="./chapter3/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
-|  4  | Chapter 4 | <a href="./chapter4/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
-|  5  | Chapter 5 | <a href="./chapter5/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
+|  2  | Chapter 2 | <a href="./Chapter 2/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
+|  3  | Chapter 3 | <a href="./Chapter 3/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
+|  4  | Chapter 4 | <a href="./Chapter 4/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
+|  5  | Chapter 5 | <a href="./Chapter 5/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 
