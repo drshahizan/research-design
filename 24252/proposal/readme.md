@@ -16,7 +16,7 @@
 | 3 | Chen Junhao | Amazon Best Seller Rank Prediction Using Machine Learning |<a href="file/HideInInk312"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 4 | Choong Zi Xuan | Predicting Mental Health Crises by Social Media |<a href="file/ZXChoong"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 5 | Cui Zhiwen |Discover common methods of corporate network attacks through data analysis |<a href="file/ROSSscience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 6 | Gao Jingkai | An Interpretable Hybrid BERT-ML Framework for Twitter Sentiment Classification |<a href="file/Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 6 | Gao Jingkai | An Interpretable BERT-Based Sentiment Classification with Metadata Fusion for Yelp Reviews |<a href="file/Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 7 | Guo Yachao |Detection of network anomalies in smart home Internet of Things |<a href="file/MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 8 | Lee Hong Jian | Reinforcement learning for automated trading in stock markets |<a href="file/ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 9 | Li Honglin |Sentiment Analysis of Public Opinion on Trump's 2025 Tariff Policy on Twitter |<a href="file/lihonglin007"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
