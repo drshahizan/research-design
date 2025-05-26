@@ -15,7 +15,7 @@
 | 2 | Chau Ai Vin | Sentiment Analysis of Online Customer Reviews with Machine Learning Models (Logistic Regression and SVM) to Predict Product Success in E-Commerce Platforms |<a href="file/chauaivin"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 3 | Chen Junhao | Amazon Best Seller Rank Prediction Using Machine Learning |<a href="file/HideInInk312"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 4 | Choong Zi Xuan | Predicting Mental Health Crises by Social Media |<a href="file/ZXChoong"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-| 5 | Cui Zhiwen |Discover common methods of corporate network attacks through data analysis |<a href="file/ROSSscience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 5 | Cui Zhiwen |《DeepPhish-X: Multi-Modal Feature Engineering for Phishing Detection Using Hybrid Models of Computer Vision, Natural Language Processing, and Graph Neural Networks》 |<a href="file/ROSSscience"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 6 | Gao Jingkai | An Interpretable BERT-Based Sentiment Classification with Metadata Fusion for Yelp Reviews |<a href="file/Dis-Tant"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 7 | Guo Yachao |Detection of network anomalies in smart home Internet of Things |<a href="file/MCS241039"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 8 | Lee Hong Jian | Reinforcement learning for automated trading in stock markets |<a href="file/ZeolatJian"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
