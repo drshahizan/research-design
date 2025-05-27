@@ -46,7 +46,7 @@ Access project guidelines, datasets, and collaboration tools for hands-on data s
 ### 🧠 **[GitHub Repository]()**  
 Explore and contribute to the course’s GitHub repository, where all coding exercises, projects, and collaborative tasks will be managed.  
 
-### 📝 [Data Science Case Study]()
+### 📝 [Data Science Case Study](https://github.com/drshahizan/research-design/blob/main/materials/ds-resource.md)
 
 ### 📝 **[Additional Resources]()**  
 Discover extra reading materials, research papers, and external references to deepen your understanding of the subject. 
