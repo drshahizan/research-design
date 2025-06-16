@@ -10,9 +10,9 @@ The reference is the “Catering-Hajj” dataset containing 4,669 tweets labeled
 
 
 ### 4.2.2 Tweet Frequency Over Time
-<div align="center">
+
 ![Figure 4.1](https://github.com/user-attachments/assets/4cc01bc5-176f-45e1-8763-fab24540307b)
-</div>
+
 
 The chart shows that tweet frequency experiences a noticeable peak during the main days of Hajj, especially around:
 - **Arafat Day**
