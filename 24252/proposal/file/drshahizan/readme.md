@@ -6,8 +6,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Student Project Submission Template
-
 <p align="center">
   <img height="300px" src="img/person_icon.png" alt="Profile Image">
 </p>
@@ -107,16 +105,16 @@
 
 ## Submission
 
-| No | Chapter/Component   | File |
-|:--:|---------------------|------|
-| 1  | Proposal            | [📄 Proposal PDF](./Proposal.pdf) |
-| 2  | Chapter 1           | [📄 Chapter 1](./Chapter1.pdf) |
-| 3  | Chapter 2           | [📄 Chapter 2](./Chapter2.pdf) |
-| 4  | Chapter 3           | [📄 Chapter 3](./Chapter3.pdf) |
-| 5  | Chapter 4           | [📄 Chapter 4](./Chapter4.pdf) |
-| 6  | Chapter 5           | [📄 Chapter 5](./Chapter5.pdf) |
-| 7  | Complete Chapters   | [📄 Full Chapter Compilation](./FullChapter.pdf) |
-| 8  | Source Code         | [💻 Source Code](./code/) |
+| No  | Chapter     |                                                 File |
+| :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
+|  1.  | Proposal | <a href="RIZKI SYAPUTRA_MCSD 6215 Project 1 Proposal Form Update 29 Nov.pdf"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="c1/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="c2/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="c3/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="c4/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="c5/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="code"><img src="../../../images/python_icon.png" width="24px" height="24px"></a> |
 
 ---
 
