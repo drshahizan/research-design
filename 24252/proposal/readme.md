@@ -7,7 +7,7 @@
 
 # Proposal
 
-📌 [**Project  Submission Guide**](submit.md)
+📌 [**Project Submission Instructions (via GitHub)**](submit.md)
 
 | No. | Name                                     | Title | Proposal | Slide | Video |
 |-----:|------------------------------------------|-----------| :-----------:|:-----------:|:-----------:|
