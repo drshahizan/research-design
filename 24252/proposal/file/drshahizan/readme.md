@@ -42,11 +42,6 @@
 - [Scope of Work](#scope-of-work)
 - [Methodology](#methodology)
 - [Expected Outcomes](#expected-outcomes)
-- [Project Timeline](#project-timeline)
-- [References and Resources](#references-and-resources)
-- [Submission](#submission)
-
----
 
 ## Abstract
 
@@ -56,26 +51,15 @@
 
 [Insert keywords separated by commas.]
 
----
-
 ## Research Objectives
 
 1. [Insert objective 1]
 2. [Insert objective 2]
 3. [Insert objective 3]
-4. [Insert objective 4]
-
----
 
 ## Scope of Work
-
-**Included:**
 - [List the components included in your project scope.]
-
-**Excluded:**
 - [Mention anything that is out of the project scope.]
-
----
 
 ## Methodology
 
@@ -88,30 +72,10 @@
 3. **Validation:**
    - [State how you validate your findings.]
 
----
-
 ## Expected Outcomes
 
 - [Describe the expected results or contributions of your project.]
 - [Any intended publications or implementations.]
-
----
-
-## Project Timeline
-
-| Phase                 | Timeline               | Description                              |
-|----------------------|------------------------|------------------------------------------|
-| Planning             | [Insert date/month]    | [Brief description]                      |
-| Data Collection      | [Insert date/month]    | [Brief description]                      |
-| Analysis             | [Insert date/month]    | [Brief description]                      |
-| Reporting            | [Insert date/month]    | [Brief description]                      |
-
----
-
-## References and Resources
-
-- [List your key references in APA style or link to tools/resources used.]
-
 
 *For inquiries, contact: [your.email@utm.my]*
 
