@@ -1,3 +1,4 @@
+
 # Chapter 3: Research Methodology
 
 ## 3.1 Introduction
@@ -5,6 +6,10 @@ This chapter outlines the approach used in designing and implementing the sentim
 
 ## 3.2 Data Science Project Life Cycle
 The **Data Science Project Life Cycle (DSPLC)** is a systematic and iterative framework that provides a structured approach to solve data-driven problems. It acts as a guide from problem definition to solution delivery. For this project, the DSPLC offers a blueprint to ensure each stage — from data collection to sentiment visualization — is logically organized and efficiently executed.
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/11ca9f56-6ef0-4ac9-a242-70b358de4b11">
+</div>
 
 ### 3.2.1 Problem Definition
 This phase involves identifying the goal and scope of the project. The central aim of this study is to perform sentiment analysis on tweets about Hajj, one of the most significant Islamic practices. By understanding public opinion, especially during the Hajj season, researchers and policymakers can respond to trends and misinformation more effectively.
