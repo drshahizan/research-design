@@ -9,8 +9,8 @@
 
 📌 [**Project Proposal Submission Guide**](instruction.md)
 
-| No. | Name                                     | Title | Proposal |
-|-----|------------------------------------------|-----------| :-----------:|
+| No. | Name                                     | Title | Proposal | Slide | Video |
+|-----|------------------------------------------|-----------| :-----------:|:-----------:|:-----------:|
 | 1 | Chang Zi Yin |Sentiment Analysis of Electric Vehicle Discourse Using Bert-based Language Model |<a href="file/ziyiinn"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 2 | Chau Ai Vin | Sentiment Analysis of Online Customer Reviews with Machine Learning Models (Logistic Regression and SVM) to Predict Product Success in E-Commerce Platforms |<a href="file/chauaivin"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 3 | Chen Junhao | Amazon Best Seller Rank Prediction Using Machine Learning |<a href="file/HideInInk312"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
