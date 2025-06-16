@@ -5,6 +5,7 @@
 <a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+# Project Title: [Insert Project Title Here]
 
 <p align="center">
   <img height="300px" src="img/person_icon.png" alt="Profile Image">
@@ -21,9 +22,19 @@
   </tr>
 </table>
 
----
+## Files
 
-# Project Title: [Insert Project Title Here]
+| No  | Chapter     |                                                 File |
+| :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
+|  1.  | Proposal | <a href="proposal/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="c1/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="c2/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="c3/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="c4/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="c5/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
+
 
 ## Table of Contents
 - [Abstract](#abstract)
@@ -101,22 +112,6 @@
 
 - [List your key references in APA style or link to tools/resources used.]
 
----
-
-## Submission
-
-| No  | Chapter     |                                                 File |
-| :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="proposal/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="c1/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="c2/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="c3/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="c4/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="c5/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
-
----
 
 *For inquiries, contact: [your.email@utm.my]*
 
