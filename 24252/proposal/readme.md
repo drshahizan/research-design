@@ -10,7 +10,7 @@
 📌 [**Project Proposal Submission Guide**](instruction.md)
 
 | No. | Name                                     | Title | Proposal | Slide | Video |
-|-----|------------------------------------------|-----------| :-----------:|:-----------:|:-----------:|
+|-----:|------------------------------------------|-----------| :-----------:|:-----------:|:-----------:|
 | 0  | RIZKI SYAPUTRA                         | Sentiment Analysis of Social Media Reactions to Indonesia's Free Meal School Program                  | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/rizkipm"><img src="../../images/folder.png" width="24px" height="24px"></a> | <a href="https://github.com/drshahizan/research-design/blob/main/proposal/proposal24251/rizkipm/Ppt/SLIDE_Rizki%20Syaputra_MCS211051_Sentiment%20Analysis%20Free%20Meal.pdf"><img src="../../images/powerpoint.svg" width="24px" height="24px"></a> | <a href="https://youtu.be/qLzxbLWJrHw"><img src="../../images/youtube.png" width="30px" height="30px"></a> |
 | 1 | Chang Zi Yin |Sentiment Analysis of Electric Vehicle Discourse Using Bert-based Language Model |<a href="file/ziyiinn"><img src="../../images/portfolio.png" width="24px" height="24px"></a> | <a href=""><img src="../../images/powerpoint.svg" width="24px" height="24px"></a>    | <a href="https://youtu.be/"><img src="../../images/youtube.png" width="30px" height="30px"></a> |
 | 2 | Chau Ai Vin | Sentiment Analysis of Online Customer Reviews with Machine Learning Models (Logistic Regression and SVM) to Predict Product Success in E-Commerce Platforms |<a href="file/chauaivin"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
