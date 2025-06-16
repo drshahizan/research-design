@@ -9,7 +9,7 @@
 # Student Project Submission Template
 
 <p align="center">
-  <img height="300px" src="https://github.com/yourusername/yourrepository/blob/main/images/profile-placeholder.png" alt="Profile Image">
+  <img height="300px" src="img/person_icon.png" alt="Profile Image">
 </p>
 
 <table align="center">
