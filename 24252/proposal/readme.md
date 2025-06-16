@@ -7,7 +7,7 @@
 
 # Proposal
 
-📌 [**Project Proposal Submission Guide**](instruction.md)
+📌 [**Project  Submission Guide**](submit.md)
 
 | No. | Name                                     | Title | Proposal | Slide | Video |
 |-----:|------------------------------------------|-----------| :-----------:|:-----------:|:-----------:|
