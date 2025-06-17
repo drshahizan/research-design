@@ -45,7 +45,7 @@
 
 ## Abstract
 
-This project explores the application of deep learning techniques to determine semantic similarity between Malaysian legal precedent texts. The main objective is to develop a BERT-based model capable of understanding nuanced legal language and accurately identifying semantically similar case law. Traditional methods in legal NLP often struggle with domain-specific vocabulary, rigid syntactic structures, and contextual ambiguity—challenges that transformer-based models like BERT are well-equipped to handle.
+This project explores the application of deep learning techniques to determine semantic similarity between Malaysian legal precedent texts. The main objective is to develop a BERT-based model capable of understanding nuanced legal language and accurately identifying semantically similar case law. Traditional methods in legal NLP often struggle with domain-specific vocabulary, rigid syntactic structures, and contextual ambiguity challenges that transformer-based models like BERT are well-equipped to handle.
 
 To begin, a corpus of Malaysian legal precedent pairs was compiled, preprocessed, and annotated with semantic similarity scores. The sentences were either extracted from actual legal documents or generated with controlled variability to simulate real-world conditions. A pre-trained BERT model was fine-tuned on this dataset to capture deep semantic relationships. Various evaluation metrics such as cosine similarity, Pearson correlation, and Mean Squared Error (MSE) were used to assess the model’s performance. Visualization techniques like heatmaps and scatter plots were also used to illustrate the similarity trends and model accuracy.
 
