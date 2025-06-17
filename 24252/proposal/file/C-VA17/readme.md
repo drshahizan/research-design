@@ -15,8 +15,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[Sivarajan Esvaran]</td>
-    <td>[MCS241051]</td>
+    <td>Sivarajan Esvaran</td>
+    <td>MCS241051</td>
   </tr>
 </table>
 
