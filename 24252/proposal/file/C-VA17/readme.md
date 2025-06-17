@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-# [Sales Forecasting Models for Direct Selling Business: A Data-Driven Approach to Predictive Analytics ]
+# Sales Forecasting Models for Direct Selling Business: A Data-Driven Approach to Predictive Analytics
 
 ## Files
 
