@@ -15,12 +15,12 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[Your Name]</td>
-    <td>[Your Matric Number]</td>
+    <td>Muhammad Haziq Bin Mohamad</td>
+    <td>MCS241036</td>
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# BERT-BASED SEMANTIC SIMILARITY OF MALAYSIAN LEGAL PRECEDENTS
 
 ## Files
 
