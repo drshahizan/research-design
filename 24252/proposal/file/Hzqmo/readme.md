@@ -45,17 +45,27 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+This project explores the application of deep learning techniques to determine semantic similarity between Malaysian legal precedent texts. The main objective is to develop a BERT-based model capable of understanding nuanced legal language and accurately identifying semantically similar case law. Traditional methods in legal NLP often struggle with domain-specific vocabulary, rigid syntactic structures, and contextual ambiguity—challenges that transformer-based models like BERT are well-equipped to handle.
+
+To begin, a corpus of Malaysian legal precedent pairs was compiled, preprocessed, and annotated with semantic similarity scores. The sentences were either extracted from actual legal documents or generated with controlled variability to simulate real-world conditions. A pre-trained BERT model was fine-tuned on this dataset to capture deep semantic relationships. Various evaluation metrics such as cosine similarity, Pearson correlation, and Mean Squared Error (MSE) were used to assess the model’s performance. Visualization techniques like heatmaps and scatter plots were also used to illustrate the similarity trends and model accuracy.
+
+The findings indicate that the BERT-based model significantly outperforms traditional NLP approaches in capturing subtle legal nuances. This research has practical implications for legal professionals, particularly in automating legal research, clustering similar cases, and building more intelligent legal information retrieval systems. The project contributes to the growing body of legal AI research in Malaysia and highlights the potential of contextual language models in transforming legal analytics.
+
+
+
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+**Semantic Similarity, BERT, Legal NLP, Malaysian Legal Precedents, Legal Information Retrieval**
+
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. To investigate existing semantic similarity methods in the field of legal Natural Language Processing (NLP).
+
+2. To develop and fine-tune a BERT-based model tailored for Malaysian legal case texts.
+
+3. To evaluate and visualize model performance using comprehensive metrics and analysis.
 
 ## Scope of Work
 - [List the components included in your project scope.]
