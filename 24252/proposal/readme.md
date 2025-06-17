@@ -27,9 +27,7 @@
 | 12 | Mohamed Azlan Ameer Oli |Deep Learning Approaches for Fraud Detection in Transactions for E-Commerce.|<a href="file/lanazlan"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 13 | Mohamed Tarek Elsayed Mohamed Yousef Mohamed Torky | Sentiment Analysis of Hajj-Related Content on X |<a href="file/mdTorky"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 14 | Muhammad Haziq Bin Mohamad | BERT-based Semantic Similarity of Malaysian Legal Precedents |<a href="file/Hzqmo"><img src="../../images/folder.png" width="24px" height="24px"></a> |
-| 15 | Nur Aina Farraain Binti Zahanizam | Enhancing Stock Forecasting for Malaysian Banks via Machine Learning Model of News Sentiment and Historical Price Dynamics
-![image](https://github.com/user-attachments/assets/e3bcf5f0-55c0-4216-ae9e-34f71d1a21de)
- |<a href="file/vicheolis"><img src="../../images/folder.png" width="24px" height="24px"></a> |
+| 15 | Nur Aina Farraain Binti Zahanizam | Enhancing Stock Forecasting for Malaysian Banks via Machine Learning Model of News Sentiment and Historical Price Dynamics ![image](https://github.com/user-attachments/assets/e3bcf5f0-55c0-4216-ae9e-34f71d1a21de) |<a href="file/vicheolis"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 16 | Nurhafizah Binti Mohd Yunos |Early Prediction of Stroke Risk Using Machine Learning for Preventive Healthcare |<a href="file/nurhafizah99"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 17 | Siti Nur Elisya Aqmar Binti Mohamad Kamal | A Comparative Analysis of Public Gold and Local Jewelers Using Machine Learning to Assess Price|<a href="file/elisyaqmarr"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 18 | Sivarajan A/L S.Esvaran |Enhancing Sales Decision-Making in Direct Selling Businesses Through Exploratory Data Analysis and Visualization | <a href="file/C-VA17"><img src="../../images/folder.png" width="24px" height="24px"></a> |
