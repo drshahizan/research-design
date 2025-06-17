@@ -1,115 +1,92 @@
-# 🧩 Sentiment Analysis of Ethereum (ETH) on Twitter
+<a href="https://github.com/drshahizan/research-design/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/research-design" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/network/members"><img src="https://img.shields.io/github/forks/drshahizan/research-design" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-design" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/research-design"><img src="https://img.shields.io/github/issues/drshahizan/research-design" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-A data science project to analyze public sentiment towards Ethereum (ETH) using Twitter data and explore its potential correlation with ETH price movements.
+<p align="center">
+  <img height="300px" src="img/person_icon.png" alt="Profile Image">
+</p>
 
-## 📌 Project Overview
+<table align="center">
+  <tr>
+    <th>Name</th>
+    <th>Matric No.</th>
+  </tr>
+  <tr>
+    <td>[Your Name]</td>
+    <td>[Your Matric Number]</td>
+  </tr>
+</table>
 
-The cryptocurrency market is highly sensitive to social media sentiment.  
-This project focuses on analyzing tweets related to Ethereum (ETH) to understand how public opinion influences market dynamics.  
-I apply Natural Language Processing (NLP) techniques to perform sentiment analysis and visualize the relationship between Twitter sentiment and ETH price trends.
+# [Insert Project Title Here]
 
----
+## Files
 
-## 🚀 Project Objectives
-
-- Collect Ethereum-related tweets using Twitter API.
-- Clean and preprocess the tweet data for analysis.
-- Perform sentiment analysis using NLP algorithms (VADER/TextBlob).
-- Visualize sentiment trends and ETH price movements.
-- Analyze the correlation between public sentiment and ETH market behavior.
-- Present actionable insights and data-driven conclusions.
-
----
-
-## 🛠️ Technology Stack
-
-| Category                | Tools & Libraries                                |
-|-------------------------|--------------------------------------------------|
-| Programming Language    | Python                                           |
-| Data Collection         | Twitter API v2, CoinGecko API                    |
-| Data Manipulation       | Pandas, NumPy                                    |
-| Sentiment Analysis      | VADER, TextBlob, (Optional: CryptoBERT)          |
-| Data Visualization      | Matplotlib, Seaborn, Plotly, (Optional: Tableau) |
-| Version Control         | Git, GitHub                                      |
-| Development Environment | Jupyter Notebook, Google Colab                   |
-
----
-
-## 🔍 Methodology
-
-1. **Data Collection**  
-   - Fetch Ethereum-related tweets using Twitter API.
-   - Retrieve ETH market data (price, volume) from CoinGecko API.
-
-2. **Data Preprocessing**  
-   - Remove URLs, hashtags, mentions, emojis, and special characters.
-   - Tokenization, stop word removal, text normalization.
-
-3. **Sentiment Analysis**  
-   - Apply VADER/TextBlob to assign sentiment scores to tweets.
-   - Classify sentiment as Positive, Neutral, or Negative.
-
-4. **Data Analysis**  
-   - Time series alignment of sentiment scores and ETH price data.
-   - Perform correlation analysis to identify patterns and trends.
-
-5. **Visualization & Reporting**  
-   - Create visual dashboards of sentiment trends and price movements.
-   - Prepare a final report summarizing insights and conclusions.
-
----
-
-## 🎯 Project Goals & Scope
-
-- **Focus**: Ethereum (ETH) only
-- **Platform**: Twitter
-- **Timeframe**: Customizable (e.g., past 3 months of data)
-- **Expected Outcome**: 
-  - Insights on sentiment-market correlation
-  - Visual report/dashboard for portfolio
-  - Practical experience with data collection and NLP techniques
-
----
-
-## 💡 Expected Contributions
-
-- Understanding how social media sentiment impacts cryptocurrency prices.
-- Building a reusable framework for crypto sentiment analysis.
-- Enhancing portfolio with real-world data science project experience.
-
----
-
-## 🖥️ Project Requirements
-
-### Software
-- Python 3.8+
-- Jupyter Notebook / Google Colab
-- API access: Twitter Developer Account, CoinGecko API
-
-### Hardware
-- Standard PC or laptop (Cloud platforms like Google Colab recommended for ease of use)
-
----
-
-## 📈 Future Work (Optional Enhancements)
-
-- Expand to multiple cryptocurrencies.
-- Test advanced NLP models (CryptoBERT / FinBERT).
-- A real-time sentiment dashboard is used using Streamlit or Flask.
-- Integrate trading signal generation based on sentiment analysis.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to open issues or submit pull requests to improve this project.
+| No  | Chapter     |                                                 File |
+| :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
+|  1.  | Proposal | <a href="proposal/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="c1/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="c2/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="c3/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="c4/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="c5/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
 
 
-## 📬 Contact
+## Table of Contents
+- [Abstract](#abstract)
+- [Research Objectives](#research-objectives)
+- [Scope of Work](#scope-of-work)
+- [Methodology](#methodology)
+- [Expected Outcomes](#expected-outcomes)
 
-If you have any questions or suggestions, feel free to reach out!
+## Abstract
 
-> [JasonSun] — [sunyihui@graduate.utm.my]  
+[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
 
----
+## Keywords
+
+[Insert keywords separated by commas.]
+
+## Research Objectives
+
+1. [Insert objective 1]
+2. [Insert objective 2]
+3. [Insert objective 3]
+
+## Scope of Work
+- [List the components included in your project scope.]
+- [Mention anything that is out of the project scope.]
+
+## Methodology
+
+1. **Data Collection:**
+   - [Explain how and where you collect your data.]
+
+2. **Data Analysis:**
+   - [Mention techniques and tools used for analysis.]
+
+3. **Validation:**
+   - [State how you validate your findings.]
+
+## Expected Outcomes
+
+- [Describe the expected results or contributions of your project.]
+- [Any intended publications or implementations.]
+
+*For inquiries, contact: [your.email@utm.my]*
+
+ 
+
+
+
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
