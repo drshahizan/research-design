@@ -15,12 +15,12 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[Wang Tong]</td>
-    <td>[MCS241052]</td>
+    <td>Wang Tong</td>
+    <td>MCS241052</td>
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# Prediction and Analysis of Tropical Cyclones Landfall Points Based on Random Forest
 
 ## Files
 
