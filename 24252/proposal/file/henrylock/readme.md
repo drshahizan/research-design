@@ -15,8 +15,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[Your Name]</td>
-    <td>[Your Matric Number]</td>
+    <td>Lock Chun Hern</td>
+    <td>MCS241047</td>
   </tr>
 </table>
 
