@@ -38,6 +38,51 @@
 |  4  | Chapter 4 | <a href="./Chapter 4/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
 |  5  | Chapter 5 | <a href="./Chapter 5/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
 
+
+
+## Table of Contents
+- [Abstract](#abstract)
+- [Research Objectives](#research-objectives)
+- [Scope of Work](#scope-of-work)
+- [Methodology](#methodology)
+- [Expected Outcomes](#expected-outcomes)
+
+## Abstract
+
+[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+
+## Keywords
+
+[Insert keywords separated by commas.]
+
+## Research Objectives
+
+1. [Insert objective 1]
+2. [Insert objective 2]
+3. [Insert objective 3]
+
+## Scope of Work
+- [List the components included in your project scope.]
+- [Mention anything that is out of the project scope.]
+
+## Methodology
+
+1. **Data Collection:**
+   - [Explain how and where you collect your data.]
+
+2. **Data Analysis:**
+   - [Mention techniques and tools used for analysis.]
+
+3. **Validation:**
+   - [State how you validate your findings.]
+
+## Expected Outcomes
+
+- [Describe the expected results or contributions of your project.]
+- [Any intended publications or implementations.]
+
+*For inquiries, contact: [your.email@utm.my]*
+
 ## Contribution 🛠️
 
 Please create an [Issue](https://github.com/drshahizan/special-topic-data-engineering/issues) for any improvements, suggestions or errors in the content.
