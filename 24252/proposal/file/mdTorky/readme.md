@@ -32,7 +32,7 @@
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1  | Proposal | <a href="proposal/"><img src="../../../../images/pdf.svg" width="24px" height="24px"></a> |
+|  1  | Proposal | <a href="Proposal - Mohamed Tarek Torky/"><img src="../../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  2  | Chapter 1 | <a href="./Chapter 1/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
 |  3  | Chapter 2 | <a href="./Chapter 2/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
 |  4  | Chapter 3 | <a href="./Chapter 3/"><img src="../../../../images/folder.png" width="24px" height="24px"></a> |
