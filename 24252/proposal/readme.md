@@ -21,7 +21,7 @@
 | 6 | Gao Jingkai | An Interpretable BERT-Based Sentiment Classification with Metadata Fusion for Yelp Reviews |<a href="file/Dis-Tant"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 7 | Guo Yachao |Detection of network anomalies in smart home Internet of Things |<a href="file/MCS241039"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 8 | Lee Hong Jian | Reinforcement learning for automated trading in stock markets |<a href="file/ZeolatJian"><img src="../../images/folder.png" width="24px" height="24px"></a> |
-| 9 | Li Honglin |Sentiment Analysis of Public Opinion on Trump's 2025 Tariff Policy on Twitter |<a href="file/lihonglin007"><img src="../../images/folder.png" width="24px" height="24px"></a> |
+| 9 | Li Honglin |Sentiment Analysis of Public Opinion on Trump’s 2025 China Tariff Policy Based on "X" |<a href="file/lihonglin007"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 10 | Li Xinya | Intelligent Prediction of University Course Satisfaction Using Text Mining and Machine Learning |<a href="file/LIXINYA02"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 11 | Lock Chun Hern |Prediction of Health Expenditure in Malaysia using Machine Learning |<a href="file/henrylock"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 12 | Mohamed Azlan Ameer Oli |Deep Learning Approaches for Fraud Detection in Transactions for E-Commerce.|<a href="file/lanazlan"><img src="../../images/folder.png" width="24px" height="24px"></a> |
