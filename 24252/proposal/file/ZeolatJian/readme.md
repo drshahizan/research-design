@@ -60,7 +60,7 @@ Deep Reinforcement Learning, Stock Market, Automated Trading, Decision-Making, S
 4. Compare the performance within model and discuss the strength and weakness between different model (DQN, PPO and SAC).
 
 ## Scope of Work
--Computing tools (Python) will be used for the data collection and process in the research project. The range of time series data of the standard & poor 500 (S & P 500) from 01/01/2016 to 01/01/2024 will be collected from Yahoo Finance. 
+- Computing tools (Python) will be used for the data collection and process in the research project. 
 - The process of cleaning data will be conducted which is cleared the missing data and prepare work for the descriptive analysis.
 - The DQN, PPO and SAC will be used to do the decision making based on the policy and reward mechanism that can achieve the optimized return profit.
 - The comparison of performance between model will using F1-score and optimized cumulative return rates.
