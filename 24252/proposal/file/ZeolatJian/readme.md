@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 <p align="center">
-  <img height="300px" src="img/person_icon.png" alt="Profile Image">
+  <img height="300px" src="69081526_2190805724362973_4173417213262299136_n.jpg" alt="Profile Image">
 </p>
 
 <table align="center">
@@ -15,12 +15,12 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[Your Name]</td>
-    <td>[Your Matric Number]</td>
+    <td>LEE HONG JIAN</td>
+    <td>MCS241054</td>
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# [Reinforcement Learning for Automated Trading in Stock Market]
 
 ## Files
 
