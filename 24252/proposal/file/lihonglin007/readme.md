@@ -11,8 +11,8 @@
 
 <table align="center">
   <tr>
-    <th>LI HONGLIN</th>
-    <th>MCS241031</th>
+    <th>Name</th>
+    <th>Matric No.</th>
   </tr>
   <tr>
     <td>[Your Name]</td>
