@@ -15,7 +15,7 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[LI HONGLIN/td>
+    <td>[LI HONGLIN]</td>
     <td>[MCS241031]</td>
   </tr>
 </table>
