@@ -53,9 +53,9 @@
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. [To preprocess the customer churn data, leading to cleaned data for model training]
+2. [To develop a machine learning model using Random Forest Algorithm that predicts the potential churning customers]
+3. [To evaluate the performance of model identifying the churn using various metrics]
 
 ## Scope of Work
 - [List the components included in your project scope.]
