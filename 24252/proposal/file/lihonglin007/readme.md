@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# [Sentiment Analysis of Public Opinion on Trump’s 2025 China Tariff Policy Based on "X"]
 
 ## Files
 
