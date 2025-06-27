@@ -15,19 +15,19 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[Your Name]</td>
-    <td>[Your Matric Number]</td>
+    <td>[SOH JOEN SHIUAN]</td>
+    <td>[MCS241028]</td>
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# [CUSTOMER CHURN PREDICTION IN E-COMMERCE INDUSTRY USING RANDOM FOREST ALGORITHM]
 
 ## Files
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1.  | Proposal | <a href="proposal/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="https://github.com/drshahizan/research-design/tree/main/24252/proposal/file/edwardjacksonmy/c1"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="c1/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="c2/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href="c3/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  5.  | Chapter 4 | <a href="c4/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
