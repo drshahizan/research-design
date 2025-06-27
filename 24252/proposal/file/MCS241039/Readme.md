@@ -27,7 +27,7 @@
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1.  | Proposal | <a href="Proposal/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="Chapter 1/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="Chapter 1/"><img src="../../../images/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="Chapter 2/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href="Chapter 3/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  5.  | Chapter 4 | <a href="Chapter 4/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
