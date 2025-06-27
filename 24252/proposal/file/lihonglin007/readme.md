@@ -59,9 +59,9 @@ The study offers practical insights into public opinion dynamics during high-imp
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. [ To analyze public sentiment trends regarding Trump’s 2025 China tariff policy based on posts from “X]
+2. [ To identify emotional shifts across key policy stages (before, during, after).]
+3. [ To construct a balanced dataset using VADER-generated pseudo-labels,to evaluate the performance of supervised and ensemble machine learning models on sentiment classification.]
 
 ## Scope of Work
 - [List the components included in your project scope.]
