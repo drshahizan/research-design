@@ -77,7 +77,7 @@
 - [Describe the expected results or contributions of your project.]
 - [Any intended publications or implementations.]
 
-*For inquiries, contact: [your.email@utm.my]*
+*For inquiries, contact: [sohjoenshiuan@graduate.utm.my]*
 
  
 
