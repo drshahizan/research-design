@@ -1,12 +1,5 @@
-<a href="https://github.com/drshahizan/research-design/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/research-design" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/research-design/network/members"><img src="https://img.shields.io/github/forks/drshahizan/research-design" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/research-design/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-design" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/research-design"><img src="https://img.shields.io/github/issues/drshahizan/research-design" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/research-design/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-design?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
-
 <p align="center">
-  <img height="300px" src="https://github.com/user-attachments/assets/828883c7-8f98-4c09-95df-72338021ff1f" alt="Profile Image">
+  <img src="https://github.com/user-attachments/assets/828883c7-8f98-4c09-95df-72338021f1ff" height="300px" alt="Profile Image"/>
 </p>
 
 <table align="center">
@@ -16,77 +9,72 @@
   </tr>
   <tr>
     <td>Saeed Alshahrani</td>
-    <td>MCS241038</td>
+    <td>MCs241038</td>
   </tr>
 </table>
 
-# ANALYZING THE EVOLUTION OF IN-DEMAND SKILLS IN THE SAUDI JOB MARKET USING MACHINE LEARNING
+---
 
-## Files
+# 📊 ANALYZING THE EVOLUTION OF IN-DEMAND SKILLS IN THE SAUDI JOB MARKET USING MACHINE LEARNING
 
-| No  | Chapter     |                                                 File |
-| :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="proposal_Saeed.pdf/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="c1/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="c2/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="c3/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="c4/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="c5/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
+---
 
-
-## Table of Contents
+## 📑 Table of Contents
 - [Abstract](#abstract)
+- [Keywords](#keywords)
 - [Research Objectives](#research-objectives)
 - [Scope of Work](#scope-of-work)
 - [Methodology](#methodology)
 - [Expected Outcomes](#expected-outcomes)
+- [Files](#files)
 
-## Abstract
+---
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+## 📄 Abstract  
+This research analyzes the most in-demand skills in the Saudi labor market using machine learning and NLP techniques on over 1,500 job postings. The study finds a disconnect between university education and labor market needs, especially in technical domains such as AI, cloud computing, and cybersecurity. Results are used to inform educational reform and skill development strategies aligned with Vision 2030.
 
-## Keywords
+---
 
-[Insert keywords separated by commas.]
+## 🧠 Keywords  
+machine learning, NLP, Saudi Arabia, job market, skills demand, AI, cybersecurity, education gap, Vision 2030
 
-## Research Objectives
+---
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+## 🎯 Research Objectives  
+1. Identify top technical, soft, and managerial skills demanded in Saudi job postings.  
+2. Analyze trends over time and across sectors.  
+3. Compare university-taught skills with industry requirements.  
+4. Propose actionable recommendations to bridge the gap.
 
-## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+---
 
-## Methodology
+## 📌 Scope of Work  
+- Data from job portals (Bayt, LinkedIn, Glassdoor).  
+- English-language postings only.  
+- Focus on Saudi Arabia (2022–2024).  
+- Sectors: IT, business, healthcare, engineering.
 
-1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+---
 
-2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+## 🧪 Methodology  
+1. *Data Collection* – Web scraping of 1,500+ job posts.  
+2. *Data Preprocessing* – Cleaning, tokenization, lemmatization.  
+3. *Skill Extraction* – Named Entity Recognition (NER), keyword extraction.  
+4. *Classification* – Categorize skills into technical, soft, and business.  
+5. *Analysis* – Temporal and sector-based analysis with visualization.
 
-3. **Validation:**
-   - [State how you validate your findings.]
+---
 
-## Expected Outcomes
+## ✅ Expected Outcomes  
+- Visualizations of in-demand skills by category, sector, and year.  
+- Insights into skill gaps between academia and the market.  
+- Strategic policy suggestions for curriculum enhancement.
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
+---
 
-*For inquiries, contact: [your.email@utm.my]*
-
- 
-
-
-
-
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
-
+## 📁 Files  
+- notebooks/ – Python notebooks for preprocessing and analysis.  
+- data/ – Collected and cleaned datasets.  
+- results/ – Graphs and comparison tables.  
+- report.pdf – Final report submission.  
+- README.md – Project overview.
