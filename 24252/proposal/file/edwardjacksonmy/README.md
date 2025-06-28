@@ -58,16 +58,25 @@ Customer Churn, E-Commerce, Imbalanced Dataset, Feature Engineering, Machine Lea
 3. To evaluate the performance of model identifying the churn using various metrics
 
 ## Scope of Work
-- [List the components included in your project scope.]
+- The customer churn dataset will be collected from Kaggle Open Data Source.
+- Tenure, CashbackAmount, OrderCount, SatisfactionScore, NumberOfDeviceRegistered, DaySinceLastOrder, Complain, OrderAmountHikeFromlastYear, CouponUsed, and customer behavioral attributes (PreferredLoginDevice, Gender, MaritalStatus, PreferedOrderCat, PreferredPaymentMode) will be used to calculate the impact towards customer churn pattern.
+- The study would be focusing on e-commerce industry.
+- Python programming language would be used to preprocess the data.
+- Random Forest algorithm would be used to predict the potential churning customers.
 - [Mention anything that is out of the project scope.]
 
 ## Methodology
 
 1. **Data Collection:**
-   - [The dataset titled "E-commerce Customer Churn Analysis and Prediction" is collected from Kaggle. The link towards the source is provided as follows. Data Collection]
+   - The dataset titled "E-commerce Customer Churn Analysis and Prediction" is collected from Kaggle.
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.
+   - Data Preprocessing Techniques: Handling Missing Values, Duplicate Removal, Outlier Detection
+   - Feature Engineering Techniques: Categorical Encoding and Derived Feature Creation
+   - Exploratory Data Analysis (EDA): Univariate Analysis, Bivariate Analysis, Multivariate Analysis
+   - Experimental Machine Learning Algorithms: Logistic Regression, Random Forest, Random Forest + SMOTE, XGBoost
+   - Model Optimization: Hyperparameter Tuning
+   - Performance Metrics: Accuracy Score, Precision Score, Recall Score, F1-Score, ROC-AUC Score
   
 3. **Validation:**
    - [State how you validate your findings.]
