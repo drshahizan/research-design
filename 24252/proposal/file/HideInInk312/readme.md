@@ -15,8 +15,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[CHEN JUNHAO]</td>
-    <td>[MCS241030]</td>
+    <td>CHEN JUNHAO</td>
+    <td>MCS241030</td>
   </tr>
 </table>
 
@@ -45,22 +45,22 @@
 
 ## Abstract
 
-[This study explores the application of supervised machine learning models to predict Amazon Best Seller Rank (BSR) using structured product-level data. By collecting real-time information from Amazon’s software category, the research investigates how factors such as product price, star ratings, review volume, and geographic marketplace influence a product’s sales rank. Following comprehensive data cleaning and exploratory analysis, feature engineering was performed to enhance predictive power, introducing variables like review density, weighted rating, and log-transformed review counts.
+This study explores the application of supervised machine learning models to predict Amazon Best Seller Rank (BSR) using structured product-level data. By collecting real-time information from Amazon’s software category, the research investigates how factors such as product price, star ratings, review volume, and geographic marketplace influence a product’s sales rank. Following comprehensive data cleaning and exploratory analysis, feature engineering was performed to enhance predictive power, introducing variables like review density, weighted rating, and log-transformed review counts.
 
 Three regression models—Linear Regression, Decision Tree, and Random Forest—were developed and evaluated using standard performance metrics including R², RMSE, and MAE. Among them, the Random Forest Regressor achieved the highest predictive accuracy, explaining over 57% of the variance in BSR and demonstrating strong generalisation in cross-validation. Feature importance analysis further revealed that review behaviour and pricing are key predictors of best seller status.
 
-The findings support the value of ensemble learning and engineered features in modelling complex, non-linear outcomes in e-commerce settings. This research contributes both theoretically, by validating advanced modelling approaches, and practically, by offering a replicable framework that sellers and analysts can use to forecast product performance and inform strategic decisions.]
+The findings support the value of ensemble learning and engineered features in modelling complex, non-linear outcomes in e-commerce settings. This research contributes both theoretically, by validating advanced modelling approaches, and practically, by offering a replicable framework that sellers and analysts can use to forecast product performance and inform strategic decisions.
 
 ## Keywords
 
-[Amazon Best Seller Rank, machine learning, predictive research]
+Amazon Best Seller Rank, machine learning, predictive research
 
 ## Research Objectives
 
-1. [To identify the key factors that influence BSR]
-2. [To perform data cleaning and exploratory data analysis (EDA)]
-3. [To apply and compare multiple supervised regression models]
-4. [To evaluate model performance]
+1. To identify the key factors that influence BSR
+2. To perform data cleaning and exploratory data analysis (EDA)
+3. To apply and compare multiple supervised regression models
+4. To evaluate model performance
 
 ## Scope of Work
 - [List the components included in your project scope.]
