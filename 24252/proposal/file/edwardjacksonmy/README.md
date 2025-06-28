@@ -15,8 +15,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[SOH JOEN SHIUAN]</td>
-    <td>[MCS241028]</td>
+    <td>SOH JOEN SHIUAN</td>
+    <td>MCS241028</td>
   </tr>
 </table>
 
