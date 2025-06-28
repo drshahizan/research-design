@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-# [CUSTOMER CHURN PREDICTION IN E-COMMERCE INDUSTRY USING RANDOM FOREST ALGORITHM]
+# CUSTOMER CHURN PREDICTION IN E-COMMERCE INDUSTRY USING RANDOM FOREST ALGORITHM
 
 ## Files
 
@@ -45,17 +45,17 @@
 
 ## Abstract
 
-[Customer churn in e-commerce affects business sustainability, with retention costs being lower than acquisition costs. Existing studies lack comprehensive approaches in handling imbalanced datasets and feature engineering methodologies for e-commerce customer churn prediction. This research gap highlights the need for improved techniques that effectively address class imbalance while maximizing predictive performance. The purpose of this study is to investigate key features that affect customer churn and develop a machine learning model implemented in Python. Four algorithms are systematically compared, including Logistic Regression, Random Forest, Random Forest with SMOTE, and XGBoost, utilizing correlation analysis and comprehensive hyperparameter optimization to identify the best performing model for this use case. The dataset comprises 5,630 customer records with a class imbalance ratio of 4.94:1, where 83.2% of customers are non-churned and 16.8% are churned. Without hyperparameter tuning, XGBoost performs best with F1-Score of 0.8456 and ROC-AUC of 0.9662. After hyperparameter optimization, Random Forest achieves superior performance with F1-Score of 0.8556 and ROC-AUC of 0.9801, demonstrating significant improvement through systematic parameter tuning. These findings provide an actionable framework for e-commerce customer churn prevention systems, enabling businesses to implement proactive retention strategies and improve customer lifetime value through data-driven decision making.]
+Customer churn in e-commerce affects business sustainability, with retention costs being lower than acquisition costs. Existing studies lack comprehensive approaches in handling imbalanced datasets and feature engineering methodologies for e-commerce customer churn prediction. This research gap highlights the need for improved techniques that effectively address class imbalance while maximizing predictive performance. The purpose of this study is to investigate key features that affect customer churn and develop a machine learning model implemented in Python. Four algorithms are systematically compared, including Logistic Regression, Random Forest, Random Forest with SMOTE, and XGBoost, utilizing correlation analysis and comprehensive hyperparameter optimization to identify the best performing model for this use case. The dataset comprises 5,630 customer records with a class imbalance ratio of 4.94:1, where 83.2% of customers are non-churned and 16.8% are churned. Without hyperparameter tuning, XGBoost performs best with F1-Score of 0.8456 and ROC-AUC of 0.9662. After hyperparameter optimization, Random Forest achieves superior performance with F1-Score of 0.8556 and ROC-AUC of 0.9801, demonstrating significant improvement through systematic parameter tuning. These findings provide an actionable framework for e-commerce customer churn prevention systems, enabling businesses to implement proactive retention strategies and improve customer lifetime value through data-driven decision making.
 
 ## Keywords
 
-[Customer Churn, E-Commerce, Imbalanced Dataset, Feature Engineering, Machine Learning, Classification, Random Forest, Hyperparameter Tuning]
+Customer Churn, E-Commerce, Imbalanced Dataset, Feature Engineering, Machine Learning, Classification, Random Forest, Hyperparameter Tuning
 
 ## Research Objectives
 
-1. [To preprocess the customer churn data, leading to cleaned data for model training]
-2. [To develop a machine learning model using Random Forest Algorithm that predicts the potential churning customers]
-3. [To evaluate the performance of model identifying the churn using various metrics]
+1. To preprocess the customer churn data, leading to cleaned data for model training
+2. To develop a machine learning model using Random Forest Algorithm that predicts the potential churning customers
+3. To evaluate the performance of model identifying the churn using various metrics
 
 ## Scope of Work
 - [List the components included in your project scope.]
@@ -77,7 +77,7 @@
 - [Describe the expected results or contributions of your project.]
 - [Any intended publications or implementations.]
 
-*For inquiries, contact: [sohjoenshiuan@graduate.utm.my]*
+*For inquiries, contact: sohjoenshiuan@graduate.utm.my*
 
  
 
