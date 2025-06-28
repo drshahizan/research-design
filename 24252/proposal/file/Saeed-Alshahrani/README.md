@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/"D:\Users\hp\Downloads\WhatsApp Image 2025-06-29 at 1.00.05 AM.jpeg"" alt="Profile Image"/>
+  <img src=""D:\Users\hp\Downloads\WhatsApp Image 2025-06-29 at 1.00.05 AM.jpeg""" alt="Profile Image"/>
 </p>
 
 <table align="center">
