@@ -68,6 +68,7 @@ Implementation and comparison of three supervised regression models:
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
+
 Evaluation using performance metrics:
 - R²
 - RMSE
@@ -86,7 +87,7 @@ The data analysis process consisted of several stages:
 - **Feature Engineering:** New variables were constructed to improve model performance, including review_density, weighted_rating, and log_num_ratings. Categorical data such as country was one-hot encoded.
 - **Modelling:** Three supervised regression models were trained—Linear Regression, Decision Tree, and Random Forest—using the scikit-learn library. Model performance was measured using R², RMSE, and MAE.
 
-4. **Validation:**
+3. **Validation:**
    To validate the findings and ensure generalisability, cross-validation was used—specifically 3-fold cross-validation on the Random Forest model. This method split the dataset into multiple folds to train and test the model on different subsets, thereby reducing bias from a single train-test split. The consistency between training and cross-validated R² scores demonstrated that the model was not overfitting and could generalise well to unseen data. Feature importance analysis further validated the influence of engineered variables in improving prediction accuracy.
 
 ## Expected Outcomes
