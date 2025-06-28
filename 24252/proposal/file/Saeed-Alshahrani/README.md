@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/828883c7-8f98-4c09-95df-72338021f1ff" height="300px" alt="Profile Image"/>
+  <img src="https://github.com/user-attachments/assets/"D:\Users\hp\Downloads\WhatsApp Image 2025-06-29 at 1.00.05 AM.jpeg"" alt="Profile Image"/>
 </p>
 
 <table align="center">
