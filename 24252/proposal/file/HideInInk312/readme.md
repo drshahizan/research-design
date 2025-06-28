@@ -64,6 +64,7 @@ Amazon Best Seller Rank, machine learning, predictive research
 
 ## Scope of Work
 Data collection, Data cleaning and preprocessing, Feature engineering, Exploratory Data Analysis (EDA) 
+
 Implementation and comparison of three supervised regression models:
 - Linear Regression
 - Decision Tree Regressor
