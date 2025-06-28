@@ -63,24 +63,39 @@ Amazon Best Seller Rank, machine learning, predictive research
 4. To evaluate model performance
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+Data collection, Data cleaning and preprocessing, Feature engineering, Exploratory Data Analysis (EDA) 
+Implementation and comparison of three supervised regression models:
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+Evaluation using performance metrics:
+- R²
+- RMSE
+- MAE
+Cross-validation to assess generalisability.
 
 ## Methodology
 
 1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+   The dataset used in this research was sourced from Kaggle, specifically from a dataset titled Amazon Best Sellers Data, which contains real-time snapshots of software products listed on Amazon. The dataset includes key structured attributes such as product price, star rating, number of ratings, country of listing, and Best Seller Rank (BSR). This dataset was chosen due to its comprehensive coverage of multiple marketplaces and its relevance to ranking prediction tasks. Data was accessed and imported using Python’s pandas library for cleaning, transformation, and analysis.
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+The data analysis process consisted of several stages:
+- **Data Cleaning:** This included handling missing values, removing non-numeric symbols from price fields, and converting data types appropriately.
+- **Exploratory Data Analysis (EDA):** Visualisations such as histograms, box plots, count plots, and correlation heatmaps were created using seaborn and matplotlib to understand distributions and relationships between variables.
+- **Feature Engineering:** New variables were constructed to improve model performance, including review_density, weighted_rating, and log_num_ratings. Categorical data such as country was one-hot encoded.
+- **Modelling:** Three supervised regression models were trained—Linear Regression, Decision Tree, and Random Forest—using the scikit-learn library. Model performance was measured using R², RMSE, and MAE.
 
-3. **Validation:**
-   - [State how you validate your findings.]
+4. **Validation:**
+   To validate the findings and ensure generalisability, cross-validation was used—specifically 3-fold cross-validation on the Random Forest model. This method split the dataset into multiple folds to train and test the model on different subsets, thereby reducing bias from a single train-test split. The consistency between training and cross-validated R² scores demonstrated that the model was not overfitting and could generalise well to unseen data. Feature importance analysis further validated the influence of engineered variables in improving prediction accuracy.
 
 ## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
+This project is expected to demonstrate that supervised machine learning models, particularly ensemble methods like Random Forest, can effectively predict Amazon Best Seller Rank (BSR) using structured product-level data. The key outcomes include the development of a predictive framework capable of identifying the most influential product features—such as price, rating, and review activity—and modelling their impact on sales rank with a reasonable degree of accuracy.
+
+It is anticipated that the final model will not only achieve satisfactory performance metrics (e.g., R², RMSE, MAE) but also offer clear interpretability through feature importance analysis. These results will contribute to both academic research and practical decision-making in the field of e-commerce analytics. Specifically, the study will provide actionable insights for sellers aiming to optimise product listings and for analysts seeking to understand the factors behind marketplace visibility.
+
+While this research is primarily academic, the modelling pipeline can be extended into future real-time applications, such as ranking dashboards or automated product tracking tools. The research may also serve as a foundation for a future journal article or conference paper, focusing on the application of interpretable machine learning in dynamic online marketplaces.
 
 *For inquiries, contact: [chenjunhao@graduate.utm.my]*
 
