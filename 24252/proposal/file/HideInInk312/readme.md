@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-# [Amazon Best-seller Rank Prediction Using Machine Learning]
+# Amazon Best-seller Rank Prediction Using Machine Learning
 
 ## Files
 
