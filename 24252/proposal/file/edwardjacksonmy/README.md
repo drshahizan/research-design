@@ -45,11 +45,11 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+[Customer churn in e-commerce affects business sustainability, with retention costs being lower than acquisition costs. Existing studies lack comprehensive approaches in handling imbalanced datasets and feature engineering methodologies for e-commerce customer churn prediction. This research gap highlights the need for improved techniques that effectively address class imbalance while maximizing predictive performance. The purpose of this study is to investigate key features that affect customer churn and develop a machine learning model implemented in Python. Four algorithms are systematically compared, including Logistic Regression, Random Forest, Random Forest with SMOTE, and XGBoost, utilizing correlation analysis and comprehensive hyperparameter optimization to identify the best performing model for this use case. The dataset comprises 5,630 customer records with a class imbalance ratio of 4.94:1, where 83.2% of customers are non-churned and 16.8% are churned. Without hyperparameter tuning, XGBoost performs best with F1-Score of 0.8456 and ROC-AUC of 0.9662. After hyperparameter optimization, Random Forest achieves superior performance with F1-Score of 0.8556 and ROC-AUC of 0.9801, demonstrating significant improvement through systematic parameter tuning. These findings provide an actionable framework for e-commerce customer churn prevention systems, enabling businesses to implement proactive retention strategies and improve customer lifetime value through data-driven decision making.]
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+[Customer Churn, E-Commerce, Imbalanced Dataset, Feature Engineering, Machine Learning, Classification, Random Forest, Hyperparameter Tuning]
 
 ## Research Objectives
 
@@ -64,11 +64,11 @@
 ## Methodology
 
 1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+   - [The dataset titled "E-commerce Customer Churn Analysis and Prediction" is collected from Kaggle. The link towards the source is provided as follows. Data Collection]
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
-
+   - [Mention techniques and tools used for analysis.
+  
 3. **Validation:**
    - [State how you validate your findings.]
 
