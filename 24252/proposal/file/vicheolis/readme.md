@@ -13,12 +13,12 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[NUR AINA FARRAAIN ]</td>
-    <td>[MCS241053]</td>
+    <td> NUR AINA FARRAAIN </td>
+    <td> MCS241053 </td>
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# [Stock Price Forecasting Using News Sentiment and Deep Learning: Evidence from the Malaysian Banking Sector]
 
 ## Files
 
