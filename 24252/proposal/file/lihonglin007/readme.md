@@ -32,8 +32,9 @@
 |  4.  | Chapter 3 | <a href="Chapter 3/Chapter3_LI HONGLIN.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  5.  | Chapter 4 | <a href="Chapter 4/CHPTER4_ LIHONGLIN.pdf/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="Chapter 5/CHAPTER5_LI HONGLIN.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="24252/proposal/file/lihonglin007/ALL/Thesis_LI HONGLIN.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="ALL/Thesis_LI HONGLIN.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="Code/Sentiment analysis of tariff policy towards China.ipynb”.ipynb"><img src="img/python_icon.png" width="24px" height="24px"></a> |
+
 
 
 ## Table of Contents
