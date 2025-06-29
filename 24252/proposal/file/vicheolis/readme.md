@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-# [Stock Price Forecasting Using News Sentiment and Deep Learning: Evidence from the Malaysian Banking Sector]
+# Stock Price Forecasting Using News Sentiment and Deep Learning: Evidence from the Malaysian Banking Sector
 
 ## Files
 
