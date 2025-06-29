@@ -48,7 +48,7 @@
 
 [This study explores public sentiment on social media "X" (formerly Twitter) in response to the Trump administration’s 2025 China tariff policy. Using natural language processing (NLP) and the VADER sentiment analysis tool, the study analyzes English tweets from January to May 2025. A three-stage unsupervised analysis shows that negative sentiment dominates (60%), followed by positive (28%) and neutral (12%) emotions.
 
-To improve classification performance, VADER compound scores are used to generate pseudo-labels for a balanced dataset. Supervised models including Support Vector Machine (SVM), Logistic Regression, and Gradient Boosting are trained and compared. The soft voting ensemble of the three models achieves the highest accuracy at 73.05%.
+To improve classification performance, VADER compound scores are used to generate pseudo-labels for a balanced dataset. Four supervised models—Support Vector Machine (SVM), Logistic Regression, Random Forest, and Gradient Boosting—are trained and evaluated. A soft voting ensemble combining SVM, Logistic Regression, and Gradient Boosting achieves the highest classification accuracy of 73.05%.
 
 This research proposes a semi-supervised sentiment analysis framework suitable for policy-sensitive topics, demonstrating that pseudo-labeling can be effectively used without manual annotation. It also reveals a strong correlation between policy intensity and emotional polarization—more extreme policies trigger stronger emotional reactions and reduce space for rational discussion.
 
