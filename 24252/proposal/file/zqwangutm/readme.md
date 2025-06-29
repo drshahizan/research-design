@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 <p align="center">
-  <img height="300px" src="../../file/drshahizan/img/person_icon.png" alt="Profile Image">
+  <img height="300px" src="https://avatars.githubusercontent.com/u/204738586?v=4" alt="Profile Image">
 </p>
 
 <table align="center">
@@ -33,7 +33,7 @@
 |  5.  | Chapter 4 | <a href="c4/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="c5/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Full Chapter/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions"><img src="https://avatars.githubusercontent.com/u/204738586?v=4" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions"><img src="../../file/drshahizan/img/python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
