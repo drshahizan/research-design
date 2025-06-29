@@ -26,7 +26,7 @@
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="proposal/Proposal_LI HONGLIN.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="proposal/Proposal_LIHONGLIN.pdf"p><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 | <a href="c1/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="c2/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href="c3/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
