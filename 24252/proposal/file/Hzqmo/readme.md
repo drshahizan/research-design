@@ -32,7 +32,7 @@
 |  4.  | Chapter 3 | <a href="Chapter 3/Chapter3_Haziq.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  5.  | Chapter 4 | <a href="Chapter 4/CHAPTER 4_Haziq.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="Chapter 5/CHAPTER 5_HAZIQ.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="Complete Chapter/THESIS_HAZIQ.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Complete Chapter/THESISS_HAZIQ.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  8.  | Code | <a href="https://colab.research.google.com/drive/1BHLCwpSUPtnlraSMKROu-_Tpht2pHBG5?usp=sharing"><img src="python_icon.png" width="24px" height="24px"></a> |
 
 
