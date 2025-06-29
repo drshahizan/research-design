@@ -117,11 +117,12 @@ Performance Metrics: Accuracy, Precision, Recall, F1 Score
 ## Expected Outcomes
 
 This study combines VADER pseudo-labeling with supervised learning to build a semi-supervised sentiment classification model, achieving 73.05% accuracy while revealing policy-driven sentiment trends and contributing a practical framework for public opinion analysis.
+
+It also reveals the general public sentiment towards Trump's 2025 China tariff policy (January-May) and the changes in sentiment before, during, and after the policy announcement.
+
 - [Any intended publications or implementations.]
 
-*For inquiries, contact: [your.email@utm.my]*
-
- 
+*For inquiries, contact: [lihonglin@graduate.utm.my]*
 
 
 
