@@ -90,9 +90,6 @@ This chapter outlines the methodology used to develop a semantic similarity mode
 
 ## Research Framework
 
-![Research Framework](Chapter 3/METHDOLOGY FRAMEWORK.png)  
-*Figure 3.1: Research Methodology Framework*
-
 The research is divided into the following phases:
 
 1. Problem Identification and Literature Review  
