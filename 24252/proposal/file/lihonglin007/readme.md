@@ -73,8 +73,7 @@ Data scope: Collect English review data of "X" platform only based on keywords
 
 Time range: January-May 2025
 
-Analysis Method:  applied NLP and the VADER tool to generate pseudo-labels for sentiment classification,  
-and evaluated four supervised learning models:  Logistic Regression, Support Vector Machine (SVM), Random Forest, and Gradient Boosting.
+Analysis Method:  applied NLP and the VADER tool to generate pseudo-labels for sentiment classification,  and evaluated four supervised learning models:  Logistic Regression, Support Vector Machine (SVM), Random Forest, and Gradient Boosting.
 
 
 **Excluded:**
