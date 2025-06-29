@@ -65,6 +65,7 @@ The study offers practical insights into public opinion dynamics during high-imp
 
 ## Scope of Work
 **Included:**
+
 Analyzing mass commentary on Trump's China tariff policy in 2025
 
 Data scope: Collect English review data of "X" platform only based on keywords
@@ -76,6 +77,7 @@ and evaluated four supervised learning models:  Logistic Regression, Support Vec
 
 
 **Excluded:**
+
 Social media other than "x" platform
 
 Factors influencing public sentiment towards tariff policy
