@@ -27,12 +27,12 @@
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1.  | Proposal | <a href="proposal/"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="CHAPTER1_HAZIQ.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="c2/"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="c3/"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="c4/"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="c5/"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="Chapter 1/CHAPTER1_HAZIQ.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="Chapter 2/Chapter 2_Haziq.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter 3/Chapter3_Haziq.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="Chapter 4/CHAPTER 4_Haziq.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter 5/CHAPTER 5_HAZIQ.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Complete Chapter/THESIS_HAZIQ.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  8.  | Code | <a href="https://colab.research.google.com/drive/1B-WqOO8KPNcM4bX_N_mB_IyfoiRnh7LJ?usp=sharing"><img src="python_icon.png" width="24px" height="24px"></a> |
 
 
@@ -45,11 +45,9 @@
 
 ## Abstract
 
-This project explores the application of deep learning techniques to determine semantic similarity between Malaysian legal precedent texts. The main objective is to develop a BERT-based model capable of understanding nuanced legal language and accurately identifying semantically similar case law. Traditional methods in legal NLP often struggle with domain-specific vocabulary, rigid syntactic structures, and contextual ambiguity challenges that transformer-based models like BERT are well-equipped to handle.
+The increasing volume of digital legal documents within the Malaysian judiciary presents a significant challenge for efficient precedent analysis and legal research. Traditional keyword-based search methods often fail to capture the semantic nuances and contextual complexities inherent in legal texts, leading to incomplete or irrelevant results. Therefore, this project addresses this critical gap by investigating, developing, and evaluating a sophisticated deep learning model for semantic similarity tailored to Malaysian legal precedents. Thus, the primary objective is the development and fine-tuning of a bespoke BERT-based model, leveraging the Sentence-BERT (SBERT) architecture, to accurately quantify the semantic relationship between passages of legal text. For instance, the methodology follows a structured pipeline, commencing with the sourcing and compilation of a specialized corpus of Malaysian legal cases. A rigorous data cleaning and preprocessing phase was executed, featuring text normalization tailored to local legal statutes and terminology. The “all-MiniLM-L6-v2” model was subsequently fine-tuned on this curated dataset using a cosine similarity loss function to optimize for the semantic similarity task. Furthermore, a comprehensive, multi-faceted evaluation framework was implemented to validate the model's performance. The assessment involved quantitative analysis using a suite of metrics including accuracy, precision, recall, F1-score, and Pearson correlation, alongside a qualitative domain-specific analysis to gauge effectiveness across different areas of law. Then, the performance of the fine-tuned model was compared with other baseline model such as Bag of Words (Bow) and Term Frequency-Inverse Document Frequency (TF-IDF). The evaluation was augmented with key visualizations, including confusion matrices and score distribution plots, to provide intuitive insights into the model's predictive behavior. The results demonstrate that the fine-tuned model effectively captures the complex semantic relationships within Malaysian legal discourse, showing significant promise over generalized models. Hence, this research contributes a valuable, domain-specific tool that can enhance legal discovery, support case law analysis, and ultimately improve the efficiency of legal practitioners in Malaysia.
 
-To begin, a corpus of Malaysian legal precedent pairs was compiled, preprocessed, and annotated with semantic similarity scores. The sentences were either extracted from actual legal documents or generated with controlled variability to simulate real-world conditions. A pre-trained BERT model was fine-tuned on this dataset to capture deep semantic relationships. Various evaluation metrics such as cosine similarity, Pearson correlation, and Mean Squared Error (MSE) were used to assess the model’s performance. Visualization techniques like heatmaps and scatter plots were also used to illustrate the similarity trends and model accuracy.
 
-The findings indicate that the BERT-based model significantly outperforms traditional NLP approaches in capturing subtle legal nuances. This research has practical implications for legal professionals, particularly in automating legal research, clustering similar cases, and building more intelligent legal information retrieval systems. The project contributes to the growing body of legal AI research in Malaysia and highlights the potential of contextual language models in transforming legal analytics.
 
 
 
@@ -68,24 +66,94 @@ The findings indicate that the BERT-based model significantly outperforms tradit
 3. To evaluate and visualize model performance using comprehensive metrics and analysis.
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+- Fine-tune a Sentence-BERT (SBERT) model on English legal sentence pairs to predict semantic similarity.
+
+- Use embeddings to compute similarity scores using cosine similarity.
+
+- Compare SBERT model performance with traditional methods: Bag-of-Words (BoW) and TF-IDF, both evaluated using cosine similarity.
+
+- Evaluate both regression-based scores and classification performance via thresholding.
+
+Out of Scope:
+
+- Full legal document-level similarity or multilingual modeling (e.g., Malay language) is not included.
+
+- No legal advice, decision prediction, or summarization is generated from the model.
 
 ## Methodology
 
 1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+   - Dataset sourced from Kaggle, comprising English legal case sentence pairs and labeled similarity scores.
 
-2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+- Columns used for model training and comparison:
+  
+| Column Name     | Description                                                  |
+|------------------|--------------------------------------------------------------|
+| `id`             | Unique identifier for the sentence pair                      |
+| `case1_text`     | Sentence from the first legal case                           |
+| `case2_text`     | Sentence from the second legal case                          |
+| `case1_domain`   | Legal domain/category of the first case (e.g., contract law) |
+| `case2_domain`   | Legal domain/category of the second case                     |
+| `true_label`     | Ground truth similarity score (float, 0 to 1)                |
+
+2. **Data Analysis & Modeling:**
+   - Text Preprocessing:
+
+- Lowercasing, cleaning punctuation, and token normalization.
+
+SBERT Fine-Tuning:
+
+- Fine-tuned a Sentence-BERT model using CosineSimilarityLoss from the sentence-transformers library.
+
+- After training, the model generates embeddings for sentence pairs.
+
+- Cosine similarity is computed between sentence embeddings to produce a final similarity score.
+
+Baseline Methods for Comparison:
+
+- BoW + Cosine Similarity
+
+- TF-IDF + Cosine Similarity
+
+- Used Scikit-learn's CountVectorizer and TfidfVectorizer respectively.
+
+- Cosine similarity computed using sklearn's cosine_similarity.
 
 3. **Validation:**
-   - [State how you validate your findings.]
+   - Regression Metrics:
+
+- Pearson Correlation Coefficient
+
+- Spearman Rank Correlation
+
+- R² Score
+
+- Root Mean Square Error (RMSE)
+
+- Mean Absolute Error (MAE)
+
+Classification Metrics (threshold-based):
+
+- Accuracy
+
+- Precision
+
+- Recall
+
+- F1-Score
+ (Threshold optimized; e.g., 0.2)
+
+- Split: 80% training, 10% validation, 10% test.
+
+
 
 ## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
+- A fine-tuned SBERT model capable of capturing the semantic similarity of legal sentence pairs more effectively than traditional NLP techniques.
+
+- Quantitative comparison showing improved correlation and classification metrics for SBERT over BoW and TF-IDF.
+
+- Usable embeddings for downstream tasks such as legal search, recommendation, or clustering.
 
 *For inquiries, contact: [your.email@utm.my]*
 
