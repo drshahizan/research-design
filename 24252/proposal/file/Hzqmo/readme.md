@@ -99,7 +99,13 @@ Out of Scope:
 2. **Data Analysis & Modeling:**
    - Text Preprocessing:
 
-- Lowercasing, cleaning punctuation, and token normalization.
+- Lowercased all text to ensure uniformity.
+
+- Cleaned punctuation to remove unnecessary symbols that do not contribute to meaning.
+
+- Removed duplicate sentence pairs to prevent bias during training.
+
+- Balanced the dataset using RandomOverSampler from the imblearn library to handle class imbalance (especially for binary classification thresholds).
 
 SBERT Fine-Tuning:
 
