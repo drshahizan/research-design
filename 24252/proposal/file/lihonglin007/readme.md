@@ -90,7 +90,20 @@ Pseudo-label Strategy Optimization
    - [Explain how and where you collect your data.]
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+   
+Data Preprocessing: Language filtering (English only), duplicate removal, text cleaning (remove URLs, @mentions, emojis, punctuation)
+
+Feature Engineering: TF-IDF (1–3 grams, min_df=3, max_df=0.7, 8,000 terms)
+
+Exploratory Data Analysis (EDA): Sentiment distribution, time-based trend analysis, word cloud visualization
+
+Machine Learning Algorithms: Logistic Regression, Support Vector Machine (SVM), Random Forest, Gradient Boosting
+
+Hyperparameter Tuning: GridSearchCV with 3-fold cross-validation
+
+Ensemble Model: Soft voting ensemble combining Logistic Regression, SVM, and Gradient Boosting; achieved 73.05% accuracy
+
+Performance Metrics: Accuracy, Precision, Recall, F1 Score
 
 3. **Validation:**
    - [State how you validate your findings.]
