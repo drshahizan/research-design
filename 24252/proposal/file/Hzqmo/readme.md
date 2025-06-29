@@ -80,76 +80,122 @@ Out of Scope:
 
 - No legal advice, decision prediction, or summarization is generated from the model.
 
-## Methodology
+# Research Methodology
 
-1. **Data Collection:**
-   - Dataset sourced from Kaggle, comprising English legal case sentence pairs and labeled similarity scores.
+## Introduction
 
-- Columns used for model training and comparison:
-  
+This chapter outlines the methodology used to develop a semantic similarity model for Malaysian legal texts using Sentence-BERT (SBERT). The research follows a structured framework: from problem identification to model development and evaluation, including comparison with traditional NLP methods.
+
+---
+
+## Research Framework
+
+![Research Framework](Chapter 3/METHDOLOGY FRAMEWORK.png)  
+*Figure 3.1: Research Methodology Framework*
+
+The research is divided into the following phases:
+
+1. Problem Identification and Literature Review  
+2. Data Acquisition  
+3. Data Preparation  
+4. Model Development  
+5. Evaluation and Validation
+
+Each phase is designed to support the development of a semantic similarity model and its comparison with baseline methods (BoW and TF-IDF).
+
+---
+
+## Phase 1: Problem Identification and Literature Review
+
+This phase focused on identifying the limitations of current legal search systems and understanding the role of semantic similarity in legal research. Key topics reviewed include:
+
+- Sentence-BERT and transformer-based NLP  
+- Legal applications of semantic similarity  
+- Traditional methods: BoW and TF-IDF  
+- Public datasets for legal NLP  
+
+---
+
+## Phase 2: Data Acquisition
+
+The dataset was sourced from **Kaggle**, containing English sentence pairs from Malaysian legal cases.
+
 | Column Name     | Description                                                  |
 |------------------|--------------------------------------------------------------|
 | `id`             | Unique identifier for the sentence pair                      |
 | `case1_text`     | Sentence from the first legal case                           |
 | `case2_text`     | Sentence from the second legal case                          |
-| `case1_domain`   | Legal domain/category of the first case (e.g., contract law) |
+| `case1_domain`   | Legal domain/category of the first case                      |
 | `case2_domain`   | Legal domain/category of the second case                     |
 | `true_label`     | Ground truth similarity score (float, 0 to 1)                |
 
-2. **Data Analysis & Modeling:**
-   - Text Preprocessing:
+---
 
-- Lowercased all text to ensure uniformity.
+## Phase 3: Data Preparation
 
-- Cleaned punctuation to remove unnecessary symbols that do not contribute to meaning.
+Data preparation involved several key preprocessing steps:
 
-- Removed duplicate sentence pairs to prevent bias during training.
+- Lowercasing all text  
+- Cleaning punctuation  
+- Removing duplicate sentence pairs  
+- Balancing the dataset using **RandomOverSampler**  
+- Splitting the dataset into training (80%), validation (10%), and test (10%) sets  
 
-- Balanced the dataset using RandomOverSampler from the imblearn library to handle class imbalance (especially for binary classification thresholds).
+---
 
-SBERT Fine-Tuning:
+## Phase 4: Model Development
 
-- Fine-tuned a Sentence-BERT model using CosineSimilarityLoss from the sentence-transformers library.
+### Semantic Embedding Generation
 
-- After training, the model generates embeddings for sentence pairs.
+A pre-trained **Sentence-BERT (SBERT)** model was fine-tuned using `CosineSimilarityLoss` from the `sentence-transformers` library. The model produces embeddings that capture the semantic meaning of each sentence.
 
-- Cosine similarity is computed between sentence embeddings to produce a final similarity score.
+### Similarity Scoring
 
-Baseline Methods for Comparison:
+- Cosine similarity was computed between the embeddings of sentence pairs.
+- These predicted scores were compared with ground truth labels (`true_label`) for evaluation.
+- Baseline models were implemented using:
+  - **Bag-of-Words (BoW)** + cosine similarity  
+  - **TF-IDF** + cosine similarity  
 
-- BoW + Cosine Similarity
+---
 
-- TF-IDF + Cosine Similarity
+## Phase 5: Evaluation and Validation
 
-- Used Scikit-learn's CountVectorizer and TfidfVectorizer respectively.
+### Error Analysis
 
-- Cosine similarity computed using sklearn's cosine_similarity.
+Misclassified or low-confidence sentence pairs were analyzed to assess the model's weaknesses, especially in handling ambiguous legal language.
 
-3. **Validation:**
-   - Regression Metrics:
+### Comparative Analysis
 
-- Pearson Correlation Coefficient
+**Regression Metrics**:
 
-- Spearman Rank Correlation
+- Pearson Correlation  
+- Spearman Correlation  
+- R² Score  
+- RMSE (Root Mean Squared Error)  
+- MAE (Mean Absolute Error)  
 
-- R² Score
+**Classification Metrics** (based on a similarity threshold, e.g., 0.2):
 
-- Root Mean Square Error (RMSE)
+- Accuracy  
+- Precision  
+- Recall  
+- F1 Score  
 
-- Mean Absolute Error (MAE)
+SBERT was compared against BoW and TF-IDF baselines using the same evaluation metrics.
 
-Classification Metrics (threshold-based):
+### Visualization and Reporting
 
-- Accuracy
+The following visual tools were used:
 
-- Precision
+- Correlation plots (predicted vs. actual similarity scores)  
+- Confusion matrix for classification tasks  
+- Bar charts to compare SBERT, BoW, and TF-IDF performance  
 
-- Recall
+All results were documented to highlight the improved performance of SBERT and its suitability for legal semantic similarity tasks.
 
-- F1-Score
- (Threshold optimized; e.g., 0.2)
+---
 
-- Split: 80% training, 10% validation, 10% test.
 
 
 
