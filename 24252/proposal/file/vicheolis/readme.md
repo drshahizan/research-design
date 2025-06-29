@@ -43,39 +43,61 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+This project explores the predictive relationship between financial news sentiment and the stock prices of Malaysia’s leading banks—CIMB and Maybank—using deep learning techniques. The study aims to determine whether sentiment extracted from news headlines can enhance the accuracy of stock price forecasting, beyond traditional indicators. A comprehensive dataset was compiled, including daily stock prices from Yahoo Finance and over 29,000 news headlines scraped from major Malaysian financial news outlets between 2019 and 2025. Sentiment analysis was performed using the VADER tool to classify headlines into positive, negative, and neutral categories. Three deep learning models—Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), and Attention-based CNN-LSTM (ACNN-LSTM)—were developed and compared for their prediction performance. Evaluation metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE) were used to assess model effectiveness. The results indicate that the ACNN-LSTM model achieved the highest accuracy, demonstrating that integrating sentiment with hybrid deep learning models can significantly improve stock price prediction. This research contributes a localized approach to financial forecasting in the Malaysian banking context and provides a practical framework for investors, analysts, and researchers interested in sentiment-based investment strategies.
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+Stock Price Prediction, Sentiment Analysis, Deep Learning, LSTM, GRU, ACNN-LSTM, Malaysian Banking Sector, CIMB, Maybank, Financial News, VADER, Machine Learning
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. To perform sentiment analysis on news headlines related to CIMB and Maybank.
+2. To examine the correlation between sentiment in news headlines and the next closing price movements of CIMB and Maybank.
+3. To develop predictive models based on sentiment features to forecast future stock price trends.
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+
+### ✅ Included in Scope:
+- Stock price data collection from Yahoo Finance for CIMB and Maybank (2019–2025)  
+- Web scraping of financial news headlines from Malaysian news portals  
+- Sentiment classification using VADER  
+- Deep learning model development (LSTM, GRU, ACNN-LSTM)  
+- Performance evaluation using MSE, RMSE, and MAE  
+
+### ❌ Out of Scope:
+- Real-time prediction or trading automation  
+- Inclusion of macroeconomic indicators (e.g., inflation, interest rates)  
+- Application to sectors beyond Malaysian banking  
+
 
 ## Methodology
 
-1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+### 🔹 Data Collection:
+- **Stock Prices:** Downloaded using `yfinance` for both banks  
+- **News Headlines:** Scraped using `Selenium` from major portals: The Star, Malay Mail, NST, The Edge Market, Business Today
 
-2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+### 🔹 Data Analysis:
+- Data cleaning and timestamp standardization  
+- Sentiment scoring using `VADER`  
+- Dataset alignment between sentiment and stock prices  
+- Sliding window approach for sequence modelling  
+- Deep learning models implemented in Python with `Keras`
 
-3. **Validation:**
-   - [State how you validate your findings.]
+### 🔹 Validation:
+- 80/20 train-test data split  
+- Use of dropout and early stopping to prevent overfitting  
+- Evaluation via MSE, RMSE, MAE  
+
 
 ## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
+- A robust ACNN-LSTM model that consistently outperforms LSTM and GRU in predicting stock prices  
+- Empirical evidence that news sentiment correlates with Maybank’s stock movement more than CIMB’s  
+- Clean, labeled datasets available for reproducibility and benchmarking  
+- Foundation for future studies on real-time sentiment-informed trading strategies  
+- Potential academic publication or open-source extension for real-world deployment  
 
-*For inquiries, contact: [your.email@utm.my]*
+*For inquiries, contact: nurainafarraain@graduate.utm.my*
 
  
 
