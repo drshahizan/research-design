@@ -32,6 +32,7 @@
 |  6.  | Chapter 5 | <a href="c5/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Full Chapter/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
+|  9.  | Data | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
