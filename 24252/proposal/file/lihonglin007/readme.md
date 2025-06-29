@@ -114,7 +114,7 @@ Performance Metrics: Accuracy, Precision, Recall, F1 Score
 
 ## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
+This study combines VADER pseudo-labeling with supervised learning to build a semi-supervised sentiment classification model, achieving 73.05% accuracy while revealing policy-driven sentiment trends and contributing a practical framework for public opinion analysis.
 - [Any intended publications or implementations.]
 
 *For inquiries, contact: [your.email@utm.my]*
