@@ -45,7 +45,7 @@
 
 ## Abstract
 
-[This study explores public sentiment on social media "X" (formerly Twitter) in response to the Trump administration’s 2025 China tariff policy. Using natural language processing (NLP) and the VADER sentiment analysis tool, the study analyzes English tweets from January to May 2025. A three-stage unsupervised analysis shows that negative sentiment dominates (60.4%), followed by positive (28.4%) and neutral (11.3%) emotions.
+[This study explores public sentiment on social media "X" (formerly Twitter) in response to the Trump administration’s 2025 China tariff policy. Using natural language processing (NLP) and the VADER sentiment analysis tool, the study analyzes English tweets from January to May 2025. A three-stage unsupervised analysis shows that negative sentiment dominates (60%), followed by positive (28%) and neutral (12%) emotions.
 
 To improve classification performance, VADER compound scores are used to generate pseudo-labels for a balanced dataset. Supervised models including Support Vector Machine (SVM), Logistic Regression, and Gradient Boosting are trained and compared. The soft voting ensemble of the three models achieves the highest accuracy at 73.05%.
 
@@ -64,8 +64,15 @@ The study offers practical insights into public opinion dynamics during high-imp
 3. [ To construct a balanced dataset using VADER-generated pseudo-labels,to evaluate the performance of supervised and ensemble machine learning models on sentiment classification.]
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+Included:
+Analyzing mass commentary on Trump's China tariff policy in 2025
+Data scope: Collect English review data of "X" platform only based on keywords
+Time range: January-May 2025
+Analysis Method:  applied NLP and the VADER tool to generate pseudo-labels for sentiment classification,  and evaluated four supervised learning models:  Logistic Regression, Support Vector Machine (SVM), Random Forest, and Gradient Boosting.
+Excluded:
+Social media other than "x" platform
+Factors influencing public sentiment towards tariff policy
+Pseudo-label Strategy Optimization
 
 ## Methodology
 
