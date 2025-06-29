@@ -90,7 +90,7 @@ Pseudo-label Strategy Optimization
    
 Crawl data from social media "X"
 
-3. **Data Analysis:**
+2. **Data Analysis:**
    
 Sentiment Scoring: VADER was used to conduct unsupervised sentiment analysis and generate pseudo-labels (positive, neutral, negative) for tweet classification
 
