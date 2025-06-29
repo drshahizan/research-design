@@ -111,7 +111,8 @@ Performance Metrics: Accuracy, Precision, Recall, F1 Score
 
 
 3. **Validation:**
-   - [State how you validate your findings.]
+   
+   This study applied VADER-generated pseudo-labels to train four supervised learning models, with hyperparameter tuning via GridSearchCV and cross-validation. The final soft voting ensemble model achieved 73.05% accuracy, validating the feasibility and effectiveness of using pseudo-labels for sentiment classification without manual annotation.
 
 ## Expected Outcomes
 
