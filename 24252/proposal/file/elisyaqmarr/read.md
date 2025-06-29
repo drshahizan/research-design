@@ -27,7 +27,7 @@
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="proposal/"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="proposal/elisyaqmarr"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 | <a href="CHAPTER 1 - ELISYA.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="CHAPTER 2 - ELISYA.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href="CHAPTER 3 - ELISYA.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
