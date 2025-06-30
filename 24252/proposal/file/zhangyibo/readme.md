@@ -12,10 +12,10 @@
 <table align="center">
   <tr>
     <th>Name</th>
-    <th>Matric No.</th>
+    <th>MCS241044</th>
   </tr>
   <tr>
-    <td>[Your Name]</td>
+    <td>Zhang Yibo</td>
     <td>[Your Matric Number]</td>
   </tr>
 </table>
@@ -45,37 +45,35 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+This project explores the comparative performance of six traditional machine learning (ML) models in early diabetes screening using the Pima Indians Diabetes dataset. The primary aim is to identify models that offer a balance between prediction accuracy, computational efficiency, and clinical practicality in resource-constrained environments. The study involves data preprocessing techniques such as KNN imputation and SMOTE, followed by 5-fold cross-validation to evaluate models including Logistic Regression, Decision Tree, KNN, Random Forest, Naive Bayes, and SVM. Results are analyzed through metrics like AUC, sensitivity, and training time. Feature importance is interpreted using SHAP, and robustness to missing data is evaluated. The findings will guide model selection strategies tailored to different levels of clinical resources.
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+Diabetes Prediction, Machine Learning, Logistic Regression, Random Forest, SHAP, ROC Curve, Missing Data, Resource-Constrained Healthcare
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. To compare the prediction performance of six classical ML models for diabetes detection.
+2. To assess model robustness under missing data and low-resource computational conditions.
+3. To recommend suitable models for various healthcare scenarios based on clinical interpretability and efficiency.
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+- Real-time clinical testing or deployment in healthcare systems
+- Deep learning models or neural networks
+- Use of external datasets beyond Pima
 
 ## Methodology
 
 1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+   The study uses the publicly available Pima Indians Diabetes dataset from the UCI Machine Learning Repository. It includes 768 patient records and 8 clinical features such as glucose level, BMI, age, and insulin.
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+   Data preprocessing includes KNN imputation for missing values, Z-score normalization, and SMOTE for class imbalance. Models tested include Logistic Regression, Decision Tree, KNN, Random Forest, Naive Bayes, and SVM. Evaluation metrics include AUC, accuracy, sensitivity, and training time. Visualizations such as ROC curves and radar charts are used to support findings.
 
 3. **Validation:**
-   - [State how you validate your findings.]
+   Model performance is validated using 5-fold stratified cross-validation. Robustness checks are conducted by introducing missing values at different rates and measuring AUC drop. SHAP values are used to validate feature contributions and interpretability.
 
-## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
 
 *For inquiries, contact: [your.email@utm.my]*
 
