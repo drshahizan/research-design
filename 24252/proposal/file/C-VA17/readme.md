@@ -27,11 +27,11 @@
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1.  | Proposal | <a href="proposal/"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 |<a href="Chapter 1/Chapter 1_Final Edition.pdf"><img src="pdf.svg" width="24px" height="24px"></a>|
-|  3.  | Chapter 2 | <a href="c2/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="c3/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="c4/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="c5/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 |<a href="Chapter 1/Chapter 1_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a>|
+|  3.  | Chapter 2 | <a href="Chapter 1/Chapter2_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter 1/Chapter3_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <<a href="Chapter 1/Chapter 4_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter 1/Chapter 5_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Full Chapter/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
 
