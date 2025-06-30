@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# Comparison of classic machine learning models in diabetes prediction
 
 ## Files
 
