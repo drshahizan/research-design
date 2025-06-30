@@ -6,8 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 <p align="center">
-  <img height="300px" src="![1](https://github.com/user-attachments/assets/4162e941-6d03-4756-a90d-06f9abec1c1e)
-" alt="Profile Image">
+  <img height="300px" src="img/person_icon.png" alt="Profile Image">
 </p>
 
 <table align="center">
@@ -16,12 +15,12 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>Wang Tong</td>
-    <td>MCS241052</td>
+    <td>[Your Name]</td>
+    <td>[Your Matric Number]</td>
   </tr>
 </table>
 
-# Prediction and Analysis of Tropical Cyclones Landfall Points Based on Random Forest
+# [Insert Project Title Here]
 
 ## Files
 
