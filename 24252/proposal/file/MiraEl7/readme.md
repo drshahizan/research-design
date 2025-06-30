@@ -3,10 +3,6 @@
   <img src="https://github.com/user-attachments/assets/fbc820ef-f65f-4892-beaf-fa4985e62d03" alt="MiraEdoraBintiYunos_ID" width="300"/>
 </p>
 
-<p align="center">
-  <img height="300px" src="img/person_icon.png" alt="Profile Image">
-</p>
-
 <table align="center">
   <tr>
     <th>Name</th>
