@@ -34,8 +34,6 @@
 | 17 | Siti Nur Elisya Aqmar Binti Mohamad Kamal | Flight Delays Prediction Model Using Machine Learning|<a href="file/elisyaqmarr"><img src="../../images/folder.png" width="24px" height="24px"></a> |<a href="file/elisyaqmarr/Slides_Siti Nur Elisya Aqmar binti Mohamad Kamal.pdf"><img src="../../images/powerpoint.svg" width="24px" height="24px"></a>| <a href="https://youtu.be/KhbUoRJMH0Y"><img src="../../images/youtube.png" width="30px" height="30px"></a> |
 | 18 | Sivarajan A/L S.Esvaran |Sales Forecasting Models for Direct Selling Business:A Data-Driven Approach to Predictive Analytics| <a href="file/C-VA17"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 19 | Soh Joen Shiuan | Customer Churn Prediction in E-commerce Industry using Random Forest Algorithm |<a href="file/edwardjacksonmy"><img src="../../images/folder.png" width="24px" height="24px"></a> | <img src="../../images/powerpoint.svg" width="24px" height="24px"></a> |<a href="https://www.youtube.com/watch?v=oHS1FFeaRh8"><img src="../../images/youtube.png" width="30px" height="30px"></a> |
-
-
 | 20 | Wang Tong | Prediction and Analysis of Tropical Cyclones Landfall Points Based on Random Forest |<a href="file/tong920"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 21 | Wang Zhengqiu | Sentiment Analysis of Global Reception Differences of the Film Ne Zha |<a href="file/zqwangutm"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 22 | Yang Mu |Big data driven: Forecast of global real estate market ups and downs in some regions|<a href="file/Yang743"><img src="../../images/folder.png" width="24px" height="24px"></a> |
