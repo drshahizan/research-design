@@ -45,39 +45,43 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+[The purpose of this study is to investigate the sentiment analsysis of electric vehicle discourse in Malaysia. The research was based on 3 primary objective. (a) to identify, preprocess, and explore EV-related textual data from online social platforms by implementing robust data cleaning and pattern discovery techniques; (b) to implement and compare the performance of pre-trained BERT-based models, specifically BERT-base uncased and RoBERTa-base, for structured sentiment analysis; and (c) to analyze the sentiment insights of Malaysians toward electric vehicles. Using VADER for initial sentiment labeling, both models were fine-tuned and evaluated. BERT-base uncased achieved a higher classification accuracy (93%) compared to RoBERTa-base (92%), particularly excelling in positive sentiment detection. The findings highlight the effectiveness of leveraging pre-trained language models for analyzing public opinion in EV-related discourse and suggest avenues for improvement through enhanced labeling strategies and experimentation with other transformer architectures.]
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+[electric vehicle, sentiment analysis, Bert-based model]
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. [To identify, preprocess and explore electric vehicle related text data from multiple online social media and implementing preprocessing procedure to clean data and discover underlying patterns.]
+2. [To Implement and compare pre-trained Bert-based model in determining structured sentiment analysis.]
+3. [To analyse the sentiment insight of Malaysian about electric vehicle.
+1.6 Research Scope
+The following]
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+- [This study will focus exclusively on analysis of discourse within Malaysian social media websites.]
+- [The web crawler will be use to crawl on text data published between year 2021 until year 2025.]
+- [The analysis only coverage English-language electric vehicle related textual data.]
 
 ## Methodology
 
 1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+   - [Reddit Praw API]
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+   - [Vader for sentiment Labelling]
+   - [BERT-based uncased and RoBERTA]
 
 3. **Validation:**
-   - [State how you validate your findings.]
+   - [Classification report and confusion matrix]
 
 ## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
+- [Determine sentiment of the electric vehicle related discourse]
+- [Compared which pretrained Bert based model is suitable for the classification]
 
-*For inquiries, contact: [your.email@utm.my]*
+*For inquiries, contact: [changziyin@graduate.utm.my]*
 
  
 
