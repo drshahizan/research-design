@@ -33,7 +33,7 @@
 |  5.  | Chapter 4 | <a href="Chapter 4/Chapter4_Azlan.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="Chapter 5/Chapter5_Azlan.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Complete Chapter/thesis_Azlan.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="url"><img src="python_icon.png" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="https://colab.research.google.com/drive/1dno3I8BCE_gKEkDNURe9RXzMjiffaNFY?usp=sharing"><img src="python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
