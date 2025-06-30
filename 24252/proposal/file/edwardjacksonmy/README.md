@@ -54,16 +54,21 @@ Customer Churn, E-Commerce, Imbalanced Dataset, Feature Engineering, Machine Lea
 ## Research Objectives
 
 1. To preprocess the customer churn data, leading to cleaned data for model training
-2. To develop a machine learning model using Random Forest Algorithm that predicts the potential churning customers
-3. To evaluate the performance of model identifying the churn using various metrics
+2. To identify the key relevant attributes that affects the custome churn rate using Correlation Coefficient Matrix
+3. To develop a machine learning model using Random Forest Algorithm that predicts the potential churning customers, visualizing the results in dashboard.
 
 ## Scope of Work
 - The customer churn dataset will be collected from Kaggle Open Data Source.
 - Tenure, CashbackAmount, OrderCount, SatisfactionScore, NumberOfDeviceRegistered, DaySinceLastOrder, Complain, OrderAmountHikeFromlastYear, CouponUsed, and customer behavioral attributes (PreferredLoginDevice, Gender, MaritalStatus, PreferedOrderCat, PreferredPaymentMode) will be used to calculate the impact towards customer churn pattern.
 - The study would be focusing on e-commerce industry.
 - Python programming language would be used to preprocess the data.
-- Random Forest algorithm would be used to predict the potential churning customers.
-- [Mention anything that is out of the project scope.]
+- Multiple machine learning algorithms will be evaluated, with Random Forest as the primary focus, alongside comparative analysis with Logistic Regression, Random Forest + SMOTE, and XGBoost.
+- --------------------------------------------------------
+- Project Limitations
+- The analysis is limited to provided Kaggle Dataset (5630) and may not generalize to all e-commerce platforms.
+- Temporal analysis is restricted due to the dataset itself is static and does not involve any real-time streaming process.
+- Model deployment and production monitoring are excluded from this research scope.
+- Cross-industry validation is not covered 
 
 ## Methodology
 
@@ -73,18 +78,22 @@ Customer Churn, E-Commerce, Imbalanced Dataset, Feature Engineering, Machine Lea
 2. **Data Analysis:**
    - Data Preprocessing Techniques: Handling Missing Values, Duplicate Removal, Outlier Detection
    - Feature Engineering Techniques: Categorical Encoding and Derived Feature Creation
-   - Exploratory Data Analysis (EDA): Univariate Analysis, Bivariate Analysis, Multivariate Analysis
+   - Exploratory Data Analysis (EDA): Univariate Analysis and Bivariate Analysis
    - Experimental Machine Learning Algorithms: Logistic Regression, Random Forest, Random Forest + SMOTE, XGBoost
    - Model Optimization: Hyperparameter Tuning
    - Performance Metrics: Accuracy Score, Precision Score, Recall Score, F1-Score, ROC-AUC Score
   
 3. **Validation:**
-   - [State how you validate your findings.]
+   - Split the dataset into 80% training set and 20% testing set
+   - Apply K-Fold cross validation reduce overfitting, making the model more stable
+   - Compare multiple algorithms to find the best model for the use case
 
 ## Expected Outcomes
-
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
+- Complete data preprocessing pipeline for e-commerce churn dataset
+- The trained model achieve the baseline of the following metrics. (Accuracy >=85%, Precision>=80%, Recall>=85%, F1-Score>=77%)
+- Models undergo hyperparameter tuning improves the result generation.
+- Identify the key metric that affects the customer churn rate.
+- Improve ROI as in reducing the customer requisition cost, leading to lower operational cost in e-commerce industry.
 
 *For inquiries, contact: sohjoenshiuan@graduate.utm.my*
 
