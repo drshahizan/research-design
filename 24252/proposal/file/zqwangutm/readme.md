@@ -15,12 +15,12 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[Your Name]</td>
-    <td>[Your Matric Number]</td>
+    <td>WANGZHENGQIU</td>
+    <td>MCS241010</td>
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# Sentiment Analysis of Global Reception Differences of the Film Ne Zha
 
 ## Files
 
@@ -28,12 +28,12 @@
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1.  | Proposal | <a href="https://github.com/drshahizan/research-design/tree/main/24252/proposal/file/zqwangutm/Proposal"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 | <a href="https://github.com/drshahizan/research-design/tree/main/24252/proposal/file/zqwangutm/Chapter1"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="c2/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="c3/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="c4/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="c5/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions"><img src="../../file/drshahizan/img/python_icon.png" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="https://github.com/drshahizan/research-design/tree/main/24252/proposal/file/zqwangutm/Chapter2"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="https://github.com/drshahizan/research-design/tree/main/24252/proposal/file/zqwangutm/Chapter3"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="https://github.com/drshahizan/research-design/tree/main/24252/proposal/file/zqwangutm/Chapter4"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="https://github.com/drshahizan/research-design/tree/main/24252/proposal/file/zqwangutm/Chapter5"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="https://github.com/drshahizan/research-design/tree/main/24252/proposal/file/zqwangutm/Complete Chapter"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="https://github.com/drshahizan/research-design/tree/main/24252/proposal/file/zqwangutm/Code"><img src="../../file/drshahizan/img/python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
@@ -45,39 +45,46 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+Sentiment analysis, also known as opinion mining, is a major area in natural language processing that focuses on identifying emotional tones and subjective attitudes within textual data. As the volume of user-generated content continues to grow—particularly through social media platforms, online forums, and product reviews—sentiment analysis has become an essential tool for understanding public opinion, tracking consumer preferences, and analyzing social trends.
+
+Over the past decade, research in this field has developed along several key technical paths. Traditional machine learning methods laid the groundwork for automated sentiment classification, while sentiment lexicon-based approaches provided interpretability and domain flexibility. More recently, deep learning techniques—especially neural networks such as CNNs, RNNs, and transformers—have greatly improved performance in complex sentiment tasks.
+
+Despite these advances, challenges remain. Cross-lingual sentiment transfer, sarcasm and irony detection, and effective integration of multimodal information (e.g., text, image, audio) continue to be active research problems. Looking forward, the field is expected to move toward more accurate semantic comprehension, better adaptability to specific domains, and robust modeling across multiple languages and cultural contexts.
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+Machine learning; Sentiment analysis; Social media; Text analysis; Word embedding
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. What are the similarities and differences in the emotions expressed by viewers in the three countries after watching the show?
+2. Which emotional keywords or themes are most representative in the audience's comments?
+3. Is there a relationship between the audience's emotional tendencies and their rating performance?
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+- Data Collection:From the community, more in-depth
+- Model Category:Using a semi-supervised model is more conducive to subsequent data regression
+- Analysis Content:In addition to positive and negative evaluations, extract the top words at both ends
+- Research Limitation: Only the text itself is analyzed. In addition, the review sampling will be limited to user reviews published within one year of the movie's release
 
 ## Methodology
 
-1. **Data Collection:**
-   - [Explain how and where you collect your data.]
-
-2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
-
-3. **Validation:**
-   - [State how you validate your findings.]
-
+**Data Collection**
+**Data preprocessing**
+**Exploratory Data Analysis**
+**Sentiment Analysis Modeling**
+**Model evaluation and result comparison**
 ## Expected Outcomes
+**Presents the differences in emotional reactions of audiences
+in different countries to Nezha 2, and explains them by
+combining keyword analysis and comment samples. The
+sentiment analysis model（XGboost） is used as an auxiliary
+tool in this study to help us reveal cross-national differences
+in cultural acceptance, narrative style preferences, etc., and
+provides data support for the subsequent overseas strategies
+of Chinese films.**
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
-
-*For inquiries, contact: [your.email@utm.my]*
+*For inquiries, contact: [wangzhengqiu@graduate.utm.my]*
 
  
 
