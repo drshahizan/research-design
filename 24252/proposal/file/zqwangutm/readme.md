@@ -68,28 +68,24 @@ Machine learning; Sentiment analysis; Social media; Text analysis; Word embeddin
 - Research Limitation: Only the text itself is analyzed. In addition, the review sampling will be limited to user reviews published within one year of the movie's release
 
 ## Methodology
-
-**Data Collection**
-**Data preprocessing**
-**Exploratory Data Analysis**
-**Sentiment Analysis Modeling**
-**Model evaluation and result comparison**
+- Data Collection
+- Data preprocessing
+- Exploratory Data Analysis
+- Sentiment Analysis Modeling
+- Model evaluation and result comparison
 ## Expected Outcomes
-**Presents the differences in emotional reactions of audiences
+Presents the differences in emotional reactions of audiences
 in different countries to Nezha 2, and explains them by
 combining keyword analysis and comment samples. The
 sentiment analysis model（XGboost） is used as an auxiliary
 tool in this study to help us reveal cross-national differences
 in cultural acceptance, narrative style preferences, etc., and
 provides data support for the subsequent overseas strategies
-of Chinese films.**
+of Chinese films.
 
 *For inquiries, contact: [wangzhengqiu@graduate.utm.my]*
 
  
-
-
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
