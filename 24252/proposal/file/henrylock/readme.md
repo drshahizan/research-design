@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# [Prediction of Health Expenditure in Malaysia Using Machine Learning]
 
 ## Files
 
@@ -45,39 +45,42 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+[Rising healthcare expenditure is a global challenge. The escalation of healthcare cost, caused by the inflation in medication prices, medical expenses, and the ageing population in Malaysia, necessitates the development of a robust predictive model for health expenditure to aid in the planning of future healthcare budgets. From previous researches, it is suggested that machine learning algorithms have great potential when used in modern health economies. The aim of this research project is to predict health expenditure in Malaysia using machine learning techniques to provide insight for health financing and policy planning. Random Forest and ARIMA are selected and applied to predict health expenditure in Malaysia from 2026 to 2035. The healthcare spending data is sourced from Ministry of Health Malaysia, WHO Global Health Expenditure Database and World Development Indicators Database for the period of 2000 to 2022. Explanatory data analysis shows a gradual increase in health expenditures from 2000 to 2019, and some fluctuations between 2019 to 2022 due to the COVID-19 pandemic. Key determinants affecting health expenditure have been identified by investigating their correlations with the health expenditures. GDP, population in thousands, total population aged 65 years old, number of physicians per 1000 people, life expectancy at birth and population growth, are chosen as the predictive indicators for health expenditures. From the initial findings, it can be concluded that ARIMA outperform Random Forest in forecasting Malaysia’s Total Health Expenditure (TEH) from 2019 to 2022, achieving a low MAE of RM 2,191 million, a low RMSE of RM 2,731 million and a high R2 of 0.818, indicating strong predictive accuracy. Random Forest performance is poor in the initial result due to insufficient training data and lack of hyperparameter tuning. In future studies, hyperparameter tuning and validation should be prioritised to improve the accuracy and reliability of the models. The methodology of this study can be extended to include other ASEAN countries with similar health economic structures to improve the generalisability of the machine learning models and provide insights for healthcare budget planning based on varying health policies across counties.]
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+[Health Expenditure, Malaysia, Machine Learning, Random Forest, ARIMA]
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. [To identify the key determinants of health expenditure to use as features for machine learning algorithms]
+2. [To apply Random Forest and ARIMA for predicting health expenditure in Malaysia from 2026 to 2035 ]
+3. [To evaluate and compare the performance metrics of the machine learning models and to identify the model with the highest accuracy in forecasting health expenditure in Malaysia]
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+- [a)	The data will be sourced from the Ministry of Health Malaysia, Department of Statistics Malaysia, World Bank Group, and World Health Organization.
+b)	The data collected will only involve demographic data and data related to health economics. No individual data that reveals an individual’s medical and medication history will be used. 
+c)	The study will use data from 2000 to 2022, providing relevant and up-to-date data for health expenses forecasting
+d) 	This research will apply two machine learning methods: Random Forest and ARIMA.
+]
 
 ## Methodology
 
 1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+   - [Data were collected from Ministry of Health Malaysia website, WHO Global Health Expenditure Database and World Development Indicators Database.]
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+   - [. ARIMA and Random Forest were applied to the pre-processed dataset to predict the future health expenditure in Malaysia.  For ARIMA, input data will consist of past data of total health expenditure, GHE and OOP as a time series analysis to predict to future value of health expenditure. For Random Forest, as the machine learning model can handle more variables than the ARIMA model, multiple features were selected for data modelling.  ]
 
 3. **Validation:**
-   - [State how you validate your findings.]
+   - [The models will be evaluated for their performance. This step is crucial as it not only validates the performance of the model, but also enables comparison of performance between different models. There are 3 key evaluation metrics applicable to regression models that will be used in this project: Mean Absolute Error (MAE),	Root Mean Squared Error (RMSE), Coefficient of Determination (R² score)]
 
 ## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
+- [This project can provide insights for policymakers in the country in planning health expenditures and allow strategic allocation of budgets for health expenses. This helps to ensure the long-term sustainability of funding for Malaysia’s healthcare system. Overall, this research is projected to contribute to better health outcomes for the patients and people in Malaysia. The findings of this project are also expected to provide insights for other countries with similar healthcare systems or income levels.]
 
-*For inquiries, contact: [your.email@utm.my]*
+
+*For inquiries, contact: [lock@graduate.utm.my]*
 
  
 
