@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 <p align="center">
-  <img height="300px" src="[img/person_icon.png" alt="Profile Image](https://github.com/JasonSun-UTM/Sun-Yihui/raw/main/images/WechatIMG586.jpg)">
+  <img height="300px" src="[alt="Profile Image](https://github.com/JasonSun-UTM/Sun-Yihui/raw/main/images/WechatIMG586.jpg)">
 </p>
 
 <table align="center">
