@@ -77,7 +77,7 @@ Health Expenditure, Malaysia, Machine Learning, Random Forest, ARIMA
 
 ## Expected Outcomes
 
-- This project can provide insights for policymakers in the country in planning health expenditures and allow strategic allocation of budgets for health expenses. This helps to ensure the long-term sustainability of funding for Malaysia’s healthcare system. Overall, this research is projected to contribute to better health outcomes for the patients and people in Malaysia. The findings of this project are also expected to provide insights for other countries with similar healthcare systems or income levels.
+This project can provide insights for policymakers in the country in planning health expenditures and allow strategic allocation of budgets for health expenses. This helps to ensure the long-term sustainability of funding for Malaysia’s healthcare system. Overall, this research is projected to contribute to better health outcomes for the patients and people in Malaysia. The findings of this project are also expected to provide insights for other countries with similar healthcare systems or income levels.
 
 
 *For inquiries, contact: lock@graduate.utm.my*
