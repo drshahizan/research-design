@@ -20,7 +20,8 @@
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# [Sentiment Analysis of Ethereum (ETH) on X: Insights from Social Media Trends![image](https://github.com/user-attachments/assets/b8d6f071-85dc-460a-8a06-9ec40a1b1121)
+]
 
 ## Files
 
