@@ -1,4 +1,7 @@
-<a href="https://github.com/drshahizan/research-design/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/research-design" alt="Stars Badge"/></a>
+# 👋 Hi there, I'm Mira Edora
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbc820ef-f65f-4892-beaf-fa4985e62d03" alt="MiraEdoraBintiYunos_ID" width="300"/>
+</p>
 <a href="https://github.com/drshahizan/research-design/network/members"><img src="https://img.shields.io/github/forks/drshahizan/research-design" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/research-design/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-design" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/research-design"><img src="https://img.shields.io/github/issues/drshahizan/research-design" alt="Issues Badge"/></a>
