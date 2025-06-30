@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>ZHANG LONG</td>
-    <td>MSCT241034</td>
+    <td>MCS241034</td>
   </tr>
 </table>
 
