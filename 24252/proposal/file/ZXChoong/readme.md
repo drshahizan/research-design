@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 <p align="center">
-  <img height="300px" src="CZX picture.jpeg" alt="Profile Image">
+  <img height="300px" src="image/CZX picture.jpeg" alt="Profile Image">
 </p>
 
 <table align="center">
@@ -26,14 +26,14 @@
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="Proposal/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="Chapter 1/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="Chapter 2/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="Chapter 3/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="Chapter 4/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="Chapter 5/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="All Chapter/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="Proposal/"><img src="image/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="Chapter 1/"><img src="image/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="Chapter 2/"><img src="image/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter 3/"><img src="image/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="Chapter 4/"><img src="image/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter 5/"><img src="image/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="All Chapter/"><img src="image/pdf.svg" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="code"><img src="image/python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
