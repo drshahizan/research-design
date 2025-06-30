@@ -45,39 +45,40 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+This study explores the behavioral patterns of electric vehicle (EV) users when driving under low state-of-charge (SOC) conditions. By integrating two real-world datasets—the Electric Vehicle Charging Dataset and the Vehicle Energy Dataset (VED)—the research constructs a comprehensive database of over 100,000 EV trips. Using advanced machine learning techniques, particularly XGBoost, the study builds a predictive model to determine whether drivers will charge immediately following low-SOC events. Additionally, SHAP (Shapley Additive Explanations) is applied to interpret the model, providing both global and local explanations of key behavioral factors. Results show that SOC at trip end, travel distance, and time of day are significant indicators. The findings offer valuable implications for smart charging infrastructure, user reminder systems, and policy development in energy management.
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+Electric Vehicles (EVs), Low State of Charge (SOC), XGBoost, SHAP Interpretability, EV Data Analysis
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. To develop a predictive model that forecasts whether EV users will charge immediately after a low-SOC trip.
+2. To identify and analyze the most influential behavioral and temporal factors affecting charging decisions.
+3. To ensure model transparency and interpretability through the use of SHAP values for both global and local analysis.
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
-
+- The project covers data integration, preprocessing, feature engineering, model training, evaluation, and explainability.
+- It focuses specifically on low-SOC events (SOC < 20%) and does not include spatial or environmental factors like charger location or weather.
+- Predictive analysis is conducted on individual trips, not on long-term behavioral trends across multiple days.
 ## Methodology
 
 1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+   - Combined and cleaned the Electric Vehicle Charging Dataset and Vehicle Energy Dataset (VED), filtering for low-SOC trips.
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+   - Performed feature engineering (e.g., time of day, distance, SOC), exploratory data analysis, and classification using XGBoost.
 
 3. **Validation:**
-   - [State how you validate your findings.]
+   - Model performance was evaluated using accuracy, F1-score, and AUC. SHAP was used for interpretability, confirming the influence of core features.
 
 ## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
+- A high-performance, explainable model for predicting post-trip charging behavior under low SOC conditions.
+- Behavioral insights to inform smart charging reminders, EV infrastructure planning, and energy policy decisions.
+- Potential publication in EV behavior modeling, machine learning applications in transportation, and explainable AI in energy systems.
 
-*For inquiries, contact: [your.email@utm.my]*
+*For inquiries, contact: [zhanglong@graduate.utm.my]*
 
  
 
