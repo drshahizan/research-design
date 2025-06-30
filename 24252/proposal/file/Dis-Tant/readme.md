@@ -27,12 +27,12 @@
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1.  | Proposal | <a href="proposal/"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="c1/"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="c2/"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="c3/"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="c4/"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="c5/"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="Full Chapter/"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="Chapter1/Chapter1_GaoJingkai.pdf"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="Chapter2/Chapter2_GaoJingkai.pdf"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter3/Chapter3_GaoJingkai.pdf"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="Chapter4/Chapter4_GaoJingkai.pdf"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter5/Chapter5_GaoJingkai.pdf"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="All_Chapter/Thesis_GaoJingkai.pdf"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
 |  8.  | Code | <a href="https://colab.research.google.com/drive/1siATgakali_wALG8LtcdsT25BpKiYOUq?usp=sharing"><img src="Img/python_icon.png" width="24px" height="24px"></a> |
 
 
