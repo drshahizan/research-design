@@ -51,35 +51,80 @@ The purpose of this study is to develop and evaluate sales forecasting models fo
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+Sales Forecasting, Direct Selling,Data Cleaning, Exploratory Data Analysis, Feature Engineering, Machine Learning
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. To conduct comprehensive exploratory data analysis
+2. To analyse temporal sales patterns
+3. To develop and implement multiple forecasting models
+4. To establish comprehensive model evaluation criteria
+5. To identify optimal forecasting approaches
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+The scope of this project encompasses the use of transaction and customer data collected from a single
+Amway distributor, covering the period from April 2023 to April 2025. It involves developing and comparing
+multiple forecasting models, including ARIMA, Exponential Smoothing, Random Forest, Linear Regression,
+and LSTM, to determine their suitability for sales prediction in direct selling environments. The project
+focuses on generating forecasts across different prediction horizons, to support both operational decision-making 
+and long-term strategic planning. The technology stack employed includes Python libraries such as scikit-learn, 
+TensorFlow/Keras, Prophet, and statsmodels to ensure robust model development. Furthermore, cross-validation and 
+
 
 ## Methodology
 
 1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+The dataset was collected from a single Amway distributor, covering a 24-month period from April 2023 to April 2025. Monthly sales reports in PDF format were downloaded from the distributor portal. Using Python libraries such as pdfplumber, tabula, and PyPDF2, the PDF files were systematically converted into structured CSV files. The final dataset consisted of 553,542 transaction records with 12 core features including order details, product information, transaction amounts, return status, and customer demographics, providing comprehensive insights into purchasing behaviour and sales trends.
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+Exploratory Data Analysis (EDA) was conducted to understand the dataset characteristics and identify temporal patterns, customer behaviours, and product performance. Key analysis steps included:
+
+Time Series Analysis: Identification of trends, seasonality, and cyclical sales behaviours to inform model development.
+
+Pattern Recognition: Customer segmentation using RFM analysis, product performance assessment, and geographic market analysis.
+
+Feature Engineering: Expanded the dataset from 12 to 28 variables, adding features such as:
+
+Temporal features (month, quarter, day of week, is weekend)
+
+Behavioural indicators (customer order count, total spend, average order value)
+
+Pricing indicators (price per quantity, average item price per order)
+
+Recency metrics (days since last purchase)
+These enhancements improved the models’ ability to capture business dynamics and generate accurate forecasts.
 
 3. **Validation:**
-   - [State how you validate your findings.]
+Model validation involved robust evaluation techniques to ensure reliable forecasting performance and avoid overfitting. The following approaches were used:
+
+Cross-Validation: Time series cross-validation techniques to assess model generalizability on unseen data.
+
+Walk-Forward Validation: Sequential training and testing to mimic real-world forecasting scenarios.
+
+Performance Metrics: Evaluation based on R² (coefficient of determination), RMSE (root mean square error), MAE (mean absolute error), and MAPE (mean absolute percentage error).
+Results showed that while LSTM, Random Forest, and Linear Regression models achieved high R² scores (0.964), they had high MAPE values (52.68%) limiting practical utility. Conversely, ARIMA demonstrated 100% custom accuracy despite a negative R², highlighting the complexity of aligning statistical performance with business applicability.
 
 ## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
+This project is expected to deliver robust sales forecasting models tailored for the direct selling industry, specifically for independent distributors like those in Amway. The expected results include:
+
+Development of Multiple Forecasting Models:
+The project will produce and compare forecasting models including ARIMA, LSTM, Random Forest, and Linear Regression, identifying their strengths and limitations in predicting highly variable sales data.
+
+Enhanced Data Understanding:
+Through comprehensive exploratory data analysis, the project will uncover key business insights such as temporal sales patterns, customer purchasing behaviours, and product performance disparities, enabling data-driven decision-making.
+
+Creation of an Optimised Feature Set:
+The feature engineering process expands the dataset from 12 to 28 features, incorporating temporal, behavioural, pricing, and recency indicators, which enhances model predictive power.
+
+Reliable Sales Forecasts for Business Planning:
+By providing forecasts at different horizons (1-week, 4-week, and 12-week), the models will support operational decisions such as inventory management and promotions, as well as long-term strategic planning.
+
+Democratisation of Predictive Analytics:
+The project contributes a scalable and automated analytics framework, making advanced forecasting tools accessible to individual distributors who typically lack technical expertise or resources for such capabilities.
 - [Any intended publications or implementations.]
 
-*For inquiries, contact: [your.email@utm.my]*
+*For inquiries, contact: [sivarajan.email@utm.my]*
 
  
 
