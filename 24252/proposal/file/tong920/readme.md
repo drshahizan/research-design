@@ -33,7 +33,7 @@
 |  5.  | Chapter 4 | <a href="c4/Chapter 4-WANGTONG-MCS241052.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="c5/Chapter 5-WANGTONG-MCS241052.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="all/Thesis—WANG TONG—MCS241052.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="code/All.ipynb"><img src="img/python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
