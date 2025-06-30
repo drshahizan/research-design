@@ -33,7 +33,7 @@
 |  5.  | Chapter 4 | <a href="c4/Chapter4.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="c5/Chapter5.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Full Chapter/Complete Chapter.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href=""><img src="img/python_icon.png" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="https://colab.research.google.com/drive/1OW5wYhkTFzti2u4EsF4ofItfms9eh4bf"><img src="img/python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
