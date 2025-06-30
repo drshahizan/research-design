@@ -45,11 +45,15 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+[This study explores the predictive power of Twitter sentiment on Ethereum (ETH) price dynamics using advanced natural language processing (NLP) and machine learning techniques. Given the growing influence of social media in financial markets, especially among cryptocurrency traders, the research focuses on extracting and analyzing sentiment signals from English-language tweets mentioning Ethereum. A multimodal methodology is employed, combining lexicon-based tools (e.g., VADER), domain-specific models (e.g., FinBERT and CryptoBERT), and visual sentiment features such as emojis and GIFs. Sentiment scores are aligned with Ethereum market data—price, volume, and volatility—over a six-month period. Deep learning models, including LSTM, GRU, and hybrid architectures, are trained to forecast ETH market movements. To enhance transparency and real-world applicability, the study integrates explainable AI (XAI) tools like SHAP and attention visualization. Preliminary findings reveal that aggregated sentiment—especially from influential users—correlates strongly with ETH price direction and volatility, with lagged sentiment signals showing short-term predictive power. Furthermore, emotion clustering and multimodal sentiment enhance the accuracy of forecasting models, capturing meme-driven and speculative behaviors often missed by traditional financial metrics. This research contributes a replicable framework for crypto-financial sentiment modeling, offering insights for traders, analysts, and DeFi platforms aiming to leverage real-time social media intelligence in high-volatility markets.]
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+[	1.	Sentiment Analysis
+	2.	Ethereum (ETH)
+	3.	Twitter Data
+	4.	Machine Learning
+	5.	Multimodal Forecasting]
 
 ## Research Objectives
 
