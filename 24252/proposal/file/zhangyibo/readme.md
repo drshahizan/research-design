@@ -27,11 +27,11 @@
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1.  | Proposal | <a href="proposal/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="c1/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="c2/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="c3/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="c4/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="c5/"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="c1/Chapter1.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="c2/Chapter2.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="c3/Chapter3.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="c4/Chapter4.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="c5/Chapter5.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="all/Thesis_Zhang Yibo.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
 
