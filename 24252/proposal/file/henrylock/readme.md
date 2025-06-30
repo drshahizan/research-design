@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-# [Prediction of Health Expenditure in Malaysia Using Machine Learning]
+# Prediction of Health Expenditure in Malaysia Using Machine Learning
 
 ## Files
 
