@@ -33,7 +33,7 @@
 |  5.  | Chapter 4 | <a href="Chapter 4/Chapter 4_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="Chapter 5/Chapter 5_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Complete Chapter/All Chapter_Sivarajan_MCS241051_Sales Forecasting.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="https://colab.research.google.com/drive/1NDth3JyaGmjaOfgoANX7oWg6k8d0j-RO#scrollTo=kJYbBPuyQBQx=sharing"><img src="python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
