@@ -28,11 +28,11 @@
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
 |  1.  | Proposal | <a href="proposal/"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 |<a href="Chapter 1/Chapter 1_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a>|
-|  3.  | Chapter 2 | <a href="Chapter 1/Chapter2_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="Chapter 1/Chapter3_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <<a href="Chapter 1/Chapter 4_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="Chapter 1/Chapter 5_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="All Chapter_Sivarajan_MCS241051_Sales Forecasting.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="Chapter 2/Chapter2_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="Chapter 3/Chapter3_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <<a href="Chapter 4/Chapter 4_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="Chapter 5/Chapter 5_Sivarajan_MCS241051.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Complete Chapter/All Chapter_Sivarajan_MCS241051_Sales Forecasting.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
 |  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
 
 
