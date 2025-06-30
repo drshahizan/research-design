@@ -26,7 +26,7 @@
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="proposal/"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="Proposal/GAO_JINGKAI.pdf"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 | <a href="Chapter1/Chapter1_GaoJingkai.pdf"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="Chapter2/Chapter2_GaoJingkai.pdf"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href="Chapter3/Chapter3_GaoJingkai.pdf"><img src="Img/pdf.svg" width="24px" height="24px"></a> |
