@@ -26,8 +26,8 @@
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="proposal/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="c1/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="https://github.com/drshahizan/research-design/tree/main/24252/proposal/file/zqwangutm/Proposal"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="https://github.com/drshahizan/research-design/tree/main/24252/proposal/file/zqwangutm/Chapter1"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
 |  3.  | Chapter 2 | <a href="c2/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
 |  4.  | Chapter 3 | <a href="c3/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
 |  5.  | Chapter 4 | <a href="c4/"><img src="../../file/drshahizan/img/pdf.svg" width="24px" height="24px"></a> |
