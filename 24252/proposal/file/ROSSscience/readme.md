@@ -15,12 +15,12 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[Your Name]</td>
-    <td>[Your Matric Number]</td>
+    <td>Cui Zhiwen</td>
+    <td>MSC241040</td>
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# DeepPhish-X: Multi-Modal Feature Engineering for Phishing Detection Using Hybrid Models of Computer Vision, Natural Language Processing, and Graph Neural Networks
 
 ## Files
 
