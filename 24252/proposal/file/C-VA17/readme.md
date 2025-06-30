@@ -122,9 +122,9 @@ By providing forecasts at different horizons (1-week, 4-week, and 12-week), the 
 
 Democratisation of Predictive Analytics:
 The project contributes a scalable and automated analytics framework, making advanced forecasting tools accessible to individual distributors who typically lack technical expertise or resources for such capabilities.
-- [Any intended publications or implementations.]
 
-*For inquiries, contact: [sivarajan.email@utm.my]*
+
+*For inquiries, contact: [sivarajan@graduate.utm.my]*
 
  
 
