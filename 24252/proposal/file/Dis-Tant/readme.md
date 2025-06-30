@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 <p align="center">
-  <img height="300px" src="GAO JINGKAI Photo with white.jpg" alt="Profile Image">
+  <img height="300px" src="Img/GAO JINGKAI Photo with white.jpg" alt="Profile Image">
 </p>
 
 <table align="center">
