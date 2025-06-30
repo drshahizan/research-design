@@ -20,8 +20,7 @@
   </tr>
 </table>
 
-# [Sentiment Analysis of Ethereum (ETH) on X: Insights from Social Media Trends![image](https://github.com/user-attachments/assets/b8d6f071-85dc-460a-8a06-9ec40a1b1121)
-]
+# [Sentiment Analysis of Ethereum (ETH) on X: Insights from Social Media Trends!]
 
 ## Files
 
@@ -54,31 +53,33 @@
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. [Use Natural Language Processing (NLP) tools to conduct sentiment analysis]
+2. [Compile tweets about Ethereum over a predetermined period of time. ]
+3. [Establish a correlation between sentiment scores and trading volumes and ETH price changes. ]
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+- [Only looked at Ethereum-related data from Twitter.]
+- [Classify sentiment in English-language tweets.]
 
 ## Methodology
 
 1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+   - [Through the Twitter Streaming API (v2)]
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+   - [VADER (Valence Aware Dictionary and sEntiment Reasoner) ]
+   - [FinBERT] 
+
 
 3. **Validation:**
-   - [State how you validate your findings.]
+   - [Use evaluation indicators such as MAE, Accuracy, F1, AUC, etc.]
 
 ## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
+- [Importance of Data Cleaning: Effective data preprocessing, including cleaning and tokenization, significantly improves the quality of sentiment data. Without proper cleaning, noise in the data can lead to misleading sentiment classification.]
+- [Model Selection: VADER combined with FinBERT and CryptoBERT provides a powerful sentiment classification system that addresses the unique challenges of cryptocurrency languages.]
 
-*For inquiries, contact: [your.email@utm.my]*
+*For inquiries, contact: [sunyihui@graduate.utm.my]*
 
  
 
