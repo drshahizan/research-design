@@ -42,7 +42,7 @@
 | 25 | Mira Edora Binti Yunos| Forecasting AIRASIA's Profitability Based on Fuel Price Trends using ARIMA and XGBoost|<a href="file/MiraEl7"><img src="../../images/folder.png" width="24px" height="24px"></a> |<a href="file/MiraEl7/Full chapter/Template Slide(1).pptx"><img src="../../images/powerpoint.svg" width="24px" height="24px"></a> | <a href="https://www.youtube.com/watch?v=sfuBBFJsr8Y"> <img src="../../images/youtube.png" width="30px" height="30px"></a>
 | 26 | Sun Yihui| Sentiment Analysis of Ethereum (ETH) on Twitter: Insights from Social Media Trends |<a href="file/JasonSun-UTM"><img src="../../images/folder.png" width="24px" height="24px"></a> |
 | 27 | Yi Xindie| Analysis of California's Decadal Wildfires: The Construction of Risk Management Models |<a href="file/YIXINDIE"><img src="../../images/folder.png" width="24px" height="24px"></a> |<a href="file/YIXINDIE/ppt.pdf"><img src="../../images/powerpoint.svg" width="24px" height="24px"></a>| <a href="https://youtu.be/eKFOjt2u7dM"><img src="../../images/youtube.png" width="30px" height="30px"></a> |
-| 28 | Zhang Yibo | Comparison of classic machine learning models in diabetes prediction |<a href="file/zhangyibo"><img src="../../images/folder.png" width="24px" height="24px"></a> |
+| 28 | Zhang Yibo | Comparison of classic machine learning models in diabetes prediction |<a href="file/zhangyibo"><img src="../../images/folder.png" width="24px" height="24px"></a> |<a href="file/Slides_Zhang.pptx"><img src="../../images/powerpoint.svg" width="24px" height="24px"></a>|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
