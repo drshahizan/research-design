@@ -15,12 +15,12 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[Your Name]</td>
-    <td>[Your Matric Number]</td>
+    <td>Gao Jingkai</td>
+    <td>MCS241032</td>
   </tr>
 </table>
 
-# [Insert Project Title Here]
+# An Interpretable BERT-Based Sentiment Classification with Metadata Fusion for Yelp Reviews
 
 ## Files
 
