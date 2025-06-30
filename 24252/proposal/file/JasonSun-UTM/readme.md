@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>[SUN YIHUI]</td>
-    <td>[MCS41024]</td>
+    <td>[MCS241024]</td>
   </tr>
 </table>
 
