@@ -12,11 +12,11 @@
 <table align="center">
   <tr>
     <th>Name</th>
-    <th>MCS241044</th>
+    <th>Matric No.</th>
   </tr>
   <tr>
     <td>Zhang Yibo</td>
-    <td>[Your Matric Number]</td>
+    <td>MCS241044</td>
   </tr>
 </table>
 
