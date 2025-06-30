@@ -45,7 +45,9 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+[ 
+The purpose of this study is to develop and evaluate sales forecasting models for the direct selling business using transactional data from an Amway distributor in Malaysia. This study aims to assist independent distributors in improving inventory planning, target setting, and strategic decision-making by implementing data-driven forecasting approaches. The dataset comprised 553,542 sales transactions spanning from April 2023 to April 2025, covering detailed customer demographics, product sales, and transaction-level information. Data preprocessing included cleaning, outlier detection, and extensive feature engineering to create meaningful predictors such as temporal features, customer loyalty metrics, pricing indicators, and purchase recency measures. Four forecasting models were implemented and compared: Long Short-Term Memory (LSTM) neural networks, Random Forest, Linear Regression, and ARIMA. The results revealed that although LSTM, Random Forest, and Linear Regression models achieved high R² scores of 0.964, their high MAPE of 52.68% limited their practical utility for business forecasting. In contrast, ARIMA showed poor overall performance with a negative R² but paradoxically achieved 100% custom accuracy within the defined criteria. Overall, the findings highlight the need for careful model selection, robust evaluation frameworks, and further optimization to achieve reliable sales forecasting in direct selling businesses. This research provides valuable insights for distributors and contributes to advancing predictive analytics applications in the direct selling sector.
+]
 
 ## Keywords
 
