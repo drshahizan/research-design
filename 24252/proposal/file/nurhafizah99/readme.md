@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-
+#  Forecasting Malaysian Rice Production Using Historical Climate Data and Machine Learning
 
 ## Files
 
@@ -45,8 +45,73 @@
 - [Expected Outcomes](#expected-outcomes)
 
 
+---
 
-*For inquiries, contact: @graduate.utm.my*
+## Abstract
+
+Accurate forecasting of rice production is vital for ensuring food security and supporting agricultural planning in Malaysia. This project integrates historical agricultural data with climate variables (precipitation, temperature, solar radiation, etc.) to develop and evaluate predictive models. The study implements three regression-based machine learning models—Random Forest Regressor, Support Vector Regression (SVR), and Long Short-Term Memory (LSTM)—to identify the most effective approach for yield forecasting. Results indicate that the LSTM model outperforms others in capturing temporal dependencies and predictive accuracy.
+
+---
+
+## Research Objectives
+
+- Analyze historical rice production and climate trend data across Malaysian states.
+- Identify which climate factors significantly impact rice yield.
+- Develop machine learning models (Random Forest, SVR, LSTM) for rice production forecasting.
+- Evaluate and compare model performance using regression metrics such as MSE, RMSE, and R².
+
+---
+
+## Scope of Work
+
+- **Geographical Focus:** Rice-producing states across Malaysia
+- **Timeframe:** Monthly data from 2017–2022
+- **Datasets:**
+  - **Crop Production:** Department of Statistics Malaysia (DOSM)
+  - **Climate Data:** NASA POWER
+- **Variables:**
+  - Climate: precipitation, temperature, humidity, solar radiation, wind speed
+  - Agriculture: planted area, yield, lag features, seasonal time markers
+- **Limitations:**
+  - Excludes socio-economic and on-farm practices
+  - Model generalizability limited to rice production
+---
+
+## Methodology
+
+### Tools & Technologies
+- Python 3.11
+- Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `TensorFlow/Keras`
+- Platform: Google Colab Pro (GPU-enabled)
+
+### Process Workflow
+1. **Data Collection**
+   - DOSM crop data + NASA climate data
+2. **Preprocessing**
+   - Cleaning, merging, temporal disaggregation
+   - Feature engineering (lagged values, time indicators)
+   - Feature scaling for SVR and LSTM
+3. **Model Development**
+   - Random Forest, SVR, and LSTM
+   - Chronological train-test split (80:20)
+4. **Evaluation Metrics**
+   - Mean Squared Error (MSE)
+   - Root Mean Squared Error (RMSE)
+   - R-squared (R²)
+
+---
+
+## Expected Outcomes
+
+- A working predictive pipeline to forecast monthly rice yields using ML.
+- Identification of key climate predictors affecting rice production in Malaysia.
+- A comparative analysis of ML model performance in agricultural forecasting.
+- A potential basis for developing real-time decision support tools in precision agriculture.
+
+---
+
+
+*For inquiries, contact: nurhafizah99@graduate.utm.my*
 
  
 
