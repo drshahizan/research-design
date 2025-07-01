@@ -25,7 +25,7 @@
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="Proposal/MCST1043 Proposal Form_MiraEdoraYunos"><img src="pdf1.svg" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="Proposal/MCST1043 Proposal Form_MiraEdoraYunos.pdf"><img src="pdf1.svg" width="24px" height="24px"></a> |
 |  2.  | Chapter 1 | <a href="Chapter 1/Chapter1_MiraEdoraYunos.pdf"><img src="pdf1.svg" width="24px" height="24px"></a>|
 |  3.  | Chapter 2 | <a href="Chapter 2/Chapter2_MiraEdoraYunos.pdf"><img src="pdf1.svg" width="24px" height="24px"></a>|
 |  4.  | Chapter 3 | <a href="Chapter 3/Chapter3_MiraEdoraYunos.pdf"><img src="pdf1.svg" width="24px" height="24px"></a>|
