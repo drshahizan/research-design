@@ -78,7 +78,7 @@ Customer Churn, E-Commerce, Imbalanced Dataset, Feature Engineering, Machine Lea
 2. **Data Analysis:**
    - Data Preprocessing Techniques: Handling Missing Values, Duplicate Removal, Outlier Detection
    - Feature Engineering Techniques: Categorical Encoding and Derived Feature Creation
-   - Exploratory Data Analysis (EDA): Univariate Analysis and Bivariate Analysis
+   - Exploratory Data Analysis (EDA): Univariate Analysis, Bivariate Analysis, and Multivariate Analysis
    - Experimental Machine Learning Algorithms: Logistic Regression, Random Forest, Random Forest + SMOTE, XGBoost
    - Model Optimization: Hyperparameter Tuning
    - Performance Metrics: Accuracy Score, Precision Score, Recall Score, F1-Score, ROC-AUC Score
