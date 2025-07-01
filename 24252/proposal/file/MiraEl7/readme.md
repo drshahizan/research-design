@@ -32,7 +32,7 @@
 |  5.  | Chapter 4 | <a href="Chapter 4/Chapter4_MiraEdoraYunos.pdf"><img src="pdf1.svg" width="24px" height="24px"></a>|
 |  6.  | Chapter 5 | <a href="Chapter 5/Chapter5_MiraEdoraYunos.pdf"><img src="pdf1.svg" width="24px" height="24px"></a>|
 |  7.  | Complete Chapter | <a href="Full chapter/Thesis_MiraEdoraYunos.pdf"><img src="pdf1.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="(https://colab.research.google.com/drive/1dLuX0X9tGC56fMI-QTyfcpnNlmQQ84LD?usp=sharing)"><img src="python_icon.png" width="24px" height="24px"></a> |
+|  8.  | Code |  <a href="https://colab.research.google.com/drive/1dLuX0X9tGC56fMI-QTyfcpnNlmQQ84LD?usp=sharing"><img src="python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
