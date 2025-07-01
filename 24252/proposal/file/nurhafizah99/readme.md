@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img height="300px" src="pic" alt="Profile Image">
+  <img height="300px" src="Hafizah_pic.jpeg" alt="Profile Image">
 </p>
 
 <table align="center">
