@@ -54,13 +54,23 @@ Course evaluation; Text mining; Sentiment analysis; Machine learning
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. Carry out preprocessing and extract sentiment features by means of natural language processing techniques.
+
+2. Construct satisfaction prediction models through the utilization of machine learning (such as random forests and long short-term memory networks).
+
+3. Employ SHAP and LIME to identify the key influencing factors.
+
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+(a)	Choose the student teaching evaluation data from public educational evaluation platforms (e.g., RateMyProfessor), encompassing structured data (quantitative indicators such as course ratings, teacher ratings, and course difficulty) and unstructured data (students' textual comments on courses and teachers).
+
+(b)	Eliminate missing values and outliers in the collected initial data to guarantee the quality and reliability of the data.
+
+(c)	Adopt conventional natural language processing approaches, including word segmentation, stop word removal, and word vector representations (e.g., TF- IDF), and carry out three-class sentiment analysis (positive, neutral, negative).
+
+(d)	For the modeling section, traditional machine learning algorithms such as random forest and deep learning methods like LSTM will be utilized to control computational resources.
+
+(e)	Incorporate interpretability tools such as SHAP and LIME to identify the key factors influencing satisfaction prediction, with an emphasis on explaining the top five major features.
 
 ## Methodology
 
