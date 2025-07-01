@@ -15,8 +15,8 @@
     <th>Matric No.</th>
   </tr>
   <tr>
-    <td>[LI XINYA]</td>
-    <td>[MCS241029)
+    <td>LI XINYA</td>
+    <td>MCS241029
 ]</td>
   </tr>
 </table>
