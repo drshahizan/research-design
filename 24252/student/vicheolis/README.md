@@ -1,5 +1,10 @@
 # Hey there, I'm Aina! 🌟
 
+<p align="center">
+  <img height="300px" src="AinaF_pic.jpeg" alt="Profile Image">
+</p>
+
+
 ## 🎯 About Me
 
 Hello! I'm **Aina**, a curious mind diving into the world of **Data Science** with a background in **Applied Mathematics**. Currently, I'm on a journey to master **machine learning, data analysis, and everything in between** at **UTM**. 
