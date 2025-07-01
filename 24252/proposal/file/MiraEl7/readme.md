@@ -44,39 +44,43 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+This thesis focuses on forecasting AirAsia’s profitability in response to fuel price trends using a hybrid approach that combines ARIMA for univariate time series analysis and XGBoost for Multivariate machine learning modeling. This approach is employed to enhance forecasting accuracy and deliver actionable insights for financial planning and informed strategic decision-making in the airline industry. The dataset used spans a minimum of 3–5 years, contains between 500,000 and 1,000,000 records, and includes at least 5–7 key variables, such as fuel prices, revenue, operating costs, and passenger demand, ensuring it is comprehensive yet manageable in terms of size and complexity. Data preprocessing steps such as handling missing values, outlier detection, normalization, and feature engineering, including lagged features, rolling averages, and Seasonal indicators, are applied to enrich the datasets and enhance model performance. The study also examines the relationship between fuel price volatility and profitability, emphasizing the importance of combining time series decomposition and exploratory data analysis (EDA) to identify meaningful patterns and trends. Ultimately, the research contributes to advancing the application of machine learning and time series analysis in aviation finance, offering a framework that supports cost management, risk mitigation, and strategic planning in an economically volatile environment.
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+Fuel Price Volatility, AirAsia Profitability Forecasting, ARIMA Time Series Model, XGBoost Machine Learning, Hybrid Predictive Modeling
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. To develop and apply an ARIMA model to forecast fuel price trends over time.
+2. To utilize XGBoost to model the nonlinear relationships between fuel prices and AirAsia’s profitability.
+3. To integrate both models into a hybrid framework to improve the accuracy of financial
+forecasting.
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+-The project focuses on forecasting the profitability of AirAsia based on fuel price
+trends in Malaysia.
+-Historical data on fuel prices and AirAsia’s financial performance will be utilized,
+primarily from open data platforms or official reports.
+-The study applies ARIMA for time series analysis and XGBoost for structured data
+modeling, combining them into a hybrid forecasting model.
 
 ## Methodology
 
 1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+   - The data for this study was collected from AirAsia’s quarterly financial reports (2021–2024), which were obtained from the official Bursa Malaysia website. These reports provided key financial indicators, including revenue, net profit or loss, fuel costs, and operating expenses. Additionally, historical fuel price data were retrieved from publicly available Kaggle datasets. The combined dataset, formatted in CSV, served as the foundation for developing the forecasting models using ARIMA and XGBoost.
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+   - Data analysis was conducted using Python, with libraries such as Pandas, NumPy, Matplotlib, and Seaborn for exploratory data analysis (EDA) and visualization. Techniques like time series decomposition, correlation analysis, and feature engineering (e.g., lagged values, moving averages, seasonal indicators) were applied to understand trends and patterns in fuel prices and AirAsia’s financial performance. The processed data was then used to train and evaluate ARIMA for linear time series forecasting and XGBoost for capturing nonlinear relationships.
 
 3. **Validation:**
-   - [State how you validate your findings.]
+   - Model validation was conducted using standard performance metrics, including Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), to assess forecasting accuracy. The dataset was split into training and testing sets to determine how well the models generalized to unseen data. Additionally, a confusion matrix and classification report were used to validate the XGBoost model’s ability to classify profit and loss cases, ensuring the reliability of predictions in the presence of fluctuating fuel prices.
 
 ## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
+- This project is expected to produce a robust hybrid forecasting model that accurately predicts AirAsia’s profitability based on fuel price trends by integrating ARIMA and XGBoost. The findings aim to provide valuable insights into how fuel volatility impacts airline financial performance, supporting more informed strategic planning and risk mitigation. The model can serve as a practical decision-support tool for financial analysts and airline stakeholders. Additionally, the results may contribute to academic research on hybrid forecasting techniques, with the potential for publication in journals related to aviation management or data science.
 
-*For inquiries, contact: [your.email@utm.my]*
+*For inquiries, contact: miraedora@graduate.utm.my*
 
  
 
