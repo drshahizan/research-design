@@ -27,14 +27,14 @@
 
 | No  | Chapter     |                                                 File |
 | :-: | ---------- | :---------------------------------------------------------------------------------------------------: |
-|  1.  | Proposal | <a href="Proposal/Proposal_Nur Aina Farraain.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  2.  | Chapter 1 | <a href="Chapter 1/Chapter 1_Aina.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  3.  | Chapter 2 | <a href="Chapter 2/Chapter 2_Aina.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  4.  | Chapter 3 | <a href="Chapter 3/Chapter 3_Aina.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  5.  | Chapter 4 | <a href="Chapter 4/Chapter 4_Aina.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  6.  | Chapter 5 | <a href="Chapter 5/Chapter 5_Aina.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  7.  | Complete Chapter | <a href="Complete Chapter/Thesis_Nur Aina Farraain.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="https://colab.research.google.com/drive/1zUULmxa8SJ7ftF8JSOjj7o0hUDwyIcK0?usp=sharing"><img src="python_icon.png" width="24px" height="24px"></a> |
+|  1.  | Proposal | <a href="Proposal_Nurhafizah.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  2.  | Chapter 1 | <a href="c1/Chapter1_Nurhafizah.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  3.  | Chapter 2 | <a href="c2/Chapter2_Nurhafizah.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  4.  | Chapter 3 | <a href="c3/Chapter3_Nurhafizah.docx.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  5.  | Chapter 4 | <a href="c4/Chapter4_Nurhafizah.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  6.  | Chapter 5 | <a href="c5/Chapter5_Nurhafizah.docx.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  7.  | Complete Chapter | <a href="Full Chapter/Thesis_Nurhafizah.pdf"><img src="pdf.svg" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="https://drive.google.com/file/d/1cRMujVyW5QdTYqfL-ZxEkzaNHt7XCYtX/view?usp=sharing"><img src="python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
