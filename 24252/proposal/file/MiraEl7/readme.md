@@ -78,7 +78,7 @@ modeling, combining them into a hybrid forecasting model.
 
 ## Expected Outcomes
 
-- This project is expected to produce a robust hybrid forecasting model that accurately predicts AirAsia’s profitability based on fuel price trends by integrating ARIMA and XGBoost. The findings aim to provide valuable insights into how fuel volatility impacts airline financial performance, supporting more informed strategic planning and risk mitigation. The model can serve as a practical decision-support tool for financial analysts and airline stakeholders. Additionally, the results may contribute to academic research on hybrid forecasting techniques, with the potential for publication in journals related to aviation management or data science.
+This project aims to develop a robust hybrid forecasting model that accurately predicts AirAsia’s profitability based on fuel price trends by integrating ARIMA and XGBoost. The findings aim to provide valuable insights into how fuel volatility impacts airline financial performance, supporting more informed strategic planning and risk mitigation. The model can serve as a practical decision-support tool for financial analysts and airline stakeholders. Additionally, the results may contribute to academic research on hybrid forecasting techniques, with the potential for publication in journals related to aviation management or data science.
 
 *For inquiries, contact: miraedora@graduate.utm.my*
 
