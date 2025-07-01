@@ -33,7 +33,7 @@
 |  5.  | Chapter 4 | <a href="c4/Chapter4_CuiZhiwen.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="c5/Chapter5_CuiZhiwen.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="all/Thesis_CuiZhiwen1.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="code"><img src="img/python_icon.png" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="code/0622.zip"><img src="img/python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
@@ -45,39 +45,44 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+[This introduces DeepPhishX, a multimodal deep learning system specifically designed to detect phishing web pages, a task that is critical in the field of cybersecurity and data protection. Traditional methods rely mainly on URL feature analysis, but they cannot effectively identify the multi-layered logic of advanced phishing attacks. To this end, DeepPhishX innovatively combines URL& feature analysis with HTML DOM graph structure modeling and uses a variety of model fusion methods such as Graph Convolutional Network (GCN), Character-level Convolutional Neural Network (CNN), and Word Sequence Transformer to achieve in-depth analysis of the structure and content of phishing web pages.
+We rigorously evaluated DeepPhishX on a dataset that covers real-world web page data (HTML DOM graphs and URLs, totaling more than 80 million nodes/edges) from 2012 to 2024. The experimental results show that compared with the current state-of-the-art methods, DeepPhishX improves the classification accuracy by 7.03 percentage points, and the ablation experiment also shows that each feature module has a significant contribution to the performance. These results verify the effectiveness of hybrid deep learning in combining DOM structure and URL features and prove that DeepPhishX can provide a more accurate and comprehensive solution for identifying malicious web pages.]
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+[eepPhish‑X、Phishing Detection、Multimodal Deep Learning、Graph Convolutional Network (GCN)、Convolutional Neural Network (CNN)
+Transformer、URL Analysis、HTML DOM Graph、Adversarial Robustness.]
 
 ## Research Objectives
 
-1. [Insert objective 1]
-2. [Insert objective 2]
-3. [Insert objective 3]
+1. [Build a hybrid deep-learning model that fuses CNN, Transformer, and GCN to analyze URL and webpage structures.]
+2. [Boost phishing detection by improving accuracy by ~7% and ensuring robustness against adversarial attacks.]
+3. [Scale validation using a large real-world dataset (2012–2024, 80M+ nodes/edges) with thorough experiments.]
 
 ## Scope of Work
-- [List the components included in your project scope.]
-- [Mention anything that is out of the project scope.]
+- [Data Collection & Preprocessing]
+- [Gather URLs and DOMs (2012–2024, ~80M nodes/edges).]
+- [Encode URLs (ASCII matrix + token sequences) and parse DOMs into graphs.]
 
 ## Methodology
 
 1. **Data Collection:**
-   - [Explain how and where you collect your data.]
+   - [We gathered URLs and HTML data from reputable phishing repositories such as PhishTank and OpenPhish, and benign websites from sources like the University of New Brunswick benign URL dataset]
 
 2. **Data Analysis:**
-   - [Mention techniques and tools used for analysis.]
+   - [We applied feature extraction on three modalities: (a) character-level URL matrices for CNN; (b) tokenized URL sequences for Transformer models; (c) DOM-tree graphs parsed from HTML for GCN processing, leveraging network libraries and custom scripts.]
 
 3. **Validation:**
-   - [State how you validate your findings.]
+   - [Model performance was validated using k-fold cross-validation (k=10), and metrics such as accuracy, precision, recall, and F1-score were reported. We also conducted ablation studies and adversarial tests.]
 
 ## Expected Outcomes
 
-- [Describe the expected results or contributions of your project.]
-- [Any intended publications or implementations.]
-
-*For inquiries, contact: [your.email@utm.my]*
+- [Improved Detection Performance
+Demonstrate a significant boost in phishing detection accuracy—targeting +7% improvement over current state-of-the-art—by integrating multimodal features and ensemble learning models.
+]
+-[A Validated, Open-Source Dataset & Framework
+Release a comprehensive benchmark dataset (URLs + DOM graphs) and publish the DeepPhish‑X implementation for community use and reproducibility.]
+*For inquiries, contact: [cuizhiwen@graduate.utm.my]*
 
  
 
