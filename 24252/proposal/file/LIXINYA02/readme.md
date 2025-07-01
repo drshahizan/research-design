@@ -17,7 +17,7 @@
   <tr>
     <td>LI XINYA</td>
     <td>MCS241029
-]</td>
+</td>
   </tr>
 </table>
 
