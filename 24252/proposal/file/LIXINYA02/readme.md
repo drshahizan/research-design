@@ -46,11 +46,11 @@
 
 ## Abstract
 
-[Insert your project abstract here. Summarize the purpose, methodology, findings, and significance of your research in 200–300 words.]
+This study is based on the student course evaluation data from the RateMyProfessor platform, integrating structured ratings and text comments. By applying natural language processing and machine learning methods, a course satisfaction prediction model is constructed. Through data cleaning, feature fusion, and model training, the results show that the fusion of features significantly improves the prediction performance, with the LSTM model achieving the highest accuracy. The study also uses SHAP and LIME methods to analyze feature importance and explain the model results. This research provides a scientific, personalized, and interpretable intelligent analysis tool for higher education teaching evaluation, contributing to the improvement and optimization of teaching quality management.
 
 ## Keywords
 
-[Insert keywords separated by commas.]
+Course evaluation; Text mining; Sentiment analysis; Machine learning
 
 ## Research Objectives
 
