@@ -34,7 +34,7 @@
 |  5.  | Chapter 4 | <a href="c4/Chapter4_LI XINYA.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="c5/Chapter5_LI XINYA.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="Full Chapter/All Chapters LIXINYA.pdf"><img src="img/pdf.svg" width="24px" height="24px"></a> |
-|  8.  | Code | <a href="[code](https://colab.research.google.com/drive/18pZmO_Z62Yqf4o0Sf4niZT4-TQHxWJWW?usp=sharing)"><img src="img/python_icon.png" width="24px" height="24px"></a> |
+|  8.  | Code | <a href="https://colab.research.google.com/drive/18pZmO_Z62Yqf4o0Sf4niZT4-TQHxWJWW?usp=sharing"><img src="img/python_icon.png" width="24px" height="24px"></a> |
 
 
 ## Table of Contents
