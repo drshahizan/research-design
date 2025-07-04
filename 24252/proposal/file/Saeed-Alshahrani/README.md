@@ -45,7 +45,11 @@ machine learning, NLP, Saudi Arabia, job market, skills demand, AI, cybersecurit
 2. Analyze trends over time and across sectors.  
 3. Compare university-taught skills with industry requirements.  
 4. Propose actionable recommendations to bridge the gap.
+## 📥 Download Presentation
 
+🔗 [Click here to view/download PowerPoint presentation](https://docs.google.com/presentation/d/1w5Q0mJ_CFtLJIpcpQRPl_KITleew_8wp/view)
+
+> 💡 This presentation is hosted on Google Drive and publicly accessible.
 ---
 
 ## 📌 Scope of Work  
