@@ -11,6 +11,8 @@
 ## 📖 Course Synopsis
 This course covers the fundamental steps and implementation of developing initial ideas into formal academic writing. Students will learn mechanisms to transform and digest literature reviews leading to a proposed title. The theoretical and practical aspects of drafting a project proposal will be the course milestone, emphasizing ordered, critical, and reasoned exposition of knowledge through student efforts.
 
+## [Carry marks](https://github.com/drshahizan/research-design/blob/main/images/carrymarks%20RD%2024252.pdf)
+
 ## 🔥 Important Things
 Stay organized and well-prepared for the course by accessing the essential resources below. These materials will help you navigate the course efficiently and maximize your learning experience.  
 
